@@ -1,5 +1,29 @@
 # Web Development Workshop
 
+In this unit students will explore the fundamental concepts and skills of design, development, project management and content management for Web projects.
+
+This includes:
+
+* **project management** basics: listing and prioritising tasks, tracking and evaluating progress, getting things done
+* inspecting and debugging Web pages
+* HTML 
+* CSS
+* Javascript
+* PHP
+* responsive design
+* CMS systems, such as WordPress
+
+Each student will *iteratively* design and build an individual Web project, saving snapshots of it and reflectively blogging about the development process as part of their final assessable evidence, in order to practice and demonstrate design and coding skills.
+
+## Brief
+
+Make a mind map or visual diagram of something each student cares deeply about.
+Refine that concept by focusing on a on a single aspect of it: a word or phrase.
+Design a responsive, interactive website representing the concept, using text, images, and possibly video you found online under appropriate licensing.
+Choose an appropriate colour scheme, layout and typography.
+Make a responsive mobile (small-screen) version.
+Demonstrate how JavaScript can be used to automatically update the layout and respond to mouse or touch events.
+
 ## Week 1
 
 ##### Monday 5th January 2015
@@ -102,3 +126,13 @@ PHP
 ##### Thursday 11th June 2015
 
 Summative Workshops
+
+
+
+
+- [ ] [Free tool to compress images for the Web](https://compressor.io)
+- [ ] [Speaking in public](http://speaking.io/)
+- [ ] [gettingthingsdone.com](http://gettingthingsdone.com/)
+- [ ] [Initializr](http://www.initializr.com/)
+- [ ] [WordFence protecting WP](http://www.wordfence.com/)
+- [ ] [If PHP were British](https://www.addedbytes.com/blog/if-php-were-british/)
