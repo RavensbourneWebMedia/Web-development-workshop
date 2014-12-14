@@ -136,3 +136,6 @@ Summative Workshops
 - [ ] [Initializr](http://www.initializr.com/)
 - [ ] [WordFence protecting WP](http://www.wordfence.com/)
 - [ ] [If PHP were British](https://www.addedbytes.com/blog/if-php-were-british/)
+- [ ] Install [Dash](http://kapeli.com/dash)
+- [ ] [Photo cliches?](https://gonebeforelong.wordpress.com/2013/05/06/cliches/)
+- [ ] [Free Web fonts](http://www.typewolf.com/free-fonts)
