@@ -1,5 +1,4 @@
-decks/.sass-cache
-decks/plugin/notes/.sass-cache
-notes/*.html
+.sass-cache
+sessions/*.html
 
 .DS_Store
