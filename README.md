@@ -1,134 +1,244 @@
 # Web Development Workshop
 
-In this unit students will explore the fundamental concepts and skills of design, development, project management and content management for Web projects.
+This unit introduces students to the concepts, methods and tools used to produce Web sites that are technically sound, aesthetically cohesive and appropriately structured.
 
 This includes:
 
+* technical overview of the **WWW**
+* structuring content with **MarkDown** and **HTML**
+* organising projects with **Git**
+* styling pages with **CSS**
+* making pages dynamic with **PHP**
+* using **WordPress** to manage online content  
+* developing **WordPress templates and themes**
+* buying a **domain** 
+* **hosting** a website
+* transferring files with **FTP**
 * **project management** basics: listing and prioritising tasks, tracking and evaluating progress, getting things done
-* inspecting and debugging Web pages
-* HTML 
-* CSS
-* Javascript
-* PHP
-* responsive design
-* CMS systems, such as WordPress
 
-Each student will *iteratively* design and build an individual Web project, saving snapshots of it and reflectively blogging about the development process as part of their final assessable evidence, in order to practice and demonstrate design and coding skills.
+Using individual practical projects, students will research, conceptualise and prototype a Web site that they chose to re-design. 
+
 
 ## Brief
 
-Make a mind map or visual diagram of something each student cares deeply about.
-Refine that concept by focusing on a on a single aspect of it: a word or phrase.
-Design a responsive, interactive website representing the concept, using text, images, and possibly video you found online under appropriate licensing.
-Choose an appropriate colour scheme, layout and typography.
-Make a responsive mobile (small-screen) version.
-Demonstrate how JavaScript can be used to automatically update the layout and respond to mouse or touch events.
+Pick one *bad* website and re-design it.
+
+Your re-designed version must 
+
+* be **online** (not just on your computer)
+* be **dynamic** (update-able via a CMS) 
+* be **responsive** (adapting to different screen sizes)
+* be **accessible** (for people with disabilities and limited devices)
+* be visually **cohesive** and coherent
+* have **appropriately structured** information
+* have a style informed by (but not necessarily following) contemporary trends
+
 
 ## Week 1
 
 ##### Monday 5th January 2015
 
-Introduction to the unit and the structure of the WWW. Introduction to and workshop on basic HTML/CSS.
+* Unit intro: plan, assessment criteria, key dates and brief
+* How does the WWW work?
+* Research one key Web concept and then explain it to your classmates
+
+##### Assignment
+
+Draw the Web!
 
 ## Week 2
 
 ##### Monday 12th January 2015
 
-Introducing a range of production tools for the creation of blogs, websites and social media including version control (git & GitHub) and online and offline text editors.  Exploring HTML structure and CSS best practices such as classes and identifiers.
+* Keeping projects tidy: MarkDown and Git
+* Sign up to GitHub, make your first commit
+* Start researching bad websites
+* Project management basics
+
+##### Assignment
+
+Present the *bad* website you chose: why is it bad? (in MD, on GitHub)
 
 ## Week 3
 
 ##### Monday 19th January 2015
 
-What to do when things go wrong? Debugging 101: Using developer tools in Firefox and Chrome. Individual project work under tutor guidance.
+* Structuring Web content: HTML
+* HTML quiz
+* Mark up the recipe for your favourite dish, using appropriate HTML tags
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 4
 
 ##### Monday 26th January 2015
 
-Basic principles of designing for the web including typography and responsive layouts for different platforms.
+* Styling Web content: CSS 1/3 (easy)	
+* CSS quiz
+* Selectors: CSS diner
+* The box model, sizes&units, positioning, colors and fonts
+* Style your recipe
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 5
 
 ##### Monday 2nd February 2015
 
-Formative assessment of projects.
-Self-directed study and group work.
+* Styling Web content: CSS 2/3 (intermediate)
+* CSS quiz
+* [Specificity](http://www.stuffandnonsense.co.uk/archives/css_specificity_wars.html): classes & ids 
+* Floats
+* Typography and grids
+* Style your recipe with grids
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 6
 
 ##### Monday 16th February 2015
 
-Introducing Javascript and the basic principles of programming. Techniques for developing JavaScript in the browser (jsfiddle) and offline.
+* Styling Web content: CSS 3/3 (responsive)	
+* CSS quiz
+* RWD: beyond media queries 
+* Animations
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 7
 
 ##### Monday 23rd February 2015
 
-More programming: making decisions in code, loops.  Using JQuery and other standard libraries. Interactive design using event callbacks and dynamic CSS.
+* Putting stuff on servers: FTP	
+* Tutorials
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 8
 
 ##### Monday 2nd March 2015
 
-Continued JavaScript basics and exercises. Introducing PHP and server-side coding continued. Rapid prototyping workshops, with tutor assistance.  Self-directed study and group work.
+* Inspecting and debugging websites
+* Tutorials
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 9
 
 ##### Monday 9th March 2015
 
-Formative Workshops
+Formative Assessment
 
+##### Assignment
+
+Note the feedback your received and draft a plan of action
 
 ## Week 10
 
 ##### Thursday 16th April 2015
 
-Drupal, Joomla! and using a CMS platform. Rapid prototyping workshops, with tutor assistance. Self-directed study and group work.
+POP (principles of programming)
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 11
 
 ##### Thursday 23rd April 2015
 
-PHP
+Programming on the server: PHP
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 12
 
 ##### Thursday 30th April 2015
 
+Managing online content with WordPress
+
+##### Assignment
+
+- [ ] TODO
+
 ## Week 13
 
 ##### Thursday 7th May 2015
 
+Understanding the WordPress loop
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 14
 
 ##### Thursday 14th May 2015
 
+Crafting WordPress templates
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 15
 
 ##### Thursday 21st May 2015
 
+Crafting WordPress themes
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 16
 
 ##### Thursday 28th May 2015
 
+* How to buy a domain and host a website
+* Tutorials
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 17
 
 ##### Thursday 4th June 2015
 
+Tutorials
+
+##### Assignment
+
+- [ ] TODO
 
 ## Week 18
 
 ##### Thursday 11th June 2015
 
-Summative Workshops
+Summative presentation and hand-in
+
+##### Assignment
+
+Fill in the unit feedback form!
 
 
 
+# TODO
 
 - [ ] [Free tool to compress images for the Web](https://compressor.io)
 - [ ] [Speaking in public](http://speaking.io/)
@@ -139,3 +249,6 @@ Summative Workshops
 - [ ] Install [Dash](http://kapeli.com/dash)
 - [ ] [Photo cliches?](https://gonebeforelong.wordpress.com/2013/05/06/cliches/)
 - [ ] [Free Web fonts](http://www.typewolf.com/free-fonts)
+- [ ] [Typography games](http://type.method.ac/)
+- [ ] Install Panda and start reading [Smashing Magazine](http://www.smashingmagazine.com/)
+- [ ] http://www.smashingmagazine.com/2010/02/09/applying-mathematics-to-web-design/
