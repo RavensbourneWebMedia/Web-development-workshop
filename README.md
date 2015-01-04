@@ -21,6 +21,7 @@ This includes:
 Using individual practical projects, you will research, conceptualise and prototype a Web site re-design. 
 
 
+
 # Brief
 
 Pick one *bad* website and re-design it.
@@ -34,6 +35,8 @@ Your re-designed version must
 * be visually **cohesive** and coherent
 * have **appropriately structured** information
 * have a style informed by (but not necessarily following) contemporary trends
+
+
 
 # Plan
 
@@ -58,12 +61,14 @@ Week	| Date			| In class				| Assignment
 [17](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-17.md)		| Thu Jun 4th	| Tutorials | Learning outcomes
 [18](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-18.md)		| **Thu Jun 11th**	| Summative presentation and hand-in | Unit feedback form
 
+
+
 # Assessment criteria
 
 Your final mark will be based on:
 
-* [75% project](https://github.com/RavensbourneWebMedia/rave-WEB14104#project)
-* [25% blog](https://github.com/RavensbourneWebMedia/rave-WEB14104#blog)
+* [75% project](https://github.com/RavensbourneWebMedia/WEB14104#project)
+* [25% blog](https://github.com/RavensbourneWebMedia/WEB14104#blog)
 
 
 ## Project
@@ -113,3 +118,29 @@ Topics from each week:
 * *More to come*
 
 Refer to the general **[Web Media blog assessment criteria](https://github.com/RavensbourneWebMedia/Blogging/blob/master/assessment-criteria.md)** for a detailed grading breakdown.
+
+
+
+# Learning goals
+
+Upon completion of this unit you will (hopefully) be able to: 
+
+* Understand conceptually how the WWW works (browsers, servers, HTTP, DNS, IP etc), as well as being comfortable with the process of buying a domain name and a hosting service.
+
+* Use **HTML** and MarkDown to structure Web content appropriately and accessibly.  
+
+* Use **CSS** to style Web pages cohesively and coherently, as well as be informed by contemporary trends. 
+
+* Upload your project files to a Web server using **FTP**. 
+
+* Make Web pages dynamic using **PHP**.
+
+* Manage online content using **WordPress**.
+
+* Modify and maintain WordPress **templates and themes**.
+
+* **Document** your design and development process, from the exploration of ideas to their practical implementation. Including *successes* and *failures*.
+
+* **Communicate** your ideas both technically and in an engaging way.
+
+* **Back-up** your project files using the Git version-control system (through GitHub).
