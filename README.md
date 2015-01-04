@@ -50,10 +50,66 @@ Week	| Date			| In class				| Assignment
 [9](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-09.md)		| **Mon Mar 9th**	| Formative Assessment | Action plan (revised)
 [10](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-10.md)		| Thu Apr 16th	| POP (principles of programming) |
 [11](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-11.md)		| Thu Apr 23rd	| PHP: programming on the server | 
-[12](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-12.md)		| Thu Apr 30th	| Managing online content with WordPress | 
-[13](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-13.md)		| Thu May 7th	| Understanding the WordPress loop | 
-[14](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-14.md)		| Thu May 14th	| Crafting WordPress templates | 
-[15](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-15.md)		| Thu May 21st	| Crafting WordPress themes | 
+[12](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-12.md)		| Thu Apr 30th	| WordPress 1/4 | 
+[13](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-13.md)		| Thu May 7th	| WordPress 2/4 | 
+[14](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-14.md)		| Thu May 14th	| WordPress 3/4 (templates) | 
+[15](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-15.md)		| Thu May 21st	| WordPress 4/4 (themes) | 
 [16](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-16.md)		| Thu May 28th	| How to buy a domain and host a website | 
 [17](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-17.md)		| Thu Jun 4th	| Tutorials | Learning outcomes
 [18](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-18.md)		| **Thu Jun 11th**	| Summative presentation and hand-in | Unit feedback form
+
+# Assessment criteria
+
+Your final mark will be based on:
+
+* [75% project](https://github.com/RavensbourneWebMedia/rave-WEB14104#project)
+* [25% blog](https://github.com/RavensbourneWebMedia/rave-WEB14104#blog)
+
+
+## Project
+
+### Components
+
+1. Mood board
+* Wireframes
+* Static HTML & CSS prototype
+* Interactive prototype (WordPress)
+
+### Grades
+
+#### F
+
+[M.I.A.](http://en.wikipedia.org/wiki/Missing_in_action) The student failed to deliver the assignment. 
+
+#### E
+
+TODO
+
+#### D
+
+TODO
+
+#### C
+
+TODO
+
+#### B
+
+TODO
+
+#### A
+
+TODO
+
+
+## Blog
+
+The blog should have at least 12 posts.
+
+Topics from each week:
+
+1. Draw the Web!
+* [What are your learning goals for this unit?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
+* *More to come*
+
+Refer to the general **[Web Media blog assessment criteria](https://github.com/RavensbourneWebMedia/Blogging/blob/master/assessment-criteria.md)** for a detailed grading breakdown.
