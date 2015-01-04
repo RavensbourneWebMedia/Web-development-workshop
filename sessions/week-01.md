@@ -1,7 +1,5 @@
 # Week 1
 
-## Today
-
 ##### Monday 5th January 2015
 
 * Unit intro: plan, assessment criteria, key dates and brief
