@@ -1,5 +1,7 @@
 # Web Development Workshop
 
+[bit.ly/WEB14104](http://bit.ly/WEB14104)
+
 This unit introduces students to the concepts, methods and tools used to produce Web sites that are technically sound, aesthetically cohesive and appropriately structured.
 
 This includes:
@@ -39,12 +41,19 @@ Your re-designed version must
 ##### Monday 5th January 2015
 
 * Unit intro: plan, assessment criteria, key dates and brief
+
+* Draw *the Web*! 
+	
+	<small>But what do you mean by *the Web*? Imagine you have to explain what the Web is to an alien, or to your grandma. You can also draw what the Web means to you, personally.. no need to make a technical drawing.</small>
 * How does the WWW work?
-* Research one key Web concept and then explain it to your classmates
+
+	Research one key Web concept and then explain it to your classmates
 
 ##### Assignment
 
-Draw the Web!
+Document your drawing of the Web on the blog (use the category WEB1404).
+
+Blog post: [what are your learning goals for this unit?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
 
 ## Week 2
 
@@ -57,7 +66,9 @@ Draw the Web!
 
 ##### Assignment
 
-Present the *bad* website you chose: why is it bad? (in MD, on GitHub)
+Present the *bad* website you chose. Why is it bad? What makes a website bad? (in MD, on GitHub) 
+
+You may also decide to analyse two or more website, and then choose the worst one later.
 
 ## Week 3
 
@@ -69,7 +80,7 @@ Present the *bad* website you chose: why is it bad? (in MD, on GitHub)
 
 ##### Assignment
 
-- [ ] TODO
+Make a (prioritised) *todo list* of how you intend to improve the bad website (in MD, on GitHub). This will become your *action plan* and we'll check against it every week.
 
 ## Week 4
 
@@ -83,7 +94,13 @@ Present the *bad* website you chose: why is it bad? (in MD, on GitHub)
 
 ##### Assignment
 
-- [ ] TODO
+- Put together a moodboard that highlights colours schemes and fonts you intend to use (or experiment with) on your website re-design.
+
+##### TODO
+
+- [ ] [Article on web design moodboards](http://www.protofuse.com/blog/how-web-design-mood-board-impacts-ux/)
+- [ ] [Style tiles](http://styletil.es/)
+
 
 ## Week 5
 
@@ -224,7 +241,7 @@ Tutorials
 
 ##### Assignment
 
-- [ ] TODO
+[What have I learned?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-did-I-learn.md)
 
 ## Week 18
 
@@ -235,20 +252,3 @@ Summative presentation and hand-in
 ##### Assignment
 
 Fill in the unit feedback form!
-
-
-
-# TODO
-
-- [ ] [Free tool to compress images for the Web](https://compressor.io)
-- [ ] [Speaking in public](http://speaking.io/)
-- [ ] [gettingthingsdone.com](http://gettingthingsdone.com/)
-- [ ] [Initializr](http://www.initializr.com/)
-- [ ] [WordFence protecting WP](http://www.wordfence.com/)
-- [ ] [If PHP were British](https://www.addedbytes.com/blog/if-php-were-british/)
-- [ ] Install [Dash](http://kapeli.com/dash)
-- [ ] [Photo cliches?](https://gonebeforelong.wordpress.com/2013/05/06/cliches/)
-- [ ] [Free Web fonts](http://www.typewolf.com/free-fonts)
-- [ ] [Typography games](http://type.method.ac/)
-- [ ] Install Panda and start reading [Smashing Magazine](http://www.smashingmagazine.com/)
-- [ ] http://www.smashingmagazine.com/2010/02/09/applying-mathematics-to-web-design/
