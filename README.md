@@ -2,7 +2,7 @@
 
 [bit.ly/WEB14104](http://bit.ly/WEB14104)
 
-This unit introduces students to the concepts, methods and tools used to produce Web sites that are technically sound, aesthetically cohesive and appropriately structured.
+This unit introduces you to the concepts, methods and tools used to produce Web sites that are technically sound, aesthetically cohesive and appropriately structured.
 
 This includes:
 
@@ -18,10 +18,10 @@ This includes:
 * transferring files with **FTP**
 * **project management** basics: listing and prioritising tasks, tracking and evaluating progress, getting things done
 
-Using individual practical projects, students will research, conceptualise and prototype a Web site that they chose to re-design. 
+Using individual practical projects, you will research, conceptualise and prototype a Web site re-design. 
 
 
-## Brief
+# Brief
 
 Pick one *bad* website and re-design it.
 
@@ -34,6 +34,12 @@ Your re-designed version must
 * be visually **cohesive** and coherent
 * have **appropriately structured** information
 * have a style informed by (but not necessarily following) contemporary trends
+
+# Plan
+
+Week	| Date	| In class				| Assignment
+-------	| -----	| --------------------	| ------------------------------
+1		| Monday 5th Jan | * Unit intro <br> * Draw the Web <br> * Research and present key Web concepts | Learning goals
 
 
 ## Week 1
