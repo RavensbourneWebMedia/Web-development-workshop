@@ -4,8 +4,6 @@ Your final mark will be based on:
 * [25% blog](https://github.com/RavensbourneWebMedia/rave-WEB14104/blob/master/assessment-criteria.md#blog)
 
 
-
-
 ## Project
 
 ### Brief
@@ -25,7 +23,10 @@ Your re-designed version must
 
 ### Components
 
-1. TODO
+1. Mood board
+* Wireframes
+* Static HTML & CSS prototype
+* Interactive prototype (WordPress)
 
 ### Grades
 
@@ -60,6 +61,8 @@ The blog should have at least 12 posts.
 
 Topics from each week:
 
-1. TODO
+1. Draw the Web!
+* [What are your learning goals for this unit?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
+* *More to come*
 
 Refer to the general **[Web Media blog assessment criteria](https://github.com/RavensbourneWebMedia/Blogging/blob/master/assessment-criteria.md)** for a detailed grading breakdown.
