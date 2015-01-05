@@ -40,7 +40,7 @@ Your re-designed version must
 
 # Plan
 
-Week	| Date			| In class				| Assignment
+Session	| Date			| In class				| Assignment
 -------	| -------------	| --------------------	| ------------------------------
 [1](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md)		| Mon Jan 5th 	| Unit intro <br>How does the WWW work?  | Draw the Web! <br>Learning goals
 [2](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md)		| Mon Jan 12th	| MarkDown and Git <br>	Project management| Present the *bad* website you will re-design
