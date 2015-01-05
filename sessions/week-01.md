@@ -21,7 +21,7 @@ Then each *artist* presents their work to the class, adn together we discuss eme
 
 
 	
-# How does the WWW work?
+# How does it WWWork?
 
 One of the emerging themes from your drawings *should* be that the WWW is a **Web of interlinked knowledge**, in constant evolution.
 
