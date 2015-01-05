@@ -35,6 +35,20 @@ To put this concept into practice, let's pretend that each one of us is a `node`
 3. Then 5 minutes to explain (~1 hour in total)
 
 
+### Running order
+
+1. Tim Berners-Pee
+* HyperText
+* HTML
+* HTTP
+* DNS
+* IP address
+* Internet submarine cables
+* Server
+* Net neutrality
+* Open-source
+ 
+
 # Assignment for next week!
 
 Remember to use the category **WEB1404** for all your blog posts for this unit!
