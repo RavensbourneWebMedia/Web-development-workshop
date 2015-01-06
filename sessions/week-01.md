@@ -51,7 +51,7 @@ To put this concept into practice, let's pretend that each one of us is a `node`
 
 # Assignment for next week!
 
-Remember to use the category **WEB1404** for all your blog posts for this unit!
+Remember to use the category **WEB14104** for all your blog posts for this unit!
 
 1. Document your drawing of the Web on the blog. 
 
