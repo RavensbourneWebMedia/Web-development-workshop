@@ -43,8 +43,8 @@ Your re-designed version must
 Session	| Date			| In class				| Assignment
 -------	| -------------	| --------------------	| ------------------------------
 [1](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md)		| Mon Jan 5th 	| Unit intro <br>How does the WWW work?  | Draw the Web! <br>Learning goals
-[2](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md)		| Mon Jan 12th	| MarkDown and Git <br>	Project management| Present the *bad* website you will re-design
-[3](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md)		| Mon Jan 19th	| HTML: structuring Web content | Action plan
+[2](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md)		| Mon Jan 12th	| MarkDown and Git | Present the *bad* website you will re-design
+[3](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md)		| Mon Jan 19th	| HTML: structuring Web content<br>	Project management | Action plan
 [4](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md)		| Mon Jan 26th	| CSS 1/3 (easy) | Moodboard
 [5](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md)		| Mon Feb 2nd	| CSS 2/3 (intermediate) | Wireframes
 [6](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md)		| Mon Feb 16th	| CSS 3/3 (responsive) | 
@@ -88,28 +88,28 @@ Your final mark will be based on:
 
 #### E
 
-TODO
+- [ ] TODO
 
 #### D
 
-TODO
+- [ ] TODO
 
 #### C
 
-TODO
+- [ ] TODO
 
 #### B
 
-TODO
+- [ ] TODO
 
 #### A
 
-TODO
+- [ ] TODO
 
 
 ## Blog
 
-The blog should have at least 12 posts.
+Your blog should have at least 12 posts.
 
 Topics from each week:
 
@@ -125,13 +125,15 @@ Refer to the general **[Web Media blog assessment criteria](https://github.com/R
 
 Upon completion of this unit you will (hopefully) be able to: 
 
-* Understand conceptually how the WWW works (browsers, servers, HTTP, DNS, IP etc), as well as being comfortable with the process of buying a domain name and a hosting service.
+* Understand conceptually how the **WWW** works (browsers, servers, HTTP, DNS, IP etc).
 
 * Use **HTML** and MarkDown to structure Web content appropriately and accessibly.  
 
-* Use **CSS** to style Web pages cohesively and coherently, as well as be informed by contemporary trends. 
+* Use **CSS** to style Web pages cohesively and coherently, being informed by contemporary trends. 
 
-* Upload your project files to a Web server using **FTP**. 
+* Upload your project files to a Web server using **FTP**.
+
+* Be familiar with the process of buying a **domain name** and a **hosting** service.
 
 * Make Web pages dynamic using **PHP**.
 
