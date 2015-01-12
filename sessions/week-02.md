@@ -229,7 +229,6 @@ This list of principles (aka heuristics) is based on [good ol' Jakob Nielsen's 1
 	*This term refers to user interfaces in which it is extremely difficult for users to discern the destinations of navigational hyperlinks or, in some cases, even to determine where the hyperlinks are. For example, a menu made of icons that are replaced with text only when you click them / hover over them.*
 
 
-
 ## Your turn
 
 Pick and **review** at least 3 bad websites.
@@ -238,8 +237,12 @@ Write it in MarkDown, then push it to your fork of this project on GitHub.
 
 # Assignment for next week!
 
-Present one *bad* website you chose. Why is it bad? What do you think makes a website bad? 
+Out of the 3 bad websites you chose (see above), pick one and review it in more depth. 
 
-Explain it using the principles above.
+Why is it bad? What do you think makes a website bad? 
 
-Write it in MarkDown, then push it to your fork of this project on GitHub (inside the `students > {yourName}` folder ).
+Explain it using the **principles** above.
+
+Make sure to add **images**! One image is worth 1000 words they say.. 
+
+Write it in **MarkDown**, then push it to your fork of this project on GitHub (inside the `students > {yourName}` folder).
