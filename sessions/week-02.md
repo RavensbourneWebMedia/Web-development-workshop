@@ -175,17 +175,27 @@ This list of principles (aka heuristics) is based on [good ol' Jakob Nielsen's 1
 
 6. **Recall rather than recognition**
 
-	*The system maximises the user's memory load by making objects, actions, and options invisible. The user has to remember information from one part of the dialogue to another.*
+	*The system maximises the user's memory load by making objects, actions, and options invisible. The user has to remember information from one part of the system to another.*
 	
 	> I can't remember, did I choose the right size?
+	
+	> Where am I? Where have I been? Where can I go next?
+	
+7. **Mystery Meat Navigation**
 
-7. **Inflexibility and inefficiency of use**
+	*This term refers to user interfaces in which it is extremely difficult for users to discern the destinations of navigational hyperlinks or, in some cases, even to determine where the hyperlinks are. For example, a menu made of icons that are replaced with text only when you click them / hover over them.*
+	
+	> To find out what option #1 is, press 1. To find out what option #2 is, press 2. Makes sense.
+	
+	![](http://i.imgur.com/J9lgUjo.png)	
+
+8. **Inflexibility and inefficiency of use**
 
 	*The system cannot cater to both inexperienced and experienced users. It doesn't allow users to tailor frequent actions.*
 	
 	> Why isn't there a shortcut for this? Why can't I "clone this template"? Why can't it remember my settings?
 
-8. **Pointless information**
+9. **Pointless information**
 
 	*The interface contains information which is irrelevant or rarely needed.*
 	
@@ -193,41 +203,39 @@ This list of principles (aka heuristics) is based on [good ol' Jakob Nielsen's 1
 	
 	> `It occurred to me just the other day that it might be the case that everyone is officially crazy now.` How about simply `Maybe everyone's officially crazy now.`?
 
-9. **Lack of help and documentation**
+10. **Lack of help and documentation**
 
 	*Help and documentation are not provided. If present, they are not easy to search, are not focused on the user's task, don't list concrete steps to be carried out, or are too large.*
 	
 	> I need a guide for this, it's too complicated. 
 
-10. **Visual inaccessibility**
+11. **Visual inaccessibility**
 
 	*Information is not easy to read, because of colour contrast and text sizes*
 
 	> This is jarring, I can't read it. Why did they write this so small?
 		
-11. **Content updatedness**
+12. **Content updatedness**
 
 	*Content is not updated to reflect the current state of the system (or the business/organisation behind it)*
 
 	> When was the content for this page/section last updated? Is it important to know when this was published? 
 
  
-12. **S-tone of voice**	
+13. **S-tone of voice**	
 
 	*Inconsistent language and/or tone of voice*
 	
 	> This sounds like it's different people speaking. Why do they use 5 different words to say the same thing?
 
-13. **Loading time**
+14. **Loading time**
 
 	*The system is loading unneccessary resources, possibly blocking users from interacting while those are being loaded. There may also be necessary resources that are not loaded using best practices*
 
 	> Why is this taking ages to load? Is it my connection or what? Why are those images so big?
 	
-14. **Mystery Meat Navigation**
-
-	*This term refers to user interfaces in which it is extremely difficult for users to discern the destinations of navigational hyperlinks or, in some cases, even to determine where the hyperlinks are. For example, a menu made of icons that are replaced with text only when you click them / hover over them.*
-
+	
+An [interesting read from WebPagesThatSuck](http://www.webpagesthatsuck.com/biggest-mistakes-in-web-design-1995-2015.html).	
 
 ## Your turn
 
