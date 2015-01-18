@@ -7,6 +7,7 @@
 * Research bad websites
 
 
+
 # Learning goals review
 
 1. Form **groups** of 3 people.
@@ -23,16 +24,17 @@
 	
 3. **Present** each other's learning goals to the rest of the class.
 
-4. Let's take a look at the [general learning goals](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/README.md#learning-goals) for this unit.
+4. Let's take a look at the [general learning goals](https://github.com/RavensbourneWebMedia/WEB14104#learning-goals) for this unit.
+
 
 
 # Marking things up
 
 ## Signs
 
-**Why** do we need to mark up things (roads, manuscripts, code)?
+**Why** do we need to mark things (roads, manuscripts, code) up?
 
-![](http://i.imgur.com/uit9wsY.jpg)
+![Abbey Road: arguably the World's most famous zebra crossing](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/abbey-road-crossing.jpg)
 
 To **make sense** of them.
 
@@ -40,11 +42,11 @@ To **make sense** of them.
 
 Compare this ..
 
-![](http://i.imgur.com/KjGUgJR.png)
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/brief-no-meta.png)
 
 .. with this
 
-![](http://i.imgur.com/xmT5T32.png)
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/brief-with-meta.png)
 
 Same content, different *meta-content*.
 
@@ -56,13 +58,14 @@ Can you think of meta-content that we use everyday when speaking?
 
 How do we add meta-content to text and code?
 
-From [Wikipedia](http://en.wikipedia.org/wiki/Markup_language)
-
 > A **markup language** is a modern system for annotating a document in a way that is syntactically distinguishable from the text. The idea and terminology evolved from the *marking up* of paper manuscripts: the revision instructions by editors, traditionally written with a blue pencil on authors' manuscripts.
 
-![](http://i.imgur.com/2epE8ee.png)
+> From [Wikipedia](http://en.wikipedia.org/wiki/Markup_language)
 
-All your **digital texts** are marked up, whether you see the **markup** or not.
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/printer-markup-signs.png)
+
+All your **digital texts** are marked up, whether you see the **markup** or not. That is, they contain both content and meta-content.
 
 **HTML** is one of many markup languages, the one used to mark up documents (aka *hypertexts*) on the WWW. [html5Doctor has a good HTML dictionary](http://html5doctor.com/element-index/).
 
@@ -72,16 +75,18 @@ Writing HTML can be quite cumbersome ..
 		<li>All this fuss for a bullet point</li>
 	</ul>	
 
-.. so a guy called John Gruber came up with [**MarkDown**](http://daringfireball.net/projects/markdown/) (an open-source project) to let people focus on writing, and not worry about the HTML.
+.. so a guy called John Gruber came up with [**MarkDown**](http://daringfireball.net/projects/markdown/) (an open-source project) to let people focus on writing, and not worry about the HTML meta-content.
 
 
-# Exercise 
+
+# Try it! 
 
 Write your learning goals in MarkDown.
 
-You can use [this free app](http://25.io/mou/) to craft <abbr title="MarkDown">MD</abbr> files on Macs, or [this free one](http://markdownpad.com/) for Windows. Or, even better, you can work on MD online using [StackEdit](https://stackedit.io)!
+You can use [this free app](http://25.io/mou/) to craft <abbr title="MarkDown">MD</abbr> files on Macs, or [this free one](http://markdownpad.com/) for Windows. Or you can work on MD online using [StackEdit](https://stackedit.io)!
 
 Here is an [easy guide (3 minutes)](https://guides.github.com/features/mastering-markdown) on writing MarkDown.
+
 
 
 # GitHub
@@ -129,6 +134,7 @@ The name of our remote is *origin* and the default local branch name is *master*
 Pull requests let you tell others about changes you've pushed to a Git repository. Once a pull request is sent, other people can review your changes, discuss potential modifications, and even push follow-up commits if necessary.
 
 We'll [learn more about pull requests](https://help.github.com/articles/using-pull-requests/) later on in the unit.
+
 
 
 # Research
@@ -187,7 +193,7 @@ This list of principles (aka heuristics) is based on [good ol' Jakob Nielsen's 1
 	
 	> To find out what option #1 is, press 1. To find out what option #2 is, press 2. Makes sense.
 	
-	![](http://i.imgur.com/J9lgUjo.png)	
+	![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/mystery-meat-navigation.png)	
 
 8. **Inflexibility and inefficiency of use**
 
@@ -242,6 +248,8 @@ An [interesting read from WebPagesThatSuck](http://www.webpagesthatsuck.com/bigg
 Pick and **review** at least 3 bad websites.
 
 Write it in MarkDown, then push it to your fork of this project on GitHub.
+
+
 
 # Assignment for next week!
 
