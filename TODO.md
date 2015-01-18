@@ -18,6 +18,7 @@
 - [ ] [Free tool to compress images for the Web](https://compressor.io)
 - [ ] [Initializr](http://www.initializr.com/)
 - [ ] Install [Dash](http://kapeli.com/dash)
+- [ ] [TypeCast](http://typecast.com) to design with Web fonts in the browser
 
 ## Misc
 
