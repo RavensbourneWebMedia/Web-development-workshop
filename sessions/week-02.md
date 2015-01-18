@@ -3,6 +3,7 @@
 ## Today, Monday 12th January 2015
 
 1. Review learning goals
+* Marking things up (bit of theory)
 * Keeping projects tidy: MarkDown and Git
 * Research bad websites
 
@@ -32,11 +33,17 @@
 
 ## Signs
 
-**Why** do we need to mark things (roads, manuscripts, code) up?
+**Why** do we need to mark things (roads, manuscripts, code) up? <!--To **make sense** of them.-->
 
 ![Abbey Road: arguably the World's most famous zebra crossing](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/abbey-road-crossing.jpg)
 
-To **make sense** of them.
+What do white stripes across the road mean? Is that meaning universal? 
+
+What does the picture above *denote*? What does it *connote*?
+
+If you're interested in learning more about *semiotics*, the theory of signs, [This means this, this means that](http://www.worldcat.org/title/this-means-this-this-means-that-a-users-guide-to-semiotics/oclc/154688644) is a good book to start.
+
+<!-- Semiotics for beginners http://www.slideshare.net/MediaStudiesSaltash/semiotics-for-beginners-as-level -->
 
 ## Content and meta-content
 
@@ -147,7 +154,7 @@ However, it's not so easy to pinpoint **why** it is bad.
 
 Sometimes bad websites are **not so obviously bad**. Their badness emerges as you use them, and cracks start to appear in what may be a pleasing layout.
 
-This list of principles (aka heuristics) is based on [good ol' Jakob Nielsen's 10 general principles for interaction design](http://www.nngroup.com/articles/ten-usability-heuristics), and should help you work out **what** exactly makes a website bad.
+This list of principles (aka heuristics) is based on [good ol' Jakob Nielsen's 10 general principles for interaction design](http://www.nngroup.com/articles/ten-usability-heuristics), and should help you work out **what** makes a website bad.
 
 1. **Invisibility of system status**
 
