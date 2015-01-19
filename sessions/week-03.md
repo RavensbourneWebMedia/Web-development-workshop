@@ -75,15 +75,20 @@ In HTML5 you can have an <article> within a <section> [ true / false ]-->
 
 # HTML in the kitchen
 
-![This sandwich is not valid HTML](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/html-sandwich.jpg)
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/html-sandwich.jpg)
+
 
 ## Your brief
 
-* Mark up the recipe for your favourite dish, using *appropriate* HTML tags.
+* Mark up the **recipe** for your favourite dish, using **appropriate** HTML tags.
+
+* The **content** and **structure** of your recipe are up to you. Decide what information to include, so that someone else can prepare the dish you chose.
 
 * Your HTML recipe must be a **valid HTML5** document.
 
-* Your HTML recipe should be *naked*, aka no CSS and no decorative elements (eg `<br>` or `<hr>`)
+	The XML sandwich above **is not valid HTML**. Don't use it in your recipe!
+
+* Your HTML recipe should be ***naked***, aka no CSS and no decorative elements (eg `<br>` or `<hr>`)
 
 * Push your HTML recipe to your fork of this project on GitHub (inside the `students > {yourName}` folder).
 
