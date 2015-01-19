@@ -2,8 +2,6 @@
 
 ## Today, Monday 19th January 2015
 
-- [ ] Make sure people accept invitations to joint GitHub team
-
 1. HTML and CSS: which does what
 * HTML quiz
 * HTML in the kitchen (exercise)
@@ -110,7 +108,7 @@ However, it's not so easy to pinpoint **why** it is bad.
 
 Sometimes bad websites are **not so obviously bad**. Their badness emerges as you use them, and cracks start to appear in what may be a pleasing layout.
 
-- [ ] Let's analyse a few bad websites together, using [these principles](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md#what-makes-a-website-bad) (from last week) to work out **what makes them bad**. In pairs, cross-analyse your partner's chosen website. See how many principles you can tick off. Whoever has more principles wins! (proposing new principles is welcome)
+Let's analyse a few bad websites together, using [these principles](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md#what-makes-a-website-bad) (from last week) to work out **what makes them bad**. In pairs, cross-analyse your partner's chosen website. See how many principles you can tick off. Whoever has more principles wins! (proposing new principles is welcome)
 
 
 
