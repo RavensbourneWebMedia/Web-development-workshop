@@ -2,6 +2,8 @@
 
 ##### Monday 26th January 2015
 
+- [ ] Make sure people accept invitations to join the GitHub team
+
 * Styling Web content: CSS 1/3 (easy)	
 * CSS quiz
 * Selectors: CSS diner
