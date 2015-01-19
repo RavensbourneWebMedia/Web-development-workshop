@@ -57,4 +57,4 @@ Remember to use the category **WEB14104** for all your blog posts for this unit!
 
 	Take a *good* picture (not wonky, sharp and clear) of your drawing and upload it to your 4F blog.
 
-* Blog post: [what are your learning goals for this unit?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
+2. Blog post: [what are your learning goals for this unit?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
