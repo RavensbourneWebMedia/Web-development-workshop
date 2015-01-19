@@ -2,9 +2,9 @@
 
 ## PM
 
-- [ ] Trello? 
+- [x] Trello 
 - [ ] MoSCoW?
-- [ ] [gettingthingsdone.com](http://gettingthingsdone.com/)
+- [x] [gettingthingsdone.com](http://gettingthingsdone.com/)
 
 
 ## HTML
@@ -20,14 +20,19 @@
 - [ ] Install [Dash](http://kapeli.com/dash)
 - [ ] [TypeCast](http://typecast.com) to design with Web fonts in the browser
 
+
+## Typography
+
+- [ ] [Free Web fonts](http://www.typewolf.com/free-fonts)
+- [ ] [Typography games](http://type.method.ac/)
+
+
 ## Misc
 
 - [ ] [Speaking in public](http://speaking.io/)
 
 - [ ] [WordFence protecting WP](http://www.wordfence.com/)
 - [ ] [Photo cliches?](https://gonebeforelong.wordpress.com/2013/05/06/cliches/)
-- [ ] [Free Web fonts](http://www.typewolf.com/free-fonts)
-- [ ] [Typography games](http://type.method.ac/)
 
 - [ ] http://www.smashingmagazine.com/2010/02/09/applying-mathematics-to-web-design/
 
