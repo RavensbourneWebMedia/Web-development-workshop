@@ -165,3 +165,7 @@ Apps that can help you treat your personal life like it's a software development
 Create a (prioritised) *todo list* of how you intend to improve the bad website. This will become your *action plan* and we'll check against it every week.
 
 Push your action plan (either as MarkDown or HTML) to your fork of this project on GitHub (inside the `students > {yourName}` folder).
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/form-art.png)
+
+[Form Art by Alexei Shulgin](https://www.artsy.net/artwork/alexei-shulgin-form-art)
