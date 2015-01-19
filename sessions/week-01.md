@@ -9,15 +9,15 @@
 
 # Draw *the Web*!	
 
-But what do you mean by *the Web*? 
+> But what do you mean by *the Web*? 
 
-Imagine you have to explain what the Web is to an alien, or to your grandma. 
+* Imagine you have to **explain** what the Web is to an alien, or to your grandma. 
 
-No need to make a technical drawing. It's more interesting (and more fun) if you **draw what the Web means to you** *personally*. 
+* No need to make a technical drawing. It's more interesting (and more fun) if you **draw what the Web means to you** *personally*. 
 
-#### Duration: ~30 minutes.
+* You have ~30 minutes to **sketch your idea** out.
 
-Then each *artist* presents their work to the class, adn together we discuss emerging **themes** (globe/planet, connections, computers, brands) and **metaphors/symbols** (clouds, trees, cats)
+* Then each *artist* will present their piece to the class, and together we discuss emerging **themes** <!--(globe/planet, connections, computers, brands)--> and **metaphors/symbols** <!--(clouds, trees, cats)-->
 
 
 	
@@ -30,8 +30,14 @@ To put this concept into practice, let's pretend that each one of us is a `node`
 
 [Using this collaborative Google Doc](https://docs.google.com/document/d/1NrRUySCy8CUf7Wrc4cbjwxsWh_fk6jXs47oMCnEljLk/edit?usp=sharing	) **research one key Web concept** and then explain it to your classmates. 
 
-1. Each student picks one concept
-2. You'll have about 1 hour to research (collect links and jot down your notes about your chosen concept)
+1. Each student picks (or is assigned) one concept.
+
+2. You'll have about 1 hour to research. 
+ 
+ 	Collect links and jot down your notes about your chosen concept. 
+ 	
+ 	Make sure you **reference your sources** of information. For instance, don't just copy-paste from WikiPedia. Instead, include a link to the WikiPedia article where your text comes from.
+
 3. Then 5 minutes to explain (~1 hour in total)
 
 
@@ -55,6 +61,6 @@ Remember to use the category **WEB14104** for all your blog posts for this unit!
 
 1. Document your drawing of the Web on the blog. 
 
-	Take a *good* picture (not wonky, sharp and clear) of your drawing and upload it to your 4F blog.
+	Take a *good* picture (sharp and clear, not wonky) of your drawing and upload it to your 4F blog.
 
 2. Blog post: [what are your learning goals for this unit?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
