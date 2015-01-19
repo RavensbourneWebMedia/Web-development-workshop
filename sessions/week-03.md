@@ -2,16 +2,13 @@
 
 ## Today, Monday 19th January 2015
 
+- [ ] Make sure people accept invitations to joint GitHub team
+
 1. HTML and CSS: which does what
 * HTML quiz
 * HTML in the kitchen (exercise)
 * Review bad websites
 * Project management basics
-
-
-
-- [ ] Make sure people accept invitations to joint GitHub team
-- [ ] Pull request
 
 
 
@@ -86,13 +83,15 @@ In HTML5 you can have an <article> within a <section> [ true / false ]-->
 
 * Your HTML recipe must be a **valid HTML5** document.
 
+* Your HTML recipe should be *naked*, aka no CSS and no decorative elements (eg `<br>` or `<hr>`)
+
 * Push your HTML recipe to your fork of this project on GitHub (inside the `students > {yourName}` folder).
 
 ### Couple of tips
 
 * To find which tags are appropriate for your recipe, you can use the [html5Doctor dictionary](http://html5doctor.com/element-index/).
 
-* To create a valid HTML5 document without typing all the common stuff, you can use [HTML5 Boilerplate](https://html5boilerplate.com/)
+* To create a valid HTML5 document without typing all the common stuff, you can use [HTML5 Boilerplate](https://html5boilerplate.com/).
 
 * To write HTML on your computer, you can use [SublimeText](http://www.sublimetext.com/2) (my favourite, free-ish) or [Brackets](http://brackets.io/).
 
