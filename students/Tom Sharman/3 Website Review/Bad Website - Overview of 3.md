@@ -37,7 +37,7 @@ Another poorly designed feature of the website is the use of a blue font as the 
 ###### Images
 The three pages, other than the homepage,  on the website feature 3 images side by side of the artwork for his album. This is unnecessary to the website as I feel it makes it too cluttered and does not follow modern techniques of web design such as clean and simple design like many websites have become nowadays. This comes across as a desperate way to sell the album through e-commerce. Yet, there are more effective ways to sell through adverts to Spotify, iTunes, Amazon MP3 links etc and previews of the songs through Soundcloud and YouTube Music Videos to promote the product for the site to increase sales. 
 
-![image](./Images/sidebysidehead.png =840x) 
+![image](/Images/sidebysidehead.png =840x) 
 
 #### Usability
 ##### Speed
