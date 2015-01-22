@@ -27,7 +27,7 @@ The David Martin website, in my opinion is a very bad site. From the looks, to t
 ##### Background
 The design of the David Martin website is very poor. This is due to a number of out dated designs such as the very cluttered background image which is a gradient spiral of blue. This from a users perspective, would make them feel like the site is untrustworthy due to its unprofessionalism. This then looks bad for the artist due to the bad reputation and presence given from his poorly designed website.
 
-![image](Images/headhome.png =840x)
+![image](/Images/headhome.png =840x)
 
 ##### Fonts
 Another poorly designed feature of the website is the use of a blue font as the body text for the whole site and also the headings. This is a poor design choice due to the fact the user will find it hard to read and is therefore likely to click off of the website. 
