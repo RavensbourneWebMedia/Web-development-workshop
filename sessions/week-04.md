@@ -36,16 +36,17 @@ With CSS you can (hopefully) make your Web content clearer, easier to read and m
 # Quiz time!
 
 1. `CSS` stands for Content Styling System [ true / false ]
-<!-- Cascading Style Sheets. CSS rules cascade from general to specific (like a waterfall) -->
+	<!-- Cascading Style Sheets. CSS rules cascade from general to specific (like a waterfall) -->
 
 2. `CSS` can only be used for styling `HTML` [ true / false ]
-<!-- can be used for XML, for example SVG -->
+    <!-- can be used for XML, for example SVG -->
 
 3. The best way to style an HTML element is by adding CSS in its `style` attribute [ true / false ]
+    <!--<link rel="stylesheet" href="path/to/your-style.css">-->
 
         <p style="color:red;">This bloody text</p>
 
-<!--<link rel="stylesheet" href="path/to/your-style.css">-->
+    
 
 4. Every CSS file has to end in `.css` [ true / false ]
 
@@ -72,6 +73,8 @@ With CSS you can (hopefully) make your Web content clearer, easier to read and m
         
 9. There are 123 CSS properties and you should [learn them all](http://css-tricks.com/almanac/) [ true / false ]  
 
+
+## The CSS banana quiz
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/andy-warhol-banana.jpg)   
   
