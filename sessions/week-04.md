@@ -7,7 +7,7 @@
 1. The *dress code*: **CSS** 1 / 3 
 * CSS quiz
 * CSS *selectors*
-* [Specificity wars](http://www.stuffandnonsense.co.uk/archives/css_specificity_wars.html)
+* CSS *specificity*
 * Thinking inside the **box** (model)
 * Sizes matter
 * Web types
@@ -133,13 +133,37 @@ With CSS you can (hopefully) make your Web content clearer, easier to read and m
 
 # CSS diner
 
-http://flukeout.github.io/
+To understand **CSS selector**, let's play the [CSS Diner](http://flukeout.github.io) game.
 
-# *Thinking inside the Box*
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/CSS-diner.png)
 
-Imagine that there is an invisible box around *every* HTML element (Use Web Inspector to demonstrate it)
 
-The browser likes to put code into boxes, boxes inside boxes inside boxes inside boxes...
+
+# Specificity Wars
+
+In CSS, **specific** rules take precedence over the general ones. 
+
+But how do you work out which rules are more specific than others?
+
+[Specificity Wars](http://www.stuffandnonsense.co.uk/archives/css_specificity_wars.html)!
+
+CSS Selector	| Specificity	| Sith power
+---------------	| -------------	| --------------------
+element 		| **1**			| 0, 0, 1 
+class 			| **10**		| 0, 1, 0
+id 				| **100**		| 1, 0, 0 		
+
+![](http://www.stuffandnonsense.co.uk/archives/images/specificitywars-05v2.jpg)
+
+
+
+# Thinking inside the Box
+
+Imagine that there is an **invisible box** around every HTML element. 
+
+<!--Use Web Inspector to demonstrate it-->
+
+Your browser likes to put code into boxes, boxes inside boxes inside boxes inside boxes...
 
 Each HTML box has:
 
@@ -147,49 +171,95 @@ Each HTML box has:
 * border
 * padding
 
-- [ ] better image here, possibly animated gif..  with [box-sizing](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/box-model.gif)
 
 
 
-![](http://inserthtml.com/codex/wp-content/uploads/2012/06/box-model1.gif)
+# Sizes matter
+
+CSS is mostly two-dimensional, so we work with `width` and `height`.
+
+Sizes can be expressed in:
+
+* `px` pixels (absolute length)
+* `%` percentage,  relative to the width/height of the element
+* `em` relative to the font-size of the element
+* [other units](http://www.w3schools.com/cssref/css_units.asp)
+
+### But wait, what's the *actual* width of the box?
+
+Is it the content's width?
+
+Or content + padding?
+
+Or content + padding + border?
+
+Or content + padding + border + margin?
+
+It's a mess.
+
+Using the [box-sizing](http://www.paulirish.com/2012/box-sizing-border-box-ftw/) property you can control that mess.
 
 
-# Information is beautiful
 
-A bit of theory?
+# CSS is not just for decoration
 
-Data vs information
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/data-information.jpg)
 
-CSS is not just decoration
+> Banana bread by [Minimalist Baker](http://minimalistbaker.com/one-bowl-gluten-free-banana-bread/)
 
-[What is information design?](http://www.infodesign.org.uk/What-is-information-design/what-is-information-design)
+For information to become *knowledge*, it must be easy to find, simple to use, and immediately understandable. 
 
-* [How people read (on the Web)](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#how-people-read)
+That is, **information needs to be designed**.
+
+
+## A quick experiment
+
+1. List five websites that you visit regularly. 
+2. Now imagine these sites without their text. 
+3. What design would be left?
+
+![](http://s3.amazonaws.com/37assets/svn/1147-Twitter.jpg)
+
+> From [Design is still about words](https://signalvnoise.com/posts/3404-reminder-design-is-still-about-words)
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/95-percent-typography.png)
+
+[Web design is 95% typography](https://ia.net/know-how/the-web-is-all-about-typography-period).
+
+## How people read
+
+Let's read about [how people read (on the Web)](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#how-people-read).
+
+
 
 # Web types
 
+* [Font shape game](http://shape.method.ac/)
+* [Text kerning game](http://type.method.ac/)
 * [Chrome extension that tells you the font-family of any Web site](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related?hl=en) 
 * [TypeKit](https://typekit.com/)
 * [Google Fonts](http://www.google.com/fonts)
-* [Font shape game](http://shape.method.ac/)
-* [Text kerning game](http://type.method.ac/)
 * [Typecast!](http://typecast.com/)
 * Go *typo-crazy* with [FitText](http://fittextjs.com/) and [LetteringJS](http://letteringjs.com/)
 
 ## Inspiring Web typography
 
-Examples here (Frank Chimero, the ginger dude)
+[What screens want](http://frankchimero.com/talks/what-screens-want/transcript/) by Frank Chimero
 
-http://www.typewolf.com/blog/favorite-sites-of-2014
+[2014 shortlist by Typewolf](http://www.typewolf.com/blog/favorite-sites-of-2014)
+
+
 
 # Exercise
 
-Style your recipe. 
+Style your HTML recipe ([from last session](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#your-brief)). 
 
 Can you make it palatable, without using images?
 
-Iconoclasm > go image-less
-http://en.wikipedia.org/wiki/Iconoclasm
+<!--Iconoclasm > go image-less http://en.wikipedia.org/wiki/Iconoclasm-->
+
+
 
 
 # Assignment
@@ -197,6 +267,6 @@ http://en.wikipedia.org/wiki/Iconoclasm
 Create a *moodboard* that highlights colours schemes and fonts you intend to use (or experiment with) on your website re-design.
 
 
-## Matteo's TODO
+<!--## Matteo's TODO
 
-- [ ] [Article on web design moodboards](http://www.protofuse.com/blog/how-web-design-mood-board-impacts-ux/)
+- [ ] [Article on web design moodboards](http://www.protofuse.com/blog/how-web-design-mood-board-impacts-ux/)-->
