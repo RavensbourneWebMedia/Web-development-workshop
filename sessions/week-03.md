@@ -16,11 +16,11 @@ Different **languages**, separate [**concerns**](http://en.wikipedia.org/wiki/Se
 
 Think of a group of people working together, eg to produce a car, a newspaper, a website, to provide education.. What are the different *roles* and *concerns* of these people?
 
-1. **HTML** → structure and content 
+## 1. **HTML** → content and structure  
 
-2. **CSS** → style and design 
+##### 2. **CSS** → style and design 
 
-3. **JS** → behaviour and logic
+##### 3. **JS** → behaviour and logic
 
 !["Chuck & Di Have a Baby" Paper Doll Book 1982 by John Boswell, Patty Brown and Will Elder](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/chuck-and-di-paperdolls.png)
 
