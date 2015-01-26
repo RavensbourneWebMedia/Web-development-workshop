@@ -6,6 +6,9 @@
 
 * **Research** on Google Doc worked well, need to force people to reference their sources.
 
+* Collaborative research and discussion on *How does it WWWork* went quite well.
+To make it more **playful** and keep people's *antennas* up, we could introduce a *ball* (or any other soft object that can be easily and safely thrown around.. idea from Angela Morelli, Science Museum 2011). Only who has the *ball* can speak, and whwnever s/he mentions a keyword that belongs to someone else, they need to pass it to them and let them talk a bit.
+
 * [ ] Discussion around key WWW concepts: could experiment with an object that needs to be passed/thrown to the person who's in charge of a concept you mentioned. 
  
 
@@ -48,6 +51,16 @@
 
 * GTD video captured most people's attention. **Buzzwords bingo** not sure, need to experiment more with it, maybe base the discussion around the buzzwords. In general, need to get better at **moderating discussions**.  
 
+
+# Session 4
+
+### HTML and CSS boilerplates?
+
+* folder structure, naming shit
+* HTML comments
+* CSS comments
+* CSS reset / normalize
+* CSS scaffolding `max-width` and `margin`
 
 # Github: branching or forking?
 
