@@ -215,17 +215,19 @@ That is, **information needs to be designed**.
 
 ## A quick experiment
 
-1. List five websites that you visit regularly. 
-2. Now imagine these sites without their text. 
-3. What design would be left?
+1. List three websites that you visit regularly. 
+2. Now imagine them without text. 
+3. What *design* would be left?
 
-![](http://s3.amazonaws.com/37assets/svn/1147-Twitter.jpg)
+<!--![](http://s3.amazonaws.com/37assets/svn/1147-Twitter.jpg)
 
-> From [Design is still about words](https://signalvnoise.com/posts/3404-reminder-design-is-still-about-words)
+> From [Design is still about words](https://signalvnoise.com/posts/3404-reminder-design-is-still-about-words)-->
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/95-percent-typography.png)
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/twitter-no-text.jpg)
 
 [Web design is 95% typography](https://ia.net/know-how/the-web-is-all-about-typography-period).
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/95-percent-typography.png)
 
 ## How people read
 
