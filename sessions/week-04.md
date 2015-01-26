@@ -223,7 +223,7 @@ That is, **information needs to be designed**.
 
 > From [Design is still about words](https://signalvnoise.com/posts/3404-reminder-design-is-still-about-words)-->
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/twitter-no-text.jpg)
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/twitter-no-text.gif)
 
 [Web design is 95% typography](https://ia.net/know-how/the-web-is-all-about-typography-period).
 
