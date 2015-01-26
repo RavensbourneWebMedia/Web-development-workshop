@@ -231,28 +231,56 @@ That is, **information needs to be designed**.
 
 ## How people read
 
-Let's read about [how people read (on the Web)](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#how-people-read).
+![From http://blog.typekit.com/2013/03/28/setting-type-for-user-interfaces/](http://typekit.files.wordpress.com/2013/03/img_2.png)
+
+Let's read more about [how people read (on the Web)](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#how-people-read).
+
+> * By the time a child is 5 or 6 years old, they’ll use 2,500 to 5,000 **common words**. 
+> * Children quickly learn to read common words (the 5000 words they use most). They then stop reading these words and start **recognising their shape**. 
+> * Children already read like this by the time they’re 9 years old. Your vocabulary will grow but this reading skill stays with you as an adult. 
+> * As writers **we don’t want people to read**. We want people to recognise the shape of the word and understand. It’s a lot faster.
+> * Your brain can **drop up to 30%** of the text and still understand. 
+> * When you use a longer word (8 or 9 letters), people are more likely to skip **shorter words** (3, 4 or 5 letters) that follow it.
+> * **Capital letters** are 13 to 18% harder for people to read. 
+> * People read very differently online than on paper. People [only read about 20 to 28% of a web page](http://www.nngroup.com/articles/how-little-do-users-read)
+> * People tend to *scan* a webpage in an **F** shape pattern. They look across the top, then down the side, reading further across when they find what they need.
+
+<!--http://webdesign.tutsplus.com/articles/understanding-the-f-layout-in-web-design--webdesign-687-->
+
+<!--![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/f-shaped-heatmap.jpg)-->
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/directional-cues.jpg)
+
+> [Directional cues](https://blog.kissmetrics.com/eye-tracking-studies/) heatmaps from Kissmetrics
 
 
 
 # Web types
 
-<!-- Need to structure this out -->
+1. Go to [Typecast](http://typecast.com/) and sign up for it.
+* Paste your recipe's content.
+* Pair fonts (perhaps using [this game](http://www.typeconnection.com/)). Try several combinations. You can [read this short guide](http://blog.typekit.com/2013/03/28/setting-type-for-user-interfaces/) on how to choose fonts, or [this one](http://opentype.info/blog/2011/08/01/what-makes-letters-legible/) on *what makes letters legible*.
+* Working in black&white, set the sizes for different elements (headings, body copy, lists etc.)
+	* font size
+	* letter spacing
+	* word spacing
+	* line height
+	* alignments 
+* Choose colours, using [this tool](http://snook.ca/technical/colour_contrast/colour.html)
 
-* [How to choose the right type](http://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
-* [Font shape game](http://shape.method.ac/)
-* [Text kerning game](http://type.method.ac/)
-* [Chrome extension that tells you the font-family of any Web site](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related?hl=en) 
-* [TypeKit](https://typekit.com/)
-* [Google Fonts](http://www.google.com/fonts)
-* [Typecast!](http://typecast.com/)
+## Useful links 
+
+<!--* [How to choose the right type](http://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)-->
+
+* A [font shape game](http://shape.method.ac/) and a [text kerning game](http://type.method.ac/)
+* This [Chrome extension tells you the font-family of any Web site](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related?hl=en) 
+* [TypeKit](https://typekit.com/) and [Google Fonts](http://www.google.com/fonts)
 * Go *typo-crazy* with [FitText](http://fittextjs.com/) and [LetteringJS](http://letteringjs.com/)
 
 ## Inspiring Web typography
 
-[What screens want](http://frankchimero.com/talks/what-screens-want/transcript/) by Frank Chimero
-
-[2014 shortlist by Typewolf](http://www.typewolf.com/blog/favorite-sites-of-2014)
+* [What screens want](http://frankchimero.com/talks/what-screens-want/transcript/) by Frank Chimero
+* [2014 shortlist by Typewolf](http://www.typewolf.com/blog/favorite-sites-of-2014)
 
 
 
@@ -263,23 +291,15 @@ Style your HTML recipe ([from last session](https://github.com/RavensbourneWebMe
 Today we're focusing on:
 
 * **typography**, use this [checklist](http://www.merttol.com/articles/web/checklist-for-better-web-typography.html)
-* **colours**,use [this tool](http://snook.ca/technical/colour_contrast/colour.html)
+* **colours**, use [this tool](http://snook.ca/technical/colour_contrast/colour.html)
 
 Next week we're going to:
 
 * style images
 * look at grid layouts
 
-<!--Iconoclasm > go image-less http://en.wikipedia.org/wiki/Iconoclasm-->
-
-
 
 
 # Assignment
 
 Create a *moodboard* that highlights colours schemes and fonts you intend to use (or experiment with) on your website re-design.
-
-
-<!--## Matteo's TODO
-
-- [ ] [Article on web design moodboards](http://www.protofuse.com/blog/how-web-design-mood-board-impacts-ux/)-->
