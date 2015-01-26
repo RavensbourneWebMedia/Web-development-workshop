@@ -262,7 +262,7 @@ Style your HTML recipe ([from last session](https://github.com/RavensbourneWebMe
 
 Today we're focusing on:
 
-* **typography**, use this [checklist](http://www.merttol.com/articles/web/checklist-for-better-web-typography.html
+* **typography**, use this [checklist](http://www.merttol.com/articles/web/checklist-for-better-web-typography.html)
 * **colours**,use [this tool](http://snook.ca/technical/colour_contrast/colour.html)
 
 Next week we're going to:
