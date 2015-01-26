@@ -255,9 +255,17 @@ Let's read about [how people read (on the Web)](https://www.gov.uk/guidance/cont
 
 # Exercise
 
-Style your HTML recipe ([from last session](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#your-brief)). 
+Style your HTML recipe ([from last session](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#your-brief)). Can you make it palatable, **without using images**?
 
-Can you make it palatable, without using images?
+Today we're focusing on:
+
+* **typography**, use this [checklist](http://www.merttol.com/articles/web/checklist-for-better-web-typography.html
+* **colours**,use [this tool](http://snook.ca/technical/colour_contrast/colour.html)
+
+Next week we're going to:
+
+* style images
+* look at grid layouts
 
 <!--Iconoclasm > go image-less http://en.wikipedia.org/wiki/Iconoclasm-->
 
