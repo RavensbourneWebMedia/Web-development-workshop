@@ -237,6 +237,9 @@ Let's read about [how people read (on the Web)](https://www.gov.uk/guidance/cont
 
 # Web types
 
+<!-- Need to structure this out -->
+
+* [How to choose the right type](http://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
 * [Font shape game](http://shape.method.ac/)
 * [Text kerning game](http://type.method.ac/)
 * [Chrome extension that tells you the font-family of any Web site](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related?hl=en) 
