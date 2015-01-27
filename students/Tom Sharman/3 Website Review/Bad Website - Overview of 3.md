@@ -27,7 +27,7 @@ The David Martin website, in my opinion is a very bad site. From the looks, to t
 ##### Background
 The design of the David Martin website is very poor. This is due to a number of out dated designs such as the very cluttered background image which is a gradient spiral of blue. This from a users perspective, would make them feel like the site is untrustworthy due to its unprofessionalism. This then looks bad for the artist due to the bad reputation and presence given from his poorly designed website.
 
-![image](Images/headhome.png =840x)
+![image](/Images/headhome.png =840x)
 
 ##### Fonts
 Another poorly designed feature of the website is the use of a blue font as the body text for the whole site and also the headings. This is a poor design choice due to the fact the user will find it hard to read and is therefore likely to click off of the website. 
@@ -37,7 +37,7 @@ Another poorly designed feature of the website is the use of a blue font as the 
 ###### Images
 The three pages, other than the homepage,  on the website feature 3 images side by side of the artwork for his album. This is unnecessary to the website as I feel it makes it too cluttered and does not follow modern techniques of web design such as clean and simple design like many websites have become nowadays. This comes across as a desperate way to sell the album through e-commerce. Yet, there are more effective ways to sell through adverts to Spotify, iTunes, Amazon MP3 links etc and previews of the songs through Soundcloud and YouTube Music Videos to promote the product for the site to increase sales. 
 
-![image](./Images/sidebysidehead.png =840x) 
+![image](/Images/sidebysidehead.png =840x) 
 
 #### Usability
 ##### Speed
