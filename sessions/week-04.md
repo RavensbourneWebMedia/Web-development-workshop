@@ -258,15 +258,23 @@ Let's read more about [how people read (on the Web)](https://www.gov.uk/guidance
 # Web types
 
 1. Go to [Typecast](http://typecast.com/) and sign up for it.
+
 * Paste your recipe's content.
-* Pair fonts (perhaps using [this game](http://www.typeconnection.com/)). Try several combinations. You can [read this short guide](http://blog.typekit.com/2013/03/28/setting-type-for-user-interfaces/) on how to choose fonts, or [this one](http://opentype.info/blog/2011/08/01/what-makes-letters-legible/) on *what makes letters legible*.
-* Working in black&white, set the sizes for different elements (headings, body copy, lists etc.)
+
+* **Pair fonts**, using [this tool](http://www.typeconnection.com/), or [this one](http://www.typegenius.com/). 
+
+	Try several combinations. 
+	
+	You can [read this short guide](http://blog.typekit.com/2013/03/28/setting-type-for-user-interfaces/) on how to choose fonts, or [this one](http://opentype.info/blog/2011/08/01/what-makes-letters-legible/) on *what makes letters legible*.
+
+* Working in black&white, set the **space proportions** for different elements (headings, body copy, lists etc.)
 	* font size
 	* letter spacing
 	* word spacing
 	* line height
 	* alignments 
-* Choose colours, using [this tool](http://snook.ca/technical/colour_contrast/colour.html)
+
+* Choose **colours**, using [this tool](http://snook.ca/technical/colour_contrast/colour.html) to make sure there's enough difference and contrast between background colour and text colour
 
 ## Useful links 
 
@@ -297,6 +305,33 @@ Next week we're going to:
 
 * style images
 * look at grid layouts
+
+CSS properties you should consider:
+
+* `font-family`
+* `font-size`
+* `font-weight`
+* `font-style`
+
+* `line-height`
+
+* `letter-spacing`
+* `word-spacing`
+
+* `text-align`
+* `text-decoration`
+* `text-transform`
+* `text-indent`
+
+* `margin`
+* `border`
+* `padding`
+
+* `color`
+* `background-color`
+
+* `width`
+* `max-width`
 
 
 
