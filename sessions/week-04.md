@@ -268,11 +268,11 @@ Let's read more about [how people read (on the Web)](https://www.gov.uk/guidance
 	You can [read this short guide](http://blog.typekit.com/2013/03/28/setting-type-for-user-interfaces/) on how to choose fonts, or [this one](http://opentype.info/blog/2011/08/01/what-makes-letters-legible/) on *what makes letters legible*.
 
 * Working in black&white, set the **space proportions** for different elements (headings, body copy, lists etc.)
-	* font size
+	* font sizes, using [TypeScale](http://type-scale.com/)
 	* letter spacing
 	* word spacing
 	* line height
-	* alignments 
+	* alignments
 
 * Choose **colours**, using [this tool](http://snook.ca/technical/colour_contrast/colour.html) to make sure there's enough difference and contrast between background colour and text colour
 
