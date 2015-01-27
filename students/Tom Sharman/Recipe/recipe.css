@@ -1,23 +1,23 @@
 #bgimg {
-position: relative;
-left: 0;
-top: 0;
-width: 100%;
-height: 100%;
+    position: relative; 
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0;
 }
 h1 { 
    position: absolute; 
-   top: 450px; 
+   top: 400px; 
    left: 0; 
    width: 100%; 
 }
-
 html {
-    background-color: #FAFAFA;
-}
-{ font-family: 'Muli', sans-serif;
-  font-family: 'Knewave', cursive;
-  font-family: 'Dosis', sans-serif;
+   background-color: #FAFAFA;
+   font-family: 'Muli', sans-serif;
+   font-family: 'Knewave', cursive;
+   font-family: 'Dosis', sans-serif;
+padding: 0;
 }
 .content {
     width: 50%;
@@ -26,6 +26,7 @@ html {
     background-color: #FAFAFA;
     padding-left: 100px;
     padding-right: 100px;
+    padding: inherit;
 }
 h1 {
     font-size: 60pt;
@@ -45,18 +46,33 @@ h2 {
 h3 {
     font-size: 20pt;
     float: left;
+    font-family: 'Knewave', cursive;
+    color: #BEEB77;
+    margin-top: 6%;
 }
+a {
+    height: 0px;
+}
+#second {
+    margin-top: 5%;
+}
+
+#five {
+    margin-top: 12%;   
+}
+
 .background {
     width: 100,0,100,0;
     color: #222222;
+    padding: inherit;
 }
 
 ul {
-    -moz-column-count: 1;
+    -moz-column-count: 2;
     -moz-column-gap: 20px;
-    -webkit-column-count: 1;
+    -webkit-column-count: 2;
     -webkit-column-gap: 20px;
-    column-count: 1;
+    column-count: 2;
     column-gap: 20px;
 }
 
@@ -86,6 +102,7 @@ p {
     font-size: 16pt;
     font-family: 'Muli', sans-serif;
     font-style:normal;
+    margin-left: 5%;
 }
 #table {
     background-color: #E4E4E4;
@@ -93,29 +110,32 @@ p {
     padding-bottom: 20px;
     margin-bottom: 20px;
 }
-
 #table:hover{
     padding-top: 30px;
     padding-bottom: 30px;
     margin-bottom: 30px;
     transition: 0.5s, ease;
 }
-
+.logo a {
+    height: 0px;
+}
 #ts-head {
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto 0 auto;
+    padding: 0;
+    padding-bottom: 0;
+
 }
 .head {
     background-color: #E4E4E4;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 0;
+    padding-top: 0;
+    
 }
-
 h1:hover{
-    font-size: 70pt; 
+    font-size: 65pt; 
     transition: 0.5s, ease;
 }
 #article-button {
@@ -124,7 +144,6 @@ h1:hover{
     margin-right: auto;
     max-width: 50%;
 }
-
 #article-button {
     width: 30%;
     opacity: 0.5;
@@ -133,53 +152,64 @@ h1:hover{
     opacity: 100;
     transition: 0.5s ease;
 }
-
 #article-button:hover {
     width: 33%;
     height: 33%;
 }
-}
-
 #foot {
     align-content: center;
     padding-top: 10px;
     padding-bottom: 10px;
 }
-
-.footer
-{
+.footer {
     text-align: right;
-    font-size: 16pt;
+    font-size: 10pt;
     font-family: 'Dosis', sans-serif;
     background-color: #e4e4e4;
-    padding-bottom: 20px;
+    padding-bottom: 20;px;
     padding-left: auto;
     padding-right: auto;
-    padding-top: 20px;
-}
+    padding-top: 0px;
+    padding: inherit;
 
+}
 .blist:hover {
     font-weight:bold;
 }
-
 .stitched {
    padding: 10px;
    margin: 20px;
-   background: #927B51;
+   background: #BEEB77;
    font-size: 28px;
    color: #ffffff;
    text-align: center;
-   font-family: 'Knewave', cursive;
-   font-weight: bold;
+   font-family: 'Dosis', sans-serif;
+   font-weight: normal;
    line-height: 1.3em;
    border: 2px dashed #fff;
    border-radius: 10px;
-   box-shadow: 0 0 0 4px #927B51, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
-   text-shadow: -1px -1px #927B51;
+   box-shadow: 0 0 0 4px #BEEB77, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -1px -1px #BEEB77;
    font-weight: normal;
    width: 48.5%;
    margin-left: auto;
    margin-right: auto;
+}
+    @media screen and (max-width: 988px) {
+h1 {
+    top: 250px;
+    font-size: 48pt;
+    text-shadow: 5px 5px #464843;
+}
+h1:hover{
+    font-size: 55pt; 
+    transition: 0.5s, ease;
+}
+@media screen and (max-width: 900px) {
+h1 {
+    top: 250px;
+    font-size: 45pt;
+    text-shadow: 4px 4px #464843;
 }
 
 @media screen and (max-width: 768px) {
@@ -190,29 +220,119 @@ left: 0;
 top: 0;
 width: 100%;
 height: 100%;
-
+padding: 0;
+}
+    
 p {
     font-size: 12pt;
+    margin-left: 8%;
 }
 h1 {
-    font-size: 25pt;
+    top: 220px;
+    font-size: 40pt;
+}
+h1:hover{
+    font-size: 45pt; 
+    transition: 0.5s, ease;
+    text-shadow: 3px 3ppx #464843;
 }
 h2 {
     font-size: 16pt;
 }
 h3 {
-    font-size: 16pt;
+    font-size: 14pt;
 }
-    
+}  
 ul {
-    -moz-column-count: 2;
+    -moz-column-count: 1;
     -moz-column-gap: 20px;
-    -webkit-column-count: 2;
+    -webkit-column-count: 1;
     -webkit-column-gap: 20px;
-    column-count: 2;
+    column-count: 1;
     column-gap: 20px;
-
+}
 ul, li{
     list-style:none;
     list-style-type:none;
 }
+.stitched {
+   padding: 5px;
+   margin: 20px;
+   background: #BEEB77;
+   font-size: 22px;
+   color: #ffffff;
+   text-align: center;
+   font-family: 'Dosis', sans-serif;
+   font-weight: normal;
+   line-height: 1.3em;
+   border: 2px dashed #fff;
+   border-radius: 10px;
+   box-shadow: 0 0 0 4px #BEEB77, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -1px -1px #BEEB77;
+   font-weight: normal;
+   width: 46%;
+   margin-left: auto;
+   margin-right: auto;
+}    
+
+@media screen and (max-width: 718px) {
+    h1 {
+    top: 200px;
+    font-size: 25pt;
+}
+h1:hover{
+    font-size: 30pt; 
+    transition: 0.5s, ease;
+        text-shadow: 3px 3px #464843;
+}
+    
+.stitched {
+   padding: 4px;
+   margin: 20px;
+   background: #BEEB77;
+   font-size: 17px;
+   color: #ffffff;
+   text-align: center;
+   font-family: 'Dosis', sans-serif;
+   font-weight: normal;
+   line-height: 1.3em;
+   border: 2px dashed #fff;
+   border-radius: 10px;
+   box-shadow: 0 0 0 4px #BEEB77, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -1px -1px #BEEB77;
+   font-weight: normal;
+   width: 46%;
+   margin-left: auto;
+   margin-right: auto;
+}        
+
+    @media screen and (max-width: 434px) {
+h1 {
+    top: 150px;
+    font-size: 20pt;
+        text-shadow: 2px 2px #464843;
+}
+        
+h1:hover{
+    font-size: 25pt; 
+    transition: 0.5s, ease;
+}
+.stitched {
+   padding: 3px;
+   margin: 20px;
+   background: #BEEB77;
+   font-size: 12px;
+   color: #ffffff;
+   text-align: center;
+   font-family: 'Dosis', sans-serif;
+   font-weight: normal;
+   line-height: 1.3em;
+   border: 2px dashed #fff;
+   border-radius: 10px;
+   box-shadow: 0 0 0 4px #BEEB77, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -1px -1px #BEEB77;
+   font-weight: normal;
+   width: 46%;
+   margin-left: auto;
+   margin-right: auto;
+}    
