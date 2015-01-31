@@ -76,17 +76,25 @@ In HTML5 you can have an <article> within a <section> [ true / false ]-->
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/html-sandwich.jpg)
 
 
-## Your brief
+### Your brief
 
-* Mark up the **recipe** for your favourite dish, using **appropriate** HTML tags.
+Mark up the **recipe** for your favourite dish, using **appropriate HTML tags**.
 
-* The **content** and **structure** of your recipe are up to you. Decide what information to include, so that someone else can prepare the dish you chose.
+* The **content** and **structure** of your recipe are up to you. 
+
+* Decide what information to include, so that someone else can prepare the dish you chose.
+
+* Make thoughtful decisions about what HTML elements to use to structure your recipe. 
+
+	For instance, what HTML tags are appropriate for the ingredients list? And which ones are appropriate for the preparation method? Don't just use `<p>` everywhere.. <!--See this tutorial on sectioning-->
 
 * Your HTML recipe must be a **valid HTML5** document.
 
-	The XML sandwich above **is not valid HTML**. Don't use it in your recipe!
+	The XML sandwich in the image above **is not valid HTML**. Don't use `<bread>` or `<cheese>` in your recipe!
 
 * Your HTML recipe should be ***naked***, aka no CSS and no decorative elements (eg `<br>` or `<hr>`)
+
+	Try also not to use `<img>` to convey information. Stick to **text only**.
 
 * Push your HTML recipe to your fork of this project on GitHub (inside the `students > {yourName}` folder).
 
