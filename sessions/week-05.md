@@ -47,10 +47,7 @@ To become a skilled *CSS bricklayer*, there are only two properties that you sho
  
  	Fixed elements stay where they are on the screen even when the page is scrolled.
  	
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/css-position-codepen.png) 	
-
-[Interactive examples](http://codepen.io/baddeo/pen/OPxJLP) on CodePen
-
+[Interactive example on CodePen![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/css-position-codepen.png)](http://codepen.io/baddeo/pen/OPxJLP)
 
 ### Float
 
