@@ -2,7 +2,7 @@
 
 ## Today, Monday 26th January 2015
 
-<!--- [ ] Make sure people accept invitations to join the GitHub team-->
+<!--- [ ] Make sure people accept invitations to join the GitHub team -->
 
 1. The *dress code*: **CSS** 1 / 3 
 * CSS quiz
@@ -259,79 +259,80 @@ Let's read more about [how people read (on the Web)](https://www.gov.uk/guidance
 
 1. Go to [Typecast](http://typecast.com/) and sign up for it.
 
-* Paste your recipe's content.
+2. Paste your recipe's content.
 
-* **Pair fonts**, using [this tool](http://www.typeconnection.com/), or [this one](http://www.typegenius.com/). 
+3. **Pair fonts**, using [this tool](http://www.typeconnection.com/), or [this one](http://www.typegenius.com/). 
 
 	Try several combinations. 
 	
 	You can [read this short guide](http://blog.typekit.com/2013/03/28/setting-type-for-user-interfaces/) on how to choose fonts, or [this one](http://opentype.info/blog/2011/08/01/what-makes-letters-legible/) on *what makes letters legible*.
 
-* Working in black&white, set the **space proportions** for different elements (headings, body copy, lists etc.)
+5. Working in black&white, set the **space proportions** for different elements (headings, body copy, lists etc.)
 	* font sizes, using [TypeScale](http://type-scale.com/)
 	* letter spacing
 	* word spacing
 	* line height
 	* alignments
 
-* Choose **colours**, using [this tool](http://snook.ca/technical/colour_contrast/colour.html) to make sure there's enough difference and contrast between background colour and text colour
+6. Choose **colours**, using [this tool](http://snook.ca/technical/colour_contrast/colour.html) to make sure there's enough difference and contrast between background colour and text colour
 
 ## Useful links 
 
 <!--* [How to choose the right type](http://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)-->
 
-* A [font shape game](http://shape.method.ac/) and a [text kerning game](http://type.method.ac/)
-* This [Chrome extension tells you the font-family of any Web site](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related?hl=en) 
-* [TypeKit](https://typekit.com/) and [Google Fonts](http://www.google.com/fonts)
+* Two **games** to get familiar with [font shapes](http://shape.method.ac/) and [text kerning](http://type.method.ac/)
+* A [Chrome extension](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm/related?hl=en) that tells you the font-family of any Web site 
+* **Web-font libraries**: [TypeKit](https://typekit.com/) (owned by Adobe), [Google Fonts](http://www.google.com/fonts) and [FontSquirrel](http://www.fontsquirrel.com/)
 * Go *typo-crazy* with [FitText](http://fittextjs.com/) and [LetteringJS](http://letteringjs.com/)
-
-## Inspiring Web typography
-
 * [What screens want](http://frankchimero.com/talks/what-screens-want/transcript/) by Frank Chimero
-* [2014 shortlist by Typewolf](http://www.typewolf.com/blog/favorite-sites-of-2014)
+* [2014 shortlist of *sites with nice typography*](http://www.typewolf.com/blog/favorite-sites-of-2014) by Typewolf
 
 
 
 # Exercise
 
-Style your HTML recipe ([from last session](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#your-brief)). Can you make it palatable, **without using images**?
+Style your [HTML recipe](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#your-brief) using CSS. 
+
+This exercise is about making your **texts** easy to scan and easy to read, informative and usable.
 
 Today we're focusing on:
 
-* **typography**, use this [checklist](http://www.merttol.com/articles/web/checklist-for-better-web-typography.html)
-* **colours**, use [this tool](http://snook.ca/technical/colour_contrast/colour.html)
+* good **typography**, use this [Web typography checklist](http://www.merttol.com/articles/web/checklist-for-better-web-typography.html)
+* **colours**, use [this colour contrast and difference checker](http://snook.ca/technical/colour_contrast/colour.html)
 
 Next week we're going to:
 
-* style images
-* look at grid layouts
+* add images and style them
+* use grid layouts
 
-CSS properties you should consider:
+## CSS properties you can play around with
 
-* `font-family`
+#### Text
+
+* `font-family` 
 * `font-size`
 * `font-weight`
 * `font-style`
-
 * `line-height`
-
 * `letter-spacing`
 * `word-spacing`
-
 * `text-align`
 * `text-decoration`
 * `text-transform`
 * `text-indent`
 
+#### Box 
+
 * `margin`
 * `border`
 * `padding`
+* `width`
+* `max-width`
+
+#### Colours
 
 * `color`
 * `background-color`
-
-* `width`
-* `max-width`
 
 
 
