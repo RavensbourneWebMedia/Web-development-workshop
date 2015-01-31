@@ -32,18 +32,22 @@ To become a skilled *CSS bricklayer*, there are only two properties that you sho
 	
 * `relative` is similar to `static` but the element can be offset from its original position with the properties `top`, `right`, `bottom` and `left`.
  
-* `absolute` pulls an element out of the normal HTML flow of the HTML and other elements will behave as if it's not even there. 
+* `absolute` pulls an element out of the normal HTML flow and other elements will behave as if it's not even there. 
 
-	> The offset values for `top`, `right`, `bottom` and `left` will be *relative* to the first *non-static ancestor* of an absolutely positioned element. :feelsgood: :shit:
+	> The offset values for `top`, `right`, `bottom` and `left` of an absolutely-positioned element will be *relative* to its first *non-static ancestor*. :scream:
+	
+	For example, `left: 10px` will offset an absolute element 10 px from the left edge of its first ancestor which is not static (it can be the direct parent, or the parent of the parent, or the parent of the parent of the parent... as long as it is the first which is not static).
 
 	Note that without a `width` set, the element will stretch only as wide as the content it contains.
 
 	You can set, for instance, both a `left` and `right` value and the element will stretch to touch both points. So you can fill a screen by setting `top: 0; left: 0; bottom: 0; right: 0;`
 
 
-* `fixed` behaves like `absolute`, but it will absolutely position a box in reference to the browser window as opposed to the web page, so fixed boxes should stay exactly where they are on the screen even when the page is scrolled.
-
-- [ ] image
+* `fixed` behaves like `absolute`, but it will position an element in relation to the browser window.
+ 
+ 	Fixed elements stay where they are on the screen even when the page is scrolled.
+ 	
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/css-position-codepen.png) 	
 
 [Interactive examples](http://codepen.io/baddeo/pen/OPxJLP) on CodePen
 
