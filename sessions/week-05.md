@@ -26,24 +26,27 @@ To become a skilled *CSS bricklayer*, there are only two properties that you sho
 
 ### Position
 
-<p data-height="399" data-theme-id="11880" data-slug-hash="OPxJLP" data-default-tab="result" data-user="baddeo" class='codepen'>See the Pen <a href='http://codepen.io/baddeo/pen/OPxJLP/'>CSS position 101</a> by Matteo Menapace (<a href='http://codepen.io/baddeo'>@baddeo</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
-<iframe height='350' scrolling='no' src='//codepen.io/baddeo/embed/OPxJLP/' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/baddeo/pen/OPxJLP/'>CSS position 101</a> by Matteo Menapace (<a href='http://codepen.io/baddeo'>@baddeo</a>) on <a href='http://codepen.io'>CodePen</a>.
-</iframe>
-
-
 * `static` is the default value. 
 
 	Static elements just sit in the normal HTML flow.
 	
-	There is rarely a need to set this value unless the element has been set with another matching selector to a different value and you need to set it back.
-	
-* `relative` is similar to `static` but the box can be offset from its original position with the properties `top`, `right`, `bottom` and `left`.
+* `relative` is similar to `static` but the element can be offset from its original position with the properties `top`, `right`, `bottom` and `left`.
  
-* `absolute` pulls a box out of the normal flow of the HTML and delivers it to a world all of its own. In this crazy little world, the absolute box can be placed anywhere on the page using top, right, bottom and left.
+* `absolute` pulls an element out of the normal HTML flow of the HTML and other elements will behave as if it's not even there. 
+
+	> The offset values for `top`, `right`, `bottom` and `left` will be *relative* to the first *non-static ancestor* of an absolutely positioned element. :feelsgood: :shit:
+
+	Note that without a `width` set, the element will stretch only as wide as the content it contains.
+
+	You can set, for instance, both a `left` and `right` value and the element will stretch to touch both points. So you can fill a screen by setting `top: 0; left: 0; bottom: 0; right: 0;`
+
 
 * `fixed` behaves like `absolute`, but it will absolutely position a box in reference to the browser window as opposed to the web page, so fixed boxes should stay exactly where they are on the screen even when the page is scrolled.
+
+- [ ] image
+
+[Interactive examples](http://codepen.io/baddeo/pen/OPxJLP) on CodePen
+
 
 ### Float
 
@@ -95,6 +98,8 @@ If you need a recap of any of the CSS properties below, check the [CSS tricks al
 * `clear`
 
 
+
+# Moodboards review
 
 
 
