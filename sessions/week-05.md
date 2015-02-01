@@ -143,7 +143,7 @@ If you're not convinced by any of those three, there are more frameworks [here](
 
 Pick a CSS grid system framework and apply it to your recipe.
 
-## CSS properties you can play around with
+### CSS properties you can play around with
 
 If you need a recap of any of the CSS properties below, check the [CSS tricks almanac](http://css-tricks.com/almanac)
 

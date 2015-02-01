@@ -305,7 +305,7 @@ Next week we're going to:
 * add images and style them
 * use grid layouts
 
-## CSS properties you can play around with
+### CSS properties you can play around with
 
 #### Text
 
