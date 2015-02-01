@@ -45,7 +45,7 @@ Session	| Date			| In class				| Assignment
 [1](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md)		| Mon Jan 5th 	| Unit intro <br>How does the WWW work?  | [Draw the Web!](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md#draw-the-web) <br>[Learning goals](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md#assignment-for-next-week)
 [2](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md)		| Mon Jan 12th	| MarkDown and Git | [Present the *bad* website you will re-design](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md#assignment-for-next-week)
 [3](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md)		| Mon Jan 19th	| HTML<br>	Project management | [Action plan](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#assignment)
-[4](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md)		| Mon Jan 26th	| CSS 1/3 (easy) | Moodboard
+[4](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md)		| Mon Jan 26th	| CSS 1/3 (easy) | [Moodboard](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md#assignment)
 [5](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md)		| Mon Feb 2nd	| CSS 2/3 (intermediate) | Wireframes
 [6](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md)		| Mon Feb 16th	| CSS 3/3 (responsive) | 
 [7](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md)		| Mon Feb 23rd	| FTP: putting stuff on servers | 
@@ -113,8 +113,11 @@ Your blog should have at least 12 posts.
 
 Topics from each week:
 
-1. Draw the Web!
+1. [Draw the Web!](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md#draw-the-web)
 * [What are your learning goals for this unit?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
+* [Present the *bad* website you will re-design](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md#assignment-for-next-week)
+* [Action plan](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#assignment)
+* [Moodboard](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md#assignment)
 * *More to come*
 
 Refer to the general **[Web Media blog assessment criteria](https://github.com/RavensbourneWebMedia/Blogging/blob/master/assessment-criteria.md)** for a detailed grading breakdown.
