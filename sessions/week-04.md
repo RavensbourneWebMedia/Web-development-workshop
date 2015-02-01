@@ -1,4 +1,4 @@
-# Session 4
+# Week 4
 
 ## Today, Monday 26th January 2015
 
