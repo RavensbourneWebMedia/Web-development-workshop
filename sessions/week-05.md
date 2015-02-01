@@ -60,14 +60,21 @@
 
 8. All elements following `#example` will move 5px upwards [ true / false ]
 
-	    <p id="example">Hello</p>
-	    
-	    #example { margin-bottom: -5px;}
+	```html
+	<p id="example">Hello</p>
+	```
+	```css	    
+	#example { margin-bottom: -5px; }
+	```
 
 9. All elements preceding `#example` will move 5px to the left [ true / false ]
 
-	    <p id="example">Hello</p>
-	    #example { margin-left: -5px;}
+	```html
+	<p id="example">Hello</p>
+	```
+	```css	    
+	#example { margin-left: -5px; }
+	```
 
 10. The `#` symbol specifies that the selector is?
 
