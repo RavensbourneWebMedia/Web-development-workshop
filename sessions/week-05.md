@@ -15,6 +15,74 @@
 
 # Quiz time!
 
+1. What is the correct HTML to refer to an external style sheet?
+
+	1. `<style src="style.css">`
+	2. `<link rel="stylesheet" type="text/css" href="style.css">`
+	3. `<stylesheet>style.css</stylesheet>`
+
+2. Where in an HTML document is the correct place to refer to an external style sheet?
+
+	1. In the `<body>` section
+	2. At the end of the document
+	3. In the `<head>` section
+
+3. What is the correct CSS syntax to make all the <p> elements bold?
+
+	1. `p { font-weight:bold; }`
+	2. `<p style="font-size:bold;">`
+	3. `<p style="text-size:bold;">`
+	4. `p { text-size:bold; }`
+
+4. Which property is used to change the font of an element?
+
+	1. `font-family`
+	2. `font`
+	3. Both `font-family` and `font` can be used
+
+5. You can use negative values with the `padding` property [ true / false ]
+
+6. How do you display a margin like this?
+
+	10 pixels 	top
+	
+	5 pixels 	bottom
+	
+	20 pixels 	left
+	
+	1 pixel		right
+
+	1. `margin: 10px 1px 5px 20px;`
+	2. `margin: 10px 5px 20px 1px;`
+	3. `margin: 10px 20px 5px 1px;`
+
+7. Setting margin-top and margin-bottom has no effect on an inline element [ true / false ]
+
+8. All elements following `#example` will move 5px upwards [ true / false ]
+
+	    <p id="example">Hello</p>
+	    
+	    #example { margin-bottom: -5px;}
+
+9. All elements preceding `#example` will move 5px to the left [ true / false ]
+
+	    <p id="example">Hello</p>
+	    #example { margin-left: -5px;}
+
+10. The `#` symbol specifies that the selector is?
+
+	1. `class`
+	2. `element`
+	3. `id`
+
+11. Which snippet of CSS is commonly used to centre elements horizontally?
+
+	1. `site-align: center;`
+	2. `margin: center;`
+	3. `margin: auto 0;`
+	4. `margin: 0 auto;`
+
+
 
 # Grid systems
 
