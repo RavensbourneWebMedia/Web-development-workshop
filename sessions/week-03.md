@@ -37,21 +37,29 @@ _BBC homepage > Using the [Web Developer tool](http://chrispederick.com/work/web
 3. The latest version of HTML is `HTML6` [ true / false ]
 
 4. EVERY HTML **element** has an opening **tag** and a closing **tag** [ true / false ]
-
-	    <a href="http://example.com"> Click me! </a>   
-
+	
+	```html
+	<a href="http://example.com"> Click me! </a>   
+	```
+	
 5. All **attributes** for an HTML elements MUST go both in the opening and closing tags  [ true / false ]
-
-		<a href="http://example.com"> Click me! </a id="no-spaces-in-between"> 
-
+	
+	```html
+	<a href="http://example.com"> Click me! </a id="no-spaces-in-between"> 
+	```
+	
 6. In an HTML document every `id` **attribute** MUST be unique [ true / false ]
-
-	    <p id="main-content">...</p>
-	    <div id="main-content">...</div>
+	
+	```html
+    <p id="main-content">...</p>
+    <div id="main-content">...</div>
+    ```
 
 7. An HTML **element** can have more than one `class` [ true / false ]
-
-	    <p class="highlight question">...</p>
+	
+	```html
+	<p class="highlight question">...</p>
+	```
 	    
 8. In HTML all elements start on a new line and stack vertically [ true / false ] 
 
