@@ -20,12 +20,13 @@
 
 
 12. `style1.css` is parsed before `style2.css` [ true / false ]
-
+	
+	```html
 	    <head>
     		<link href="style1.css" rel="stylesheet">
     		<link href="style2.css" rel="stylesheet">
 		</head> 
-		
+	```	
 3. How do you insert a comment in a CSS file?
 
 	1. `// this is a comment //`
