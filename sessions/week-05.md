@@ -27,7 +27,7 @@
 	2. At the end of the document
 	3. In the `<head>` section
 
-3. What is the correct CSS syntax to make all the <p> elements bold?
+3. What is the correct CSS syntax to make all the `<p>` elements bold?
 
 	1. `p { font-weight:bold; }`
 	2. `<p style="font-size:bold;">`
@@ -76,7 +76,7 @@
 	#example { margin-left: -5px; }
 	```
 
-10. The `#` symbol specifies that the selector is?
+10. The `#` symbol is a shortcut for
 
 	1. `class`
 	2. `element`
@@ -128,8 +128,8 @@ From [Why grids?](http://www.vanseodesign.com/web-design/why-grids/)
 # Your turn
 
 1. Go to [Gridlover](http://www.gridlover.net/app). 
-2. Paste in your recipe's HTML.
-3. Play around with modular scales and vertical rhythms.
+2. Paste in your recipe's HTML (not the whole document, just what's inside its `body`).
+3. Play around with **modular scales** and **vertical rhythm**.
 4. Copy the suggested CSS back into your project.
 
 
