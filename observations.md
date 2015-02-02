@@ -78,6 +78,7 @@ Give it a chiecklist of components, eg:
 # Session 5
 
 * **Folder structure** and how to `<link` files. Don't take it for granted. Can be part of the quiz
+* [] Check [PhotoshopEitquette](http://photoshopetiquette.com/) out
 
 ### Grids
 
