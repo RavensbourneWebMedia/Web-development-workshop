@@ -1,0 +1,36 @@
+html, body
+{
+	height: 100%;
+}
+
+/* cover image */
+.cover
+{
+	background: yellow;
+	width: 100%;
+	height: 100%;
+
+	background-image: url('http://foodnessgracious.com/wp-content/uploads/2013/08/carbonara-015.jpg'); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+/* hide the bullets next to the list items */
+
+.no-bullets
+{
+	margin-left: -20px;
+	list-style-type: none;
+}
+
+input[type="checkbox"]
+{
+	margin-right: 10px;
+}
+
+img
+{
+	max-width: 100%;
+}
