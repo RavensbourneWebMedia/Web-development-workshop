@@ -62,6 +62,59 @@ To make it more **playful** and keep people's *antennas* up, we could introduce 
 * CSS reset / normalize
 * CSS scaffolding `max-width` and `margin`
 
+### Moodboard
+
+Give it a chiecklist of components, eg:
+
+* inspiring competitors (screenshots of entire pages)
+* inspiring details (screenshots)
+* colours
+* imagery
+* typography
+* current state of affairs
+* possible directions
+
+
+# Session 5
+
+* **Folder structure** and how to `<link` files. Don't take it for granted. Can be part of the quiz
+
+### Grids
+
+* Show **examples** from [960GS](http://960.gs) to demonstrate how grid systems are used by real websites.. and also big sites like The Guardian, Time etc.
+
+* Show badly aligned code and **well indented code**, to demonstrate how grids are useful to make information easy to read / scan
+
+* **LDN vs NYC** map: which one is easier to navigate?
+
+* Maybe GridLover should be done on the previous session, before people start writing their recipe's CSS?
+
+### Recipe demo
+
+> In-greedy-ants
+
+Used Skeleton to quickly demo how to lay out a recipe using a grid. [Here's the code](https://github.com/RavensbourneWebMedia/WEB14104/tree/master/sessions/skeleton-recipe).
+
+I think it makes sense to do a live-demo for people to follow along and ask questions.
+
+Maybe have some content ready, like a list of ingredients to plonk in as a `<ul>` and the method.  
+
+### Policing
+
+* Low **turnout**, again. What can we do about it?
+
+* People getting **distracted by phones**.. should we start confiscating them? 
+
+### Writing
+
+* People struggle to **articulate** their ideas.. they say things like *I want to make this site look better* or *I want to make this look more basic and easier to navigate*. See [this example](https://github.com/RanaKarim/WEB14104/blob/master/students/Rana/Moodboard.jpg). 
+
+* People don't **edit** what they write. See [this example](https://github.com/jackkemmish/WEB14104/blob/master/students/Jack/Bad%20Websites/the_bad_website%20chosen%20one.md). There are sweeping **assumptions** like *it can be made more interesting by adding a better structure to the lay out* (what structure? how better? what is the lay out?)
+
+- [ ] Maybe show some stream of consciusness stuff.. some badly written text and ask them to re-write it?
+
+
+
 # Github: branching or forking?
 
 ### Branching
@@ -77,3 +130,13 @@ To make it more **playful** and keep people's *antennas* up, we could introduce 
 `+` Repo will show up on the user's dashboard
 
 `+` You can [visualise commits](https://github.com/RavensbourneWebMedia/WEB14104/network)
+
+
+
+# Briefs
+
+## From `redesign a bad website` to `uglify a good website`? 
+
+See [this essay](http://vcu.sagepub.com/content/13/3/314.full.pdf+html) 
+
+> Internet Ugly is an imposition of messy humanity upon an online world of smooth gradients, blemish-correcting Photoshop, and AutoCorrect. It exploits tools meant to smooth and beautify, using them to muss and distort. 
