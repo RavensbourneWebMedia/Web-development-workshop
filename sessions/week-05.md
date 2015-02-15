@@ -2,14 +2,19 @@
 
 ## Today, Monday 2nd February 2015
 
-1. Moving things around: **CSS** 2 / 3
+1. Moodboards review
 * CSS quiz
 * Grids
 * Style your recipe (modular scale and vertical rhythm)
 * Page layout with CSS
 * Style your recipe, again (CSS frameworks)
-* Moodboards review
 * Wireframing
+
+
+
+# Moodboards review
+
+From the [previous session's assignment](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md#assignment)
 
 
 
@@ -242,10 +247,6 @@ If you need a recap of any of the CSS properties below, check the [CSS tricks al
 
 
 
-# Moodboards review
-
-
-
 # Wireframing
 
 Is *this* a wireframe?
@@ -256,19 +257,26 @@ Is *this* a wireframe?
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/not-a-wireframe-example.jpg)
 
-Wireframes are about communicating your ideas.
+Just like a map is an abstraction of a place that helps us describe its location and geography, **wireframes are abstractions** of the **structure** of an interactive system and the **relationships** between its components.
 
-They are about **content**, **context** and **interaction**. Use real content, not *lorem ipsum*. 
+* Wireframes are about **communicating your ideas**.
 
-They're not about style. When wireframing, don't worry about colours, graphics and typography. 
+* They are about **content**, **context** and **interaction**. 
+
+	Use real content, not *lorem ipsum*. 
+
+* They're NOT about style. 
+
+	When wireframing, don't worry about colours, graphics and typography. 
 
 ### Leading questions
 
-When wireframing you should ask yourself:
+When wireframing, ask yourself:
 
-* What content is going to be on this page?
-* How is the content organised on this page?
+* What content should be on this page?
 * Which content is most important on this page?
+* How is this content organised on this page?
+
 * Where users will go from this page?
 * Where is this page on the site?
 * How will users move around the site (navigation)?
