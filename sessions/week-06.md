@@ -153,9 +153,13 @@ Drafting and redrafting, making improvements after improvements, is a vital part
 	`@media (min-width: 40em)`
 		
 9. With media queries, you can check against a device's `height` [ true / false ]
+
 10. With media queries, you can check against a device's `orientation` [ true / false ]
+
 11. With media queries, you can check against a device's `resolution` [ true / false ]
+
 12. With media queries, you can check against a device's `bandwidth` [ true / false ]
+
 13. With media queries, you can check against a device's `local date and time` [ true / false ]
 
 
