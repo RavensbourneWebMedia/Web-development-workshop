@@ -116,7 +116,7 @@ Drafting and redrafting, making improvements after improvements, is a vital part
 
 	1. `.` period
 	2. `!` exclamation mark
-	3. `;` semi colon
+	3. `;` semi-colon
 	4. `:` colon
 
 
@@ -136,18 +136,26 @@ Drafting and redrafting, making improvements after improvements, is a vital part
 
 5. How do you display hyperlinks without an underline?
 
-	1. `a { text-decoration: none; }`
-	2. `a { text-decoration: no-underline; }`
-	3. `a { underline: none; }`
+	1. ```css a { text-decoration: none; }```
+	2. ```css a { text-decoration: no-underline; }```
+	3. ```css a { underline: none; }```
 	
-6. @media (min-width: 600px) 
+6. This media query applies to screens 600px wide and up [ true / false ] 
 
-7. @media (max-width: 599px) 
+	```css @media (min-width: 600px) ``` 
 
-8. @media (min-width: 40em) 
-9. height, orientation and resolution
-10. bandwidth
-11. local date and time
+7. This media query applies to screens 599px wide and up [ true / false ] 
+
+	```css @media (max-width: 599px) ```
+
+8. This media query applies to screens 640px wide and up [ true / false ] 
+
+	```css @media (min-width: 40em)  ```
+9. With media queries, you can check against a device's `height` [ true / false ]
+10. With media queries, you can check against a device's `orientation` [ true / false ]
+11. With media queries, you can check against a device's `resolution` [ true / false ]
+12. With media queries, you can check against a device's `bandwidth` [ true / false ]
+13. With media queries, you can check against a device's `local date and time` [ true / false ]
 
 
 
@@ -187,6 +195,7 @@ Here's an example from [LearnLayout](http://learnlayout.com/media-queries.html).
 	
 	/* ..up to here */
 }
+
 @media (max-width:599px) 
 {
 	nav li 
@@ -200,7 +209,9 @@ When a media query is true, the corresponding style sheet or style rules are app
 
 To get smartphone browsers to listen to media queries, you need to use `meta viewport` tag
 
-```html <meta name="viewport" content="width=device-width, initial-scale=1"> ```
+```html 
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+```
 
 [Mediaqueri.es](http://mediaqueri.es/) is a collection of sites that make good use of media queries.
 
