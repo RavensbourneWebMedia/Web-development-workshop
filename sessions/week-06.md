@@ -6,7 +6,6 @@
 * CSS quiz
 * Responsive Web Design (RWD) 
 * Beyond media queries 
-<!--* Bonus: Animations-->
 
 # Wireframes critique
 
@@ -131,15 +130,15 @@ Drafting and redrafting, making improvements after improvements, is a vital part
 	```	
 3. How do you insert a comment in a CSS file?
 
-	1. `// this is a comment //`
-	2. `// this is a comment`
-	3. `/* this is a comment */`
+	1. `// this is a CSS comment //`
+	2. `// this is a CSS comment`
+	3. `/* this is a CSS comment */`
 
 5. How do you display hyperlinks without an underline?
 
-	1. `a { text-decoration:none; }`
-	2. `a { text-decoration:no-underline; }`
-	3. `a { underline:none; }`
+	1. `a { text-decoration: none; }`
+	2. `a { text-decoration: no-underline; }`
+	3. `a { underline: none; }`
 	
 6. @media (min-width: 600px) 
 
@@ -171,7 +170,6 @@ RWD hinges on media queries.
 Here's an example from [LearnLayout](http://learnlayout.com/media-queries.html).
 
 	```css
-	
 	@media (min-width:600px) /* this line is the query */
 	{
 		/* if the query is true, then the following rules are applied.. */
@@ -242,7 +240,7 @@ This is the [tutorial to build that page](http://www.html5rocks.com/en/mobile/re
 
 **Continue redrafting your wireframes in a digital format.** 
 
-Consider a *mobile-first approach* (see above).
+Consider a *mobile-first approach* (see the RWD section above).
 
 Two options:
 
