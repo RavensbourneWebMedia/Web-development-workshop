@@ -15,7 +15,6 @@
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/wireframes-critique.jpg)
 
-
 ### Leading questions
 
 * Is anything important missing from this page?
@@ -76,6 +75,28 @@ In a nutshell:
 * Ugly
 
 <!--* more to come..-->
+
+## Example
+
+Proposed re-design of an online space for topical political debates that aims to promote political awareness and participation amongst young people. 
+
+Used both as a teaching tool in the classroom and by 11-18 year olds in their own time.
+
+Commissioned by the [Hansard Society](http://www.hansardsociety.org.uk) in 2011.
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/1-home.png)
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/2-navigation.png)
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/3-prepare.png)
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/4-dashboard-student.png)
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/5-profile.png)
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/6-dashboard-teacher.png)
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/7-class-registration-form.png)
 
 ## Redraft
 
