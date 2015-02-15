@@ -11,7 +11,7 @@
 
 1. Hang your drafts on the wall
 2. Grab a pen and some post-its 
-3. Let's *critique* each other's work
+3. Let's *critique* each other's drafts
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/wireframes-critique.jpg)
 
@@ -37,7 +37,7 @@ All comments must be `KASH`:
 	
 * **Actionable**	
 	
-	Your comments should include suggestions or instructions, which the creator of the work can simply take away and use.
+	Your comments should include **suggestions** or **instructions**, which the creator of the work can simply take away and use.
 	
 * **Specific** 
 
@@ -47,7 +47,7 @@ All comments must be `KASH`:
 	
 * **Helpful** 
 
-	If it doesn't benefit the work, the learning, the learner or the class, don't share it
+	If it doesn't benefit the work, its creator or the class, don't share it.
 
 In a nutshell:
  
@@ -76,6 +76,16 @@ In a nutshell:
 * Ugly
 
 <!--* more to come..-->
+
+## Redraft
+
+Reflect on the feedback and suggestions that you received, ask any clarifications and start redrafting your work.
+
+Drafting and redrafting, making improvements after improvements, is a vital part of the **design process**. Nothing is perfect the first time.
+
+<!--You wouldn't put on a school production without practising it over and over again until it was perfect. -->
+
+**Keep every copy of your drafts**. We'll ask you to present them during the formative and summative assessments, and they'll be part of the body of work on which you'll be marked.
 
 
 
@@ -118,4 +128,27 @@ In a nutshell:
 
 # Assignment
 
-1. Watch [The Internet's Own Boy](http://www.bbc.co.uk/iplayer/episode/b051wkry/storyville-20142015-11-the-internets-own-boy), a documentary which explores the life of Aaron Swartz, an activist for social justice and political organising on the internet, and the circumstances that led to his early death.
+### 1. Redraft your wireframes
+
+**Continue redrafting your wireframes in a digital format.**
+
+Two options here:
+
+1. Use [Moqups](http://moqups.com) or [WireframeCC](https://wireframe.cc) and then upload your screens to [InVision](http://www.invisionapp.com) to make them clickable.
+
+	**or**
+
+2. To save yourself work in the long run, start translating your wireframes into **HTML + CSS** using a framework like [Skeleton](http://getskeleton.com), [Bootstrap](http://getbootstrap.com) or [Foundation](http://foundation.zurb.com/prototyping.html)
+
+### 2. Blog about this film
+
+Watch [The Internet's Own Boy](http://www.bbc.co.uk/iplayer/episode/b051wkry/storyville-20142015-11-the-internets-own-boy), a film about Aaron Swartz: wiz-kid, co-founder of Reddit and activist for social justice and freedom of information. 
+
+Heads up! This will be available on BBC iPlayer until the **4th of March 2015**, so you better watch it before then.
+
+Questions that may guide your blog post (in no particular order):
+
+* How do you feel about freedom of information?
+* What do you think constitutes *digital theft*?
+* How do you feel about [Net Neutrality](http://www.vox.com/cards/network-neutrality/whats-network-neutrality)?
+* If you had magical powers, would you use them for good or to make you mountains of cash?
