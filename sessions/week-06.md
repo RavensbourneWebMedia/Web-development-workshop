@@ -169,7 +169,7 @@ RWD hinges on media queries.
 
 Here's an example from [LearnLayout](http://learnlayout.com/media-queries.html).
 
-	```css
+    ```css
 	@media (min-width:600px) /* this line is the query */
 	{
 		/* if the query is true, then the following rules are applied.. */
@@ -195,15 +195,15 @@ Here's an example from [LearnLayout](http://learnlayout.com/media-queries.html).
 		    display: inline;
 		}
 	}
-	```
+    ```
 
 When a media query is true, the corresponding style sheet or style rules are applied, following the normal cascading rules. 
 
 To get smartphone browsers to listen to media queries, you need to use `meta viewport` tag
 
-	```html
+    ```html
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	```
+    ```
 
 [Mediaqueri.es](http://mediaqueri.es/) is a collection of sites that make good use of media queries.
 
