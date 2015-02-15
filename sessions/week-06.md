@@ -136,24 +136,22 @@ Drafting and redrafting, making improvements after improvements, is a vital part
 
 5. How do you display hyperlinks without an underline?
 
-	1. ```css 
-		a { text-decoration: none; }
-		```
-	2. ```css a { text-decoration: no-underline; }```
-	3. ```css a { underline: none; }```
+	1. `a { text-decoration: none; }`
+	2. `a { text-decoration: no-underline; }`
+	3. `a { underline: none; }`
 	
 6. This media query applies to screens 600px wide and up [ true / false ] 
 
-	```css @media (min-width: 600px)``` 
+	`@media (min-width: 600px)` 
 
 7. This media query applies to screens 599px wide and up [ true / false ] 
 
-	```css @media (max-width: 599px)```
+	`@media (max-width: 599px)`
 
 8. This media query applies to screens 640px wide and up [ true / false ] 
 
-	```css @media (min-width: 40em) ```
-	
+	`@media (min-width: 40em)`
+		
 9. With media queries, you can check against a device's `height` [ true / false ]
 10. With media queries, you can check against a device's `orientation` [ true / false ]
 11. With media queries, you can check against a device's `resolution` [ true / false ]

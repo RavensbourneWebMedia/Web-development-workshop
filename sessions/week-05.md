@@ -71,7 +71,7 @@ From the [previous session's assignment](https://github.com/RavensbourneWebMedia
 	```css	    
 	#example { margin-bottom: -5px; }
 	```
-
+	
 9. All elements preceding `#example` will move 5px to the left [ true / false ]
 
 	```html
