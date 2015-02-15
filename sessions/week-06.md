@@ -247,7 +247,7 @@ This is the [tutorial to build that page](http://www.html5rocks.com/en/mobile/re
 
 
 
-# Assignment
+# Assignments
 
 ### 1. Redraft your wireframes
 
