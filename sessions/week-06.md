@@ -4,8 +4,9 @@
 
 1. Wireframes critique 
 * CSS quiz
-* Responsive Web Design (RWD): beyond media queries 
-* Bonus: Animations
+* Responsive Web Design (RWD) 
+* Beyond media queries 
+<!--* Bonus: Animations-->
 
 # Wireframes critique
 
@@ -140,10 +141,98 @@ Drafting and redrafting, making improvements after improvements, is a vital part
 	2. `a { text-decoration:no-underline; }`
 	3. `a { underline:none; }`
 	
-- [ ] media queries
-- [ ] animations?	
+6. @media (min-width: 600px) 
+
+7. @media (max-width: 599px) 
+
+8. @media (min-width: 40em) 
+9. height, orientation and resolution
+10. bandwidth
+11. local date and time
 
 
+
+# Responsive Web Design
+
+2007: computing becomes really personal, as computers start to fit in our pockets (known as **smartphones**).
+
+We (designers) had to design different sites for different devices (variable capabilities and screen sizes). In one word: **fragmentation**.
+
+New developments in CSS came to the rescue, by offering a technology to target specific media and screen sizes: **media queries**.
+
+Rather than developing multiple resources, we can create a single site which reshapes for different devices and **responds** to the available screen space.
+
+[Learn more about RWD](http://responsivedesign.is).
+
+### Media queries
+
+RWD hinges on media queries.
+
+Here's an example from [LearnLayout](http://learnlayout.com/media-queries.html).
+
+	```css
+	
+	@media (min-width:600px) /* this line is the query */
+	{
+		/* if the query is true, then the following rules are applied.. */
+		
+		nav 
+		{
+			float: left;
+			width: 25%;
+		}
+		  
+		section 
+		{
+			margin-left: 25%;
+		}
+		
+		/* ..up to here */
+	}
+	
+	@media (max-width:599px) 
+	{
+		nav li 
+		{
+		    display: inline;
+		}
+	}
+	```
+
+When a media query is true, the corresponding style sheet or style rules are applied, following the normal cascading rules. 
+
+To get smartphone browsers to listen to media queries, you need to use `meta viewport` tag
+
+	```html
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	```
+
+[Mediaqueri.es](http://mediaqueri.es/) is a collection of sites that make good use of media queries.
+
+**Breakpoints** are the points at which our RWD layouts change. The breakpoints we use currently relate almost exclusively to screen size. 
+
+But [this should change in the near future](http://www.smashingmagazine.com/2014/07/08/breakpoints-and-the-future-websites). 
+
+> The websites of tomorrow have to be more than responsive — they have to be contextual, too. These concepts of flexibility and fluidity have to transcend screen size.
+
+
+### Beyond media queries
+
+RWD is not just about media queries.
+
+People access the Web from different **devices**, that have different **capabilities**, on different **connections**, in different **contexts**, doing different **tasks**!
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/bradfrost-futureweb.png)
+
+The vast majority of RWD sites weigh the same in both *small screen* and *large screen* versions: **performance** is not an afterthought.
+
+**Progressive enhancement**: start from the small, less capable devices and build "richer" experiences for the "richer" devices.
+
+Let's take a look at a [demo page](http://bradfrost.com/demo/mobile-first) which puts these principles into practice. 
+
+_Show slides from [this presentation](http://www.slideshare.net/bradfrostweb/beyond-media-queries-an-anatomy-of-an-adaptive-web-design-at-smashing-conference) (from 75 onwards)._
+
+This is the [tutorial to build that page](http://www.html5rocks.com/en/mobile/responsivedesign).
 
 
 
@@ -151,9 +240,11 @@ Drafting and redrafting, making improvements after improvements, is a vital part
 
 ### 1. Redraft your wireframes
 
-**Continue redrafting your wireframes in a digital format.**
+**Continue redrafting your wireframes in a digital format.** 
 
-Two options here:
+Consider a *mobile-first approach* (see above).
+
+Two options:
 
 1. Use [Moqups](http://moqups.com) or [WireframeCC](https://wireframe.cc) and then upload your screens to [InVision](http://www.invisionapp.com) to make them clickable.
 
