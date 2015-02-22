@@ -40,14 +40,14 @@ Your re-designed version must
 
 # Plan
 
-Session	| Date			| In class				| Assignment
+Session	| Date			| In class				| Assignment(s)
 -------	| -------------	| --------------------	| ------------------------------
 [1](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md)		| Mon Jan 5th 	| Unit intro <br>How does the WWW work?  | [Draw the Web!](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md#draw-the-web) <br>[Learning goals](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md#assignment-for-next-week)
 [2](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md)		| Mon Jan 12th	| MarkDown and Git | [Present the *bad* website you will re-design](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md#assignment-for-next-week)
 [3](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md)		| Mon Jan 19th	| HTML<br>	Project management | [Action plan](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#assignment)
 [4](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md)		| Mon Jan 26th	| CSS 1/3 (easy) | [Moodboard](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md#assignment)
-[5](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md)		| Mon Feb 2nd	| CSS 2/3 (intermediate) | Wireframes
-[6](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md)		| Mon Feb 16th	| CSS 3/3 (responsive) | 
+[5](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md)		| Mon Feb 2nd	| CSS 2/3 (intermediate) | [HTML+CSS recipe documentation](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md#1-document-your-recipes-evolution) <br>[Paper wireframes](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md#2-sketch-out-your-ideas-on-paper)
+[6](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md)		| Mon Feb 16th	| CSS 3/3 (responsive) | [Digital wireframes](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md#1-redraft-your-wireframes) <br>[The Internet's Own Boy](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md#2-blog-about-this-film)
 [7](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md)		| Mon Feb 23rd	| FTP: putting stuff on servers | 
 [8](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-08.md)		| Mon Mar 2nd	| Inspecting and debugging websites | 
 [9](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-09.md)		| **Mon Mar 9th**	| Formative Assessment | Action plan (revised)
