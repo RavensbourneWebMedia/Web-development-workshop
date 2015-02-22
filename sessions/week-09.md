@@ -31,7 +31,7 @@ Formative Assessment presentations
 	* [digital wireframes](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md#1-redraft-your-wireframes)
 	* BONUS: clickable wireframes (HTML + CSS or InVision)
 	
-5. How do you intend to take your idea forward?	
+5. How do you intend to take your project forward?	
 
 ### Banned words
 
@@ -49,4 +49,10 @@ Formative Assessment presentations
 
 # Assignment
 
-Note the feedback your received and draft a plan of action (MD, push to GitHub)
+Note the feedback your received and draft a **plan of action**.
+
+* What feedback did you receive?
+* How do you intend to respond to that feedback? (Accept / reject feedback, and why?)
+* How do you intend to take your project forward? 
+
+Write it in *MarkDown*, then push it to your fork of this project on GitHub (inside the `students > {yourName}` folder).
