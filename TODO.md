@@ -1,5 +1,9 @@
 # TODO
 
+## Videos to watch
+
+- [ ] http://vimeo.com/channels/smashingconf/108328247
+
 ## PM
 
 - [x] Trello 
@@ -10,6 +14,11 @@
 ## HTML
 
 - [ ] https://www.google.com/webmasters/markup-helper/?
+
+## CSS
+
+- [ ] [Understanding `position`](http://blog.froont.com/positioning-in-web-design)
+
 
 
 ## Tools

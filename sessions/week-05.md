@@ -153,8 +153,12 @@ To become a skilled *CSS bricklayer*, there are only two properties that you sho
 * `static` is the default value. 
 
 	Static elements just sit in the normal HTML flow.
+
+	![](http://blog.froont.com/content/images/2015/01/02-Static-position-FROONT.gif)
 	
 * `relative` is similar to `static` but the element can be offset from its original position with the properties `top`, `right`, `bottom` and `left`.
+
+	![](http://blog.froont.com/content/images/2015/01/04-Relative-position-FROONT.gif)
  
 * `absolute` pulls an element out of the normal HTML flow and other elements will behave as if it's not even there. 
 
@@ -166,12 +170,18 @@ To become a skilled *CSS bricklayer*, there are only two properties that you sho
 
 	You can set, for instance, both a `left` and `right` value and the element will stretch to touch both points. So you can fill a screen by setting `top: 0; left: 0; bottom: 0; right: 0;`
 
+	![](http://blog.froont.com/content/images/2015/01/03-Absolute-position-FROONT.gif)
+
 
 * `fixed` behaves like `absolute`, but it will position an element in relation to the browser window.
  
  	Fixed elements stay where they are on the screen even when the page is scrolled.
+
+ 	![](http://blog.froont.com/content/images/2015/01/05-fixed-position-FROONT.gif)
+
+The animated gifs above are from [this article on Froont](images from http://blog.froont.com/positioning-in-web-design).
  	
-[Interactive example on CodePen![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/css-position-codepen.png)](http://codepen.io/baddeo/pen/OPxJLP)
+Play around with `position` using this [interactive example on CodePen![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/css-position-codepen.png)](http://codepen.io/baddeo/pen/OPxJLP)
 
 [Absolute *inside* relative](http://css-tricks.com/absolute-positioning-inside-relative-positioning/) aha! moment
 
@@ -193,7 +203,7 @@ Then, if you do not want the next element to wrap around the floating objects, y
 
 Floating is commonly used to create layouts with columns.
 
-[Interactive example on CodePen![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/css-float-codepen.png)](http://codepen.io/baddeo/pen/ZYXEXo)
+Play around with `float` using this [interactive example on CodePen![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/css-float-codepen.png)](http://codepen.io/baddeo/pen/ZYXEXo)
 
 Learn more about `float` on [CSS Tricks](http://css-tricks.com/almanac/properties/f/float)
 
