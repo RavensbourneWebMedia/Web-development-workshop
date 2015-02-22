@@ -1,11 +1,13 @@
 # Week 6
 
-## Today, Monday 16th February 2015
+### Today, Monday 16th February 2015
 
 1. Wireframes critique 
 * CSS quiz
 * Responsive Web Design (RWD) 
 * Beyond media queries 
+
+
 
 # Wireframes critique
 
@@ -15,14 +17,9 @@
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/wireframes-critique.jpg)
 
-### Leading questions
+For this first session we'll all be around the same project and critique one project at a time. 
 
-* Is anything important missing from this page?
-* Is the most important content the first thing you notice?
-* Is there anything on this page that shouldn't be there?
-* Do you know what all of the elements on this page are?
-* Can you get to all of the major sections of the site from here? Should you be able to?
-* Do all of the labels make sense?
+In future sessions we'll do it more informally.
 
 ### Critiquette
 
@@ -58,25 +55,32 @@ In a nutshell:
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/thumbs-down.png)
 
-* Awesome
-* Broken
+* *Like it* / *Don't like it*
 * Clean
-* Cool
+* Dynamic
 * Empty
-* Good
-* Like it
-* Minimalistic
+* Minimal(istic)
 * Modern
-* Parallax (not relevant to wireframes)
 * Poor
 * Professional
-* Simplistic
+* Simpl(istic)
 * Static
-* Ugly
+* XYZ font
+* XYZ colour / background
 
-<!--* more to come..-->
 
-## Example
+### Bullshit wireframes
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/wireframe-bullshit.jpg)
+
+What's wrong with the wireframes above?
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/wireframes-bullshit.jpg)
+
+What's wrong with the wireframes above?
+
+
+### Better wireframes
 
 Proposed re-design of an online space for topical political debates that aims to promote political awareness and participation amongst young people. 
 
@@ -98,7 +102,19 @@ Commissioned by the [Hansard Society](http://www.hansardsociety.org.uk) in 2011.
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/7-class-registration-form.png)
 
-## Redraft
+
+### Leading questions
+
+* Is anything important missing from this page?
+* Is the most important content the first thing you notice?
+* Is there anything on this page that shouldn't be there?
+* Do you know what all of the elements on this page are?
+* Can you get to all of the major sections of the site from here? Should you be able to?
+* Do all of the labels make sense?
+
+
+
+# Redraft
 
 Reflect on the feedback and suggestions that you received, ask any clarifications and start redrafting your work.
 
