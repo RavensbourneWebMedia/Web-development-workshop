@@ -48,11 +48,11 @@ Session	| Date			| In class				| Assignment(s)
 [4](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md)		| Mon Jan 26th	| CSS 1/3 (easy) | [Moodboard](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md#assignment)
 [5](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md)		| Mon Feb 2nd	| CSS 2/3 (intermediate) | [HTML+CSS recipe documentation](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md#1-document-your-recipes-evolution) <br>[Paper wireframes](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md#2-sketch-out-your-ideas-on-paper)
 [6](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md)		| Mon Feb 16th	| CSS 3/3 (responsive) | [Digital wireframes](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md#1-redraft-your-wireframes) <br>[The Internet's Own Boy](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md#2-blog-about-this-film)
-[7](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md)		| Mon Feb 23rd	| FTP: putting stuff on servers | 
+[7](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md)		| Mon Feb 23rd	| CSS transitions and animations | [HTML+CSS wireframes](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md#1-html--css-wireframes)<br> [Webdesign myths](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md#2-blog-about-one-of-the-following-webdesign-myths)
 [8](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-08.md)		| Mon Mar 2nd	| Inspecting and debugging websites | 
 [9](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-09.md)		| **Mon Mar 9th**	| Formative Assessment | Action plan (revised)
-[10](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-10.md)		| Thu Apr 16th	| POP (principles of programming) |
-[11](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-11.md)		| Thu Apr 23rd	| PHP: programming on the server | 
+[10](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-10.md)		| Thu Apr 16th	| POP (principles of programming)<br>FTP: putting stuff on servers |
+[11](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-11.md)		| Thu Apr 23rd	| PHP: programming on the server<br>Web-servers | 
 [12](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-12.md)		| Thu Apr 30th	| WordPress 1/4 | 
 [13](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-13.md)		| Thu May 7th	| WordPress 2/4 | 
 [14](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-14.md)		| Thu May 14th	| WordPress 3/4 (templates) | 
@@ -118,6 +118,8 @@ Topics from each week:
 * [Present the *bad* website you will re-design](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md#assignment-for-next-week)
 * [Action plan](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#assignment)
 * [Moodboard](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md#assignment)
+* [The Internet's Own Boy](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md#2-blog-about-this-film)
+* [Webdesign myths](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md#2-blog-about-one-of-the-following-webdesign-myths)
 * *More to come*
 
 Refer to the general **[Web Media blog assessment criteria](https://github.com/RavensbourneWebMedia/Blogging/blob/master/assessment-criteria.md)** for a detailed grading breakdown.
