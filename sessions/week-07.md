@@ -34,14 +34,16 @@ Remember:
 
 # Animations and transitions with CSS
 
-Two CSS properties to animate stuff:
+CSS animation boils down to two properties:
 
-* [`animation`](http://tympanus.net/codrops/css_reference/animation)
 * [`transition`](http://tympanus.net/codrops/css_reference/transition)
+* [`animation`](http://tympanus.net/codrops/css_reference/animation)
 
 Which properties can be animated? [These ones](http://www.w3.org/TR/css3-transitions/#animatable-properties).
 
-Let's put animation and transition into practice
+Check out [Animate.css](http://daneden.github.io/animate.css), a library of CSS animations that you can include in your projects (use as a starting point for common animations like *fade*, *bounce*, *shake* etc.)
+
+### Let's put animation and transition into practice
 
 1. Download [HTML5 Boilerplate](https://html5boilerplate.com/) (so we don't start from scratch)
 
@@ -51,27 +53,31 @@ Let's put animation and transition into practice
 
 4. Create an `<ul></ul>` (it's going to be a list of people / products)
 
-5. Craft the basic content for `<li>`, using images from [RandomUser](https://randomuser.me)
+5. Craft the basic content for `<li>` with images from [RandomUser](https://randomuser.me)
 
 6. Create a new stylesheet `style.css` inside the `css` folder and link it inside the html's `head`
 
-7. `ul { list-style: none; }` to remove the bullet points
+7. Style `ul` 
 
-8. Reset `padding` and `margin` for `ul`
+	`list-style: none; ` to remove the bullet points
 
-9. Give `li` a bit of padding. 
+	Reset `padding` and `margin` for `ul`
+
+8. Give `li` a bit of padding. 
 
 	Use `em` instead of `px` whenever possible
 
-10. Centre `img` horizontally with `display: block; margin: auto;`
+9. Style `img` 
 
-11. Make `img` round with `max-width: 50%; border-radius: 50%;`
+	Centre it horizontally with `display: block; margin: auto;`
 
-12. Style `a.button`
+	Make it `img` round with `max-width: 50%; border-radius: 50%;`
 
-13. Give `li` a background colour and some borders
+10. Style `a.button`
 
-14. And **finally** add the first transition! A subtle change on hover
+11. Give `li` a background colour and some borders
+
+12. And **finally** add the first `transition`! A subtle change on hover
 
 	```css
 	li
@@ -86,13 +92,36 @@ Let's put animation and transition into practice
 	}
 	```
 
+13. Can you animate the `a.button` on hover?
+
+14. And now `animation`. Let's make the profile picture *shake* when we hover over it.
+
+	Define the `@keyframes shake` and `@-webkit-keyframes shake` (or [copy-paste from Animate.css](https://github.com/daneden/animate.css/blob/master/source/attention_seekers/shake.css)) 
+
+	```css
+	img:hover
+	{
+		/* for Chrome and Safari*/
+		-webkit-animation-name: shake;
+		-webkit-animation-duration: 1s;
+		
+		/* for all other browsers? */
+		animation-name: shake;
+		animation-duration: 1s;
+		
+		/* more properties to tweak your animations */
+		/*-webkit-animation-timing-function: ease-in-out;*/
+		/*-webkit-animation-delay: 1s;*/
+		/*-webkit-animation-iteration-count: infinite;*/
+	}
+	```
+
+
 ## Want more CSS tutorials?
 
 You can find loads of animation [tutorials on Codrops](http://tympanus.net/codrops/category/tutorials), using a mix of CSS and SVG (scalable vector graphics).
 
-## More animations?
 
-http://daneden.github.io/animate.css/
 
 # Assignment
 
