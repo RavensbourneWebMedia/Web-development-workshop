@@ -17,6 +17,8 @@
 	{
 		padding: 1em;
 
+		box-sizing: border-box;
+
 		/* embellishments */
 		background: #eee;
 		border-bottom: 1px solid #ddd;
@@ -125,4 +127,19 @@
 		/*-webkit-animation-timing-function: ease-in-out;*/
 		/*-webkit-animation-delay: 1s;*/
 		/*-webkit-animation-iteration-count: infinite;*/
+	}
+
+/* RESPONSIVE DESIGN */
+
+	@media (min-width:600px)
+	{
+		li
+		{
+			float: left;
+			width: 50%;
+			
+			border-right: 1px solid white;
+		}
+
+
 	}
