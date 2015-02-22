@@ -15,7 +15,9 @@ This is a [checklist](https://github.com/RavensbourneWebMedia/WEB14104/blob/mast
 
 # Wireframes critique
 
-Let's jot down links, notes and feedback on [this Google Doco](https://docs.google.com/document/d/1uyNXHq_kSXdq3yOMidOq9yI9rISGsglXYJifeqN-wTs/edit?usp=sharing) 
+Let's jot down links, notes and feedback on [this Google Doco](https://docs.google.com/document/d/1uyNXHq_kSXdq3yOMidOq9yI9rISGsglXYJifeqN-wTs/edit?usp=sharing).
+
+Or should we try [Invision](http://www.invisionapp.com)? 
 
 Remember:
  
@@ -142,15 +144,24 @@ You can use a framework like [Skeleton](http://getskeleton.com), [Bootstrap](htt
 
 ### 2. Blog about one of the following webdesign *myths*
 
-* [People don't scroll](http://uxmyths.com/post/654047943/myth-people-dont-scroll)
+1. [People don't scroll](http://uxmyths.com/post/654047943/myth-people-dont-scroll)
 
-* [White space is wasted](http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space)
+2. [White space is wasted](http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space)
 	
-- [ ] Any others? 
+3. [Design has to be original](http://uxmyths.com/post/712377283/myth-9-design-has-to-be-original)
 
-- [ ] Leading questions? 
+4. [Graphics will make a page element more visible](http://uxmyths.com/post/702072231/myth-graphics-will-make-a-page-element-more-visible)
 
+5. [The homepage is your most important page](http://uxmyths.com/post/717779908/myth-the-homepage-is-your-most-important-page)
 
+6. [Design is about making a website look good](http://uxmyths.com/post/654070104/myth-design-is-about-making-a-website-look-good)
+
+Questions that could guide your blog post (in no particular order):
+
+* Where do you think the *myth* you chose may come from? Eg: *why do some people believe that users don't scroll webpages?*
+* Where did you hear about this *myth*? 
+* If you feel like it isn't a *myth*, what are the reasons? 
+* What are alternative ways to approach the design problem that the *myth* addresses?
 
 
 
