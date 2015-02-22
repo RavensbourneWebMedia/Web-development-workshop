@@ -45,6 +45,10 @@ Check out [Animate.css](http://daneden.github.io/animate.css), a library of CSS 
 
 ### Let's put animation and transition into practice
 
+We are going to make a list of people (but they could be products, meals, whatever).
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/transanimation-demo.jpg)
+
 1. Download [HTML5 Boilerplate](https://html5boilerplate.com/) (so we don't start from scratch)
 
 2. Open the `HTML5 Boilerplate` folder in a code editor like Brackets or Sublime
@@ -115,9 +119,10 @@ Check out [Animate.css](http://daneden.github.io/animate.css), a library of CSS 
 		/*-webkit-animation-iteration-count: infinite;*/
 	}
 	```
-And [here's the finished thing](https://github.com/RavensbourneWebMedia/WEB14104/tree/master/sessions/html5-boilerplate-animation-transition)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/transanimation-demo.jpg)
+
+And [here's code for the finished thing](https://github.com/RavensbourneWebMedia/WEB14104/tree/master/sessions/html5-boilerplate-animation-transition).
+
 
 ### Hungry for more CSS tutorials?
 
