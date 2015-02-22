@@ -115,9 +115,11 @@ Check out [Animate.css](http://daneden.github.io/animate.css), a library of CSS 
 		/*-webkit-animation-iteration-count: infinite;*/
 	}
 	```
+And [here's the finished thing](https://github.com/RavensbourneWebMedia/WEB14104/tree/master/sessions/html5-boilerplate-animation-transition)
 
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/transanimation-demo.jpg)
 
-## Want more CSS tutorials?
+### Hungry for more CSS tutorials?
 
 You can find loads of animation [tutorials on Codrops](http://tympanus.net/codrops/category/tutorials), using a mix of CSS and SVG (scalable vector graphics).
 
