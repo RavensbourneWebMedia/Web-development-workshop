@@ -132,7 +132,7 @@ You can find loads of animation [tutorials on Codrops](http://tympanus.net/codro
 
 
 
-# Assignment
+# Assignments
 
 ### 1. HTML & CSS wireframes
 
