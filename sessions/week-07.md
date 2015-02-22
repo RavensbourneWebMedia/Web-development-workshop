@@ -162,8 +162,3 @@ Questions that could guide your blog post (in no particular order):
 * Where did you hear about this *myth*? 
 * If you feel like it isn't a *myth*, what are the reasons? 
 * What are alternative ways to approach the design problem that the *myth* addresses?
-
-
-
-## TODO
-

@@ -1,10 +1,10 @@
-## Week 8
+# Week 8
 
-##### Monday 2nd March 2015
+### Today, Monday 2nd March 2015
 
 * Inspecting and debugging websites
 * Tutorials
 
-##### Assignment
+# Assignment
 
 - [ ] TODO
