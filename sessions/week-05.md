@@ -183,7 +183,7 @@ The animated gifs above are from [this article on Froont](images from http://blo
  	
 Play around with `position` using this [interactive example on CodePen![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/css-position-codepen.png)](http://codepen.io/baddeo/pen/OPxJLP)
 
-[Absolute *inside* relative](http://css-tricks.com/absolute-positioning-inside-relative-positioning/) aha! moment
+The most powerful use of `position` is [**absolute *inside* relative**](http://css-tricks.com/absolute-positioning-inside-relative-positioning/). Double OMG :scream::scream:
 
 ### Float
 
