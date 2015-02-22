@@ -51,6 +51,8 @@ To make it more **playful** and keep people's *antennas* up, we could introduce 
 
 * GTD video captured most people's attention. **Buzzwords bingo** not sure, need to experiment more with it, maybe base the discussion around the buzzwords. In general, need to get better at **moderating discussions**.  
 
+* [Action plan](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#assignment): we're not following it. Try something practical like Trello?
+
 
 # Session 4
 
@@ -113,6 +115,29 @@ Maybe have some content ready, like a list of ingredients to plonk in as a `<ul>
 * People don't **edit** what they write. See [this example](https://github.com/jackkemmish/WEB14104/blob/master/students/Jack/Bad%20Websites/the_bad_website%20chosen%20one.md). There are sweeping **assumptions** like *it can be made more interesting by adding a better structure to the lay out* (what structure? how better? what is the lay out?)
 
 - [ ] Maybe show some stream of consciusness stuff.. some badly written text and ask them to re-write it?
+
+
+# Session 6
+
+### Wireframes critique
+
+It went well, people really engaged with it. 
+
+`+` give people post-its to write comments on
+`+` hang wireframes on the wall and stand around them
+
+- [x] Useful for the first session to be all around the same project and crit one project at a time. In future sessions we could try and do it more informally.
+
+- [x] Should have showed **bad examples** of wireframes before, such as empty boxes and lorem ipsum.
+
+Banned words
+
+* dynamic
+* Oswald font
+* yellow background
+
+- [x] Critiquette before leading questions
+
 
 
 
