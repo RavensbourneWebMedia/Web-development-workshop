@@ -286,7 +286,6 @@ When wireframing, ask yourself:
 * What content should be on this page?
 * Which content is most important on this page?
 * How is this content organised on this page?
-
 * Where users will go from this page?
 * Where is this page on the site?
 * How will users move around the site (navigation)?
