@@ -8,35 +8,35 @@ Array.prototype.getRandomElement = function ()
 Array.prototype.shuffle = function () 
 {
 	var currentIndex = this.length, 
-  		temporaryValue, 
-  		randomIndex
+		temporaryValue, 
+		randomIndex
 
-  	// While there remain elements to shuffle...
-  	while (0 !== currentIndex) 
-  	{
+	// While there remain elements to shuffle...
+	while (0 !== currentIndex) 
+	{
 
-    	// Pick a remaining element...
-    	randomIndex = Math.floor(Math.random() * currentIndex)
-    	currentIndex -= 1
+		// Pick a remaining element...
+		randomIndex = Math.floor(Math.random() * currentIndex)
+		currentIndex -= 1
 
-    	// And swap it with the current element.
-    	temporaryValue = this[currentIndex]
-    	this[currentIndex] = this[randomIndex]
-    	this[randomIndex] = temporaryValue
-  	}
+		// And swap it with the current element.
+		temporaryValue = this[currentIndex]
+		this[currentIndex] = this[randomIndex]
+		this[randomIndex] = temporaryValue
+	}
 
-  	return this
+	return this
 }
 
 function studentTemplate(student)
 {
 	var html = '<li>'
-    html += '<img src="http://learn.rave.ac.uk/moodle/pluginfile.php/' + student.imageId + '/user/icon/ravebootstrap/f3">'
-    html += '<h3>' + student.name + '</h3>'
-    // html += '<p>A short blurb about this person. Or is it a product?</p>'
-    // html += '<a class="button">Get in touch</a>'
-    html += '</li>'
-    return html
+	html += '<img src="http://learn.rave.ac.uk/moodle/pluginfile.php/' + student.imageId + '/user/icon/ravebootstrap/f3">'
+	html += '<h3>' + student.name + '</h3>'
+	// html += '<p>A short blurb about this person. Or is it a product?</p>'
+	// html += '<a class="button">Get in touch</a>'
+	html += '</li>'
+	return html
 }
 
 function listStudents()
