@@ -273,7 +273,7 @@ Consider a *mobile-first approach* (see the RWD section above).
 
 Two options:
 
-1. Use [Moqups](http://moqups.com) or [WireframeCC](https://wireframe.cc) and then upload your screens to [InVision](http://www.invisionapp.com) to make them clickable.
+1. Use [Moqups](http://moqups.com) and then upload your screens to [InVision](http://www.invisionapp.com) to make them clickable.
 
 	**or**
 
