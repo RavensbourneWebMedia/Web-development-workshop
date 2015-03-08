@@ -140,6 +140,18 @@
 			
 			border-right: 1px solid white;
 		}
-
-
 	}
+
+/* GRABBING CURSOR */
+
+li:hover
+{
+	cursor: -webkit-grab; 
+	cursor: -moz-grab;	
+}
+
+li:active
+{
+	cursor: -webkit-grabbing; 
+	cursor: -moz-grabbing;	
+}
