@@ -116,12 +116,12 @@
 	img:hover
 	{
 		/* for Chrome and Safari*/
-		-webkit-animation-name: shake;
-		-webkit-animation-duration: 1s;
+		/*-webkit-animation-name: shake;*/
+		/*-webkit-animation-duration: 1s;*/
 		
 		/* for all other browsers? */
-		animation-name: shake;
-		animation-duration: 1s;
+		/*animation-name: shake;*/
+		/*animation-duration: 1s;*/
 		
 		/* more properties to tweak your animations */
 		/*-webkit-animation-timing-function: ease-in-out;*/
