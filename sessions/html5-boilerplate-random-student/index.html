@@ -21,16 +21,17 @@
 
         <ul id="students"></ul>
         
-        
+
         <script src="js/vendor/jquery-1.11.2.min.js"></script>
         <script src="js/vendor/jquery-ui.js"></script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
+        <script src="data/students.js"></script>
         <script>
 
             $(document).ready(function()
             {
-                listStudents()
+                listStudents(students)
                 $("#students").sortable()
             })
 
