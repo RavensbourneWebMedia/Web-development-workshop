@@ -32,7 +32,16 @@
             $(document).ready(function()
             {
                 listStudents(students)
+                
                 $("#students").sortable()
+
+                $('.remove.button').click(function(event)
+                {
+                    var $button = $(event.target),
+                        $li = $button.parent()
+
+                    $li.remove()
+                })
             })
 
         </script>
