@@ -1,71 +1,88 @@
 var students = 
 [
 	{
-		name: 'Kieran Bailey',
+		name: 'Kieran',
+		surname: 'Bailey',
 		imageId: '106430'
 	},
 	{
-		name: 'Ryder Barnes',
+		name: 'Ryder',
+		surname: 'Barnes',
 		imageId: '106445'
 	},
 	{
-		name: 'Harry Difolco',
+		name: 'Harry',
+		surname: 'Difolco',
 		imageId: '106450'
 	},
 	{
-		name: 'Joe Dunkerley',
+		name: 'Joe',
+		surname: 'Dunkerley',
 		imageId: '106454'
 	},
 	{
-		name: 'Alexander Farmery',
+		name: 'Alexander',
+		surname: 'Farmery',
 		imageId: '106448'
 	},
 	{
-		name: 'Jonny Gwillim',
+		name: 'Jonny',
+		surname: 'Gwillim',
 		imageId: '106383'
 	},
 	{
-		name: 'Luke Henry',
+		name: 'Luke',
+		surname: 'Henry',
 		imageId: '106534'
 	},
 	{
-		name: 'Isaac Houghton',
+		name: 'Isaac',
+		surname: 'Houghton',
 		imageId: '106451'
 	},
 	{
-		name: 'Juliette Jupp',
+		name: 'Juliette',
+		surname: 'Jupp',
 		imageId: '106434'
 	},
 	{
-		name: 'Rana Karim',
+		name: 'Rana',
+		surname: 'Karim',
 		imageId: '106435'
 	},
 	{
-		name: 'Jack Kemmish',
+		name: 'Jack',
+		surname: 'Kemmish',
 		imageId: '106427'
 	},
 	{
-		name: 'Aidan Mcvay',
+		name: 'Aidan',
+		surname: 'Mcvay',
 		imageId: '106436'
 	},
 	{
-		name: 'Ollie Norris',
+		name: 'Ollie',
+		surname: 'Norris',
 		imageId: '106437'
 	},
 	{
-		name: 'Sanj Pardesi',
+		name: 'Sanj',
+		surname: 'Pardesi',
 		imageId: '106439'
 	},
 	{
-		name: 'Tom Sharman',
+		name: 'Tom',
+		surname: 'Sharman',
 		imageId: '106443'
 	},
 	{
-		name: 'Johan Wilhelmsson',
+		name: 'Johan',
+		surname: 'Wilhelmsson',
 		imageId: '106447'
 	},
 	{
-		name: 'Harry Wills',
+		name: 'Harry',
+		surname: 'Wills',
 		imageId: '106449'
 	}
 ]
