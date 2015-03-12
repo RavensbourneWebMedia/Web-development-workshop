@@ -139,6 +139,21 @@ Banned words
 - [x] Critiquette before leading questions
 
 
+# Session 9
+
+### Formative presentations issues
+
+* How to give consistent feedback? Some sort of form to fill in and hand out with the same fields..
+* *Peer assessment* To keep people engaged and listening to each other's presentations. Spreadsheet / matrix where everyone can give feedback to each other.. simple structure could be + (to be inspired) / - (to improve or change)
+- [x] Tried with [this](https://bit.ly/WEB14104formative)
+* How to make it less miserable for myself?
+* Practicing and rehearsing
+* Sticking to given time
+* Having your materials ready (all the files, don't faff around with code, opening/closing folders)
+* First slide should be a summary of your presentation: I'm going to start from A, then talk about B, then move on to C, and ask you D
+* Make your presentation <del>interactive</del>interesting: ask questions to your audience, tell a story, be excited (see speaking.io?)
+
+
 
 
 # Github: branching or forking?
