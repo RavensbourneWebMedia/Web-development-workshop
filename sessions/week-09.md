@@ -47,11 +47,18 @@ Formative Assessment presentations
 * Static
 
 
+
+# [Feedback matrix](http://bit.ly/WEB14104formative)
+
+This is the spreadsheet where we all give each other feedback.
+
+
+
 # Assignment
 
-Note the feedback your received and draft a **plan of action**.
+Note the feedback your received (see matrix above) and draft a **plan of action**.
 
-* What feedback did you receive?
+* What did people comment on?
 * How do you intend to respond to that feedback? (Accept / reject feedback, and why?)
 * How do you intend to take your project forward? 
 
