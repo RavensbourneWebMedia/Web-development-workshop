@@ -162,7 +162,7 @@ If other people are working at the same project, before you can upload your chan
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/git-pull.png)
 
-If there's a number over the *Pull button* it means that you need to pull those changes before you can push yours.
+If there's a number over the *Pull button* you should pull those *remote* changes into your *Working Copy* (and possibly sort out conflicts before you can push your changes).
 
 ### Pull request
 
