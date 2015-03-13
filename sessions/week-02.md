@@ -119,9 +119,16 @@ Using Terminal (or any other command-line tool) is very cool, in a Matrix-like w
 
 ## The Git workflow
 
-### 1. Commit
+### 1. Edit
 
-First, you edit your files on your computer (aka *Working Copy*). 
+First, you edit your files on your computer (aka *Working Copy*).
+
+Any changes you make to the Working Copy will appear on Source Tree.
+
+* New files will appear with a question mark (?) next to them.
+* Changed files will appear with an ellipsis (...) next to them.
+
+### 2. Commit
 
 When you’re ready to save a copy of the current state of the project, you *stage* changes and *commit* them to the project history.
 
@@ -129,21 +136,23 @@ Whenever you commit a bunch of changes to your files, you will need to add a *co
 
 It's good practice to **make lots of small commits** rather than one massive push at the end of the day.
 
-### 2. Pull
-
-Before you can upload your new/modified files to the mothership (aka *origin repository*), you need to **pull** the latest version from the mothership into your working copy. 
-
-**Pull = download**
-
 ### 3. Push
 
-The **push** command tells Git where to put your local changes (aka *commits*) when you're ready to upload them to the mothership (aka *origin repository*).
+After you're commited some changes, a number icon will pop up over the *Push button*. 
+
+This means that your commits are ready to be uploaded to the mothership (aka *origin repository*).
 
 The name of our remote is *origin* and the default local branch name is *master*. 
 
 **Push = upload**
 
-### 4. Pull request
+### Pull
+
+If other people are working at the same project, before you can upload your changes to the mothership (aka *origin repository*), you may need to **pull** the latest version from the mothership into your working copy. 
+
+If there's a number over the *Pull button* it means that you need to pull those changes before you can push yours.
+
+### Pull request
 
 Pull requests let you tell others about changes you've pushed to a Git repository. Once a pull request is sent, other people can review your changes, discuss potential modifications, and even push follow-up commits if necessary.
 
