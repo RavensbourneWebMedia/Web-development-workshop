@@ -138,7 +138,7 @@ Whenever you commit a bunch of changes to your files, you will need to add a **c
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/git-commit.png)
 
-It's good practice to **make lots of small commits** rather than one massive push at the end of the day.
+> It's good practice to **make lots of small commits** rather than one massive push at the end of the day.
 
 ### 3. Push
 
