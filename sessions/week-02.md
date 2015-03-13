@@ -121,7 +121,13 @@ Using Terminal (or any other command-line tool) is very cool, in a Matrix-like w
 
 ### 1. Commit
 
-The files you've changed on your machine (aka *Working Copy*) need to be **committed**, as they are not in the repository yet. We can add or remove files from the **Stage** before we store them in the repository.
+First, you edit your files on your computer (aka *Working Copy*). 
+
+When you’re ready to save a copy of the current state of the project, you *stage* changes and *commit* them to the project history.
+
+Whenever you commit a bunch of changes to your files, you will need to add a *commit message*. It can be anything, however it helps if you write something meaningful and descriptive of the changes you've made.
+
+It's good practice to **make lots of small commits** rather than one massive push at the end of the day.
 
 ### 2. Pull
 
