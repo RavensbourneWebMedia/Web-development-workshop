@@ -152,7 +152,11 @@ The name of our remote is *origin* and the default local branch name is *master*
 
 **Push = upload**
 
+If there are no conflicts between your files and those on the mothership, **you're done!**
+
 ### Pull
+
+**Pull = download**
 
 If other people are working at the same project, before you can upload your changes to the mothership (aka *origin repository*), you may need to **pull** the latest version from the mothership into your working copy. 
 
