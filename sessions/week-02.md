@@ -134,7 +134,7 @@ Any changes you make to the Working Copy will appear on Source Tree.
 
 When you’re ready to save a copy of the current state of the project, you *stage* changes and *commit* them to the project history.
 
-Whenever you commit a bunch of changes to your files, you will need to add a *commit message*. It can be anything, however it helps if you write something meaningful and descriptive of the changes you've made.
+Whenever you commit a bunch of changes to your files, you will need to add a **commit message**. It can be anything, however it helps if you write something meaningful and descriptive of the changes you've made.
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/git-commit.png)
 
@@ -168,7 +168,7 @@ We'll [learn more about pull requests](https://help.github.com/articles/using-pu
 
 # Research
 
-## What makes a website bad?
+### What makes a website bad?
 
 Spotting a bad website is quite easy. You'll know when you find one.
 
