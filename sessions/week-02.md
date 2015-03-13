@@ -146,6 +146,8 @@ After you're commited some changes, a number icon will pop up over the *Push but
 
 This means that your commits are ready to be uploaded to the mothership (aka *origin repository*).
 
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/git-push.png)
+
 The name of our remote is *origin* and the default local branch name is *master*. 
 
 **Push = upload**
