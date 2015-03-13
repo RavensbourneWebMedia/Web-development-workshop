@@ -156,6 +156,8 @@ The name of our remote is *origin* and the default local branch name is *master*
 
 If other people are working at the same project, before you can upload your changes to the mothership (aka *origin repository*), you may need to **pull** the latest version from the mothership into your working copy. 
 
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/git-pull.png)
+
 If there's a number over the *Pull button* it means that you need to pull those changes before you can push yours.
 
 ### Pull request
