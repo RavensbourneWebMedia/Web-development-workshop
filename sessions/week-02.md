@@ -125,6 +125,8 @@ First, you edit your files on your computer (aka *Working Copy*).
 
 Any changes you make to the Working Copy will appear on Source Tree.
 
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/git-edit.png)
+
 * New files will appear with a question mark (?) next to them.
 * Changed files will appear with an ellipsis (...) next to them.
 
@@ -133,6 +135,8 @@ Any changes you make to the Working Copy will appear on Source Tree.
 When you’re ready to save a copy of the current state of the project, you *stage* changes and *commit* them to the project history.
 
 Whenever you commit a bunch of changes to your files, you will need to add a *commit message*. It can be anything, however it helps if you write something meaningful and descriptive of the changes you've made.
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/git-commit.png)
 
 It's good practice to **make lots of small commits** rather than one massive push at the end of the day.
 
