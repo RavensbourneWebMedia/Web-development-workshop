@@ -3,8 +3,8 @@
 ## Today, Monday 12th January 2015
 
 1. Review learning goals
-* Marking things up (bit of theory)
-* Keeping projects tidy: MarkDown and Git
+* Marking things up (a bit of semiotics theory)
+* Tools of the trade: MarkDown and Git
 * Research bad websites
 
 
@@ -33,7 +33,9 @@
 
 ## Signs
 
-**Why** do we need to mark things (roads, manuscripts, code) up? <!--To **make sense** of them.-->
+**Why** do we need to mark things (roads, manuscripts, code) up? 
+
+<!--To **make sense** of them.-->
 
 ![Abbey Road: arguably the World's most famous zebra crossing](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/abbey-road-crossing.jpg)
 
@@ -41,7 +43,7 @@ What do white stripes across the road mean? Is that meaning universal?
 
 What does the picture above *denote*? What does it *connote*?
 
-If you're interested in learning more about *semiotics*, the theory of signs, [This means this, this means that](http://www.worldcat.org/title/this-means-this-this-means-that-a-users-guide-to-semiotics/oclc/154688644) is a good book to start.
+If you're interested in learning more about *semiotics* (the theory of signs) [This means this, this means that](http://www.worldcat.org/title/this-means-this-this-means-that-a-users-guide-to-semiotics/oclc/154688644) is an excellent book to start.
 
 <!-- Semiotics for beginners http://www.slideshare.net/MediaStudiesSaltash/semiotics-for-beginners-as-level -->
 
@@ -90,7 +92,7 @@ Writing HTML can be quite cumbersome ..
 
 Write your learning goals in MarkDown.
 
-You can use [this free app](http://25.io/mou/) to craft <abbr title="MarkDown">MD</abbr> files on Macs, or [this free one](http://markdownpad.com/) for Windows. Or you can work on MD online using [StackEdit](https://stackedit.io)!
+You can use [this free app](http://25.io/mou) to craft <abbr title="MarkDown">MD</abbr> files on Macs, or [this free one](http://markdownpad.com) for Windows. Or you can work on MD online using [StackEdit](https://stackedit.io)!
 
 Here is an [easy guide (3 minutes)](https://guides.github.com/features/mastering-markdown) on writing MarkDown.
 
