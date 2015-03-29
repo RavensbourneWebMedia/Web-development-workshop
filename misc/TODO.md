@@ -63,6 +63,20 @@
 
 # Term 3
 
+It's not enough to coast along and settle on the first (or second) design.
+
+I believe that you can all do better and I want to help you improve. 
+
+I don't want to be marking work that it's just *ok*. 
+
+So far we've been quite gentle at you but we're going to accellerate and it's going to get harder.
+
+You need to work harder and challenge yourselves.
+
+You're paying a lot to be here. Imagine yourself in a few years time, looking back at what you have done (or not) at uni. 
+
+Now it's your opportunity to experiment, to explore and soak up all the knowledge and skills from all the people that are around you here.
+
 ## Demos
 
 * How to create a mobile-friendly navigation (with hamburger button) (see http://adventure.com)
