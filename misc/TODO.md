@@ -33,13 +33,17 @@
 - [ ] [Initializr](http://www.initializr.com/)
 - [ ] Install [Dash](http://kapeli.com/dash)
 - [x] [TypeCast](http://typecast.com) to design with Web fonts in the browser
+- [ ] [Card sort generator](http://ignorethecode.net/blog/2015/03/20/card_sort_generator)
 
 
 ## Typography
 
 - [ ] [Free Web fonts](http://www.typewolf.com/free-fonts)
-- [x] [Typography games](http://type.method.ac/)
+- [x] [Typography games](http://type.method.ac)
 
+## Web Literacy
+
+- [ ] http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/index.html#
 
 ## To sort out..
 
@@ -54,14 +58,56 @@
 
 - [ ] [Maths and Web design](http://www.smashingmagazine.com/2010/02/09/applying-mathematics-to-web-design)
 
+- [ ] https://sumall.com/thankyou neat one-page, would make a good tutorial 
+
 
 # Term 3
 
-* JS
+## Demos
 
-	demo how to build the Student Shuffler?
+* How to create a mobile-friendly navigation (with hamburger button) (see http://adventure.com)
+* How to make a fixed footer (again, see http://adventure.com)
 
-* SASS?
+## FTP and hosting
 
-* FTP and hosting
+* Doug's guide on hosting stuff on GitHub (via GitHub pages) http://dougbelshaw.com/blog/2015/01/04/github-pages
+
+## POP
+
+* https://github.com/matteomenapace/learnable-programming-demo
+
+## JS
+
+* demo how to build the Student Shuffler?
+* https://docs.google.com/document/d/1aa2-HtUglQrAps31s4LdTPVsiFb1BxhyjZolxeezzcI/preview?sle=true
+* https://jsx.github.io/try-on-web/#
+* [jQuery quiz](http://tonyfreed.com/blog/top_jquery_interview_question_2015#sthash.utx9nyaD.dpbs) (it's actually meant to be interview questions but can be repurposed)
+
+## WP
+
+From Gutenberg (printing revolution) to Zuckerberg (social media "revolution"), passing by WordPress (blogging revolution: everyone can be a publisher)
+
+Jargon Buster: API, SPA, REST...
+
+SPA (Single Page Application) vs page reload: Using the API has a performance benefit: static HTML pages with JS to fetch the data is a thing! No PHP dependency.
+
+* http://wp-api.org/
+* http://tareq.wedevs.com/2013/09/backbone-js-powered-proof-of-concept-wordpress-theme/	
+* http://www.sitepoint.com/wordpress-json-rest-api
+* https://github.com/matteomenapace/REST-API-Theme
+* http://studioraygun.co.uk/blog/angularjs-front-end-wordpress-back-end
+
+* http://thenuschool.com/create-a-wordpress-website-just-15-min-no-coding-needed
+
+WordPress is one of the best platforms out there for creating a website. It's super awesome for blogging. It's open-sourced and has tons of free plugins and themes you can play with. 
+Hey, even the nuSchool blog is built with WordPress! (Also: Adobe blogs, Huffington Post, TED, CNN, TIME, UPS.....)
+
+
+## SASS
+
+## Misc
+
+- FR£€? As in free account on FB, or freedom of information?
+
+
 
