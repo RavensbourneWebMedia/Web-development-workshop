@@ -51,15 +51,15 @@ Session	| Date			| In class				| Assignment(s)
 [7](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md)		| Mon Feb 23rd	| CSS transitions and animations | [HTML+CSS wireframes](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md#1-html--css-wireframes)<br> [Webdesign myths](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md#2-blog-about-one-of-the-following-webdesign-myths)
 [8](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-08.md)		| Mon Mar 2nd	| Inspecting and debugging websites | 
 [9](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-09.md)		| **Mon Mar 9th**	| Formative Assessment | Action plan (revised)
-[10](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-10.md)		| Thu Apr 16th	| POP (principles of programming)<br>FTP: putting stuff on servers |
-[11](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-11.md)		| Thu Apr 23rd	| PHP: programming on the server<br>Web-servers | 
-[12](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-12.md)		| Thu Apr 30th	| WordPress 1/4 | 
-[13](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-13.md)		| Thu May 7th	| WordPress 2/4 | 
-[14](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-14.md)		| Thu May 14th	| WordPress 3/4 (templates) | 
-[15](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-15.md)		| Thu May 21st	| WordPress 4/4 (themes) | 
-[16](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-16.md)		| Thu May 28th	| How to buy a domain and host a website | 
-[17](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-17.md)		| Thu Jun 4th	| Tutorials | Learning outcomes
-[18](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-18.md)		| **Thu Jun 11th**	| Summative presentation and hand-in | Unit feedback form
+[10](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-10.md)		| Fri Apr 17th	| POP (principles of programming)<br>FTP: putting stuff on servers |
+[11](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-11.md)		| Fri Apr 24th	| PHP: programming on the server<br>Web-servers | 
+[12](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-12.md)		| Fri May 1st	| WordPress 1/4 | 
+[13](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-13.md)		| Fri May 8th	| WordPress 2/4 | 
+[14](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-14.md)		| Fri May 15th	| WordPress 3/4 (templates) | 
+[15](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-15.md)		| Fri May 22nd	| WordPress 4/4 (themes) | 
+[16](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-16.md)		| Fri May 29th	| How to buy a domain and host a website | 
+[17](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-17.md)		| Fri Jun 5th	| Tutorials | Learning outcomes
+[18](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-18.md)		| **Fri Jun 12th**	| Summative presentation and hand-in | Unit feedback form
 
 
 
@@ -85,7 +85,7 @@ Your final mark will be based on:
 
 #### F
 
-[M.I.A.](http://en.wikipedia.org/wiki/Missing_in_action) The student failed to deliver the assignment. 
+[M.I.A.](http://en.wikipedia.org/wiki/Missing_in_action) We saw you around but you failed to show evidence of your work. 
 
 #### E
 
