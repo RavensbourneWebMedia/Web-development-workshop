@@ -96,7 +96,9 @@ How about this language?
 
 # Let's code
 
-Meet the [**Javascript Console**]().
+Meet the [**JavaScript Console**](http://webmasters.stackexchange.com/a/77337).
+
+![](assets/console.png)
 
 It's like having a chat with your browser.
 
@@ -201,7 +203,7 @@ jQuery("h1").hide();
 
 which is the equivalent of telling the browser to `select all h1 elements in the page` (same as CSS) and `apply the hide function to them` 
 
-### Making stuff happens on demand
+### Making stuff happen on demand
 
 This is where *programming* languages show how much more powerful than coding languages like HTML and CSS. Programming has something to do with the *future*, you're defining instructions and behaviour that will happen in the future, if and when something specific happens.
 
