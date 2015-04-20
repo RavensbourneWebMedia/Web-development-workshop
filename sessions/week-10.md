@@ -2,8 +2,8 @@
 
 ### Today, Friday 17th April 2015
 
-1. POP (principles of programming)
-* Meet JavaScript
+1. PoP (principles of programming)
+* Meet JavaScript and jQuery
 
 
 
@@ -66,75 +66,191 @@ We can then make them their code more *abstract* and *flexible* with **logic** a
 
 There are lots of programming languages, and they share the same core principles, and the same **building blocks**: 
 
-1. Data → Variables 
-* Actions → Functions 
-* Decisions → Logic 
-
-Think about the robot game: which variables, functions and logic did we use?
+1. **Variables** store data 
+* **Functions** define reusable sets of instructions
+* **Logic** is about making choices (if this then that)
 
 What variables, functions and logic do you use in your everyday life (even if you don't call them so)?
 
+* **Variables** weather (sunny, cloudy, warm, cold..), date, location.. 
+* **Functions** get out of bed, check weather (on you phone, on TV..), check calendar
+* **Logic** if sunny then wear sunglasses, if rainy then take umbrella
 
-### Natural vs Programming languages 
+<!--Think about the robot game: which variables, functions and logic did we use?-->
+
+### Natural vs programming languages 
 
 * `the cat drinks milk` English 
 * `de kat drinkt melk` Dutch
 * `die Katze trinkt Milch` German 
 * `il gatto beve latte` Italian 
 
-Can you see a pattern here?
+Can you see a pattern here? A *subject* performing an *action* on an *object*. No matter which language, the structure is the same.
 
-How about this?
+Imagine you read this sentence in a language you don't speak. You can still try and make sense of it, by comparing it to a language you know. This process of *trying to make sense* is very important in programming.
+
+How about this language?
 
 `cat.drink(milk)` JavaScript (written by an English-speaking human)
 
 
 # Let's code
 
-Meet the **Console**
+Meet the [**Javascript Console**]().
 
-        var cat = { ... }
-        cat.drink = function(beverage) { ... }
-        ...
-        var milk = ...
-        ...
-        cat.drink(milk)
+It's like having a chat with your browser.
 
-### Codio
+```javascript
+hello
+	Uncaught ReferenceError: hello is not defined
+"hello"
+	"hello"
+```
+
+Difference between words with **speech marks** (the browser simply parrots them) and words without speech marks 
+
+```javascript	
+var salutation = "hello"
+	undefined
+salutation
+	"hello"
+salutation = "hej"
+	"hej"
+salutation
+	"hej"
+```
+
+Using **variables** to get the browser to remember things.
+
+```javascript	
+alert("ciao")
+	undefined
+alert(salutation)
+	undefined
+prompt("How do you say hello in your language?")
+	"ciao"
+var userSalutation = prompt("How do you say hello?")
+	undefined
+userSalutation
+	"hola"
+```
+
+The browser can perform certain actions (aka **functions**) natively, like humans can natively breath, eg: `alert` and `prompt` 
+
+We can also teach the browser how to do stuff, by **defining our own functions**
+	
+```javascript	
+cat
+	Uncaught ReferenceError: cat is not defined
+var cat = {}
+	undefined
+cat.name = "Bill"
+	"Bill"
+cat
+	Object {name: "Bill"}
+```
+
+**Objects** are useful to keep things organised.
+
+```javascript	
+cat.meow = function(){ alert("MEOOOOOOW") }
+	function (){ alert("MEOOOOOOW") }
+cat.meow()
+	undefined
+cat.drink = function(beverage){ alert("I am drinking " + beverage) }
+	function (beverage){ alert("I am drinking " + beverage) }
+cat.drink("milk")
+	undefined
+cat.drink("tea")
+	undefined
+cat.drink("beer")
+	undefined
+```
+
+We can add pretty much anything to objects, including functions.
+
+Functions are useful to **make code reusable**. For instance, the action of *drinking* remains the same, no matter what you are drinking.
+
+
+
+<!-- ### Codio
 
 1. Sign up to [Codio](https://codio.com) 
 * Create a new project 
+* In Project > Permissions.. add me `baddeo` as your collaborator, give me `WRITE` permissions. This way I'll be able to help you in case you get stuck. -->
+
+### Brief
+
+> Make an app that helps people **make lunch**. The app must take a human **input** (eg: search keywords), use **data from the Web**, and then present a human-readable **output** (eg: list of recipes)
+
+1. Break down the problem
+* Code it
+
+
+### Meet jQuery
+
+> [jQuery](https://jquery.com/) is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
+
+You probably know jQuery because of its *plugins* (image slider, Masonry..) and maybe you've tried to mess around with those a bit.
+
+jQuery uses CSS-like selectors, so for example if you want to manipulate a `h1` element in your page, you can do it like this
+
+```js
+jQuery("h1").hide();
+``` 
+
+which is the equivalent of telling the browser to `select all h1 elements in the page` (same as CSS) and `apply the hide function to them` 
+
+### Making stuff happens on demand
+
+This is where *programming* languages show how much more powerful than coding languages like HTML and CSS. Programming has something to do with the *future*, you're defining instructions and behaviour that will happen in the future, if and when something specific happens.
+
+For example, we want a certain element in the page to hide only when we click on a certain button. Using jQuery, we can do it like this
+
+```js
+
+// $ is a shortcut for jQuery
+// jQuery("button") is the same as $("button")
+// select the button, and make it run the function hideH1 when the "click" happens
+$("button").on("click", hideH1);
+
+// define the hideH1 function
+function hideH1() {
+	jQuery("h1").hide();
+}
+
+```
+
+Learn more about [how jQuery works](http://learn.jquery.com/about-jquery/how-jquery-works).
+
+
+# Resources
+
+[Eloquent JavaScript](https://docs.google.com/document/d/1aa2-HtUglQrAps31s4LdTPVsiFb1BxhyjZolxeezzcI/preview?sle=true), linked here as a loooong Google document, is an excellent book on the principles of programming. It applies them to JavaScript. 
+
+> **Programming, it turns out, is hard**. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. **You’re building your own maze**, in a way, and you might just get lost in it.
+ 
+> Analogies that try to compare programs to objects we are familiar with tend to fall short. A superficially fitting one is that of a machine—lots of separate parts tend to be involved, and to make the whole thing tick, we have to consider the ways in which these parts interconnect and contribute to the operation of the whole.
+
+> A computer is a machine built to act as a host for these immaterial machines. **Computers themselves can do only stupidly straightforward things**. The reason they are so useful is that they do these things at an incredibly high speed. A program can ingeniously combine an enormous number of these simple actions in order to do very complicated things.
+
+
+[jQuery Fundamentals](http://jqfundamentals.com) is an interactive guide to get comfortable working through common problems you'll be called upon to solve using jQuery.
+
+
+
+
+<!-- # Assignment
+
+- [ ] TODO -->
+
 
 <!--
-* Link to GitHub: Tools > Git > Remotes...
+[Link Codio to your GitHub repository](https://codio.com/docs/ide/editing/git/remotes/)
+
+ Tools > Git > Remotes...
 	* name: `origin`
 	* URL: your GitHhub repo's URL
 * open Codio's Terminal and type `git pull origin master` to pull your repo into Codio
 * [Install Ungit](http://forum.codio.com/t/install-and-use-ungit-on-codio/885)
 -->
-
-
-* Meet jQuery
-* quick win: make something appear and disappear from the page
-* second quick win: add an event listener to a button, or to the form submit
-* get input values
-
-
-### APIs 
-
-* Data from the Web
-* Don't care what it looks like, just give me the data (see [The interface layer](https://medium.com/bridge-collection/the-interface-layer-when-design-commoditizes-tech-e7017872173a)) and I'll make it work and look proper
-* URLs to get and send data, examples
-
-	* Google
-	* Facebook (www vs graph)
-	* Gender-api
-	* Mashape?
-	* Edamam
-
-
-
-
-# Assignment
-
-- [ ] TODO
