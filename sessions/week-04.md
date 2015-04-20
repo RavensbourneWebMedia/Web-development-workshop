@@ -350,3 +350,9 @@ There are tons of [moodboards on Pinterests tagges as *webdesign*](https://www.p
 Also, check out [SiteInspire](http://www.siteinspire.com) and [Panda](https://usepanda.com)!
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/site-inspire.png)
+
+
+
+# Resources
+
+[Learn Layout](http://learnlayout.com/) teaches the CSS fundamentals that are used in any website's layout.
