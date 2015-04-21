@@ -241,7 +241,7 @@ Learn more about [how jQuery works](http://learn.jquery.com/about-jquery/how-jqu
 <!--- [ ] [Learnable Programming](http://worrydream.com/LearnableProgramming) -->
 
 
-# Assignment
+# Challenge
 
 Go to jQuery Fundamentals and learn about [jQuery HTML manipulation](http://jqfundamentals.com/chapter/traversing-manipulating).
 
@@ -251,6 +251,7 @@ Using its *editor*, make these happen:
 
 1. Change the content of `h3` (to whatever you like)
 * Change the content of the `li` currently saying `CSS` (to whatever you like)
+* Make the `select` dropdown disappear
 * Tick the `checkbox`
 * Type in something in the `input` text box, capture its value and then add it at the end of the `ul`
 
