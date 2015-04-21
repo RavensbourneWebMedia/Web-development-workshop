@@ -210,7 +210,6 @@ This is where *programming* languages show how much more powerful than coding la
 For example, we want a certain element in the page to hide only when we click on a certain button. Using jQuery, we can do it like this
 
 ```js
-
 // $ is a shortcut for jQuery
 // jQuery("button") is the same as $("button")
 // select the button, and make it run the function hideH1 when the "click" happens
@@ -220,7 +219,6 @@ $("button").on("click", hideH1);
 function hideH1() {
 	jQuery("h1").hide();
 }
-
 ```
 
 Learn more about [how jQuery works](http://learn.jquery.com/about-jquery/how-jquery-works).
@@ -240,11 +238,26 @@ Learn more about [how jQuery works](http://learn.jquery.com/about-jquery/how-jqu
 [jQuery Fundamentals](http://jqfundamentals.com) is an interactive guide to get comfortable working through common problems you'll be called upon to solve using jQuery.
 
 
+<!--- [ ] [Learnable Programming](http://worrydream.com/LearnableProgramming) -->
 
 
-<!-- # Assignment
+# Assignment
 
-- [ ] TODO -->
+Go to jQuery Fundamentals and learn about [jQuery HTML manipulation](http://jqfundamentals.com/chapter/traversing-manipulating).
+
+![](assets/jQuery-Fundamentals-editor.png)
+
+Using its *editor*, make these happen:
+
+1. Change the content of `h3` (to whatever you like)
+* Change the content of the `li` currently saying `CSS` (to whatever you like)
+* Tick the `checkbox`
+* Type in something in the `input` text box, capture its value and then add it at the end of the `ul`
+
+Screenshot your code and its results (like in the image above) and then push it to your folder on GitHub.
+
+
+
 
 
 <!--
