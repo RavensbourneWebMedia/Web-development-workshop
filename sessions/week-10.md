@@ -245,7 +245,7 @@ Learn more about [how jQuery works](http://learn.jquery.com/about-jquery/how-jqu
 
 Go to jQuery Fundamentals and learn about [jQuery HTML manipulation](http://jqfundamentals.com/chapter/traversing-manipulating).
 
-![](assets/jQuery-Fundamentals-editor.png)
+[![](assets/jQuery-Fundamentals-editor.png)](http://jqfundamentals.com/chapter/traversing-manipulating)
 
 Using its *editor*, make these happen:
 
@@ -253,7 +253,7 @@ Using its *editor*, make these happen:
 * Change the content of the `li` currently saying `CSS` (to whatever you like)
 * Make the `select` dropdown disappear
 * Tick the `checkbox`
-* Type in something in the `input` text box, capture its value and then add it at the end of the `ul`
+* Type some text into the `input` text box, capture its `value` and then add it at the end of the `ul`
 
 Screenshot your code and its results (like in the image above) and then push it to your folder on GitHub.
 

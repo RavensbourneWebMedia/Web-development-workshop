@@ -42,24 +42,24 @@ Your re-designed version must
 
 Session	| Date			| In class				| Assignment(s)
 -------	| -------------	| --------------------	| ------------------------------
-[1](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md)		| Mon Jan 5th 	| Unit intro <br>How does the WWW work?  | [Draw the Web!](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md#draw-the-web) <br>[Learning goals](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md#assignment-for-next-week)
-[2](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md)		| Mon Jan 12th	| MarkDown and Git | [*Bad* webdesign principles](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md#assignment-for-next-week)
-[3](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md)		| Mon Jan 19th	| HTML<br>	Project management | [Action plan](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#assignment)
-[4](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md)		| Mon Jan 26th	| CSS 101 | [Moodboard](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md#assignment)
-[5](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md)		| Mon Feb 2nd	| CSS position, float and grids | [Recipe documentation](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md#1-document-your-recipes-evolution) <br>[Paper wireframes](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md#2-sketch-out-your-ideas-on-paper)
-[6](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md)		| Mon Feb 16th	| CSS responsive | [Digital wireframes](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md#1-redraft-your-wireframes) <br>[The Internet's Own Boy](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md#2-blog-about-this-film)
-[7](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md)		| Mon Feb 23rd	| CSS transitions and animations | [HTML+CSS wireframes](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md#1-html--css-wireframes)<br> [Webdesign myths](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md#2-blog-about-one-of-the-following-webdesign-myths)
-[8](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-08.md)		| Mon Mar 2nd	| Inspecting and debugging websites | 
-[9](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-09.md)		| **Mon Mar 9th**	| Formative Assessment | Action plan (revised)
-[10](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-10.md)		| Fri Apr 17th	| POP (principles of programming)<br>FTP: putting stuff on servers |
-[11](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-11.md)		| Fri Apr 24th	| PHP: programming on the server<br>Web-servers | 
-[12](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-12.md)		| Fri May 1st	| WordPress 1/4 | 
-[13](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-13.md)		| Fri May 8th	| WordPress 2/4 | 
-[14](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-14.md)		| Fri May 15th	| WordPress 3/4 (templates) | 
-[15](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-15.md)		| Fri May 22nd	| WordPress 4/4 (themes) | 
-[16](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-16.md)		| Fri May 29th	| How to buy a domain and host a website | 
-[17](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-17.md)		| Fri Jun 5th	| Tutorials | Learning outcomes
-[18](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-18.md)		| **Fri Jun 12th**	| Summative presentation and hand-in | Unit feedback form
+[1](sessions/week-01.md)		| Mon Jan 5th 	| Unit intro <br>How does the WWW work?  | [Draw the Web!](sessions/week-01.md#draw-the-web) <br>[Learning goals](sessions/week-01.md#assignment-for-next-week)
+[2](sessions/week-02.md)		| Mon Jan 12th	| MarkDown and Git | [*Bad* webdesign principles](sessions/week-02.md#assignment-for-next-week)
+[3](sessions/week-03.md)		| Mon Jan 19th	| HTML<br>	Project management | [Action plan](sessions/week-03.md#assignment)
+[4](sessions/week-04.md)		| Mon Jan 26th	| CSS 101 | [Moodboard](sessions/week-04.md#assignment)
+[5](sessions/week-05.md)		| Mon Feb 2nd	| CSS position, float and grids | [Recipe documentation](sessions/week-05.md#1-document-your-recipes-evolution) <br>[Paper wireframes](sessions/week-05.md#2-sketch-out-your-ideas-on-paper)
+[6](sessions/week-06.md)		| Mon Feb 16th	| CSS responsive | [Digital wireframes](sessions/week-06.md#1-redraft-your-wireframes) <br>[The Internet's Own Boy](sessions/week-06.md#2-blog-about-this-film)
+[7](sessions/week-07.md)		| Mon Feb 23rd	| CSS transitions and animations | [HTML+CSS wireframes](sessions/week-07.md#1-html--css-wireframes)<br> [Webdesign myths](sessions/week-07.md#2-blog-about-one-of-the-following-webdesign-myths)
+[8](sessions/week-08.md)		| Mon Mar 2nd	| Inspecting and debugging websites | 
+[9](sessions/week-09.md)		| **Mon Mar 9th**	| Formative Assessment | Action plan (revised)
+[10](sessions/week-10.md)		| Fri Apr 17th	| POP (principles of programming)<br>Meet JavaScript (and  jQuery) | [jQuery challenge](sessions/week-10.md#challenge)
+[11](sessions/week-11.md)		| Fri Apr 24th	| PHP: programming on the server<br>Web-servers | 
+[12](sessions/week-12.md)		| Fri May 1st	| WordPress 1/4 | 
+[13](sessions/week-13.md)		| Fri May 8th	| WordPress 2/4 | 
+[14](sessions/week-14.md)		| Fri May 15th	| WordPress 3/4 (templates) | 
+[15](sessions/week-15.md)		| Fri May 22nd	| WordPress 4/4 (themes) | 
+[16](sessions/week-16.md)		| Fri May 29th	| How to buy a domain and host a website | 
+[17](sessions/week-17.md)		| Fri Jun 5th	| Tutorials | Learning outcomes
+[18](sessions/week-18.md)		| **Fri Jun 12th**	| Summative presentation and hand-in | Unit feedback form
 
 
 
@@ -67,8 +67,8 @@ Session	| Date			| In class				| Assignment(s)
 
 Your final mark will be based on:
 
-* [80% project](https://github.com/RavensbourneWebMedia/WEB14104#project)
-* [20% blog](https://github.com/RavensbourneWebMedia/WEB14104#blog)
+* [80% project][#project]
+* [20% blog][#blog]
 
 
 ## Project
@@ -134,13 +134,13 @@ Your blog should have at least 12 posts.
 
 Topics from each week:
 
-1. [Draw the Web!](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-01.md#draw-the-web)
+1. [Draw the Web!](sessions/week-01.md#draw-the-web)
 * [What are your learning goals for this unit?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
-* [Present the *bad* website you will re-design](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md#assignment-for-next-week)
-* [Action plan](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#assignment)
-* [Moodboard](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md#assignment)
-* [The Internet's Own Boy](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md#2-blog-about-this-film)
-* [Webdesign myths](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-07.md#2-blog-about-one-of-the-following-webdesign-myths)
+* [Present the *bad* website you will re-design](sessions/week-02.md#assignment-for-next-week)
+* [Action plan](sessions/week-03.md#assignment)
+* [Moodboard](sessions/week-04.md#assignment)
+* [The Internet's Own Boy](sessions/week-06.md#2-blog-about-this-film)
+* [Webdesign myths](sessions/week-07.md#2-blog-about-one-of-the-following-webdesign-myths)
 * *More to come*
 
 Refer to the general **[Web Media blog assessment criteria](https://github.com/RavensbourneWebMedia/Blogging/blob/master/assessment-criteria.md)** for a detailed grading breakdown.
