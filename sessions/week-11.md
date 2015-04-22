@@ -259,11 +259,104 @@ Without `return` we wouldn't know the answer!
 	* Mashape?
 	* Edamam
 
+Data APIs vs service APIs
 
 
 # Arrays
 
+### When?
+
+When you want to store a list of things that have the **same data structure**.
+
+Data APIs often return **lists** of objects (a list of recipes, or a list of photos, or a list of posts).
+
+Each object contains different data, but has the same data structure.
+
+### Why?
+
+Because it's useful to have consistent data structures when you need to compare a lot of values quickly.
+
+We may want to compare them so that we can sort them (eg the most popular picture, or the recipe with the shortest preparation time)
+
+### How?
+
+To create an array, we declare a variable like we always do, but then we surround our list of values with *square brackets* and separate each value with a comma.
+
+To create an array of **numbers**
+```js
+var primeNumbers = [2, 3, 5, 7, 11, 13]; 
+// the list goes on but we stop here
+```
+
+We can store any sort of JavaScript value in an array, not just numbers. Here's an example where we make an array of **strings**
+
+```js
+var animals = ["antelope", "zebra", "cat", "dog"]; 
+// the list could go on
+```
+
+APIs often return arrays of **objects**
+
+```js
+var recipes = [
+	{
+		name: 'Banana bread',
+		ingredients: [ ... ],
+		picture: 'http://example.com/banana-bread.jpg'
+	},
+	{
+		name: 'Banana fritters',
+		ingredients: [ ... ],
+		picture: 'http://example.com/banana-fritters.png'
+	}
+];
+// the list could go on
+```
+
+#### How long?
+
+To know how long an array is, we can use its `length` property
+
+`recipes.length`
+
+#### How do we access them?
+
+When we want to access a particular value in an array, we access it by referencing its **index** in the array, which represents its *position* in the list. 
+
+The first index in an array is `0`, so if we want to access the first element in an array, we specify the name of the array variable, then `0` in square brackets
+
+```js
+var animals = ["antelope", "zebra", "cat", "dog"]; 
+
+animals[0] // "antelope"
+animals[2] // "cat"
+```
+
+The **zero-based indexing** is one of the most confusing aspects of arrays for new programmers :scream_cat:
+
+#### How do we change them?
+
+Arrays can be changed in many ways. To change a value
+
+```js 
+animals[1] = "crocodile";
+```
+
+We can also add entirely new values to them, using the `push()` function
+
+```js 
+animals.push("penguin");
+```
+
+
 # Loops
+
+We often want to take some action for every element in an array, like how we used the text() command to display the names above. Instead of writing that code over and over, it's better to use a for loop to iterate through each of the elements in the array, and do something to each element inside the loop. We have to start from index 0, go until we reach the end of the array, and add 1 to the index each time. Here's how we'd do that:
+for (var i = 0; i < myFriends.length; i++) {
+   text(myFriends[i], 200, i*100);
+}
+
+Notice how we put i inside the square brackets, because it represents the current index each time the loop is run.
 
 use `while` and Choc
 
