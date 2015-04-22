@@ -2,8 +2,8 @@
 
 ### Today, Friday 17th April 2015
 
-1. PoP (principles of programming)[⤵︎](#programming-vs-coding)
-* Meet JavaScript[⤵︎](#lets-code) and jQuery[⤵︎](#meet-jquery)
+1. [PoP (principles of programming)](#programming-vs-coding)
+* Meet [JavaScript](#lets-code) and [jQuery](#meet-jquery)
 
 Your [homework](#challenge)!
 
