@@ -2,10 +2,10 @@
 
 ### Today, Friday 17th April 2015
 
-1. PoP (principles of programming)
-* Meet JavaScript and jQuery
+1. [PoP (principles of programming)](#programming-vs-coding)
+* Meet [JavaScript](#lets-code) and [jQuery](#meet-jquery)
 
-
+Your [homework](#challenge)!
 
 # Programming vs coding
 
@@ -106,7 +106,7 @@ We can then make them their code more *abstract* and *flexible* with **logic** a
 (The idea is to engage people with an [easy task](http://pss.sagepub.com/content/early/2012/08/31/0956797612446024.abstract) before we challenge them with a demanding one)-->
 	
 
-### Principles of Programming (POP)
+### Principles of Programming
 
 There are lots of programming languages, and they share the same core principles, and the same **building blocks**: 
 

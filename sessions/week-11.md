@@ -2,16 +2,16 @@
 
 ### Today, Friday 24th April 2015
 
-1. Variables
-* Objects
-* Functions
-* APIs
+1. [Variables](#variables)
+* [Objects](#objects)
+* [Functions](#functions)
+* [APIs](#apis)
 * Logic
-* Arrays
-* Loops
-* Templating
+* [Arrays](#arrays)
+* [Loops](#loops)
+* [Templating](#templating)
 
-
+Your [homework](#assignment)!
 
 # Building blocks
 
@@ -58,7 +58,7 @@ greet();
 
 ### Programming is a **way of thinking**
 
-[ ] [Learnable Programming](http://worrydream.com/LearnableProgramming) 
+- [ ] [Learnable Programming](http://worrydream.com/LearnableProgramming) 
 
 
 # Variables
