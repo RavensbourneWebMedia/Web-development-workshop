@@ -63,7 +63,7 @@ greet();
 
 ### When?
 
-Whenever you want the browser (or computer) to **remember something**..
+Whenever you want a computer to **remember something**.
 
 ### Why?
 
@@ -84,10 +84,10 @@ greet(userName);
 
 To use a variable, we must 
 
-1. *declare* it: give it a **label**, let the computer/browser know about the variable
+1. *declare* it: give it a **label**, let the computer know about the variable
 
 	`var myName;`
-2. *assign* it: give it a **value**, let the computer/browser know what *value* we are storing in the variable
+2. *assign* it: give it a **value**, let the computer know what *value* we are storing in the variable
 
 	`myName = "Matteo";`
 
@@ -99,6 +99,85 @@ To use a variable, we must
 * Variable names cannot be multiple words, so you can use [*camel case*](http://en.wikipedia.org/wiki/CamelCase) for  variables like `userTelephoneNumber` (instead of `usertelephonenumber`).
 
 # Functions
+
+### When?
+
+Whenever we want a computer to **do something**, like capturing an input, making a calculation, comparing data, answering a question, sending data, requesting data, drawing stuff on screen... 
+
+### Why?
+
+Functions are useful to **make code reusable and flexible**. For instance, the action of *drinking* remains the same, no matter what you are drinking.
+
+```js
+cat.drink = function(beverage) { 
+	alert("I am drinking " + beverage); 
+}
+// let the cat drink various drinks
+cat.drink("milk");
+cat.drink("tea");
+cat.drink("beer");
+```
+
+### How?
+
+To use a function, we must
+
+1. *declare* it: give it a **name** and teach the computer about the **steps** required to perform that action
+
+	```js
+	function meow() {
+		alert("MEOOOOOOW");
+	}
+	``` 
+2. *call* it: tell the computer to **execute** the code inside the function, by writing its name followed by round brackets	
+
+	```js
+	meow();
+	// and again
+	meow();
+	```
+
+### Arguments
+
+`meow()` is a **reusable** function. How can we make it **flexible**?
+
+```js
+function meow(message) {
+	alert("MEOOOOOOW " + message);
+}
+// different messages
+meow("I'm hungry");
+meow("I need a nap");
+``` 
+
+The `message` is a **parameter**, that is a [variable](#variables) which lives inside the `meow` function.
+
+`I'm hungry` and `I need a nap` are called **arguments** ([don't argue, that's what they're called](http://programmers.stackexchange.com/questions/186293/why-are-actual-parameters-called-arguments)) and they are the actual values that we *pass* to a function.
+
+### What happens in a function, stays in a function
+
+There's another powerful thing we can do with functions: we can use them to take in some values, compute them, and then return a new value.
+
+```js
+function areYouAnAdult(age) {
+  var answer;
+  if (age < 18) answer = "no";
+  else answer = "yes";
+  return answer;
+};
+```
+
+`return` does two things: 
+
+1. it gives a value back to whoever asked for it 
+2. it immediately exits the function
+
+```js
+areYouAnAdult(16); // returns "no"
+areYouAnAdult(23); // returns "yes"
+```
+
+Without `return` we wouldn't know the answer!
 
 # Objects
 
@@ -113,6 +192,13 @@ use `while` and Choc
 Use example from github
 
 
+# Resources
+
+[JavaScript for cats](http://jsforcats.com) is an interactive, easy introduction to JavaScript. 
+
+Intended audience: *cats*.
+
+[![](http://jsforcats.com/images/customers5.jpg)](http://jsforcats.com)
 
 
 # Assignment
@@ -121,6 +207,9 @@ Use example from github
 
 
 ### APIs 
+
+Like calling a function over the Web
+
 
 * Data from the Web
 * Don't care what it looks like, just give me the data (see [The interface layer](https://medium.com/bridge-collection/the-interface-layer-when-design-commoditizes-tech-e7017872173a)) and I'll make it work and look proper
