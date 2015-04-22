@@ -72,7 +72,7 @@ Whenever you want a computer to **remember something**.
 Variables are useful because they let us write programs without knowing the data which will flow through them.
 
 ```js
-// We don't know their name yet, but we can define how to greet them
+// we don't know their name just yet, but we can define how to greet them
 function greet(name) {
 	alert("Hello " + name + "!");
 }
@@ -98,14 +98,14 @@ To use a variable, we must
 * Variable names should be **clear and meaningful**: `myName` is better than `n` or `name` 
 * Variable names should begin with letters, `$` or `_` and only contain letters, numbers, `$` and `_`
 * Variable names are **case sensitive**, which means that `myName` is different to `myname` or `MyName` or `MYNAME`
-* Variable names cannot be multiple words, so you can use [*camel case*](http://en.wikipedia.org/wiki/CamelCase) for  variables like `userTelephoneNumber` (instead of `usertelephonenumber`).
+* Variable names cannot be multiple words, so you can use [*camel case*](http://en.wikipedia.org/wiki/CamelCase) for  variables like `userTelephoneNumber`, instead of `usertelephonenumber`.
 
 
 # Objects
 
 ### When?
 
-Whenever you want to store a bunch of related values together.
+Whenever you want to store **related values** together.
 
 ### Why?
 
@@ -113,7 +113,7 @@ Whenever you want to store a bunch of related values together.
 
 ### How?
 
-To create an object, we declare a variable like we normally would, and then we use curly brackets to surround **key-value** property pairs:
+To create an object, we *declare* a variable as usual, and then we use *curly brackets* to surround **key-value** property pairs:
 
 ```js
 var objectName = { 
@@ -131,10 +131,10 @@ var cat =
 	name: "Bruno",
 	age: 2,
 	meow: function() { 
-		alert("MEOOOOOOW") 
+		alert("MEOOOOOOW"); 
 	},
 	drink: function(beverage) { 
-		alert("I am drinking " + beverage) 
+		alert("I am drinking " + beverage); 
 	}
 }
 ```
@@ -149,7 +149,7 @@ We can do that in two ways:
 
 	`cat.name`
 	
-2. using *bracket notation*, where we write the variable name, then square brackets with the property name inside in speech marks
+2. using *bracket notation*, where we write the variable name, then *square brackets* with the property name in speech marks
 
 	`cat["name"]`
 
@@ -167,7 +167,7 @@ We can also add entirely new properties!
 
 ### When?
 
-Whenever we want a computer to **do something**, like capturing an input, making a calculation, comparing data, answering a question, sending data, requesting data, drawing stuff on screen... 
+Whenever we want a computer to **do something**, like capturing an input, making a calculation, comparing data, answering a question, sending data, requesting data, drawing stuff on screen... anything.
 
 ### Why?
 
@@ -194,7 +194,7 @@ To use a function, we must
 		alert("MEOOOOOOW");
 	}
 	``` 
-2. *call* it: tell the computer to **execute** the code inside the function, by writing its name followed by round brackets	
+2. *call* it: tell the computer to **execute** the code inside the function, by writing its name followed by *round brackets*	
 
 	```js
 	meow();
@@ -268,15 +268,15 @@ Data APIs vs service APIs
 
 When you want to store a list of things that have the **same data structure**.
 
-Data APIs often return **lists** of objects (a list of recipes, or a list of photos, or a list of posts).
+Data APIs often return **lists** of objects (a list of recipes, a list of photos, a list of posts etc).
 
 Each object contains different data, but has the same data structure.
 
 ### Why?
 
-Because it's useful to have consistent data structures when you need to compare a lot of values quickly.
+It's useful to have **consistent data structures** when you need to compare a lot of values quickly.
 
-We may want to compare them so that we can sort them (eg the most popular picture, or the recipe with the shortest preparation time)
+We may want to compare them so that we can sort them (eg the most popular picture, or the recipe with the shortest preparation time).
 
 ### How?
 
@@ -321,9 +321,9 @@ To know how long an array is, we can use its `length` property
 
 #### How do we access them?
 
-When we want to access a particular value in an array, we access it by referencing its **index** in the array, which represents its *position* in the list. 
+To access a particular value in an array, we use its **index**, which represents its *position* in the array. 
 
-The first index in an array is `0`, so if we want to access the first element in an array, we specify the name of the array variable, then `0` in square brackets
+The first index in an array is `0`, so if we want to access the first element in an array, we specify the name of the array variable, then `0` in *square brackets*
 
 ```js
 var animals = ["antelope", "zebra", "cat", "dog"]; 
@@ -336,7 +336,7 @@ The **zero-based indexing** is one of the most confusing aspects of arrays for n
 
 #### How do we change them?
 
-Arrays can be changed in many ways. To change a value
+To change a value
 
 ```js 
 animals[1] = "crocodile";
