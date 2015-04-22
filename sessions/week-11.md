@@ -93,7 +93,7 @@ To use a variable, we must
 
 	`myName = "Matteo";`
 
-### How do we name them? 
+#### How do we name them? 
 
 * Variable names should be **clear and meaningful**: `myName` is better than `n` or `name` 
 * Variable names should begin with letters, `$` or `_` and only contain letters, numbers, `$` and `_`
@@ -139,7 +139,29 @@ var cat =
 }
 ```
 
+#### How do we access them?
 
+An object is not useful unless we can look inside it and grab the values of its properties. 
+
+We can do that in two ways:
+
+1. using *dot notation*, where we write the name of the variable, followed by a `.` and then the property name
+
+	`cat.name`
+	
+2. using *bracket notation*, where we write the variable name, then square brackets with the property name inside in speech marks
+
+	`cat["name"]`
+
+#### How do we change them?
+
+We can change the values of the object properties at any time during a program, using the *dot* or *bracket* notation.
+
+`cat.name = "Bob";`
+
+We can also add entirely new properties!
+
+`cat.colour = "brown";`
 
 # Functions
 
