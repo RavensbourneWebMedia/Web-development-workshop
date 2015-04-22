@@ -3,8 +3,10 @@
 ### Today, Friday 24th April 2015
 
 1. Variables
-* Functions
 * Objects
+* Functions
+* APIs
+* Logic
 * Arrays
 * Loops
 * Templating
@@ -54,7 +56,7 @@ function greet() {
 greet();
 ```
 
-### Programming is a **way of thinking**.
+### Programming is a **way of thinking**
 
 [ ] [Learnable Programming](http://worrydream.com/LearnableProgramming) 
 
@@ -97,6 +99,47 @@ To use a variable, we must
 * Variable names should begin with letters, `$` or `_` and only contain letters, numbers, `$` and `_`
 * Variable names are **case sensitive**, which means that `myName` is different to `myname` or `MyName` or `MYNAME`
 * Variable names cannot be multiple words, so you can use [*camel case*](http://en.wikipedia.org/wiki/CamelCase) for  variables like `userTelephoneNumber` (instead of `usertelephonenumber`).
+
+
+# Objects
+
+### When?
+
+Whenever you want to store a bunch of related values together.
+
+### Why?
+
+**Objects** are useful to keep things organised.
+
+### How?
+
+To create an object, we declare a variable like we normally would, and then we use curly brackets to surround **key-value** property pairs:
+
+```js
+var objectName = { 
+  propertyName: propertyValue,
+  propertyName: propertyValue,
+  ...
+};
+```
+
+For example
+
+```js
+var cat = 
+{
+	name: "Bruno",
+	age: 2,
+	meow: function() { 
+		alert("MEOOOOOOW") 
+	},
+	drink: function(beverage) { 
+		alert("I am drinking " + beverage) 
+	}
+}
+```
+
+
 
 # Functions
 
@@ -179,7 +222,22 @@ areYouAnAdult(23); // returns "yes"
 
 Without `return` we wouldn't know the answer!
 
-# Objects
+# APIs
+
+> Like calling a function over the Web..
+
+
+* Data from the Web
+* Don't care what it looks like, just give me the data (see [The interface layer](https://medium.com/bridge-collection/the-interface-layer-when-design-commoditizes-tech-e7017872173a)) and I'll make it work and look proper
+* URLs to get and send data, examples
+
+	* Google
+	* Facebook (www vs graph)
+	* Gender-api
+	* Mashape?
+	* Edamam
+
+
 
 # Arrays
 
@@ -204,19 +262,3 @@ Intended audience: *cats*.
 # Assignment
 
 - [ ] TODO
-
-
-### APIs 
-
-Like calling a function over the Web
-
-
-* Data from the Web
-* Don't care what it looks like, just give me the data (see [The interface layer](https://medium.com/bridge-collection/the-interface-layer-when-design-commoditizes-tech-e7017872173a)) and I'll make it work and look proper
-* URLs to get and send data, examples
-
-	* Google
-	* Facebook (www vs graph)
-	* Gender-api
-	* Mashape?
-	* Edamam
