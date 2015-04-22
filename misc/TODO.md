@@ -32,8 +32,13 @@
 - [ ] [Free tool to compress images for the Web](https://compressor.io)
 - [ ] [Initializr](http://www.initializr.com/)
 - [ ] Install [Dash](http://kapeli.com/dash)
-- [x] [TypeCast](http://typecast.com) to design with Web fonts in the browser
-- [ ] [Card sort generator](http://ignorethecode.net/blog/2015/03/20/card_sort_generator)
+- [x] [**TypeCast**](http://typecast.com) to design with Web fonts in the browser
+- [ ] [**Card sort generator**](http://ignorethecode.net/blog/2015/03/20/card_sort_generator)
+
+## Resources
+
+- [ ] [**Foundation building blocks**](http://zurb.com/building-blocks)
+- [ ] [PatternTap](http://zurb.com/patterntap)
 
 
 ## Typography
@@ -44,6 +49,11 @@
 ## Web Literacy
 
 - [ ] http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/index.html#
+
+## Optimisation
+
+- [ ] [Demo](http://www.filamentgroup.com/lab/weight-wait.html) showing how to reduce the *perceived* loading time of an 8MB-heavy site from 12s to 3s
+
 
 ## To sort out..
 
@@ -69,13 +79,19 @@ I believe that you can all do better and I want to help you improve.
 
 I don't want to be marking work that it's just *ok*. 
 
-So far we've been quite gentle at you but we're going to accellerate and it's going to get harder.
+So far we've been quite gentle at you but we're going to accelerate and it's going to get harder.
 
 You need to work harder and challenge yourselves.
 
 You're paying a lot to be here. Imagine yourself in a few years time, looking back at what you have done (or not) at uni. 
 
 Now it's your opportunity to experiment, to explore and soak up all the knowledge and skills from all the people that are around you here.
+
+
+### Computational thinking 
+
+Teaching computers how to play by your rules?
+
 
 ## Demos
 
@@ -92,10 +108,13 @@ Now it's your opportunity to experiment, to explore and soak up all the knowledg
 
 ## JS
 
-* demo how to build the Student Shuffler?
-* https://docs.google.com/document/d/1aa2-HtUglQrAps31s4LdTPVsiFb1BxhyjZolxeezzcI/preview?sle=true
-* https://jsx.github.io/try-on-web/#
+* Demo how to build the [Student Shuffler](../resources/html5-boilerplate-student-shuffler)?
+
+* [Eloquent JavaScript](https://docs.google.com/document/d/1aa2-HtUglQrAps31s4LdTPVsiFb1BxhyjZolxeezzcI/preview?sle=true)
+
 * [jQuery quiz](http://tonyfreed.com/blog/top_jquery_interview_question_2015#sthash.utx9nyaD.dpbs) (it's actually meant to be interview questions but can be repurposed)
+
+* [JS design patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
 
 ## WP
 
@@ -105,6 +124,7 @@ Jargon Buster: API, SPA, REST...
 
 SPA (Single Page Application) vs page reload: Using the API has a performance benefit: static HTML pages with JS to fetch the data is a thing! No PHP dependency.
 
+* http://www.wpbeginner.com/ any good?
 * http://wp-api.org/
 * http://tareq.wedevs.com/2013/09/backbone-js-powered-proof-of-concept-wordpress-theme/	
 * http://www.sitepoint.com/wordpress-json-rest-api
@@ -122,6 +142,21 @@ Hey, even the nuSchool blog is built with WordPress! (Also: Adobe blogs, Huffing
 ## Misc
 
 - FR£€? As in free account on FB, or freedom of information?
+
+## Planning
+
+This [public Trello board](https://trello.com/b/lMmuSlkP/public-design-sprint-template) breaks down the five phases of a design sprint. More on this [here](http://www.gv.com/lib/gimlet)
+
+# The future
+
+### Gamifying the grading 
+
+* Everyone starts from an F and can walk their way up to A
+* Continuous micro-assessment, not just at the end of a unit
+* Rigorous assessment criteria, shared with everyone from the beginning
+* Shared leaderboard
+* Teacher as a coach (rather than a judge)
+* Peer-assessment to offer different perspectives and opportunities to reflect
 
 
 
