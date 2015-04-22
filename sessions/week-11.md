@@ -351,12 +351,12 @@ animals.push("penguin");
 
 # Loops
 
-We often want to take some action for every element in an array, like how we used the text() command to display the names above. Instead of writing that code over and over, it's better to use a for loop to iterate through each of the elements in the array, and do something to each element inside the loop. We have to start from index 0, go until we reach the end of the array, and add 1 to the index each time. Here's how we'd do that:
+<!--We often want to take some action for every element in an array, like how we used the text() command to display the names above. Instead of writing that code over and over, it's better to use a for loop to iterate through each of the elements in the array, and do something to each element inside the loop. We have to start from index 0, go until we reach the end of the array, and add 1 to the index each time. Here's how we'd do that:
 for (var i = 0; i < myFriends.length; i++) {
    text(myFriends[i], 200, i*100);
 }
 
-Notice how we put i inside the square brackets, because it represents the current index each time the loop is run.
+Notice how we put i inside the square brackets, because it represents the current index each time the loop is run.-->
 
 use `while` and Choc
 
@@ -377,3 +377,16 @@ Intended audience: *cats*.
 # Assignment
 
 - [ ] TODO
+
+
+<!-- 
+
+logic?
+https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/a/review-logic-and-if-statements
+
+loops
+https://www.khanacademy.org/computing/computer-programming/programming/looping/a/review-looping
+
+-->
+
+
