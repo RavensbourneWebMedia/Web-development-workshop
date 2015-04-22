@@ -18,6 +18,11 @@ Do *coding* and *programming* mean the same thing?
 
 [What's an algorithm?](http://www.bbc.co.uk/guides/z3whpv4#zyfwjxs)
 
+* Computers can code.
+* Computers can't program. People can.
+
+### Programming languages
+
 Last term we learned how to create the **visual elements** of a Web product (site, page, app etc) using **HTML** + **CSS**. 
 
 <!--We could describe this process as **coding**.-->
@@ -32,9 +37,48 @@ To set things in motion, to have a truly interactive experience, we need another
 
 HTML and CSS are coding languages.
 
-JavaScript is a programming language.
+JavaScript is a programming language (together with PHP, Python, Ruby, C, Java and many others).
 
-<!--  (together with PHP, Python, Java, Ruby etc) -->
+
+### Natural vs programming languages 
+
+* `the cat drinks milk` English 
+* `de kat drinkt melk` Dutch
+* `die Katze trinkt Milch` German 
+* `il gatto beve latte` Italian 
+
+Can you see a pattern here? A *subject* performing an *action* on an *object*. No matter which language, the structure is the same.
+
+That structure is what we call **grammar**, the rules defining how you can put words together in order to communicate anything.
+
+`drinks milk the cat` wouldn't work as a meaningful sentence, even though the components are the same.
+
+1. `drinks`
+* Who? `the cat`
+* What? `milk`
+
+If we know the meaning of each component...
+
+... and we know the rules that define the relationships between such components (*grammar*)...
+
+... then we can build the meaning of the whole sentence.
+
+<!--  
+
+	Inspiring talk from Ajit Narayan about abstraction, language, grammar, speech and a visual grammar engine
+
+	http://avazapp.com/freespeech/
+
+	http://www.ted.com/talks/ajit_narayanan_a_word_game_to_communicate_in_any_language/transcript?language=en
+
+  -->
+
+Imagine you read this sentence in a language you don't speak. You can still try and make sense of it, by comparing it to a language you know. This process of *trying to make sense* is very important in programming.
+
+How about this language?
+
+`cat.drink(milk)` JavaScript (written by an English-speaking human)
+
 
 
 ### Robot time!
@@ -76,22 +120,8 @@ What variables, functions and logic do you use in your everyday life (even if yo
 * **Functions** get out of bed, check weather (on you phone, on TV..), check calendar
 * **Logic** if sunny then wear sunglasses, if rainy then take umbrella
 
-<!--Think about the robot game: which variables, functions and logic did we use?-->
+Think about the robot game: which variables, functions and logic did we use?
 
-### Natural vs programming languages 
-
-* `the cat drinks milk` English 
-* `de kat drinkt melk` Dutch
-* `die Katze trinkt Milch` German 
-* `il gatto beve latte` Italian 
-
-Can you see a pattern here? A *subject* performing an *action* on an *object*. No matter which language, the structure is the same.
-
-Imagine you read this sentence in a language you don't speak. You can still try and make sense of it, by comparing it to a language you know. This process of *trying to make sense* is very important in programming.
-
-How about this language?
-
-`cat.drink(milk)` JavaScript (written by an English-speaking human)
 
 
 # Let's code
@@ -175,25 +205,11 @@ Functions are useful to **make code reusable**. For instance, the action of *dri
 
 
 
-<!-- ### Codio
-
-1. Sign up to [Codio](https://codio.com) 
-* Create a new project 
-* In Project > Permissions.. add me `baddeo` as your collaborator, give me `WRITE` permissions. This way I'll be able to help you in case you get stuck. -->
-
-### Brief
-
-> Make an app that helps people **make lunch**. The app must take a human **input** (eg: search keywords), use **data from the Web**, and then present a human-readable **output** (eg: list of recipes)
-
-1. Break down the problem
-* Code it
-
-
 ### Meet jQuery
 
 > [jQuery](https://jquery.com/) is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.
 
-You probably know jQuery because of its *plugins* (image slider, Masonry..) and maybe you've tried to mess around with those a bit.
+You may have heard of jQuery because of its *plugins* (image sliders, date pickers, colour pickers, form validators, image uploaders..) and maybe you've tried to mess around with those a bit.
 
 jQuery uses CSS-like selectors, so for example if you want to manipulate a `h1` element in your page, you can do it like this
 
@@ -205,7 +221,9 @@ which is the equivalent of telling the browser to `select all h1 elements in the
 
 ### Making stuff happen on demand
 
-This is where *programming* languages show how much more powerful than coding languages like HTML and CSS. Programming has something to do with the *future*, you're defining instructions and behaviour that will happen in the future, if and when something specific happens.
+This is what makes *programming* languages so much more powerful than coding languages like HTML and CSS. 
+
+Programming has something to do with the *future*: you define instructions and *behaviour* that will happen in the future, *if* and *when* something specific happens.
 
 For example, we want a certain element in the page to hide only when we click on a certain button. Using jQuery, we can do it like this
 
@@ -222,6 +240,18 @@ function hideH1() {
 ```
 
 Learn more about [how jQuery works](http://learn.jquery.com/about-jquery/how-jquery-works).
+
+
+# Let's program
+
+### Brief
+
+> Make an app that helps people **make lunch**. The app must take a human **input** (eg: search keywords), use **data from the Web**, and then present a human-readable **output** (eg: list of recipes)
+
+1. Break down the problem 
+* Define the solution (aka *algorithm*)
+* Code the algorithm (aka the *program*)
+
 
 
 # Resources
