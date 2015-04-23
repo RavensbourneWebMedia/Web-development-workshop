@@ -6,12 +6,11 @@
 * [Objects](#objects)
 * [Functions](#functions)
 * [APIs](#apis)
-* Logic
 * [Arrays](#arrays)
 * [Loops](#loops)
 * [Templating](#templating)
 
-Your [homework](#assignment)!
+Your [homework](#assignments)!
 
 # Building blocks
 
@@ -351,19 +350,74 @@ animals.push("penguin");
 
 # Loops
 
-<!--We often want to take some action for every element in an array, like how we used the text() command to display the names above. Instead of writing that code over and over, it's better to use a for loop to iterate through each of the elements in the array, and do something to each element inside the loop. We have to start from index 0, go until we reach the end of the array, and add 1 to the index each time. Here's how we'd do that:
-for (var i = 0; i < myFriends.length; i++) {
-   text(myFriends[i], 200, i*100);
+### When?
+
+Whenever you want to take some action for every element in an array.
+
+### Why?
+
+Instead of writing (almost) the same code over and over, we can use a loop to **iterate through each element** in the array.
+
+### How?
+
+Loops are super-common in programming.
+
+```js
+var people = ["Danny","Chris","George","John","Paul","Ringo"];
+var counter = 0;
+var total = people.length;
+while (counter < total) {
+  var person = people[counter];
+  console.log(person);
+  counter = counter + 1;
 }
+```
 
-Notice how we put i inside the square brackets, because it represents the current index each time the loop is run.-->
+There are four ingredients to a loop:
 
-use `while` and Choc
+1. An `array`
+2. A `counter` variable, to keep track of the array element we're manipulating at each iteration of the loop
+3. A `while` statement, which keeps checking for a condition (in this case, whether the counter is smaller than the total number of elements in the array)
+
+	**While the condition is `true`** the computer will execute the code block inside `{ ... }`
+
+4. Don't forget to **increment** the `counter` at the end of the loop, otherwise you'd get a dreaded **infinite loop** (and your browser would probably crash).
+
+[![](assets/choc.png)](https://jsfiddle.net/baddeo/HLR85/10/embedded/result/)
+
+<!--use `while` and Choc-->
 
 # Templating
 
-Use example from github
+### When?
 
+Whenever you have *raw data* that needs to be *dressed up*. 
+
+### Why?
+
+Separation of concerns. Data > presentation
+
+### How?
+
+```js
+// this function is like an HTML sausage machine
+// pass in some recipe data
+// and it will return an HTML list item wrapped around that data
+function getRecipeListItem(recipe)
+{
+	// create a variable to store the HTML code
+	// we put the static (non variable) bits in speech marks
+	// and the variable bits outside of speech marks
+    var li = "<li>"
+        + "<img src=" + recipe.image + ">"
+        + "<h3>" + recipe.label + "</h3>"
+        + "<p>This recipe is <b>" + recipe.level + "</b> and will take you " + recipe.totalTime + " minutes to prepare.</p>"
+        + "<a href=" + recipe.url + " target=_blank>Let's make this recipe</a>"
+        + "</li>"
+
+    return li    
+}
+```
 
 # Resources
 
@@ -374,9 +428,10 @@ Intended audience: *cats*.
 [![](http://jsforcats.com/images/customers5.jpg)](http://jsforcats.com)
 
 
-# Assignment
+# Assignments
 
-- [ ] TODO
+1. Start translating your wireframes into HTML & CSS pages
+2. Learn and blog about [jQuery event handling](http://jqfundamentals.com/chapter/events)
 
 
 <!-- 
