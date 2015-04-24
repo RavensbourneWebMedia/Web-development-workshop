@@ -57,7 +57,13 @@ greet();
 
 ### Programming is a **way of thinking**
 
-- [ ] [Learnable Programming](http://worrydream.com/LearnableProgramming) 
+Before we learn how to *code* a program, we should learn how to *think* about problems and solutions.
+
+**Computational thinking**: not thinking like computers (do computers think?). It is about using code creatively to solve real-world problems, to **break down behaviours** in specific and precise ways that can be communicated to other people, and eventually to computers.
+
+<!-- I need 4 volunteers --> 
+
+<!--- [ ] [Learnable Programming](http://worrydream.com/LearnableProgramming) -->
 
 
 # Variables
@@ -245,21 +251,70 @@ Without `return` we wouldn't know the answer!
 
 # APIs
 
-> Like calling a function over the Web..
+*Application Programming Interface*... wtf?
 
+### When?
 
-* Data from the Web
+Whenever you want to use to use *3rd party* **data**, **software** or **hardware**.
+
+For example, if you want to embed a map to your app you can use the [Google Maps API](https://developers.google.com/maps), instead of programming a whole new mapping system from scratch.
+
+If you want to add a Twitter feed to your page you can use the [Twitter API](https://dev.twitter.com/rest/tools/console).
+
+If you want to use geographical information about  your users, you can use the [HTML5 geolocation API](http://www.w3schools.com/html/html5_geolocation.asp)
+
+### Why?
+
+> Instead of reinventing the wheel, you can borrow someone else's wheel...
+
+APIs work a bit like a library: 
+
+1. You go to the library **API provider**
+* You get a library card **API key**
+* You borrow books **data** using your API key
+* If you don't play by the rules, the librarian will prevent you from getting more books.
+
+For companies, providing APIs is beneficial for:
+
+* **branding**, eg getting a *Like* button on many other sites
+* **control**, eg Twitter control which data you can use from it, how much of it and how you can manipulate it 
+* **service improvement**, eg TFL published APIs for their transport data and developers created apps that help people plan their journeys more efficiently (which is good for TFL too)
+
+### How?
+
+You will have to **read the manual**.
+
+Data APIs work with URLs. We can use URLs to **GET data** and **POST data**.
+
+> Like calling a *function* over the Web..
+
+<!--* Data from the Web
 * Don't care what it looks like, just give me the data (see [The interface layer](https://medium.com/bridge-collection/the-interface-layer-when-design-commoditizes-tech-e7017872173a)) and I'll make it work and look proper
-* URLs to get and send data, examples
+* 
+* URLs to get and send data, examples-->
 
-	* Google
-	* Facebook (www vs graph)
-	* Gender-api
-	* Mashape?
-	* Edamam
 
-Data APIs vs service APIs
+* To **GET data** from Google Search
 
+	[https://www.google.co.uk/search**?q=banana**](https://www.google.co.uk/search?q=banana)
+	
+	We add `q=your+search+terms` to the URL and Google will return results for those terms
+
+* To **GET data** from Facebook
+	
+	[https://**graph**.facebook.com/**RavensbourneUK**](https://graph.facebook.com/RavensbourneUK)
+	
+	We swap `www` for `graph` and Facebook will return a data object about the person or page we requested
+	
+* To **GET data** from the [Gender API](https://gender-api.com)
+
+	[https://gender-api.com/**get?name=matteo**](https://gender-api.com/get?name=matteo)
+
+* Many more APIs on [MashAPE](https://www.mashape.com) 
+
+Every API is slightly different in syntax (which is why you have to read their manual), but the core method is the same: sending and receiving data via URLs
+
+<!--Data APIs vs service APIs-->
 
 # Arrays
 
