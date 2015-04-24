@@ -4,4 +4,4 @@
 2. Inside *this* folder, create a **new folder** and call it with **your name** (eg `danny`)
 3. From now on, **put all your project files** in the folder called after your name
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/students/lookAtMe.png)
+![](lookAtMe.png)
