@@ -59,14 +59,19 @@ greet();
 
 Before we learn how to *code* a program, we should learn how to *think* about problems and solutions.
 
-**Computational thinking**: not thinking like computers (do computers think?). It is about using code creatively to solve real-world problems, to **break down behaviours** in specific and precise ways that can be communicated to other people, and eventually to computers.
+**Computational thinking** 
+
+* Not thinking like computers. Do computers think anyway? 
+* Solving problems for **people**, using **code**.
+
+It is about using code creatively to solve real-world problems, to **break down behaviours** in specific and precise ways that can be communicated to other people, and eventually to computers.
 
 <!-- I need 4 volunteers --> 
 
 <!--- [ ] [Learnable Programming](http://worrydream.com/LearnableProgramming) -->
 
 
-# Variables
+## Variables
 
 ### When?
 
@@ -106,7 +111,7 @@ To use a variable, we must
 * Variable names cannot be multiple words, so you can use [*camel case*](http://en.wikipedia.org/wiki/CamelCase) for  variables like `userTelephoneNumber`, instead of `usertelephonenumber`.
 
 
-# Objects
+## Objects
 
 ### When?
 
@@ -168,7 +173,7 @@ We can also add entirely new properties!
 
 `cat.colour = "brown";`
 
-# Functions
+## Functions
 
 ### When?
 
@@ -249,7 +254,7 @@ areYouAnAdult(23); // returns "yes"
 
 Without `return` we wouldn't know the answer!
 
-# APIs
+## APIs
 
 *Application Programming Interface*... wtf?
 
@@ -316,7 +321,7 @@ Every API is slightly different in syntax (which is why you have to read their m
 
 <!--Data APIs vs service APIs-->
 
-# Arrays
+## Arrays
 
 ### When?
 
@@ -403,7 +408,7 @@ animals.push("penguin");
 ```
 
 
-# Loops
+## Loops
 
 ### When?
 
@@ -442,7 +447,9 @@ There are four ingredients to a loop:
 
 <!--use `while` and Choc-->
 
-# Templating
+
+
+## Templating
 
 ### When?
 
