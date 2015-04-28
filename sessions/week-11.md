@@ -10,7 +10,7 @@
 * [Loops](#loops)
 * [Templating](#templating)
 
-Your [homework](#assignments)!
+Your [homework](#assignment)!
 
 # Building blocks
 
