@@ -52,7 +52,8 @@ Session	| Date			| In class				| Assignment(s)
 [8](sessions/week-08.md)		| Mon Mar 2nd	| Inspecting and debugging websites | 
 [9](sessions/week-09.md)		| **Mon Mar 9th**	| Formative Assessment | Action plan (revised)
 [10](sessions/week-10.md)		| Fri Apr 17th	| POP (principles of programming)<br>Meet JavaScript (and  jQuery) | [jQuery challenge](sessions/week-10.md#challenge)
-[11](sessions/week-11.md)		| Fri Apr 24th	| PHP: programming on the server<br>Web-servers | 
+[11](sessions/week-11.md)		| Fri Apr 24th	| Building blocks of programming<br>APIs | [HTML+CSS wireframes](sessions/week-11.md#assignment)
+[11](sessions/week-11.md) 
 [12](sessions/week-12.md)		| Fri May 1st	| WordPress 1/4 | 
 [13](sessions/week-13.md)		| Fri May 8th	| WordPress 2/4 | 
 [14](sessions/week-14.md)		| Fri May 15th	| WordPress 3/4 (templates) | 
