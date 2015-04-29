@@ -151,7 +151,13 @@ Banned words
 * Sticking to given time
 * Having your materials ready (all the files, don't faff around with code, opening/closing folders)
 * First slide should be a summary of your presentation: I'm going to start from A, then talk about B, then move on to C, and ask you D
-* Make your presentation <del>interactive</del>interesting: ask questions to your audience, tell a story, be excited (see speaking.io?)
+* Make your presentation <del>interactive</del>interesting: ask questions to your audience, tell a story, be excited (see http://speaking.io?)
+
+
+# Session 10
+
+Codio experiment didn't go well: it doesn't offer a live preview, and what's more frustrating it sometimes stops auto-saving.
+
 
 
 
