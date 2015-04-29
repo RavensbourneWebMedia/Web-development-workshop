@@ -49,11 +49,10 @@ Session	| Date			| In class				| Assignment(s)
 [5](sessions/week-05.md)		| Mon Feb 2nd	| CSS position, float and grids | [Recipe documentation](sessions/week-05.md#1-document-your-recipes-evolution) <br>[Paper wireframes](sessions/week-05.md#2-sketch-out-your-ideas-on-paper)
 [6](sessions/week-06.md)		| Mon Feb 16th	| CSS responsive | [Digital wireframes](sessions/week-06.md#1-redraft-your-wireframes) <br>[The Internet's Own Boy](sessions/week-06.md#2-blog-about-this-film)
 [7](sessions/week-07.md)		| Mon Feb 23rd	| CSS transitions and animations | [HTML+CSS wireframes](sessions/week-07.md#1-html--css-wireframes)<br> [Webdesign myths](sessions/week-07.md#2-blog-about-one-of-the-following-webdesign-myths)
-[8](sessions/week-08.md)		| Mon Mar 2nd	| Inspecting and debugging websites | 
+[8](sessions/week-08.md)		| Mon Mar 2nd	| Tutorials | 
 [9](sessions/week-09.md)		| **Mon Mar 9th**	| Formative Assessment | Action plan (revised)
 [10](sessions/week-10.md)		| Fri Apr 17th	| POP (principles of programming)<br>Meet JavaScript (and  jQuery) | [jQuery challenge](sessions/week-10.md#challenge)
 [11](sessions/week-11.md)		| Fri Apr 24th	| Building blocks of programming<br>APIs | [HTML+CSS wireframes](sessions/week-11.md#assignment)
-[11](sessions/week-11.md) 
 [12](sessions/week-12.md)		| Fri May 1st	| WordPress 1/4 | 
 [13](sessions/week-13.md)		| Fri May 8th	| WordPress 2/4 | 
 [14](sessions/week-14.md)		| Fri May 15th	| WordPress 3/4 (templates) | 
