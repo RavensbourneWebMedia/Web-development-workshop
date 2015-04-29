@@ -2,7 +2,7 @@
 
 ### Today, Friday 1st May 2015
 
-1. HTML+CSS wireframes review
+1. [HTML+CSS wireframes review](#wireframes-review)
 * [Debugging](#debugging)
 * [Recipes app](#recipes-app)
 * Programming on the server: PHP etc.
