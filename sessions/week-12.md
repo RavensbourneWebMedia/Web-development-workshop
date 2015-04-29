@@ -101,7 +101,10 @@ Last week we started building a [recipes app](resources/recipe-app)
 
 What's missing:
 
-* 
+* style the interface (make it responsive)
+* clear previous search results 
+* tell people [something is happening]([visibility of system status](http://www.nngroup.com/articles/ten-usability-heuristics/)) after they hit the *Search* button
+* anything else?
 
 
 # Assignment
