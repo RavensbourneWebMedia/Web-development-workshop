@@ -8,7 +8,7 @@
 * [Challenge](#debugging-challenge)!
 * [Recipes app](#recipes-app)
 
-Your [homework](#assignment)!
+Your [homework](#tasks)!
 
 
 <!-- Managing online content with WordPress -->
@@ -26,8 +26,7 @@ Your [homework](#assignment)!
 * What is your *workflow*?
 * Which framework / boilerplate are you using, and why?
 * Let's see the **source code**..
-
-Check the [semantics](http://www.w3schools.com/html/html5_semantic_elements.asp) of your HTML elements: could you use `<header>`, `<footer>`, `<section>` and `<nav>` instead of `<div>` elements for instance?
+* Check the [semantics](http://www.w3schools.com/html/html5_semantic_elements.asp) of your HTML elements: could you use `<header>`, `<footer>`, `<section>` and `<nav>` instead of `<div>` elements for instance?
 
 
 # Meet the Google Maps API
@@ -133,11 +132,13 @@ Your turn!
 
 Go to [this pen on CodePen](http://codepen.io/baddeo/pen/YXPpwV?editors=001) and **fork** it (a fork is like a photocopy, for code).
 
-1. Open the debug version of the forked pen
+[![](assets/jquery-challenge.jpg)](http://codepen.io/baddeo/pen/YXPpwV?editors=001)
+
+1. Open the *debug* version of your forked pen
 2. Right-click anywhere on that page, choose *Inspect Element*
 3. Click [**Console**](http://webmasters.stackexchange.com/a/77337) from the panel that will pop up
 
-There are 6 challenges for you to solve!
+There are **6 challenges** for you to solve!
 
 
 
@@ -158,12 +159,12 @@ What's missing:
 
 
 
-# Assignment
-
-- [ ] TODO
+# Tasks
 
 
-<!-- - [ ] Using [Codio WP starter pack?](https://codio.com/home/starter_packs/67c86f01-41bb-44d3-97be-6dedc40fc0bd) -->
+
+
+
 
 
 <!-- 
