@@ -115,7 +115,10 @@ Uncaught SyntaxError: Unexpected end of input       main.js:5
 Uncaught ReferenceError: jQuery is not defined       main.js:25
 ```	
 
-* If you have a **conceptual error** (nothing is technically wrong but things are not happening as expected) you can use `console.log(someVariable)` to see if your program is being fed the expected data, and/or using **breakpoints** to see if the program is hitting a certain point of execution.
+* If you have a **conceptual error** (nothing is technically wrong but things are not happening as expected) you can use `console.log(someVariable)` and/or  [**breakpoints**](https://developer.chrome.com/devtools/docs/javascript-debugging) to see if the program is hitting a certain point of execution, and if your program is being fed the expected data.
+
+![](assets/javascript-debugging-overview.jpg)
+
 
 #### 4. Ask Google
 
