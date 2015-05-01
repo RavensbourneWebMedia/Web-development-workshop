@@ -84,7 +84,7 @@ The more specific you are about your problem, the more relevant results you shou
 
 ### Debugging challenge
 
-Go to [this pen on CodePen](http://codepen.io/baddeo/pen/YXPpwV?editors=001) and ***fork** it* (a fork is like a photocopy, for code).
+Go to [this pen on CodePen](http://codepen.io/baddeo/pen/YXPpwV?editors=001) and **fork** it (a fork is like a photocopy, for code).
 
 1. Open the debug version of the forked pen
 2. Right-click anywhere on that page, choose *Inspect Element*
