@@ -3,6 +3,7 @@
 ### Today, Friday 1st May 2015
 
 1. [HTML+CSS wireframes review](#wireframes-review)
+* [Meet the Google Maps API](#meet-the-google-maps-api) 
 * [Debugging](#debugging)
 * [Challenge](#debugging-challenge)!
 * [Recipes app](#recipes-app)
@@ -29,9 +30,45 @@ Your [homework](#assignment)!
 Check the [semantics](http://www.w3schools.com/html/html5_semantic_elements.asp) of your HTML elements: could you use `<header>`, `<footer>`, `<section>` and `<nav>` instead of `<div>` elements for instance?
 
 
-# Adding Google Maps to your page
+# Meet the Google Maps API
 
-Based on [this tutorial](https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map)
+Based on [this tutorial](https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map)...
+
+![](assets/google-map.png)
+
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      #map-canvas {
+        width: 500px;
+        height: 400px;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script>
+      function initialize() {
+        var mapCanvas = document.getElementById('map-canvas');
+        var mapOptions = {
+          // Ravensbourne's coordinates
+          center: new google.maps.LatLng(51.501499, 0.005374),
+          // zoome goes from 3 to 21
+          zoom: 13,
+          // ROADMAP, SATELLITE or TERRAIN
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var map = new google.maps.Map(mapCanvas, mapOptions)
+      }
+      google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+  </head>
+  <body>
+    <div id="map-canvas"></div>
+  </body>
+</html>
+```
 
 
 
