@@ -22,6 +22,11 @@
 
 - [x] [Understanding `position`](http://blog.froont.com/positioning-in-web-design)
 
+## Wireframes
+
+- [ ] [Wireframes according to Usability.GOV](http://www.usability.gov/how-to-and-tools/methods/wireframing.html)
+
+
 ## Critique
 
 - [ ] [Do's and don'ts of design feedback](https://medium.com/@gem_ray/how-to-give-better-product-feedback-a38d3e2d4890)
@@ -157,6 +162,36 @@ This [public Trello board](https://trello.com/b/lMmuSlkP/public-design-sprint-te
 * Shared leaderboard
 * Teacher as a coach (rather than a judge)
 * Peer-assessment to offer different perspectives and opportunities to reflect
+
+### Our community
+
+Build a site for the class, or the RaveWebMedia course.
+
+[Check this out](https://github.com/wdi2/students)
+
+
+### Build something cool
+
+Mini-projects of 3 weeks, self-initiated. Students pitch an idea based on research they made or inspirations they found and then *build something cool* based around that idea.
+
+* I want to learn how to ...
+* I found this technique {here} and {there}
+* I'm inspired by ...
+* I want to make it better / mash it up with ...
+
+From [Bento](https://www.bento.io/tour)
+
+> It's important to pick a project
+Learning to code is like learning to ride a bike. You can read a lot of things about how to turn the pedals, watch videos on how to steer, and even have someone show you how to brake. But until you actually get on a bike and try riding, you'll never learn. Coding is the same thing: it's not enough to learn using tutorials, you have to pick a project and build something as you're learning.
+
+
+<!--  
+
+Neighbours :)
+http://eyelearn.org/wsr
+http://www.websitearchitecture.co.uk/our-philosophy
+
+-->
 
 
 
