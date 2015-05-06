@@ -1,29 +1,45 @@
 <?php
-    include 'ChromePhp.php';
-    ChromePhp::log('Hello console!');
-    ChromePhp::log($_SERVER);
-    ChromePhp::warn('something went wrong!');
-    ChromePhp::error('OMG!');
 
-    /*function log($data) {
-        ob_start(); 
-        ChromePhp::log($data);
-        ob_flush();
-    }*/
+include 'ChromePhp.php';
+ChromePhp::log('Hello console!');
+ChromePhp::log($_SERVER);
+ChromePhp::warn('something went wrong!');
+ChromePhp::error('OMG!');
+
+$myself = [
+    "name" => "Matteo",
+    "year" => 1983
+];
+
+function getAge($yearOfBirth) {
+    $thisYear = date('Y');
+    $age = $thisYear - $yearOfBirth;
+    return $age;
+}
+
+
 ?>
+
 <!DOCTYPE html>
 <html>
     <head>
         <title>Hello PHP</title>
 	</head>
+	<?php ChromePhp::log($myself); ?>
 	<body>
         <h1>
-          <?php
-//             echo phpinfo();
-//            $headers_sent = headers_sent();
-//            echo ('headers_sent? ' . $headers_sent);
-            ChromePhp::log('OMG again!');
-          ?>
+            Hello <?php echo $myself["name"]; ?>
         </h1>
+        <p>
+            <?php 
+                $age = getAge($myself["year"]);
+                ChromePhp::log($age);
+                if ($age > 18) {
+                    echo("You can come in");
+                } else {
+                    echo("Too young, go back home");
+                }
+            ?>
+        </p>
 	</body>
 </html>
