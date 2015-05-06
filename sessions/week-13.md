@@ -5,7 +5,8 @@
 1. [Debugging debate](#debugging-debate)
 * [Programming on the server](#programming-on-the-server)
 * [Meet PHP](#meet-php)
-* Meet WordPress
+
+<!--* Meet WordPress-->
 
 Your [homework](#assignment)!
 
@@ -102,10 +103,17 @@ On the *back-end* or **server-side** we can choose whichever language we want.
 
 You can use PHP to make dynamic websites and web applications.
 
-You can learn more about PHP on this [Codecademy course](http://www.codecademy.com/en/tracks/php). 
+[![](assets/php-hello-rave.png)](http://www.codecademy.com/en/tracks/php)
+
+You can learn the basics of PHP on this [Codecademy course](http://www.codecademy.com/en/tracks/php). 
 
 <!--Let's go through the first lesson together.-->
 
+More resources to learn PHP:
+
+* [PHP The Right Way](http://www.phptherightway.com)
+* [Learn X in Y minutes](http://learnxinyminutes.com/docs/php)
+* [learnPHP.org](http://learn-php.org)
 
 ### Debugging PHP
 
@@ -121,7 +129,7 @@ It's a bit like **code [autopsy](http://en.wikipedia.org/wiki/Autopsy)**..
 *  Somewhere in your **local Web server root folder** (see [above](#your-turn)), create a new file and call it **`index.php`**
 *  In your new PHP file, write something like 
 
-	```php
+	```html
 	<!DOCTYPE html>
 	<html>
 	  	<head>
@@ -150,33 +158,69 @@ It's a bit like **code [autopsy](http://en.wikipedia.org/wiki/Autopsy)**..
 	?>
 	```	
 * Save and navigate to that file in your browser. If you're on Brackets, don't use the LivePreview button - instead, just open your folder in a normal Chrome tab, eg `http://localhost/hello-php`.
-* Make sure you click the extension icon to enable logging for the current tab's domain. ![](https://craig.global.ssl.fastly.net/img/chromelogger/toggle.gif)
+* Make sure you click the extension icon to enable logging for the current tab's domain. 
+
+	![](https://craig.global.ssl.fastly.net/img/chromelogger/toggle.gif)
 * Open the Console and refresh the page. What do you see?
 
 
 <!-- What about this? https://github.com/barbushin/php-console -->
 
+### Dynamic bento boxes!
+
+PHP is (mostly) used to generate *dynamic* Web pages.
+
+For example, Facebook doesn't host an HTML page for each user, each post, each photo etc.
+
+Instead, they store your data in a database and when you request a certain page/post/photo, they use PHP to plonk data into a page/post/photo **template** and then serve you the *generated* HTML.
+
+The template is the same, what changes is the data.
+
+![](assets/bento-box.jpg)
 
 
-# WordPress
+```php
+$myself = [
+    "name" => "Matteo",
+    "year" => 1983
+];
 
-[WP plugin for Chrome Logger](https://github.com/ravinderk/wp-chrome-logger)
+function getAge($yearOfBirth) {
+    $thisYear = date('Y');
+    $age = $thisYear - $yearOfBirth;
+    return $age;
+}
+```	
 
-[WP Debug Objects](https://github.com/bueltge/Debug-Objects)
+```html
+<h1>
+    Hello <?php echo $myself["name"]; ?>
+</h1>
+<p>
+    <?php 
+        $age = getAge($myself["year"]);
+        ChromePhp::log($age);
+        if ($age > 18) {
+            echo("You can come in");
+        } else {
+            echo("Too young, go back home");
+        }
+    ?>
+</p>
+```
 
+- [ ] Make a Fakebook feed..
 
-<!--http://www.smashingmagazine.com/2011/09/28/developing-wordpress-locally-with-mamp/
+[PHP online playground](http://www.tehplayground.com)
 
-http://polevaultweb.com/2014/03/5-ways-synchronise-wordpress-uploads-across-environments/ particularly `#4` seems like a smart solution
-
-http://ftploy.com/ tracks a Git repo and deploys automatically
-
-http://wp-cli.org/ is a command line interface for WordPress
-
-https://plausiblethought.net/wordpress-git-workflow/-->
 
 
 
 # Assignment
 
-- [ ] TODO
+Install WordPress *locally*.
+
+Google how to do it and then blog about it.
+
+
+<!--Start your theme-->
