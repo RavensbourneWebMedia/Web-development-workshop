@@ -1,7 +1,5 @@
 # Web Development Workshop
 
-### [bit.ly/WEB14104](http://bit.ly/WEB14104)
-
 This unit introduces you to the concepts, methods and tools used to produce Web sites that are technically sound, aesthetically cohesive and appropriately structured.
 
 This includes:
@@ -67,8 +65,8 @@ Session	| Date			| In class				| Assignment(s)
 
 Your final mark will be based on:
 
-* [80% project][#project]
-* [20% blog][#blog]
+* [80% project](#project)
+* [20% blog](#blog)
 
 
 ## Project
