@@ -180,6 +180,7 @@ The template is the same, what changes is the data.
 
 
 ```php
+<?php 
 $myself = [
     "name" => "Matteo",
     "year" => 1983
@@ -190,6 +191,7 @@ function getAge($yearOfBirth) {
     $age = $thisYear - $yearOfBirth;
     return $age;
 }
+?>
 ```	
 
 ```html
@@ -209,7 +211,7 @@ function getAge($yearOfBirth) {
 </p>
 ```
 
-- [ ] Make a Fakebook feed..
+- [ ] Make a *Fakebook* feed..
 
 [PHP online playground](http://www.tehplayground.com)
 
@@ -218,7 +220,7 @@ function getAge($yearOfBirth) {
 
 # Assignment
 
-Install WordPress *locally*.
+`Install WordPress locally`!
 
 Google how to do it and then blog about it.
 
