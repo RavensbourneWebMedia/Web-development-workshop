@@ -125,9 +125,6 @@ As we'll see, debugging code that executes on a server is not as straightforward
 
 It's a bit like **code [autopsy](http://en.wikipedia.org/wiki/Autopsy)**..
 
-<!--1. Install [Chrome Logger](https://craig.is/writing/chrome-logger) (on Chrome, obviously).-->
-
-
 1. Somewhere in your **local Web server root folder** (see [above](#your-turn)), create a new file and call it **`index.php`**
 2.  In your new PHP file, write something like 
 
@@ -138,17 +135,13 @@ It's a bit like **code [autopsy](http://en.wikipedia.org/wiki/Autopsy)**..
 	  		<title>Hello PHP</title>
 		</head>
 		<body>
-        <?php
-          echo 'Hello Ravensbourne!';   
-        ?>
+        <h1><?php print('Hello'); ?></h1>
+        <h2><?php $name = "Matteo"; print($name); ?></h2>
 		</body>
 	</html>
 	```
 3. Save and navigate to that file in your browser.
 4. What do you see?	
-
-<!--* Download [ChromePHP](https://github.com/ccampbell/chromephp) and copy `ChromePhp.php` into the same folder as your `index.php`-->
- 
 5. At the beginning of your `index.php` insert the following lines (make sure there are no spaces at the beginning of the file)
 
 	```php
@@ -164,13 +157,16 @@ It's a bit like **code [autopsy](http://en.wikipedia.org/wiki/Autopsy)**..
 	?>
 	```	
 5. Save and navigate to that file in your browser. If you're on Brackets, don't use the LivePreview button - instead, just open your folder in a normal Chrome tab, eg `http://localhost/hello-php`.
+6. Open the Console and refresh the page. What do you see?
 
+
+<!--1. Install [Chrome Logger](https://craig.is/writing/chrome-logger) (on Chrome, obviously).-->
+
+<!--* Download [ChromePHP](https://github.com/ccampbell/chromephp) and copy `ChromePhp.php` into the same folder as your `index.php`-->
+ 
 <!--* Make sure you click the extension icon to enable logging for the current tab's domain. 
 
 	![](https://craig.global.ssl.fastly.net/img/chromelogger/toggle.gif)-->
-	
-6. Open the Console and refresh the page. What do you see?
-
 
 <!-- 
 What about these? 
