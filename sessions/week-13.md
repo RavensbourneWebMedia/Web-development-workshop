@@ -125,8 +125,10 @@ As we'll see, debugging code that executes on a server is not as straightforward
 
 It's a bit like **code [autopsy](http://en.wikipedia.org/wiki/Autopsy)**..
 
-1. Install [Chrome Logger](https://craig.is/writing/chrome-logger) (on Chrome, obviously).
-*  Somewhere in your **local Web server root folder** (see [above](#your-turn)), create a new file and call it **`index.php`**
+<!--1. Install [Chrome Logger](https://craig.is/writing/chrome-logger) (on Chrome, obviously).-->
+
+
+1. Somewhere in your **local Web server root folder** (see [above](#your-turn)), create a new file and call it **`index.php`**
 *  In your new PHP file, write something like 
 
 	```html
@@ -136,35 +138,45 @@ It's a bit like **code [autopsy](http://en.wikipedia.org/wiki/Autopsy)**..
 	  		<title>Hello PHP</title>
 		</head>
 		<body>
-	        <h1>
-	          <?php
-	            echo phpinfo();   
-	          ?>
-	        </h1>
+        <?php
+          echo 'Hello Ravensbourne!';   
+        ?>
 		</body>
 	</html>
 	```
-* Save and navigate to that file in your browser.
-* What do you see?	
-* Download [ChromePHP](https://github.com/ccampbell/chromephp) and copy `ChromePhp.php` into the same folder as your `index.php`
-* At the beginning of your `index.php` insert the following lines
+2. Save and navigate to that file in your browser.
+3. What do you see?	
+
+<!--* Download [ChromePHP](https://github.com/ccampbell/chromephp) and copy `ChromePhp.php` into the same folder as your `index.php`-->
+ 
+4. At the beginning of your `index.php` insert the following lines (make sure there are no spaces at the beginning of the file)
 
 	```php
 	<?php
-		include 'ChromePhp.php';
-		ChromePhp::log('Hello console!');
-		ChromePhp::log($_SERVER);
-		ChromePhp::warn('something went wrong!');
+		// a handy function to "console.log" PHP data
+		function consoleLog($data) {
+        if(is_array($data) || is_object($data)) {
+            echo("<script>console.log(".json_encode($data).");</script>");
+        } else {
+            echo("<script>console.log(".$data.");</script>");
+        }
+    	}	
 	?>
 	```	
-* Save and navigate to that file in your browser. If you're on Brackets, don't use the LivePreview button - instead, just open your folder in a normal Chrome tab, eg `http://localhost/hello-php`.
-* Make sure you click the extension icon to enable logging for the current tab's domain. 
+5. Save and navigate to that file in your browser. If you're on Brackets, don't use the LivePreview button - instead, just open your folder in a normal Chrome tab, eg `http://localhost/hello-php`.
 
-	![](https://craig.global.ssl.fastly.net/img/chromelogger/toggle.gif)
-* Open the Console and refresh the page. What do you see?
+<!--* Make sure you click the extension icon to enable logging for the current tab's domain. 
+
+	![](https://craig.global.ssl.fastly.net/img/chromelogger/toggle.gif)-->
+	
+6. Open the Console and refresh the page. What do you see?
 
 
-<!-- What about this? https://github.com/barbushin/php-console -->
+<!-- 
+What about these? 
+https://github.com/barbushin/php-console 
+http://raveren.github.io/kint/
+-->
 
 ### Dynamic bento boxes!
 
@@ -201,7 +213,7 @@ function getAge($yearOfBirth) {
 <p>
     <?php 
         $age = getAge($myself["year"]);
-        ChromePhp::log($age);
+        consoleLog($age);
         if ($age > 18) {
             echo("You can come in");
         } else {
@@ -213,7 +225,8 @@ function getAge($yearOfBirth) {
 
 - [ ] Make a *Fakebook* feed..
 
-[PHP online playground](http://www.tehplayground.com)
+<!--[PHP online playground](http://www.tehplayground.com), and [another](https://repl.it) -->
+
 
 
 
@@ -222,7 +235,4 @@ function getAge($yearOfBirth) {
 
 `Install WordPress locally`!
 
-Google how to do it and then blog about it.
-
-
-<!--Start your theme-->
+Google how to do it and then blog about how you went about installing WordPress on your local Web server.
