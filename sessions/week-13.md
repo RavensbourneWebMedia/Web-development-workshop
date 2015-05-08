@@ -128,7 +128,7 @@ It's a bit like **code [autopsy](http://en.wikipedia.org/wiki/Autopsy)**..
 1. Somewhere in your **local Web server root folder** (see [above](#your-turn)), create a new file and call it **`index.php`**
 2.  In your new PHP file, write something like 
 
-	```html
+	```php
 	<!DOCTYPE html>
 	<html>
 	  	<head>
@@ -204,7 +204,7 @@ function getAge($yearOfBirth) {
 ?>
 ```	
 
-```html
+```php
 <h1>
     Hello <?php echo $myself["name"]; ?>
 </h1>
