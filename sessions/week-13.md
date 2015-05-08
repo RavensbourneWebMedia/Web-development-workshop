@@ -129,7 +129,7 @@ It's a bit like **code [autopsy](http://en.wikipedia.org/wiki/Autopsy)**..
 
 
 1. Somewhere in your **local Web server root folder** (see [above](#your-turn)), create a new file and call it **`index.php`**
-*  In your new PHP file, write something like 
+2.  In your new PHP file, write something like 
 
 	```html
 	<!DOCTYPE html>
@@ -144,23 +144,23 @@ It's a bit like **code [autopsy](http://en.wikipedia.org/wiki/Autopsy)**..
 		</body>
 	</html>
 	```
-2. Save and navigate to that file in your browser.
-3. What do you see?	
+3. Save and navigate to that file in your browser.
+4. What do you see?	
 
 <!--* Download [ChromePHP](https://github.com/ccampbell/chromephp) and copy `ChromePhp.php` into the same folder as your `index.php`-->
  
-4. At the beginning of your `index.php` insert the following lines (make sure there are no spaces at the beginning of the file)
+5. At the beginning of your `index.php` insert the following lines (make sure there are no spaces at the beginning of the file)
 
 	```php
 	<?php
 		// a handy function to "console.log" PHP data
 		function consoleLog($data) {
-        if(is_array($data) || is_object($data)) {
-            echo("<script>console.log(".json_encode($data).");</script>");
-        } else {
-            echo("<script>console.log(".$data.");</script>");
-        }
-    	}	
+			if(is_array($data) || is_object($data)) {
+				echo("<script>console.log(".json_encode($data).");</script>");
+			} else {
+				echo("<script>console.log(".$data.");</script>");
+			}
+		}	
 	?>
 	```	
 5. Save and navigate to that file in your browser. If you're on Brackets, don't use the LivePreview button - instead, just open your folder in a normal Chrome tab, eg `http://localhost/hello-php`.
