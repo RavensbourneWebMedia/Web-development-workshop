@@ -3,8 +3,8 @@
 ### Today, Friday 15th May 2015
 
 1. [Meet WordPress](#meet-wordpress)
-* WordPress templates
-* Advanced custom fields
+* [Pimp your WordPress](#pimp-your-wordpress) 
+* 
 
 Your [homework](#assignment)!
 
@@ -172,6 +172,43 @@ http://wp-cli.org/ is a command line interface for WordPress
 
 https://plausiblethought.net/wordpress-git-workflow/-->
 
+
+
+
+
+# Pimp your WordPress
+
+![](assets/beetle.jpg)
+
+You can turn a basic WP site into many different things
+
+![](assets/big-beetle.png)
+
+![](assets/bat-beetle.jpg)
+
+**Plugins** you should install:
+
+* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) lets you create your own data fields to make your content flexible. 
+ 	
+ 	![](http://www.advancedcustomfields.com/wp-content/themes/acf/assets/images/home-box-fields.png)
+ 	
+ 	You can customise your pages and posts with over 20 field types: text, textarea, wysiwyg, image, file, page link, post object, relationship, select, checkbox, radio buttons, date picker, true / false, repeater, flexible content, gallery and more
+
+* [Post Tags and Categories for Pages](https://wordpress.org/plugins/post-tags-and-categories-for-pages/) allows you to organise your pages with categories and tags (by default only for posts)
+ 
+* [Duplicate Post](https://wordpress.org/plugins/duplicate-post/) lets you quickly *clone* a post or page
+
+* [WP Sync DB](https://github.com/wp-sync-db/wp-sync-db) lets you push, pull, and sync database tables between WordPress sites (eg between your local WP and your client's hosted site)
+
+* [WordPress SEO](https://wordpress.org/plugins/wordpress-seo/) helps you write *better* content and optimise it for search engines (SEO = Search Engine Optimisation)
+
+* Any other plugins you recommend?
+
+### Your turn
+
+1. I'll show you how to create *Advanced Custom Fields* for one page 
+2. Pick a page from the site you're designing, work out its **content sections**, eg: name, images, ingredients, method, serving suggestions, dietary requirements 
+3. Using *Advanced Custom Fields*, create fields for the content sections of your chosen page
 
 
 # Crafting WordPress templates
