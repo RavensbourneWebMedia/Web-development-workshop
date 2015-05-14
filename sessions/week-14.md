@@ -29,6 +29,7 @@ Have you installed it **locally**?
 
 	- [ ] True	
 	- [ ] False  
+	
 	<!-- False -->
 * WordPress is a
 
@@ -36,6 +37,7 @@ Have you installed it **locally**?
 	- [ ] Content Management Service
 	- [ ] Content Management System 
 	- [ ] Code Management System
+	
 	<!-- Content Management System -->
 * WordPress is written in 
 
