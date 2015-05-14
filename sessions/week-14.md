@@ -42,16 +42,16 @@ Have you installed it **locally**?
 	
 	
 	<!-- Content Management System -->
-* WordPress is written in 
+* WordPress is **written** in 
 
+	- [ ] stone
 	- [ ] HTML
 	- [ ] PHP
 	- [ ] JavaScript
 	- [ ] Python
-	- [ ] stone
 
 	<!-- PHP -->
-* WordPress stores data in a 
+* WordPress **stores data** in a 
 
 	- [ ] MongoDB database
 	- [ ] MySQL database
@@ -60,7 +60,7 @@ Have you installed it **locally**?
 	- [ ] Google Spreadsheet
 
 	<!-- MySQL -->	
-* The main administration screen is the
+* The main **administration screen** is the
 
 	- [ ] Toolbar
 	- [ ] Theme
@@ -68,15 +68,15 @@ Have you installed it **locally**?
 	- [ ] Dashboard
 	
 	<!-- Dashboard -->
-* To access your *local* WP Dashboard, you go to
+* To access your ***local* WP Dashboard** you go to
 	
-	- [ ] localhost/wp/dashboard
-	- [ ] localhost/admin/wp-admin
-	- [ ] localhost/wp-admin
-	- [ ] localhost/admin-wp
+	- [ ] `localhost/wp/dashboard`
+	- [ ] `localhost/admin/wp-admin`
+	- [ ] `localhost/wp-admin`
+	- [ ] `localhost/admin-wp`
 	
 	<!--  .../wp-admin -->
-* In WordPress you can add these types of *content* 
+* In WordPress you can add these **types of *content***
 
 	- [ ] Posts and Posters
 	- [ ] Pages and Posts
@@ -84,7 +84,7 @@ Have you installed it **locally**?
 	- [ ] Messages and Posts
 	
 	<!-- Pages and Posts -->
-* What is a *post* in WordPress?
+* What is a ***post*** in WordPress?
 	
 	- [ ] A blog post
 	- [ ] A collection of links
@@ -92,14 +92,15 @@ Have you installed it **locally**?
 	- [ ] An entry such as *about*, *privacy policy*, *legal disclaimers* etc
 	
 	<!-- blog post & reverse chronological order -->
-* What is a *page* in WordPress?
+* What is a ***page*** in WordPress?
 	
 	- [ ] A blog post
 	- [ ] A collection of posts
-	- [ ] A hierarchical, timeless, *one-off* entry	- [ ] A list of tags
+	- [ ] A hierarchical, timeless, *one-off* entry
+	- [ ] A list of tags
 
 	<!-- one-off -->
-* What does WP call the images, videos, audios and files you upload and use in your posts and pages?
+* What does WP call the images, videos, audios and files you **upload** and use in your posts and pages?
 
 	- [ ] Archives
 	- [ ] Plugins
@@ -108,15 +109,7 @@ Have you installed it **locally**?
 	- [ ] Extensions
 	
 	<!-- media-->
-* To extend the functionality of your WordPress you add:
-	
-	- [ ] Tools
-	- [ ] Apps
-	- [ ] Plugins
-	- [ ] Thingies
-
-	<!-- plug-in -->
-* A *tag* in WordPress is
+* What is a ***tag*** in WordPress?
  
 	- [ ] A bit of HTML
 	- [ ] A piece of graffiti featuring text
@@ -125,6 +118,15 @@ Have you installed it **locally**?
 	- [ ] A loose lock of hair
 	
 	<!-- keyword -->
+* To **extend the functionality** of your WordPress you add:
+	
+	- [ ] Tools
+	- [ ] Apps
+	- [ ] Plugins
+	- [ ] Thingies
+
+	<!-- plug-in -->
+
 
 
 <!--
