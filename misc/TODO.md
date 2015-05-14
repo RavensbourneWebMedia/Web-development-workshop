@@ -107,9 +107,10 @@ Teaching computers how to play by your rules?
 
 * Doug's guide on hosting stuff on GitHub (via GitHub pages) http://dougbelshaw.com/blog/2015/01/04/github-pages
 
-## POP
+## Principles of Programming
 
-* https://github.com/matteomenapace/learnable-programming-demo
+* [Choc: learnable programming demo](https://github.com/matteomenapace/learnable-programming-demo)
+* [Code Club on algorithms to make tea, programming, variables etc](http://training.codeclub.org.uk/modules/coding-and-programming/video)
 
 ## JS
 
