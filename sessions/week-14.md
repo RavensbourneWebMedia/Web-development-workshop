@@ -29,17 +29,14 @@ Have you installed it **locally**?
 
 	- [ ] True	
 	- [ ] False  
-	
 	<!-- False -->
-
 * WordPress is a
 
-	[ ] Communication Management System
-	[ ] Content Management Service
-	[ ] Content Management System <!---->
-	[ ] Code Management System
-
-
+	- [ ] Communication Management System
+	- [ ] Content Management Service
+	- [ ] Content Management System 
+	- [ ] Code Management System
+	<!-- Content Management System -->
 * WordPress is written in 
 
 	[ ] HTML
