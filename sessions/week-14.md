@@ -25,10 +25,10 @@ Have you installed it **locally**?
 
 ### Quiz
 
-* wordpress**.com** and wordpress**.org** are the same
+wordpress**.com** and wordpress**.org** are the same
 
-	[ ] True	
-	[ ] False <!---->
+- [ ] True	
+- [ ] False  <!---->
 
 
 * WordPress is a
