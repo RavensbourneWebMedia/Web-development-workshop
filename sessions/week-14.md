@@ -28,15 +28,18 @@ Have you installed it **locally**?
 1. wordpress**.com** and wordpress**.org** are the same
 
 	- [ ] True	
-	- [ ] False  
+	- [ ] False 
+	- [ ] It depends 
 	
 	<!-- False -->
 * WordPress is a
 
-	- [ ] Communication Management System
+	- [ ] Community Management System
 	- [ ] Content Management Service
+	- [ ] Cattle Milking Society
 	- [ ] Content Management System 
 	- [ ] Code Management System
+	
 	
 	<!-- Content Management System -->
 * WordPress is written in 
@@ -45,8 +48,18 @@ Have you installed it **locally**?
 	- [ ] PHP
 	- [ ] JavaScript
 	- [ ] Python
+	- [ ] stone
 
 	<!-- PHP -->
+* WordPress stores data in a 
+
+	- [ ] MongoDB database
+	- [ ] MySQL database
+	- [ ] bucket
+	- [ ] Microsoft SQL database
+	- [ ] Google Spreadsheet
+
+	<!-- MySQL -->	
 * The main administration screen is the
 
 	- [ ] Toolbar
@@ -55,65 +68,80 @@ Have you installed it **locally**?
 	- [ ] Dashboard
 	
 	<!-- Dashboard -->
-* In WordPress you can add these types of content 
+* To access your *local* WP Dashboard, you go to
+	
+	- [ ] localhost/wp/dashboard
+	- [ ] localhost/admin/wp-admin
+	- [ ] localhost/wp-admin
+	- [ ] localhost/admin-wp
+	
+	<!--  .../wp-admin -->
+* In WordPress you can add these types of *content* 
 
-	- [ ] Posts and Suggestions
-	- [ ] Suggestions and Pages
+	- [ ] Posts and Posters
 	- [ ] Pages and Posts
 	- [ ] Pages and Messages
 	- [ ] Messages and Posts
 	
 	<!-- Pages and Posts -->
-* What is a page in WordPress?
+* What is a *post* in WordPress?
 	
 	- [ ] A blog post
-	- [ ] A collection of external files
-	- [ ] General content information about the site
-	- [ ] A list of tags
-
-	<!-- general content -->
-* When you need to access your WP Dashboard, which URL do you use?
+	- [ ] A collection of links
+	- [ ] A content entry listed in reverse chronological order	
+	- [ ] An entry such as *about*, *privacy policy*, *legal disclaimers* etc
 	
-	- [ ] www.yourdomain.com/wp/dashboard
-	- [ ] www.yourdomain.com/admin-wp
-	- [ ] www.yourdomain.com/admin/wp-admin
-	- [ ] www.yourdomain.com/wp-admin
+	<!-- blog post & reverse chronological order -->
+* What is a *page* in WordPress?
+	
+	- [ ] A blog post
+	- [ ] A collection of posts
+	- [ ] A hierarchical, timeless, *one-off* entry	- [ ] A list of tags
 
-	<!--  .../wp-admin -->
-* You can easily add functionality to your WordPress blog by adding:
-	- [ ] Tool
-	- [ ] Apps
-	- [ ] Plug-in
-	- [ ] Adapter
+	<!-- one-off -->
+* What does WP call the images, videos, audios and files you upload and use in your posts and pages?
 
-	<!-- plug-in -->
-* Which is/are the images, videos, recordings, and files you upload and use in your blog?
-
-	- [ ] Add-Ons
 	- [ ] Archives
 	- [ ] Plugins
+	- [ ] Stuff
 	- [ ] Media
 	- [ ] Extensions
 	
 	<!-- media-->
-* When we talk about "Post Tags" in WordPress what do we mean?
-	- [ ] A structural element in any markup language
-	- [ ] Keywords that classify concepts within the content
-	- [ ] Shortcodes
-	- [ ] Tags added to your theme via the editor after the theme is installed.
-	- [ ] Valid HTML Markup styles with CSS
+* To extend the functionality of your WordPress you add:
+	
+	- [ ] Tools
+	- [ ] Apps
+	- [ ] Plugins
+	- [ ] Thingies
+
+	<!-- plug-in -->
+* A *tag* in WordPress is
+ 
+	- [ ] A bit of HTML
+	- [ ] A piece of graffiti featuring text
+	- [ ] A keyword to organise your content
+	- [ ] A shortcode
+	- [ ] A loose lock of hair
+	
+	<!-- keyword -->
+
+
+<!--
 * Will your WordPress blog have the same visual styling as the administration panel?
 	
 	- [ ] Only if the back-end code is edited to allow it
 	- [ ] No
 	- [ ] Yes
 	- [ ] Only if an option for it is checked off during registration
+
 * Which function should be used to include header.php template file?
 	
 	- [ ] `return_header`
 	- [ ] `the_header`
 	- [ ] `wp_header`
 	- [ ] `get_header`
+
 * Which required file in Wordpress has the markup for blog posts (i.e. "the loop")?
 	- [ ] main.php
 	- [ ] post.php
@@ -123,7 +151,7 @@ Have you installed it **locally**?
 
 
 
-<!-- quiz questions adapted from http://smarterer.com/tests/wordpress-user -->
+ quiz questions adapted from http://smarterer.com/tests/wordpress-user -->
 
 
 
