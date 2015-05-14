@@ -41,98 +41,85 @@ Have you installed it **locally**?
 	<!-- Content Management System -->
 * WordPress is written in 
 
-	[ ] HTML
-	[ ] PHP
-	[ ] JavaScript
-	[ ] Python
+	- [ ] HTML
+	- [ ] PHP
+	- [ ] JavaScript
+	- [ ] Python
 
-
+	<!-- PHP -->
 * The main administration screen is the
 
-	[ ] Toolbar
-	[ ] Theme
-	[ ] Login
-	[ ] Dashboard
-
+	- [ ] Toolbar
+	- [ ] Theme
+	- [ ] Login
+	- [ ] Dashboard
+	
+	<!-- Dashboard -->
 * In WordPress you can add these types of content 
 
-	[ ] Posts and Suggestions
-	[ ] Suggestions and Pages
-	[ ] Pages and Posts
-	[ ] Pages and Messages
-	[ ] Messages and Posts
+	- [ ] Posts and Suggestions
+	- [ ] Suggestions and Pages
+	- [ ] Pages and Posts
+	- [ ] Pages and Messages
+	- [ ] Messages and Posts
+	
+	<!-- Pages and Posts -->
+* What is a page in WordPress?
+	
+	- [ ] A blog post
+	- [ ] A collection of external files
+	- [ ] General content information about the site
+	- [ ] A list of tags
 
-What is a page in WordPress?
-A blog post
-A collection of external files
-General content information about the site
-+145
-PTS
-A list of tags
+	<!-- general content -->
+* When you need to access your WP Dashboard, which URL do you use?
+	
+	- [ ] www.yourdomain.com/wp/dashboard
+	- [ ] www.yourdomain.com/admin-wp
+	- [ ] www.yourdomain.com/admin/wp-admin
+	- [ ] www.yourdomain.com/wp-admin
 
-Company information and accessibility statements are best written as a
-Post
-declaration
-comment
-Page
-link
+	<!--  .../wp-admin -->
+* You can easily add functionality to your WordPress blog by adding:
+	- [ ] Tool
+	- [ ] Apps
+	- [ ] Plug-in
+	- [ ] Adapter
 
+	<!-- plug-in -->
+* Which is/are the images, videos, recordings, and files you upload and use in your blog?
 
-When you need to access your WP Dashboard, which URL do you use?
-www.yourdomain.com/wp/dashboard
-www.yourdomain.com/admin-wp
-www.yourdomain.com/admin/wp-admin
-www.yourdomain.com/wp-admin
-
-
-You can easily add functionality to your WordPress blog by adding a:
-Tool
-Apps
-Plug-in
-Adapter
-
-
-Which is/are the images, videos, recordings, and files you upload and use in your blog?
-Add-Ons
-Archives
-Plugins
-Media
-extensions
-
-
-
-
-
-When we talk about "Post Tags" in WordPress what do we mean?
-A structural element in any markup language
-Keywords that classify concepts within the content
-Shortcodes
-Tags added to your theme via the editor after the theme is installed.
-Valid XML/HTML Markup styles with CSS
-
-
-
-
-Will your WordPress blog have the same visual styling as the administration panel?
-Only if the back-end code is edited to allow it
-No
-Yes
-Only if an option for it is checked off during registration
-
-
-Which function should be used to include header.php template file?
-return_header
-the_header
-wp_header
-`get_header`
-
-
-Which required file in Wordpress has the markup for blog posts (i.e. "the loop")?
-main.php
-post.php
-template.php
-blog.php
-index.php
+	- [ ] Add-Ons
+	- [ ] Archives
+	- [ ] Plugins
+	- [ ] Media
+	- [ ] Extensions
+	
+	<!-- media-->
+* When we talk about "Post Tags" in WordPress what do we mean?
+	- [ ] A structural element in any markup language
+	- [ ] Keywords that classify concepts within the content
+	- [ ] Shortcodes
+	- [ ] Tags added to your theme via the editor after the theme is installed.
+	- [ ] Valid HTML Markup styles with CSS
+* Will your WordPress blog have the same visual styling as the administration panel?
+	
+	- [ ] Only if the back-end code is edited to allow it
+	- [ ] No
+	- [ ] Yes
+	- [ ] Only if an option for it is checked off during registration
+* Which function should be used to include header.php template file?
+	
+	- [ ] `return_header`
+	- [ ] `the_header`
+	- [ ] `wp_header`
+	- [ ] `get_header`
+* Which required file in Wordpress has the markup for blog posts (i.e. "the loop")?
+	- [ ] main.php
+	- [ ] post.php
+	- [ ] template.php
+	- [ ] blog.php
+	- [ ] index.php
 
 
 
@@ -140,7 +127,7 @@ index.php
 
 
 
-[WP plugin for Chrome Logger](https://github.com/ravinderk/wp-chrome-logger)
+<!--[WP plugin for Chrome Logger](https://github.com/ravinderk/wp-chrome-logger)
 
 [WP Debug Objects](https://github.com/bueltge/Debug-Objects)
 
@@ -153,7 +140,7 @@ http://ftploy.com/ tracks a Git repo and deploys automatically
 
 http://wp-cli.org/ is a command line interface for WordPress
 
-https://plausiblethought.net/wordpress-git-workflow/
+https://plausiblethought.net/wordpress-git-workflow/-->
 
 
 
