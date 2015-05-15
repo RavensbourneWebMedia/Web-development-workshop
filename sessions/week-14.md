@@ -23,6 +23,9 @@ Have you installed it **locally**?
 * What worked? What didn't?
 * What have you learned? 
 
+- [ ] Show what the *success* pages look like
+
+
 ### Quiz
 
 1. wordpress**.com** and wordpress**.org** are the same
@@ -193,6 +196,8 @@ You can turn a basic WP site into many different things
  	![](http://www.advancedcustomfields.com/wp-content/themes/acf/assets/images/home-box-fields.png)
  	
  	You can customise your pages and posts with over 20 field types: text, textarea, wysiwyg, image, file, page link, post object, relationship, select, checkbox, radio buttons, date picker, true / false, repeater, flexible content, gallery and more
+ 	
+ 	[Repeater Field](http://www.advancedcustomfields.com/add-ons/repeater-field/) is also very useful (not free, but worth the little fee if you're building a site for clients, or even for yourself, or friends)
 
 * [Post Tags and Categories for Pages](https://wordpress.org/plugins/post-tags-and-categories-for-pages/) allows you to organise your pages with categories and tags (by default only for posts)
  
