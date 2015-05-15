@@ -51,11 +51,11 @@ Session	| Date			| In class				| Assignment(s)
 [9](sessions/week-09.md)		| **Mon Mar 9th**	| Formative Assessment | Action plan (revised)
 [10](sessions/week-10.md)		| Fri Apr 17th	| POP (principles of programming)<br>Meet JavaScript (and  jQuery) | [jQuery challenge](sessions/week-10.md#challenge)
 [11](sessions/week-11.md)		| Fri Apr 24th	| Building blocks of programming<br>APIs | [HTML+CSS wireframes](sessions/week-11.md#assignment)
-[12](sessions/week-12.md)		| Fri May 1st	| WordPress 1/4 | 
-[13](sessions/week-13.md)		| Fri May 8th	| WordPress 2/4 | 
-[14](sessions/week-14.md)		| Fri May 15th	| WordPress 3/4 (templates) | 
-[15](sessions/week-15.md)		| Fri May 22nd	| WordPress 4/4 (themes) | 
-[16](sessions/week-16.md)		| Fri May 29th	| How to buy a domain and host a website | 
+[12](sessions/week-12.md)		| Fri May 1st	| Google Maps API<br>Debugging challenge | [Blog about debugging](sessions/week-12.md#tasks)
+[13](sessions/week-13.md)		| Fri May 8th	| Programming on the server<br>Meet PHP | [Install WordPress](sessions/week-13.md#assignment)
+[14](sessions/week-14.md)		| Fri May 15th	| WordPress 1/3 (templates) | 
+[15](sessions/week-15.md)		| Fri May 22nd	| WordPress 2/3 (themes) | 
+[16](sessions/week-16.md)		| Fri May 29th	| WordPress 3/3 (plugins) | 
 [17](sessions/week-17.md)		| Fri Jun 5th	| Tutorials | Learning outcomes
 [18](sessions/week-18.md)		| **Fri Jun 12th**	| Summative presentation and hand-in | Unit feedback form
 
