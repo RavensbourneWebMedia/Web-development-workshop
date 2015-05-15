@@ -62,15 +62,15 @@ Yes!
 
 That's what **local development** refers to. It's the process of building websites or apps from the comfort of a *virtual server*, and not needing to be connected to the Internet in order to run the *back-end* of your websites/apps.
 
-Web server applications (pick one):
+Web server applications (pick **MAMP**):
 
-1. [XAMP](https://www.apachefriends.org) is for Mac, Windows and Linux <sup>RECOMMENDED</sup>
-* [MAMP](https://www.mamp.info/en) is for Mac (well, now for Win too)
-* [WAMP](http://www.wampserver.com/en/#wampserver-64-bits-php-5-3) is for Windows
+1. [**MAMP**](https://www.mamp.info/en) is for Mac (well, now for Windowss too) <sup>RECOMMENDED</sup> 
+* [XAMP](https://www.apachefriends.org) is for Mac, Windows and Linux 
+* [WAMP](http://www.wampserver.com/en/#wampserver-64-bits-php-5-3) is for Windows only (use it at your own peril)
 
-#### Q: what do you think *AMP stand for?
+##### Q: what do you think *AMP stand for?
 
-[Vagrant](https://www.vagrantup.com/downloads.html) + [VirtualBox](https://www.virtualbox.org/wiki/Downloads) is also cool.
+<!--[Vagrant](https://www.vagrantup.com/downloads.html) + [VirtualBox](https://www.virtualbox.org/wiki/Downloads) is also cool.-->
 
 <!-- 
 [vccw](http://vccw.cc) 
