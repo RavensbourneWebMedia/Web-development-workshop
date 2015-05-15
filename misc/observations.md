@@ -158,6 +158,52 @@ Banned words
 
 Codio experiment didn't go well: it doesn't offer a live preview, and what's more frustrating it sometimes stops auto-saving.
 
+# Session 14
+
+### FB quiz went well
+
+Quiz questions probably too easy (could go faster) but the group chat experiment worked, at least it got participation up. 
+
+Some serious `multitaskers` (or simply they can't focus for more than 30 seconds on anything) in the room, still need to keep them on their toes by calling out their names and asking them questions
+
+### Plugins
+
+People liked the beetle analogy.
+
+Should get them to install a couple of plugins before ACF
+
+ACF and Repeater: how to make a case for it? Maybe couple of examples of unstructured page vs tidy form
+
+Should have showed them a couple of field groups (recipe + one lucky grabber)
+
+### Themes
+
+Should make a **super-simple ultra-barebones** theme (codename `PressWord`) and show people how to import their wireframes and start converting them.
+
+Theme would include `skeleton` and `bootstrap`, as well as the function `consoleLog`
+
+> HTML island in a PHP ocean :)
+
+Shouldn't have asked them to download a new theme, but we all start from the same.
+
+### Homework
+
+Create custom fields appropriate to your website
+
+Start moving your HTML wireframes into WP (give a couple of pointers, eg header/content/footer)
+
+
+
+
+
+# General
+
+* Start thinking about **how long** each part of the day may take
+
+* Split workshops in two halves:
+
+	1. Everybody does the same thing: same apps (eg MAMP), same tech (eg: WP theme and plugins) and same content (eg: recipe)
+	2. We let *fast learners* experiment and troubleshoot with the others 
 
 
 
@@ -182,8 +228,11 @@ Codio experiment didn't go well: it doesn't offer a live preview, and what's mor
 
 # Briefs
 
-## From `redesign a bad website` to `uglify a good website`? 
+### From `redesign a bad website` to `uglify a good website`? 
 
 See [this essay](http://vcu.sagepub.com/content/13/3/314.full.pdf+html) 
 
 > Internet Ugly is an imposition of messy humanity upon an online world of smooth gradients, blemish-correcting Photoshop, and AutoCorrect. It exploits tools meant to smooth and beautify, using them to muss and distort. 
+
+### Do cool stuff
+
