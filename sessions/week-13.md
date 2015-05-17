@@ -147,12 +147,12 @@ It's a bit like **code [autopsy](http://en.wikipedia.org/wiki/Autopsy)**..
 	```php
 	<?php
 		// a handy function to "console.log" PHP data
-		function consoleLog($data) {
-			if(is_array($data) || is_object($data)) {
-				echo("<script>console.log(".json_encode($data).");</script>");
-			} else {
-				echo("<script>console.log(".$data.");</script>");
-			}
+		function consoleLog($data) 
+		{
+			if (is_array($data) || is_object($data)) $data = json_encode($data);
+			else if (is_string($data)) $data = '"' . $data . '"';
+			
+			echo('<script>console.log(' . $data . ');</script>');
 		}	
 	?>
 	```	
