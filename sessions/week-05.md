@@ -98,6 +98,8 @@ From the [previous session's assignment](https://github.com/RavensbourneWebMedia
 
 # Grid systems
 
+<!--- [Grid by example](http://gridbyexample.com)-->
+
 Look around you at all the things that are organised in grids. 
 
 ### What is a grid system?
