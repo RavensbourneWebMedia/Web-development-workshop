@@ -214,7 +214,7 @@ You can turn a basic WP site into many different things
 
 
 
-# Advanced Custom Fields in action!
+### Advanced Custom Fields in action!
 
 I'll show you how to use [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) to structure the data for a recipe.
 
@@ -255,20 +255,20 @@ By separating out our content with ACF, we make our content more **flexible** an
 
 > ![](assets/acf-repeater-installed.gif)
 
-![](assets/recipe-custom-fields.gif) 
+![](assets/acf-recipe-fields.gif) 
 
 
 
 # WordPress anatomy
 
-Pick a theme that suits your branding, or your choice of framework, eg:
+<!--Pick a theme that suits your branding, or your choice of framework, eg:
 
 * [Bootstrap](https://www.google.co.uk/webhp?#q=bootstrap+wp+theme+free)
 * [Foundation](https://www.google.co.uk/webhp?#q=foundation+wp+theme+free), [Joints](http://jointswp.com/)
 * [Roots](https://roots.io/)
 * [Underscores](http://underscores.me/)
 
-Install your chosen theme to your local WP
+Install your chosen theme to your local WP-->
 
 ### How does WP generate pages?
 
@@ -281,7 +281,7 @@ Install your chosen theme to your local WP
 
 # Templating a recipe
 
-In your theme folder (`wp-content/themes/YOUR_THEME_NAME`), make a new file and call it `template-recipe.php` 
+In your active theme folder (`wp-content/themes/YOUR_ACTIVE_THEME_NAME`), make a new file and call it `template-recipe.php` 
 
 ```php
 <?php
@@ -368,6 +368,13 @@ get_header(); ?>
 <?php get_footer(); ?>
 ```
 
+> **HEADS UP! **
+
+> In Advanced Custom Fields make sure that **Recipe Page** is  selected as the template to show *recipe fields*
+
+> ![](assets/acf-recipe-rules.gif)
+
+
 
 
 # Assignments
@@ -380,7 +387,7 @@ get_header(); ?>
 
 ### Template
 
-In your WP theme, make a *template* for your chosen page and get it to display all the custom fields for that specific page.
+In your active WP theme, make a *template* for your chosen page and get it to display all the custom fields for that specific page.
 
 See how we created a [template for a recipe above](#templating-a-recipe).
 
