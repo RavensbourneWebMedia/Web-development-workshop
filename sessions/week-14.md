@@ -4,9 +4,11 @@
 
 1. [Meet WordPress](#meet-wordpress)
 * [Pimp your WordPress](#pimp-your-wordpress) 
+* [Advanced Custom Fields in action](#advanced-custom-fields-in-action)
 * [WordPress anatomy](#wordpress-anatomy)
+* [WP templates in action](#templating-a-recipe)
 
-Your [homework](#assignment)!
+Your [homework](#assignments)!
 
 
 
@@ -189,15 +191,15 @@ You can turn a basic WP site into many different things
 
 ![](assets/bat-beetle.jpg)
 
-**Plugins** you should install:
+### **Plugins** you should install
 
-* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) lets you create your own data fields to make your content flexible. 
+* [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) lets you create your own data fields to make your **content flexible** and your **data well-structured**. 
  	
- 	![](http://www.advancedcustomfields.com/wp-content/themes/acf/assets/images/home-box-fields.png)
+ 	![](assets/acf-plugin.gif)
  	
- 	You can customise your pages and posts with over 20 field types: text, textarea, wysiwyg, image, file, page link, post object, relationship, select, checkbox, radio buttons, date picker, true / false, repeater, flexible content, gallery and more
+ 	> You can customise your pages and posts with over 20 field types: text, textarea, wysiwyg, image, file, page link, post object, relationship, select, checkbox, radio buttons, date picker, true / false, repeater, flexible content, gallery and more
  	
- 	[Repeater Field](http://www.advancedcustomfields.com/add-ons/repeater-field/) is also very useful (not free, but worth the little fee if you're building a site for clients, or even for yourself, or friends)
+ 	[Repeater Field](http://www.advancedcustomfields.com/add-ons/repeater-field/) is also very useful. Not free, but worth the little fee if you're building a site for clients, or even for yourself, or friends..
 
 * [Post Tags and Categories for Pages](https://wordpress.org/plugins/post-tags-and-categories-for-pages/) allows you to organise your pages with categories and tags (by default only for posts)
  
@@ -209,11 +211,52 @@ You can turn a basic WP site into many different things
 
 * Any other plugins you recommend?
 
-### Your turn
 
-1. I'll show you how to create *Advanced Custom Fields* for one page 
-2. Pick a page from the site you're designing, work out its **content sections**, eg: name, images, ingredients, method, serving suggestions, dietary requirements 
-3. Using *Advanced Custom Fields*, create fields for the content sections of your chosen page
+
+
+# Advanced Custom Fields in action!
+
+I'll show you how to use [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) to structure the data for a recipe.
+
+In every **recipe** we can identify separate pieces of **data**:
+
+* recipe name
+* ingredients list
+	* ingredient name
+	* ingredient quantity
+	* picture? 	
+* method steps
+	* step description
+	* step duration?
+	* tools needed? 
+* picture(s)
+* preparation time
+* difficulty level
+* number of servings
+* etc.
+
+By **default WordPress** gives us
+
+* title
+* content
+* featured image
+
+Shoving the whole recipe in the *content* box is **not a good idea**.
+
+Using ACF we can separate out all the pieces of data that make up a recipe, making it
+
+* easier to **customise the style and layout** of our recipes (better life for designers and developers)
+* easier to ensure **consistency** across different recipes (better life for editors)
+* easier to **create and edit** recipes without tampering with code (better life for chefs and content creators) 
+
+By separating out our content with ACF, we make our content more **flexible** and our data more **portable**. 
+
+> Before proceeding, make sure that you have both ACF and  Repeater Field installed
+
+> ![](assets/acf-repeater-installed.gif)
+
+![](assets/recipe-custom-fields.gif) 
+
 
 
 # WordPress anatomy
@@ -231,17 +274,114 @@ Install your chosen theme to your local WP
 
 ![](assets/wp-theme-anatomy.jpg)
 
-### The loop
+### The *loop*
 
 [![](assets/wp-the-loop.jpg)](http://code.tutsplus.com/tutorials/a-beginners-guide-to-the-wordpress-loop--wp-20241)
 
-### Your turn
+
+# Templating a recipe
+
+In your theme folder (`wp-content/themes/YOUR_THEME_NAME`), make a new file and call it `template-recipe.php` 
+
+```php
+<?php
+/**
+ * Template Name: Recipe Page
+ */
+
+get_header(); ?>
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		<?php
+		// Start the loop.
+		while ( have_posts() ) : the_post();
+		?>	
+			<p>How many people does this recipe serve? <?php the_field('serving'); ?></p>
+			<p>How many calories? <?php the_field('calories'); ?></p>
+			<h2>Ingredients</h2>
+			<ul>
+				<!-- PHP loop through the repeater -->
+				<?php
+				// check if the repeater field has rows of data
+				if( have_rows('ingredients') ):
+				 	// loop through the rows of data
+				    while ( have_rows('ingredients') ) : the_row();
+				?>        
+				    <li> 
+			        	<?php the_sub_field('ingredient_name'); ?>
+
+			        	<?php $image = get_sub_field('ingredient_image'); ?>
+			        	<img src="<?php echo $image['url']; ?>">
+			        </li>
+					
+				<?php
+				    endwhile;
+				endif;
+				?>
+			</ul>
+
+			<h2>Method</h2>
+			<ol>
+				<!-- PHP loop through the repeater -->
+				<?php
+
+				// check if the repeater field has rows of data
+				if( have_rows('method') ):
+
+				 	// loop through the rows of data
+				    while ( have_rows('method') ) : the_row();
+
+					?>
+				        
+				        <li> <?php the_sub_field('step_instructions'); ?> </li>
+					
+					<?php
+
+				    endwhile;
+
+				else :
+
+				    // no rows found
+
+				endif;
+
+				?>
+			</ol>
+		
+			<!-- This is an island of HTML in the PHP ocean -->
+		
+		<?php
+			// If comments are open or we have at least one comment, load up the comment template.
+			/*if ( comments_open() || get_comments_number() ) :
+				comments_template();
+			endif;*/
+
+		// End the loop.
+		endwhile;
+		?>
+
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+<?php get_footer(); ?>
+```
 
 
 
+# Assignments
 
+### ACF
 
+1. Pick a page on the site you're designing.
+2. Separate out the pieces of data that make up that page
+3. Create *Advanced Custom Fields* for each data piece. See how we chopped up [custom fields for a recipe above](#advanced-custom-fields-in-action).
 
-# Assignment
+### Template
 
-- [ ] TODO
+In your WP theme, make a *template* for your chosen page and get it to display all the custom fields for that specific page.
+
+See how we created a [template for a recipe above](#templating-a-recipe).
+
+We'll review your attempts and share tips&tricks in the next session together.
