@@ -2,7 +2,40 @@
 
 ### Today, Friday 22st May 2015
 
-Crafting WordPress themes
+* Homework review
+* Wordpress anatomy
+* The *loop*
+* Crafting WordPress themes
+
+
+
+- [ ] [Anatomy of a theme](https://make.wordpress.org/training/handbook/theme-school/anatomy-of-a-theme/)
+
+- [ ] [Why you should use a WordPress starter theme](https://thethemefoundry.com/blog/wordpress-starter-theme/) (Underscores vs Sage)
+
+- [ ] [Combining Underscores With Bootstrap to Create a Theme Framework](http://code.tutsplus.com/series/combining-underscores-with-bootstrap-to-create-a-theme-framework--cms-759)
+
+
+[WHY BOOTSTRAP IS A BAD FIT FOR WORDPRESS THEMES](http://themeshaper.com/2014/08/19/why-bootstrap-is-a-bad-fit-for-wordpress-themes/)
+
+!!! [ ] [10 Free Blank WordPress Themes](http://sixrevisions.com/wordpress/blank-wordpress-themes/)
+
+Themes
+
+* [Bootstrap](https://www.google.co.uk/webhp?#q=bootstrap+wp+theme+free)
+* [Foundation](https://www.google.co.uk/webhp?#q=foundation+wp+theme+free): [Joints](http://jointswp.com/)
+* [Sage](https://roots.io/sage) is powerful and geeky, try it at your own risk (you'll have to install extra pro-tools to get it working)
+* [Underscores](http://underscores.me/)
+* [Bones](http://themble.com/bones/) is based on the [HTML5 Boilerplate](https://html5boilerplate.com/)
+* [Naked Wordpress](https://github.com/andjosh/naked-wordpress)
+* [HTML5 Blank](https://github.com/toddmotto/html5blank)
+* [HTML5 Reset theme](https://github.com/matteomenapace/HTML5-Reset-WordPress-Theme), uses `reset.css`, I think it's my favourite so far..
+
+I should suggest one
+
+
+
+
 
 
 [WP loop](http://code.tutsplus.com/tutorials/a-beginners-guide-to-the-wordpress-loop--wp-20241)
