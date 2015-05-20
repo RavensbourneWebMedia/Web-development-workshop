@@ -9,11 +9,13 @@
 * Crafting WordPress themes
 
 
+
 # Homework review
 
 * How did you break the data for your pages into *logical pieces* using [ACF](https://wordpress.org/plugins/advanced-custom-fields/)?
 * How did you display your custom fields in your templates?
 * What did you learn in the process? Share *tips&tricks*
+
 
 
 # Data design principles
@@ -154,10 +156,55 @@ If we want to change the name of a course, we can do it once on the `courses` ta
 
 
 
+# WordPress anatomy
+
+### How does WP generate pages?
+
+It all starts with the **URL**... 
+
+WordPress will look at the URL you requested and try to work out if there is a database entry that matches that URL.
+
+For example, if you request `http://localhost/about-me` WP will check if there's an entry saved as `about-me` and then use the appropriate template to generate the HTML for that entry.
+
+Here are the templates WP typically uses, depending on the entry type
+
+| Type 	| Template 	| 
+| ---		| ------		|
+| post	| wp-content/themes/YOUR_ACTIVE_THEME/**single.php** |
+| page	| wp-content/themes/YOUR_ACTIVE_THEME/**page.php** |
+| search	| wp-content/themes/YOUR_ACTIVE_THEME/**search.php** |
+| archive	| wp-content/themes/YOUR_ACTIVE_THEME/**archive.php** |
+| none of the above	| wp-content/themes/YOUR_ACTIVE_THEME/**404.php** |
+
+At its core, pretty much every template looks like this
+
+```php
+<?php
+	// grab the <head> and the first part of the <body>
+	get_header();
+	
+	// if there are entries matching the URL...
+	if ( have_posts() ) : 
+		// for each entry (aka post.. I know, confusing)
+		while ( have_posts() ) : the_post();
+			// spit out the content for this specific entry
+			the_content();
+		endwhile;
+	endif;
+	
+	// close the <body>
+	get_footer(); 
+?>
+```
+
+More about the [anatomy of a theme here](https://make.wordpress.org/training/handbook/theme-school/anatomy-of-a-theme/).
 
 
+<!--![](assets/wp-theme-anatomy.jpg)-->
 
+### The *loop*
 
+[![](assets/wp-the-loop.jpg)](http://code.tutsplus.com/tutorials/a-beginners-guide-to-the-wordpress-loop--wp-20241)
 
 
 
@@ -165,7 +212,17 @@ If we want to change the name of a course, we can do it once on the `courses` ta
 ### Templates
 
 
-- [ ] [Anatomy of a theme](https://make.wordpress.org/training/handbook/theme-school/anatomy-of-a-theme/)
+<!--Pick a theme that suits your branding, or your choice of framework, eg:
+
+* [Bootstrap](https://www.google.co.uk/webhp?#q=bootstrap+wp+theme+free)
+* [Foundation](https://www.google.co.uk/webhp?#q=foundation+wp+theme+free), [Joints](http://jointswp.com/)
+* [Roots](https://roots.io/)
+* [Underscores](http://underscores.me/)
+
+Install your chosen theme to your local WP-->
+
+
+
 
 - [ ] [Why you should use a WordPress starter theme](https://thethemefoundry.com/blog/wordpress-starter-theme/) (Underscores vs Sage)
 
@@ -192,9 +249,11 @@ I should suggest one
 
 
 
-[WP loop](http://code.tutsplus.com/tutorials/a-beginners-guide-to-the-wordpress-loop--wp-20241)
+
 
 [Teaching WordPress to Absolute Beginners Part 1](http://premium.wpmudev.org/blog/teaching-wordpress-to-absolute-beginners-part-1-the-build/?nlv=c&utm_expid=3606929-32.jVSGECWYSiWZJXI3ODEEGA.2)
+
+
 
 ### Lynda
 

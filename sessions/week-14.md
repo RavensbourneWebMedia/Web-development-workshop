@@ -5,7 +5,6 @@
 1. [Meet WordPress](#meet-wordpress)
 * [Pimp your WordPress](#pimp-your-wordpress) 
 * [Advanced Custom Fields in action](#advanced-custom-fields-in-action)
-* [WordPress anatomy](#wordpress-anatomy)
 * [WP templates in action](#templating-a-recipe)
 
 Your [homework](#assignments)!
@@ -257,26 +256,6 @@ By separating out our content with ACF, we make our content more **flexible** an
 
 ![](assets/acf-recipe-fields.gif) 
 
-
-
-# WordPress anatomy
-
-<!--Pick a theme that suits your branding, or your choice of framework, eg:
-
-* [Bootstrap](https://www.google.co.uk/webhp?#q=bootstrap+wp+theme+free)
-* [Foundation](https://www.google.co.uk/webhp?#q=foundation+wp+theme+free), [Joints](http://jointswp.com/)
-* [Roots](https://roots.io/)
-* [Underscores](http://underscores.me/)
-
-Install your chosen theme to your local WP-->
-
-### How does WP generate pages?
-
-![](assets/wp-theme-anatomy.jpg)
-
-### The *loop*
-
-[![](assets/wp-the-loop.jpg)](http://code.tutsplus.com/tutorials/a-beginners-guide-to-the-wordpress-loop--wp-20241)
 
 
 # Templating a recipe
