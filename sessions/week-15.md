@@ -3,16 +3,158 @@
 ### Today, Friday 22st May 2015
 
 * [Homework review](#homework-review)
-* Wordpress anatomy
+* [Data design principles](#data-design-principles)
+* [WordPress anatomy](#wordpress-anatomy)
 * The *loop*
 * Crafting WordPress themes
 
 
 # Homework review
 
-* How did you separate out the data for your pages using [ACF](https://wordpress.org/plugins/advanced-custom-fields/)?
+* How did you break the data for your pages into *logical pieces* using [ACF](https://wordpress.org/plugins/advanced-custom-fields/)?
 * How did you display your custom fields in your templates?
 * What did you learn in the process? Share *tips&tricks*
+
+
+# Data design principles
+
+### Break your data into logical pieces
+
+Also known as [1NF](http://en.wikipedia.org/wiki/First_normal_form) (first normal form). 
+	
+Bad:
+	 
+| Student | 
+| ------ |
+| Danny Base 21 |
+
+Better:
+
+| Student name | Student surname | Student age | 
+| ------ | ---	| --- |
+| Danny | Base | 21 |
+
+This way we can take specific bits of data and spit them out  wherever and however we want in our templates.
+
+Also, we could do things like `calculate the average age of our students`.
+
+<!--#### Do not overdo 1NF
+
+| Regional code | Area code | Phone number | 
+| ------ | ---	| --- |
+| +44 | 02 | 123456578 |
+
+Is it really necessary to break a phone number down that much?-->
+
+### Break it into multiple *dimensions*
+
+Using arrays, aka the [repeater field](http://www.advancedcustomfields.com/add-ons/repeater-field/).
+
+Bad:
+
+| Name | Ingredients | Method |
+| ------ | ---	| --- |
+| Banana bread | 1 banana <br>1 cup of flour <br>pinch of salt | 1. Mix dry ingredients <br>2. Mash the banana <br>3. Mix it all together <br>4. Bake it for 30 minutes | 
+| Avocado on toast | 1 avocado <br>2 slices of bread <br>squeeze of lemon | 1. Toast bread <br>2. Scoop out avocado <br>3. Spread avocado on toast <br>4. Squeeze lemon on top | 
+
+Better:
+
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Ingredients</th>
+		<th>Method</th>
+	</tr>
+	<tr>
+		<td>Banana bread</td>
+		<td>
+			<table>
+				<tr>
+					<th>Quantity</th>
+					<th>Unit</th>
+					<th>Name</th>
+				</tr>
+				<tr>
+					<td>1</td>
+					<td></td>
+					<td>banana</td>
+				</tr>
+				<tr>
+					<td>1</td>
+					<td>cup</td>
+					<td>flour</td>
+				</tr>
+				<tr>
+					<td>1</td>
+					<td>pinch</td>
+					<td>salt</td>
+				</tr>
+			</table>	
+		</td>
+		<td>
+			<table>
+				<tr>
+					<th>Order</th>
+					<th>Description</th>
+				</tr>
+				<tr>
+					<td>1</td>
+					<td>Mix dry ingredients</td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>Mash the banana</td>
+				</tr>
+				<tr>
+					<td>3</td>
+					<td>Mix it all together</td>
+				</tr>
+				<tr>
+					<td>4</td>
+					<td>Bake it for 30 minutes</td>
+				</tr>
+			</table>	
+		</td>
+	</tr>
+</table>
+
+
+### Don't repeat yourself!
+
+Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself). 
+
+> Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.
+
+Bad:
+	 
+| Name | Surname | Course | 
+| ------ | ---	| --- |
+| Danny | Base | Web Media |
+| Chris | Blogs | Web Media Ravensbourne |
+| Jordan | Scripts | Ravensbourne Web Media |
+
+Better:
+
+| ID | Name | Surname | Course | 
+| ------ | ---	| --- |
+| 1 | Danny | Base | 1 |
+| 2 | Chris | Blogs | 1 |
+| 3 | Jordan | Scripts | 1 |
+
+| ID | Title | Description | 
+| ------ | ---	| --- |
+| 1 | Web Media | Bla bla |
+| 2 | Product Design | Bla bla and blah |
+| 3 | Graphic Design | Even more bla |
+
+This way course information is stored only once in a separate table, which we can reference consistently. 
+
+If we want to change the name of a course, we can do it once on the `courses` table and then the `students` table will automatically pull the right information.
+
+
+
+
+
 
 
 
