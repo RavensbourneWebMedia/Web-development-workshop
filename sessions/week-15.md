@@ -2,11 +2,25 @@
 
 ### Today, Friday 22st May 2015
 
-* Homework review
+* [Homework review](#homework-review)
 * Wordpress anatomy
 * The *loop*
 * Crafting WordPress themes
 
+
+# Homework review
+
+* How did you separate out the data for your pages using [ACF](https://wordpress.org/plugins/advanced-custom-fields/)?
+* How did you display your custom fields in your templates?
+* What did you learn in the process? Share *tips&tricks*
+
+
+
+
+
+
+
+### Templates
 
 
 - [ ] [Anatomy of a theme](https://make.wordpress.org/training/handbook/theme-school/anatomy-of-a-theme/)
@@ -22,8 +36,6 @@
 
 Themes
 
-* [Bootstrap](https://www.google.co.uk/webhp?#q=bootstrap+wp+theme+free)
-* [Foundation](https://www.google.co.uk/webhp?#q=foundation+wp+theme+free): [Joints](http://jointswp.com/)
 * [Sage](https://roots.io/sage) is powerful and geeky, try it at your own risk (you'll have to install extra pro-tools to get it working)
 * [Underscores](http://underscores.me/)
 * [Bones](http://themble.com/bones/) is based on the [HTML5 Boilerplate](https://html5boilerplate.com/)

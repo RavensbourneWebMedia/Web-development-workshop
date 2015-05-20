@@ -368,7 +368,7 @@ get_header(); ?>
 <?php get_footer(); ?>
 ```
 
-> **HEADS UP! **
+> **HEADS UP!**
 
 > In Advanced Custom Fields make sure that **Recipe Page** is  selected as the template to show *recipe fields*
 
@@ -391,4 +391,4 @@ In your active WP theme, make a *template* for your chosen page and get it to di
 
 See how we created a [template for a recipe above](#templating-a-recipe).
 
-We'll review your attempts and share tips&tricks in the next session together.
+We'll review your attempts and share *tips&tricks* in the next session together.
