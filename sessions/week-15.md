@@ -5,8 +5,8 @@
 * [Homework review](#homework-review)
 * [Data design principles](#data-design-principles)
 * [WordPress anatomy](#wordpress-anatomy)
-* The *loop*
-* Crafting WordPress themes
+* [The *loop*](#the-loop)
+* [Crafting WordPress themes](#crafting-wordPress-themes)
 
 
 
@@ -199,7 +199,6 @@ At its core, pretty much every template looks like this
 
 More about the [anatomy of a theme here](https://make.wordpress.org/training/handbook/theme-school/anatomy-of-a-theme/).
 
-
 <!--![](assets/wp-theme-anatomy.jpg)-->
 
 ### The *loop*
@@ -209,17 +208,32 @@ More about the [anatomy of a theme here](https://make.wordpress.org/training/han
 
 
 
+# Crafting WordPress themes
+
+Download and extract [this starter theme](https://github.com/matteomenapace/LearnPress) into your `wp-content/themes` folder.
+
+* index
+* header
+* footer
+* functions
+* templates/
+
+I'll show you how to build a template for one of your pages (one lucky student).
+
+
+<!--
+
 ### Templates
 
 
-<!--Pick a theme that suits your branding, or your choice of framework, eg:
+Pick a theme that suits your branding, or your choice of framework, eg:
 
 * [Bootstrap](https://www.google.co.uk/webhp?#q=bootstrap+wp+theme+free)
 * [Foundation](https://www.google.co.uk/webhp?#q=foundation+wp+theme+free), [Joints](http://jointswp.com/)
 * [Roots](https://roots.io/)
 * [Underscores](http://underscores.me/)
 
-Install your chosen theme to your local WP-->
+Install your chosen theme to your local WP
 
 
 
@@ -251,7 +265,7 @@ I should suggest one
 
 
 
-[Teaching WordPress to Absolute Beginners Part 1](http://premium.wpmudev.org/blog/teaching-wordpress-to-absolute-beginners-part-1-the-build/?nlv=c&utm_expid=3606929-32.jVSGECWYSiWZJXI3ODEEGA.2)
+[Teaching WordPress to Absolute Beginners Part 1](http://premium.wpmudev.org/blog/teaching-wordpress-to-absolute-beginners-part-1-the-build/?nlv=c&utm_expid=3606929-32.jVSGECWYSiWZJXI3ODEEGA.2)-->
 
 
 
