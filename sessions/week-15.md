@@ -137,11 +137,15 @@ Bad:
 
 Better:
 
-| ID | Name | Surname | Course | 
+Students table
+
+| ID | Name | Surname | Course link | 
 | ------ | ---	| --- |
 | 1 | Danny | Base | 1 |
 | 2 | Chris | Blogs | 1 |
 | 3 | Jordan | Scripts | 1 |
+
+Courses table
 
 | ID | Title | Description | 
 | ------ | ---	| --- |
