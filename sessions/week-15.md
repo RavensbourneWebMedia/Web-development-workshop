@@ -225,6 +225,14 @@ Download and extract [this starter theme](https://github.com/matteomenapace/Lear
 I'll show you how to build a template for one of your pages (one lucky student).
 
 
+
+1. Add a new page > call it `Home`
+2. In Settings > Readings > Front page displays
+3. A static page 
+4. Select `Home`
+
+
+
 <!--
 
 ### Templates
