@@ -159,6 +159,7 @@ It's a bit like **code [autopsy](http://en.wikipedia.org/wiki/Autopsy)**..
 5. Save and navigate to that file in your browser. If you're on Brackets, don't use the LivePreview button - instead, just open your folder in a normal Chrome tab, eg `http://localhost/hello-php`.
 6. Open the Console and refresh the page. What do you see?
 
+<!--  http://www.sitepoint.com/debugging-xdebug-sublime-text-3/ -->
 
 <!--1. Install [Chrome Logger](https://craig.is/writing/chrome-logger) (on Chrome, obviously).-->
 
