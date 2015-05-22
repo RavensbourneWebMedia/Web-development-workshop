@@ -64,6 +64,26 @@
 
 - [ ] [Demo](http://www.filamentgroup.com/lab/weight-wait.html) showing how to reduce the *perceived* loading time of an 8MB-heavy site from 12s to 3s
 
+## PHP
+
+###  PHP lint (code syntax check)
+
+##### Brackets
+
+* https://github.com/DoersGuild/brackets-phplint
+* https://www.npmjs.com/package/com.doersguild.brackets.phplint
+* https://github.com/mikaeljorhult/brackets-php-code-quality-tools
+
+##### Sublime
+
+* https://github.com/SublimeLinter/SublimeLinter-php
+* http://stackoverflow.com/questions/24433423/php-syntax-check-in-sublime-text-editor
+* http://wasil.org/sublime-text-2-perfect-php-development-set-up
+* http://neverstopbuilding.com/sublime-plugins-for-php
+
+
+
+
 
 ## To sort out..
 
