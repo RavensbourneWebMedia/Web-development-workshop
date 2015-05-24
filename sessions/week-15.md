@@ -129,26 +129,26 @@ Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 
 #### Bad example
 	 
-| Name | Surname | Course | 
-| ------ | ---	| --- |
-| Danny | Base | <mark>Web Media |
-| Chris | Blogs | <mark>Web Media Ravensbourne |
-| Jordan | Scripts | <mark>Ravensbourne Web Media |
+| Name | Surname 	| Course | 
+| ---- | -------	| ------ |
+| Danny | Base | <mark>Web Media</mark> |
+| Chris | Blogs | <mark>Web Media Ravensbourne</mark> |
+| Jordan | Scripts | <mark>Ravensbourne Web Media</mark> |
 
 #### Better example
 
 `Students` table:
 
 | ID | Name 	| Surname 	| Course link | 
-| -- | ---		| --- 		| --------- |
-| 1 | Danny | Base | 1 |
-| 2 | Chris | Blogs | 1 |
-| 3 | Jordan | Scripts | 1 |
+| -- | ----	| ------- 	| ----------- |
+| 1 	| Danny | Base | 1 |
+| 2 	| Chris | Blogs | 1 |
+| 3 	| Jordan | Scripts | 1 |
 
 `Courses` table:
 
 | ID | Title | Description | 
-| ------ | ---	| --- |
+| -- | -----	| ----------- |
 | 1 | Web Media | Bla bla |
 | 2 | Product Design | Bla bla and blah |
 | 3 | Graphic Design | Even more bla |
