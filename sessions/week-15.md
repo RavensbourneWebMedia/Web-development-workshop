@@ -139,23 +139,23 @@ Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 
 `Students` table:
 
-| ID | Name     | Surname     | Course link | 
-| -- | ----    | -------     | ----------- |
-| 1  | Danny | Base | 1 |
-| 2  | Chris | Blogs | 1 |
-| 3  | Jordan | Scripts | 1 |
+| ID | Name | Surname | Course link 
+| -- | ---- | ------- | ----------- 
+| 1 | Danny | Base | 1 
+| 2 | Chris | Blogs | 1 
+| 3 | Jordan | Scripts | 1 
 
 `Courses` table:
 
 | ID | Title | Description | 
-| -- | -----    | ----------- |
+| -- | ----- | ----------- |
 | 1 | Web Media | Bla bla |
 | 2 | Product Design | Bla bla and blah |
 | 3 | Graphic Design | Even more bla |
 
 This way course information is stored only once in a separate table, which we can reference consistently. 
 
-If we want to change the name of a course, we can do it once on the `courses` table and then the `students` table will automatically pull the right information.
+If we want to change the name of a course, we can do it once on the `Courses` table and then the `Students` table will automatically pull the right information.
 
 
 
