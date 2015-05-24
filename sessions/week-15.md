@@ -147,27 +147,51 @@ Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
         <th>Course link </th>
     </tr>
     <tr>
-        <td>1</td>
+        <td>1gru6</td>
         <td>Danny</td>
         <td>Base</td>
-        <td>1</td>
+        <td>l4ozp</td>
+    </tr>
+    <tr>
+        <td>wof6s</td>
+        <td>Chris</td>
+        <td>Blogs</td>
+        <td>l4ozp</td>
+    </tr>
+    <tr>
+        <td>9tma2</td>
+        <td>Jordan</td>
+        <td>Scripts</td>
+        <td>l4ozp</td>
     </tr>
 </table>    
 
 
-| ID | Name | Surname | Course link 
-| -- | ---- | ------- | ----------- 
-| 1 | Danny | Base | 1 
-| 2 | Chris | Blogs | 1 
-| 3 | Jordan | Scripts | 1 
 
 `Courses` table:
 
-| ID | Title | Description | 
-| -- | ----- | ----------- |
-| 1 | Web Media | Bla bla |
-| 2 | Product Design | Bla bla and blah |
-| 3 | Graphic Design | Even more bla |
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>l4ozp</td>
+        <td>Web Media</td>
+        <td>Bla bla</td>
+    </tr>
+    <tr>
+        <td>0du4h</td>
+        <td>Product Design</td>
+        <td>Bla bla and blah</td>
+    </tr>
+    <tr>
+        <td>s82lc</td>
+        <td>Graphic Design</td>
+        <td>Even more bla</td>
+    </tr>
+</table>
 
 This way course information is stored only once in a separate table, which we can reference consistently. 
 
