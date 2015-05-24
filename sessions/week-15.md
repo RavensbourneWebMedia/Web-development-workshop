@@ -131,9 +131,9 @@ Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 	 
 | Name | Surname 	| Course | 
 | ---- | -------	| ------ |
-| Danny | Base | <mark>Web Media</mark> |
-| Chris | Blogs | <mark>Web Media Ravensbourne</mark> |
-| Jordan | Scripts | <mark>Ravensbourne Web Media</mark> |
+| Danny | Base | Web Media |
+| Chris | Blogs | Web Media Ravensbourne |
+| Jordan | Scripts | Ravensbourne Web Media |
 
 #### Better example
 
@@ -141,9 +141,9 @@ Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 
 | ID | Name 	| Surname 	| Course link | 
 | -- | ----	| ------- 	| ----------- |
-| 1 	| Danny | Base | 1 |
-| 2 	| Chris | Blogs | 1 |
-| 3 	| Jordan | Scripts | 1 |
+| 1  | Danny | Base | 1 |
+| 2  | Chris | Blogs | 1 |
+| 3  | Jordan | Scripts | 1 |
 
 `Courses` table:
 
