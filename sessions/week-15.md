@@ -23,9 +23,9 @@
 ### 1. Break your data into *logical pieces*
 
 Also known as [1NF](http://en.wikipedia.org/wiki/First_normal_form) (first normal form). 
-	
+    
 #### Bad example
-	 
+     
 | Student | 
 | ------ |
 | Danny Base 21 |
@@ -33,7 +33,7 @@ Also known as [1NF](http://en.wikipedia.org/wiki/First_normal_form) (first norma
 #### Better example
 
 | Student name | Student surname | Student age | 
-| ------ | ---	| --- |
+| ------ | ---    | --- |
 | Danny | Base | 21 |
 
 This way we can take specific bits of data and spit them out  wherever and however we want in our templates.
@@ -43,7 +43,7 @@ Also, we could do things like `calculate the average age of our students`.
 <!--#### Do not overdo 1NF
 
 | Regional code | Area code | Phone number | 
-| ------ | ---	| --- |
+| ------ | ---    | --- |
 | +44 | 02 | 123456578 |
 
 Is it really necessary to break a phone number down that much?-->
@@ -55,69 +55,69 @@ Using arrays, aka the [repeater field](http://www.advancedcustomfields.com/add-o
 #### Bad example
 
 | Recipe name | Ingredients | Method |
-| ------ | ---	| --- |
+| ------ | ---    | --- |
 | Banana bread | 1 banana <br>1 cup of flour <br>pinch of salt | 1. Mix dry ingredients <br>2. Mash the banana <br>3. Mix it all together <br>4. Bake it for 30 minutes | 
 | Avocado on toast | 1 avocado <br>2 slices of bread <br>squeeze of lemon | 1. Toast bread <br>2. Scoop out avocado <br>3. Spread avocado on toast <br>4. Squeeze lemon on top | 
 
 #### Better example
 
 <table>
-	<tr>
-		<th>Recipe name</th>
-		<th>Ingredients</th>
-		<th>Method</th>
-	</tr>
-	<tr>
-		<td>Banana bread</td>
-		<td>
-			<table>
-				<tr>
-					<th>Quantity</th>
-					<th>Unit</th>
-					<th>Name</th>
-				</tr>
-				<tr>
-					<td>1</td>
-					<td></td>
-					<td>banana</td>
-				</tr>
-				<tr>
-					<td>1</td>
-					<td>cup</td>
-					<td>flour</td>
-				</tr>
-				<tr>
-					<td>1</td>
-					<td>pinch</td>
-					<td>salt</td>
-				</tr>
-			</table>	
-		</td>
-		<td>
-			<table>
-				<tr>
-					<th>Order</th>
-					<th>Description</th>
-				</tr>
-				<tr>
-					<td>1</td>
-					<td>Mix dry ingredients</td>
-				</tr>
-				<tr>
-					<td>2</td>
-					<td>Mash the banana</td>
-				</tr>
-				<tr>
-					<td>3</td>
-					<td>Mix it all together</td>
-				</tr>
-				<tr>
-					<td>4</td>
-					<td>Bake it for 30 minutes</td>
-				</tr>
-			</table>	
-		</td>
-	</tr>
+    <tr>
+        <th>Recipe name</th>
+        <th>Ingredients</th>
+        <th>Method</th>
+    </tr>
+    <tr>
+        <td>Banana bread</td>
+        <td>
+            <table>
+                <tr>
+                    <th>Quantity</th>
+                    <th>Unit</th>
+                    <th>Name</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td></td>
+                    <td>banana</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>cup</td>
+                    <td>flour</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>pinch</td>
+                    <td>salt</td>
+                </tr>
+            </table>    
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <th>Order</th>
+                    <th>Description</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Mix dry ingredients</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Mash the banana</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Mix it all together</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Bake it for 30 minutes</td>
+                </tr>
+            </table>    
+        </td>
+    </tr>
 </table>
 
 
@@ -128,9 +128,9 @@ Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 > Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.
 
 #### Bad example
-	 
-| Name | Surname 	| Course | 
-| ---- | -------	| ------ |
+     
+| Name | Surname     | Course | 
+| ---- | -------    | ------ |
 | Danny | Base | Web Media |
 | Chris | Blogs | Web Media Ravensbourne |
 | Jordan | Scripts | Ravensbourne Web Media |
@@ -139,8 +139,8 @@ Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 
 `Students` table:
 
-| ID | Name 	| Surname 	| Course link | 
-| -- | ----	| ------- 	| ----------- |
+| ID | Name     | Surname     | Course link | 
+| -- | ----    | -------     | ----------- |
 | 1  | Danny | Base | 1 |
 | 2  | Chris | Blogs | 1 |
 | 3  | Jordan | Scripts | 1 |
@@ -148,7 +148,7 @@ Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 `Courses` table:
 
 | ID | Title | Description | 
-| -- | -----	| ----------- |
+| -- | -----    | ----------- |
 | 1 | Web Media | Bla bla |
 | 2 | Product Design | Bla bla and blah |
 | 3 | Graphic Design | Even more bla |
@@ -172,13 +172,13 @@ For example, if you request `http://localhost/about-me` WP will check if there's
 
 Here are the templates WP typically uses, depending on the entry type
 
-| Type 	| Template 	| 
-| ---		| ------		|
-| post	| wp-content/themes/YOUR_ACTIVE_THEME/**single.php** |
-| page	| wp-content/themes/YOUR_ACTIVE_THEME/**page.php** |
-| search	| wp-content/themes/YOUR_ACTIVE_THEME/**search.php** |
-| archive	| wp-content/themes/YOUR_ACTIVE_THEME/**archive.php** |
-| none of the above	| wp-content/themes/YOUR_ACTIVE_THEME/**404.php** |
+| Type     | Template     | 
+| ---        | ------        |
+| post    | wp-content/themes/YOUR_ACTIVE_THEME/**single.php** |
+| page    | wp-content/themes/YOUR_ACTIVE_THEME/**page.php** |
+| search    | wp-content/themes/YOUR_ACTIVE_THEME/**search.php** |
+| archive    | wp-content/themes/YOUR_ACTIVE_THEME/**archive.php** |
+| none of the above    | wp-content/themes/YOUR_ACTIVE_THEME/**404.php** |
 
 ### The *loop*
 
@@ -186,30 +186,30 @@ At its core, pretty much every WP template looks like this
 
 ```php
 <?php
-	// grab the <head> and the first part of the <body>
-	get_header();
-	
-	// if there are "posts" matching the URL...
-	if ( have_posts() ) : 
+    // grab the <head> and the first part of the <body>
+    get_header();
+    
+    // if there are "posts" matching the URL...
+    if ( have_posts() ) : 
 
-		// start looping through each "post"
-		while ( have_posts() ) : the_post();
-			
-			// spit out the title for the current "post"
-			the_title();
-			
-			// spit out the content for the current "post"
-			the_content();
-			
-			// you can spit out other bits of information about  the current "post"
-			// see https://codex.wordpress.org/The_Loop
-			
-		endwhile; // end of the loop 
-		
-	endif;
-	
-	// close the <body>
-	get_footer(); 
+        // start looping through each "post"
+        while ( have_posts() ) : the_post();
+            
+            // spit out the title for the current "post"
+            the_title();
+            
+            // spit out the content for the current "post"
+            the_content();
+            
+            // you can spit out other bits of information about  the current "post"
+            // see https://codex.wordpress.org/The_Loop
+            
+        endwhile; // end of the loop 
+        
+    endif;
+    
+    // close the <body>
+    get_footer(); 
 ?>
 ```
 
@@ -236,8 +236,8 @@ I'll show you how to build a template for one of your pages (one lucky student).
 2. Sorting out `header.php` and `footer.php` first.
 3. Home page:
 
-	1. Add a new page and call it `Home`
-	2. In `Settings` > `Readings` > `Front page displays` tick `A static page` and select `Home` (the page you just created)
+    1. Add a new page and call it `Home`
+    2. In `Settings` > `Readings` > `Front page displays` tick `A static page` and select `Home` (the page you just created)
 
 
 
