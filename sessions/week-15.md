@@ -131,9 +131,9 @@ Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
      
 | Name | Surname     | Course | 
 | ---- | -------    | ------ |
-| Danny | Base | Web Media |
-| Chris | Blogs | Web Media Ravensbourne |
-| Jordan | Scripts | Ravensbourne Web Media |
+| Danny | Base | *Web Media* |
+| Chris | Blogs | *Web Media Ravensbourne* |
+| Jordan | Scripts | *Ravensbourne Web Media* |
 
 #### Better example
 
@@ -150,19 +150,19 @@ Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
         <td>1gru6</td>
         <td>Danny</td>
         <td>Base</td>
-        <td>l4ozp</td>
+        <td><b>l4ozp</b></td>
     </tr>
     <tr>
         <td>wof6s</td>
         <td>Chris</td>
         <td>Blogs</td>
-        <td>l4ozp</td>
+        <td><b>l4ozp</b></td>
     </tr>
     <tr>
         <td>9tma2</td>
         <td>Jordan</td>
         <td>Scripts</td>
-        <td>l4ozp</td>
+        <td><b>l4ozp</b></td>
     </tr>
 </table>    
 
@@ -177,7 +177,7 @@ Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
         <th>Description</th>
     </tr>
     <tr>
-        <td>l4ozp</td>
+        <td><b>l4ozp</b></td>
         <td>Web Media</td>
         <td>Bla bla</td>
     </tr>
