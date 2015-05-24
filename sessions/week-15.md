@@ -139,6 +139,22 @@ Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
 
 `Students` table:
 
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Surname</th>
+        <th>Course link </th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Danny</td>
+        <td>Base</td>
+        <td>1</td>
+    </tr>
+</table>    
+
+
 | ID | Name | Surname | Course link 
 | -- | ---- | ------- | ----------- 
 | 1 | Danny | Base | 1 
