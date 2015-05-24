@@ -180,20 +180,32 @@ Here are the templates WP typically uses, depending on the entry type
 | archive	| wp-content/themes/YOUR_ACTIVE_THEME/**archive.php** |
 | none of the above	| wp-content/themes/YOUR_ACTIVE_THEME/**404.php** |
 
-At its core, pretty much every template looks like this
+### The *loop*
+
+At its core, pretty much every WP template looks like this
 
 ```php
 <?php
 	// grab the <head> and the first part of the <body>
 	get_header();
 	
-	// if there are entries matching the URL...
+	// if there are "posts" matching the URL...
 	if ( have_posts() ) : 
-		// for each entry (aka post.. I know, confusing)
+
+		// start looping through each "post"
 		while ( have_posts() ) : the_post();
-			// spit out the content for this specific entry
+			
+			// spit out the title for the current "post"
+			the_title();
+			
+			// spit out the content for the current "post"
 			the_content();
-		endwhile;
+			
+			// you can spit out other bits of information about  the current "post"
+			// see https://codex.wordpress.org/The_Loop
+			
+		endwhile; // end of the loop 
+		
 	endif;
 	
 	// close the <body>
@@ -203,11 +215,7 @@ At its core, pretty much every template looks like this
 
 More about the [anatomy of a theme here](https://make.wordpress.org/training/handbook/theme-school/anatomy-of-a-theme/).
 
-<!--![](assets/wp-theme-anatomy.jpg)-->
-
-### The *loop*
-
-[![](assets/wp-the-loop.jpg)](http://code.tutsplus.com/tutorials/a-beginners-guide-to-the-wordpress-loop--wp-20241)
+More about [*the loop* here](http://code.tutsplus.com/tutorials/a-beginners-guide-to-the-wordpress-loop--wp-20241).
 
 
 
@@ -216,20 +224,20 @@ More about the [anatomy of a theme here](https://make.wordpress.org/training/han
 
 Download and extract [this starter theme](https://github.com/matteomenapace/LearnPress) into your `wp-content/themes` folder.
 
-* index
+<!--* index
 * header
 * footer
 * functions
-* templates/
+* templates/-->
 
 I'll show you how to build a template for one of your pages (one lucky student).
 
+1. Chopping up your static HTML into `header.php` + main content + `footer.php` chunks.
+2. Sorting out `header.php` and `footer.php` first.
+3. Home page:
 
-
-1. Add a new page > call it `Home`
-2. In Settings > Readings > Front page displays
-3. A static page 
-4. Select `Home`
+	1. Add a new page and call it `Home`
+	2. In `Settings` > `Readings` > `Front page displays` tick `A static page` and select `Home` (the page you just created)
 
 
 
@@ -281,7 +289,7 @@ I should suggest one
 
 
 
-### Lynda
+### WP resources on Lynda
 
 * [View source](http://www.lynda.com/Web-Interactive-Projects-tutorials/View-Source/93388-2.html?srchtrk=index:1%0Alinktypeid:2%0Aq:wordpress%0Apage:2%0As:relevance%0Asa:true%0Aproducttypeid:2)
 * [Building a theme from "scratch"](http://www.lynda.com/underscores-tutorials/WordPress-Building-Themes-from-Scratch-Using-Underscores/163092-2.html?srchtrk=index:1%0Alinktypeid:2%0Aq:wordpress%0Apage:2%0As:relevance%0Asa:true%0Aproducttypeid:2)
@@ -293,4 +301,14 @@ I should suggest one
 
 # Assignment
 
-- [ ] TODO
+### 1. [Watch this video](https://www.youtube.com/watch?v=Yf8ACKrZTJI) and blog about it
+
+* What techniques does the presenter (not) advocate?
+* Which ones should you use for your site?
+
+### 2. Install these plugins
+
+* Categories for pages
+
+### 3. Keep templating
+
