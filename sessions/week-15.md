@@ -20,17 +20,17 @@
 
 # Data design principles
 
-### Break your data into logical pieces
+### 1. Break your data into *logical pieces*
 
 Also known as [1NF](http://en.wikipedia.org/wiki/First_normal_form) (first normal form). 
 	
-Bad:
+#### Bad example
 	 
 | Student | 
 | ------ |
 | Danny Base 21 |
 
-Better:
+#### Better example
 
 | Student name | Student surname | Student age | 
 | ------ | ---	| --- |
@@ -48,22 +48,22 @@ Also, we could do things like `calculate the average age of our students`.
 
 Is it really necessary to break a phone number down that much?-->
 
-### Break it into multiple *dimensions*
+### 2. Break it into multiple *dimensions*
 
 Using arrays, aka the [repeater field](http://www.advancedcustomfields.com/add-ons/repeater-field/).
 
-Bad:
+#### Bad example
 
-| Name | Ingredients | Method |
+| Recipe name | Ingredients | Method |
 | ------ | ---	| --- |
 | Banana bread | 1 banana <br>1 cup of flour <br>pinch of salt | 1. Mix dry ingredients <br>2. Mash the banana <br>3. Mix it all together <br>4. Bake it for 30 minutes | 
 | Avocado on toast | 1 avocado <br>2 slices of bread <br>squeeze of lemon | 1. Toast bread <br>2. Scoop out avocado <br>3. Spread avocado on toast <br>4. Squeeze lemon on top | 
 
-Better:
+#### Better example
 
 <table>
 	<tr>
-		<th>Name</th>
+		<th>Recipe name</th>
 		<th>Ingredients</th>
 		<th>Method</th>
 	</tr>
@@ -121,31 +121,31 @@ Better:
 </table>
 
 
-### Don't repeat yourself!
+### 3. Don't repeat yourself!
 
 Also known as [DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself). 
 
 > Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.
 
-Bad:
+#### Bad example
 	 
 | Name | Surname | Course | 
 | ------ | ---	| --- |
-| Danny | Base | Web Media |
-| Chris | Blogs | Web Media Ravensbourne |
-| Jordan | Scripts | Ravensbourne Web Media |
+| Danny | Base | <mark>Web Media |
+| Chris | Blogs | <mark>Web Media Ravensbourne |
+| Jordan | Scripts | <mark>Ravensbourne Web Media |
 
-Better:
+#### Better example
 
-Students table
+`Students` table:
 
-| ID | Name | Surname | Course link | 
-| ------ | ---	| --- |
+| ID | Name 	| Surname 	| Course link | 
+| -- | ---		| --- 		| --------- |
 | 1 | Danny | Base | 1 |
 | 2 | Chris | Blogs | 1 |
 | 3 | Jordan | Scripts | 1 |
 
-Courses table
+`Courses` table:
 
 | ID | Title | Description | 
 | ------ | ---	| --- |
