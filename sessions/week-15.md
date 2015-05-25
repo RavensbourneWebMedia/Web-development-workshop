@@ -4,11 +4,11 @@
 
 * [Homework review](#homework-review)
 * [Data design principles](#data-design-principles)
-* [WordPress anatomy](#wordpress-anatomy)
+* [How does WP generate pages?](#how-does-wp-generate-pages)
 * [The *loop*](#the-loop)
-* [Crafting WordPress themes](#crafting-wordPress-themes)
+* [How to craft WordPress themes](#how-to-craft-wordpress-themes)
 
-
+Your [homework](#assignments)!
 
 # Homework review
 
@@ -200,9 +200,7 @@ If we want to change the name of a course, we can do it once on the `Courses` ta
 
 
 
-# WordPress anatomy
-
-### How does WP generate pages?
+# How does WP generate pages?
 
 It all starts with the **URL**... 
 
@@ -260,20 +258,16 @@ More about [*the loop* here](http://code.tutsplus.com/tutorials/a-beginners-guid
 
 
 
-# Crafting WordPress themes
+# How to craft WordPress themes
 
-Download and extract [this starter theme](https://github.com/matteomenapace/LearnPress) into your `wp-content/themes` folder.
+Download and extract (or `git clone`) [the LearnPress starter theme](https://github.com/matteomenapace/LearnPress) into your `wp-content/themes` folder.
 
-<!--* index
-* header
-* footer
-* functions
-* templates/-->
+Follow [these instructions](https://github.com/matteomenapace/LearnPress#getting-started) to install and activate it.
 
 I'll show you how to build a template for one of your pages (one lucky student).
 
-1. Chopping up your static HTML into `header.php` + main content + `footer.php` chunks.
-2. Sorting out `header.php` and `footer.php` first.
+1. Chopping up your static HTML into `header.php` + **main content** + `footer.php` chunks.
+2. Sorting out `header.php` and `footer.php`.
 3. Home page:
 
     1. Add a new page and call it `Home`
@@ -339,16 +333,48 @@ I should suggest one
 * [WP essential training](http://www.lynda.com/WordPress-tutorials/WordPress-Essential-Training/154417-2.html?srchtrk=index:1%0Alinktypeid:2%0Aq:wordpress%0Apage:1%0As:relevance%0Asa:true%0Aproducttypeid:2)
 
 
-# Assignment
+# Assignments
 
-### 1. [Watch this video](https://www.youtube.com/watch?v=Yf8ACKrZTJI) and blog about it
+### 1. Watch this video: [Destroy the Web](https://www.youtube.com/watch?v=Yf8ACKrZTJI)
 
-* What techniques does the presenter (not) advocate?
-* Which ones should you use for your site?
+... and blog about it!
 
-### 2. Install these plugins
+[![](assets/destroy-the-web.png)](https://www.youtube.com/watch?v=Yf8ACKrZTJI)
 
-* Categories for pages
+Pick one or more of the techniques that are discussed in the video (see list below) and explain why using them on your site may be a good / bad idea
 
-### 3. Keep templating
+* Do *browser sniffing*
+* Build only for certain devices
+* *Download our app!*
+* Exclude China and India
+* Requires script support and specific plugins
+* Assume a mouse
+* Remove `:focus`
+* Assume a visual display
+* Who cares about semantic HTML tags?
+* Empty the `<body>`
 
+### 2. Install these WP plugins
+
+* [Post Tags and Categories for Pages](https://wordpress.org/plugins/post-tags-and-categories-for-pages/) allows you to organise your pages with categories and tags (very useful for ACF)
+* [Duplicate Post](https://wordpress.org/plugins/duplicate-post/) lets you *clone* a post or page (saves you time)
+
+### 3. Keep templating!
+
+Continue working on your website templates. By the next session you should have at least 3 PHP templates to show.
+
+For example
+
+```
+YOUR_THEME
+├── css
+├── js
+├── templates
+    ├── template-home.php
+    ├── template-contact.php
+    ├── template-about.php    
+```
+
+I strongly recommend you use [LearnPress](https://github.com/matteomenapace/LearnPress) as a foundation for your theme.
+ 
+You can add all sorts of fancy stuff on top of it.
