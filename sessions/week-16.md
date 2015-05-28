@@ -22,7 +22,7 @@ This process is called **deployment**, or **migration**.
 
 If you google `how to migrate WP site` you'll find loads of tutorials explain you how to do it. If you google `how to migrate WP site to GoDaddy` for example you'll find specific instructions for that web-hosting provider.
 
-I'll show you how to *migrate* your local WP to your **`raveweb.net`** space. 
+Your challenge for today is to *deploy* your local WP to your **`raveweb.net`** space. 
 
 ### Ingredients
 
