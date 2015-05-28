@@ -20,21 +20,6 @@ Using individual practical projects, you will research, conceptualise and protot
 
 
 
-# Brief
-
-Pick one *bad* website and re-design it.
-
-Your re-designed version must 
-
-* be **online** (not just on your computer)
-* be **dynamic** (update-able via a CMS) 
-* be **responsive** (adapting to different screen sizes)
-* be **accessible** (for people with disabilities and limited devices)
-* be visually **cohesive** and coherent
-* have **appropriately structured** information
-* have a style informed by (but not necessarily following) contemporary trends
-
-
 
 # Plan
 
@@ -58,6 +43,24 @@ Session	| Date			| In class				| Assignment(s)
 [16](sessions/week-16.md)		| Fri May 29th	| WordPress 3/3 (plugins) | 
 [17](sessions/week-17.md)		| Fri Jun 5th	| Tutorials | Learning outcomes
 [18](sessions/week-18.md)		| **Fri Jun 12th**	| Summative presentation and hand-in | Unit feedback form
+
+
+
+
+# Brief
+
+Pick one *bad* website and re-design it.
+
+Your re-designed version must 
+
+* be **online** (not just on your computer)
+* be **dynamic** (update-able via a CMS) 
+* be **responsive** (adapting to different screen sizes)
+* be **accessible** (for people with disabilities and limited devices)
+* be visually **cohesive** and coherent
+* have **appropriately structured** information
+* have a style informed by (but not necessarily following) contemporary trends
+
 
 
 
@@ -157,7 +160,7 @@ Upon completion of this unit you will (hopefully) be able to:
 
 * Upload your project files to a Web server using **FTP**.
 
-* Be familiar with the process of buying a **domain name** and a **hosting** service.
+<!--* Be familiar with the process of buying a **domain name** and a **hosting** service.-->
 
 * Make Web pages dynamic using **PHP**.
 
