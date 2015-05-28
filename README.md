@@ -11,7 +11,6 @@ This includes:
 * making pages dynamic with **PHP**
 * using **WordPress** to manage online content  
 * developing **WordPress templates and themes**
-* buying a **domain** 
 * **hosting** a website
 * transferring files with **FTP**
 * **project management** basics: listing and prioritising tasks, tracking and evaluating progress, getting things done
@@ -23,11 +22,11 @@ Using individual practical projects, you will research, conceptualise and protot
 
 # Plan
 
-Session	| Date | Topics | Assignment(s) | Blog 
--------	| ---- | ------ | ------------- | ----
-[1](sessions/week-01.md) | Mon Jan 5th | Unit intro <br>[How does the WWW work?](sessions/week-01.md#how-does-it-wwwork)  | [Draw the Web!](sessions/week-01.md#draw-the-web) | [Learning goals](sessions/week-01.md#blog)
-[2](sessions/week-02.md) | Mon Jan 12th | [MarkDown](sessions/week-02.md#markup-vs-markdown) and [Git](sessions/week-02.md#github) | [*Bad* webdesign principles](sessions/week-02.md#research) | [Bad websites](sessions/week-02.md#blog)
-[3](sessions/week-03.md) | Mon Jan 19th | HTML | [Writing a recipe in HTML](sessions/week-03.md#html-in-the-kitchen) | [Action plan](sessions/week-03.md#blog)
+When | Learn | Practice | Blog 
+---- | ----- | -------- | ----
+[Mon Jan 5th](sessions/week-01.md) | Unit intro <br>[How does the WWW work?](sessions/week-01.md#how-does-it-wwwork)  | [Draw the Web!](sessions/week-01.md#draw-the-web) | [Learning goals](sessions/week-01.md#blog)
+[Mon Jan 12th](sessions/week-02.md) | [MarkDown](sessions/week-02.md#markup-vs-markdown) and [Git](sessions/week-02.md#github) | [*Bad* webdesign principles](sessions/week-02.md#research) | [Bad websites](sessions/week-02.md#blog)
+[Mon Jan 19th](sessions/week-03.md) | HTML | [Writing a recipe in HTML](sessions/week-03.md#html-in-the-kitchen) | [Action plan](sessions/week-03.md#blog)
 [4](sessions/week-04.md) | Mon Jan 26th | CSS 101 | [Moodboard](sessions/week-04.md#homework)
 [5](sessions/week-05.md) | Mon Feb 2nd | CSS position, float and grids | [Paper wireframes](sessions/week-05.md#sketch-out-your-ideas-on-paper) | [Your recipe evolution](sessions/week-05.md#blog)
 [6](sessions/week-06.md) | Mon Feb 16th | CSS responsive | [Digital wireframes](sessions/week-06.md#redraft-your-wireframes) | [The Internet's Own Boy](sessions/week-06.md#blog)
