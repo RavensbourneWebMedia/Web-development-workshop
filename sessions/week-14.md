@@ -24,7 +24,7 @@ Have you installed it **locally**?
 * What worked? What didn't?
 * What have you learned? 
 
-- [ ] Show what the *success* pages look like
+<!--- [ ] Show what the *success* pages look like-->
 
 
 ### Quiz
