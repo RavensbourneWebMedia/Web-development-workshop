@@ -4,6 +4,7 @@
 
 Formative Assessment presentations
 
+Your [homework](#homework)!
 
 
 # Checklist for presentations
@@ -54,7 +55,7 @@ This is the spreadsheet where we all give each other feedback.
 
 
 
-# Assignment
+# Homework
 
 Note the feedback your received (see matrix above) and draft a **plan of action**.
 

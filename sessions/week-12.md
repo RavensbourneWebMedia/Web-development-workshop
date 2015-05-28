@@ -8,7 +8,7 @@
 * [Challenge](#debugging-challenge)!
 * [Recipes app](#recipes-app)
 
-Your [homework](#tasks)!
+Your [homework](#homework) and [blog](#blog)!
 
 
 <!-- Managing online content with WordPress -->
@@ -162,9 +162,19 @@ What's missing:
 
 
 
-# Tasks
+# Homework
 
-### 1. Blog about the [debugging challenge](#debugging-challenge)
+### Download stuff
+
+So that we don't lose time next week, have one the following ready
+
+* [WAMP](http://www.wampserver.com/en/#wampserver-64-bits-php-5-3) is for Windows
+* [MAMP](https://www.mamp.info/en) is for Mac (well, now for Win too)
+* [XAMPP](https://www.apachefriends.org) is for both (+ Linux)
+
+### Blog 
+
+Write about the [debugging challenge](#debugging-challenge)
 
 * How did you solve each challenge?
 * What techniques did you use?
@@ -172,13 +182,7 @@ What's missing:
 * What obstacles did you find?
 * What did you learn?
 
-### 2. Download stuff
 
-So that we don't lose time next week, have one the following ready
-
-* [WAMP](http://www.wampserver.com/en/#wampserver-64-bits-php-5-3) is for Windows
-* [MAMP](https://www.mamp.info/en) is for Mac (well, now for Win too)
-* [XAMPP](https://www.apachefriends.org) is for both (+ Linux)
 
 
 

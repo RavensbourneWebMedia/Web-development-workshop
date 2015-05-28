@@ -7,9 +7,7 @@
 * [Advanced Custom Fields in action](#advanced-custom-fields-in-action)
 * [WP templates in action](#templating-a-recipe)
 
-Your [homework](#assignments)!
-
-
+Your [homework](#homework)!
 
 
 
@@ -356,7 +354,7 @@ get_header(); ?>
 
 
 
-# Assignments
+# Homework
 
 ### ACF
 

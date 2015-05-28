@@ -7,6 +7,7 @@
 * Responsive Web Design (RWD) 
 * Beyond media queries 
 
+Your [homework](#homework) and [blog](#blog)!
 
 
 # Wireframes critique
@@ -15,7 +16,7 @@
 2. Grab a pen and some post-its 
 3. Let's *critique* each other's drafts
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/wireframes-critique.jpg)
+![](assets/wireframes-critique.jpg)
 
 For this first session we'll all be around the same project and critique one project at a time. 
 
@@ -53,7 +54,7 @@ In a nutshell:
 
 ### Banned words
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/thumbs-down.png)
+![](assets/thumbs-down.png)
 
 * *Like it* / *Don't like it*
 * Clean
@@ -71,11 +72,11 @@ In a nutshell:
 
 ### Bullshit wireframes
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/wireframe-bullshit.jpg)
+![](assets/wireframe-bullshit.jpg)
 
 What's wrong with the wireframes above?
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/wireframes-bullshit.jpg)
+![](assets/wireframes-bullshit.jpg)
 
 What's wrong with the wireframes above?
 
@@ -88,19 +89,19 @@ Used both as a teaching tool in the classroom and by 11-18 year olds in their ow
 
 Commissioned by the [Hansard Society](http://www.hansardsociety.org.uk) in 2011.
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/1-home.png)
+![](assets/headsup-wireframes/1-home.png)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/2-navigation.png)
+![](assets/headsup-wireframes/2-navigation.png)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/3-prepare.png)
+![](assets/headsup-wireframes/3-prepare.png)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/4-dashboard-student.png)
+![](assets/headsup-wireframes/4-dashboard-student.png)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/5-profile.png)
+![](assets/headsup-wireframes/5-profile.png)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/6-dashboard-teacher.png)
+![](assets/headsup-wireframes/6-dashboard-teacher.png)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/headsup-wireframes/7-class-registration-form.png)
+![](assets/headsup-wireframes/7-class-registration-form.png)
 
 
 ### Leading questions
@@ -249,7 +250,7 @@ RWD is not just about media queries.
 
 People access the Web from different **devices**, that have different **capabilities**, on different **connections**, in different **contexts**, doing different **tasks**!
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/bradfrost-futureweb.png)
+![](assets/bradfrost-futureweb.png)
 
 The vast majority of RWD sites weigh the same in both *small screen* and *large screen* versions: **performance** is not an afterthought.
 
@@ -263,9 +264,9 @@ This is the [tutorial to build that page](http://www.html5rocks.com/en/mobile/re
 
 
 
-# Assignments
+# Homework
 
-### 1. Redraft your wireframes
+### Redraft your wireframes
 
 **Continue redrafting your wireframes in a digital format.** 
 
@@ -279,7 +280,7 @@ Two options:
 
 2. To save yourself work in the long run, start translating your wireframes into **HTML + CSS** using a framework like [Skeleton](http://getskeleton.com), [Bootstrap](http://getbootstrap.com) or [Foundation](http://foundation.zurb.com/prototyping.html)
 
-### 2. Blog about this film
+### Blog
 
 Watch [The Internet's Own Boy](http://www.bbc.co.uk/iplayer/episode/b051wkry/storyville-20142015-11-the-internets-own-boy), a film about Aaron Swartz: wiz-kid, co-founder of Reddit and activist for social justice and freedom of information. 
 

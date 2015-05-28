@@ -5,7 +5,7 @@
 1. [PoP (principles of programming)](#programming-vs-coding)
 * Meet [JavaScript](#lets-code) and [jQuery](#meet-jquery)
 
-Your [homework](#challenge)!
+Your [homework](#homework) and [blog](#blog)!
 
 # Programming vs coding
 
@@ -271,7 +271,9 @@ Learn more about [how jQuery works](http://learn.jquery.com/about-jquery/how-jqu
 <!--- [ ] [Learnable Programming](http://worrydream.com/LearnableProgramming) -->
 
 
-# Challenge
+# Homework
+
+### Challenge
 
 Go to jQuery Fundamentals and learn about [jQuery HTML manipulation](http://jqfundamentals.com/chapter/traversing-manipulating).
 
@@ -284,6 +286,8 @@ Using its *editor*, make these happen:
 * Make the `select` dropdown disappear
 * Tick the `checkbox`
 * Type some text into the `input` text box, capture its `value` and then add it at the end of the `ul`
+
+### Blog
 
 Screenshot your code and its results (like in the image above) and then push it to your folder on GitHub.
 

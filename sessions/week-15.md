@@ -8,7 +8,8 @@
 * [The *loop*](#the-loop)
 * [How to craft WordPress themes](#how-to-craft-wordpress-themes)
 
-Your [homework](#assignments)!
+Your [homework](#homework) and [blog](#blog)!
+
 
 # Homework review
 
@@ -333,33 +334,14 @@ I should suggest one
 * [WP essential training](http://www.lynda.com/WordPress-tutorials/WordPress-Essential-Training/154417-2.html?srchtrk=index:1%0Alinktypeid:2%0Aq:wordpress%0Apage:1%0As:relevance%0Asa:true%0Aproducttypeid:2)
 
 
-# Assignments
+# Homework
 
-### 1. Watch this video: [Destroy the Web](https://www.youtube.com/watch?v=Yf8ACKrZTJI)
-
-... and blog about it!
-
-[![](assets/destroy-the-web.png)](https://www.youtube.com/watch?v=Yf8ACKrZTJI)
-
-Pick one or more of the techniques that are discussed in the video (see list below) and explain why using them on your site may be a good / bad idea
-
-* Do *browser sniffing*
-* Build only for certain devices
-* *Download our app!*
-* Exclude China and India
-* Requires script support and specific plugins
-* Assume a mouse
-* Remove `:focus`
-* Assume a visual display
-* Who cares about semantic HTML tags?
-* Empty the `<body>`
-
-### 2. Install these WP plugins
+### Install these WP plugins
 
 * [Post Tags and Categories for Pages](https://wordpress.org/plugins/post-tags-and-categories-for-pages/) allows you to organise your pages with categories and tags (very useful for ACF)
 * [Duplicate Post](https://wordpress.org/plugins/duplicate-post/) lets you *clone* a post or page (saves you time)
 
-### 3. Keep templating!
+### Keep templating!
 
 Continue working on your website templates. By the next session you should have at least 3 PHP templates to show.
 
@@ -378,3 +360,22 @@ YOUR_THEME
 I strongly recommend you use [LearnPress](https://github.com/matteomenapace/LearnPress) as a foundation for your theme.
  
 You can add all sorts of fancy stuff on top of it.
+
+### Blog
+
+Watch [Destroy the Web](https://www.youtube.com/watch?v=Yf8ACKrZTJI) and blog about it!
+
+[![](assets/destroy-the-web.png)](https://www.youtube.com/watch?v=Yf8ACKrZTJI)
+
+Pick one or more of the techniques that are discussed in the video (see list below) and explain why using them on your site may be a good / bad idea
+
+* Do *browser sniffing*
+* Build only for certain devices
+* *Download our app!*
+* Exclude China and India
+* Requires script support and specific plugins
+* Assume a mouse
+* Remove `:focus`
+* Assume a visual display
+* Who cares about semantic HTML tags?
+* Empty the `<body>`

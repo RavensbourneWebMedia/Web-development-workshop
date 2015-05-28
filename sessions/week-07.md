@@ -6,6 +6,7 @@
 * Animations and transitions with CSS
 * Tutorials
 
+Your [homework](#homework) and [blog](#blog)!
 
 # A reminder
 
@@ -49,7 +50,7 @@ Check out [Animate.css](http://daneden.github.io/animate.css), a library of CSS 
 
 We are going to make a list of people (but they could be products, meals, whatever).
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/transanimation-demo.jpg)
+![](assets/transanimation-demo.jpg)
 
 1. Download [HTML5 Boilerplate](https://html5boilerplate.com/) (so we don't start from scratch)
 
@@ -132,9 +133,9 @@ You can find loads of animation [tutorials on Codrops](http://tympanus.net/codro
 
 
 
-# Assignments
+# Homework
 
-### 1. HTML & CSS wireframes
+### HTML & CSS wireframes
 
 Remember wireframes are not about the final design. 
 
@@ -142,7 +143,9 @@ Keep them *unfinished* and focus on real content and navigation, flesh out as ma
 
 You can use a framework like [Skeleton](http://getskeleton.com), [Bootstrap](http://getbootstrap.com) or [Foundation](http://foundation.zurb.com/prototyping.html).
 
-### 2. Blog about one of the following webdesign *myths*
+### Blog 
+
+Write about one of the following webdesign *myths*
 
 1. [People don't scroll](http://uxmyths.com/post/654047943/myth-people-dont-scroll)
 

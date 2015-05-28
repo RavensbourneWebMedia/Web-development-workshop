@@ -13,6 +13,8 @@
 * Web types
 * Style your recipe
 
+Your [homework](#homework)!
+
 
 # The *dress code*
 
@@ -76,7 +78,7 @@ With CSS you can (hopefully) make your Web content clearer, easier to read and m
 
 ## The CSS banana quiz
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/andy-warhol-banana.jpg)   
+![](assets/andy-warhol-banana.jpg)   
   
          
 10. The colour of the text _bananas_ is yellow [ true / false ]
@@ -135,7 +137,7 @@ With CSS you can (hopefully) make your Web content clearer, easier to read and m
 
 To understand **CSS selector**, let's play the [CSS Diner](http://flukeout.github.io) game.
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/CSS-diner.png)
+![](assets/CSS-diner.png)
 
 
 
@@ -171,7 +173,7 @@ Each HTML box has:
 * border
 * padding
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/box-model.gif)
+![](assets/box-model.gif)
 
 
 
@@ -204,7 +206,7 @@ Using the [box-sizing](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 
 # CSS is not just for decoration
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/data-information.jpg)
+![](assets/data-information.jpg)
 
 > Banana bread by [Minimalist Baker](http://minimalistbaker.com/one-bowl-gluten-free-banana-bread/)
 
@@ -223,11 +225,11 @@ That is, **information needs to be designed**.
 
 > From [Design is still about words](https://signalvnoise.com/posts/3404-reminder-design-is-still-about-words)-->
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/twitter-no-text.gif)
+![](assets/twitter-no-text.gif)
 
 [Web design is 95% typography](https://ia.net/know-how/the-web-is-all-about-typography-period).
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/95-percent-typography.png)
+![](assets/95-percent-typography.png)
 
 ## How people read
 
@@ -247,9 +249,9 @@ Let's read more about [how people read (on the Web)](https://www.gov.uk/guidance
 
 <!--http://webdesign.tutsplus.com/articles/understanding-the-f-layout-in-web-design--webdesign-687-->
 
-<!--![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/f-shaped-heatmap.jpg)-->
+<!--![](assets/f-shaped-heatmap.jpg)-->
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/directional-cues.jpg)
+![](assets/directional-cues.jpg)
 
 > [Directional cues](https://blog.kissmetrics.com/eye-tracking-studies/) heatmaps from Kissmetrics
 
@@ -336,7 +338,7 @@ Next week we're going to:
 
 
 
-# Assignment
+# Homework
 
 Create a *moodboard* for your website re-design.
 
@@ -349,7 +351,7 @@ There are tons of [moodboards on Pinterests tagges as *webdesign*](https://www.p
 
 Also, check out [SiteInspire](http://www.siteinspire.com) and [Panda](https://usepanda.com)!
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/site-inspire.png)
+![](assets/site-inspire.png)
 
 
 

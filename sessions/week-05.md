@@ -10,11 +10,14 @@
 * Style your recipe, again (CSS frameworks)
 * Wireframing
 
+Your [homework](#homework) and [blog](#blog)!
+
 
 
 # Moodboards review
 
-From the [previous session's assignment](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md#assignment)
+From the [previous session's assignment](week-04.md#assignment)
+
 
 
 
@@ -106,7 +109,7 @@ Look around you at all the things that are organised in grids.
 
 It's a structure comprising a series of **horizontal and vertical lines** which intersect and are then used to **organise** space, text, images, and any other element placed in a design.
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/grid-lover.gif)
+![](assets/grid-lover.gif)
 
 ### Why do we need it? 
 
@@ -183,7 +186,7 @@ To become a skilled *CSS bricklayer*, there are only two properties that you sho
 
 The animated gifs above are from [this article on Froont](images from http://blog.froont.com/positioning-in-web-design).
  	
-Play around with `position` using this [interactive example on CodePen![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/css-position-codepen.png)](http://codepen.io/baddeo/pen/OPxJLP)
+Play around with `position` using this [interactive example on CodePen![](assets/css-position-codepen.png)](http://codepen.io/baddeo/pen/OPxJLP)
 
 The most powerful use of `position` is [**absolute *inside* relative**](http://css-tricks.com/absolute-positioning-inside-relative-positioning/). Double OMG :scream::scream:
 
@@ -205,7 +208,7 @@ Then, if you do not want the next element to wrap around the floating objects, y
 
 Floating is commonly used to create layouts with columns.
 
-Play around with `float` using this [interactive example on CodePen![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/css-float-codepen.png)](http://codepen.io/baddeo/pen/ZYXEXo)
+Play around with `float` using this [interactive example on CodePen![](assets/css-float-codepen.png)](http://codepen.io/baddeo/pen/ZYXEXo)
 
 Learn more about `float` on [CSS Tricks](http://css-tricks.com/almanac/properties/f/float)
 
@@ -263,11 +266,11 @@ If you need a recap of any of the CSS properties below, check the [CSS tricks al
 
 Is *this* a wireframe?
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/wireframe-example.png)
+![](assets/wireframe-example.png)
 
 Is *this* a wireframe?
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/not-a-wireframe-example.jpg)
+![](assets/not-a-wireframe-example.jpg)
 
 Just like a map is an abstraction of a place that helps us describe its location and geography, **wireframes are abstractions** of the **structure** of an interactive system and the **relationships** between its components.
 
@@ -330,21 +333,22 @@ Wireframes are very useful throughout the design process:
 
 
 
-# Assignments
+# Homework
 
-### 1. **Document** your recipe's evolution
-
-From naked HTML to gridded CSS. 
-
-You can use GitHub commits to track your recipe's history.
-	
-Use screenshots (and maybe animated gifs) to illustrate how your recipe evolved.
-
-
-### 2. **Sketch out** your ideas on paper.
+### **Sketch out** your ideas on paper
 
 You can print out wireframing templates from [InterfaceSketch](http://www.interfacesketch.com)
 
 ![](http://www.interfacesketch.com/previews/web-browser-template.png)
 
 ![](http://www.interfacesketch.com/previews/iphone6.png)
+
+### Blog
+
+**Document** your recipe's evolution from naked HTML to gridded CSS. 
+
+You can use GitHub commits to track your recipe's history.
+	
+Use screenshots (and maybe animated gifs) to illustrate how your recipe evolved.
+
+

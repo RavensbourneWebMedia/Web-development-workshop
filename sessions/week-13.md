@@ -8,7 +8,7 @@
 
 <!--* Meet WordPress-->
 
-Your [homework](#assignment)!
+Your [homework](#homework)!
 
 
 
@@ -228,7 +228,7 @@ function getAge($yearOfBirth) {
 
 
 
-# Assignment
+# Homework
 
 `Install WordPress locally`!
 

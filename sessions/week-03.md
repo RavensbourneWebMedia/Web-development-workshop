@@ -3,11 +3,13 @@
 ## Today, Monday 19th January 2015
 
 1. HTML and CSS: which does what
-* HTML quiz
-* HTML in the kitchen (exercise)
+* [HTML quiz](#quiz-time)
+* [HTML in the kitchen](#html-in-the-kitchen) (exercise)
 * Review bad websites
-* Project management basics
+* [Project management basics](#getting-shit-done)
 
+
+Your [homework](#homework): [blog](#blog)!
 
 
 # The languages of the WWW
@@ -22,7 +24,7 @@ Think of a group of people working together, eg to produce a car, a newspaper, a
 
 ##### 3. **JS** → behaviour and logic
 
-!["Chuck & Di Have a Baby" Paper Doll Book 1982 by John Boswell, Patty Brown and Will Elder](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/chuck-and-di-paperdolls.png)
+!["Chuck & Di Have a Baby" Paper Doll Book 1982 by John Boswell, Patty Brown and Will Elder](assets/chuck-and-di-paperdolls.png)
 
 _BBC homepage > Using the [Web Developer tool](http://chrispederick.com/work/web-developer/), disable CSS to show the separation of concerns in action._
 
@@ -81,7 +83,7 @@ In HTML5 you can have an <article> within a <section> [ true / false ]-->
 
 # HTML in the kitchen
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/html-sandwich.jpg)
+![](assets/html-sandwich.jpg)
 
 
 ### Your brief
@@ -176,12 +178,14 @@ Apps that can help you treat your personal life like it's a software development
 
 
 
-# Assignment
+# Homework
+
+### Blog
 
 Create a (prioritised) *todo list* of how you intend to improve the bad website. This will become your *action plan* and we'll check against it every week.
 
 Push your action plan (either as MarkDown or HTML) to your fork of this project on GitHub (inside the `students > {yourName}` folder).
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/form-art.png)
+![](assets/form-art.png)
 
 [Form Art by Alexei Shulgin](https://www.artsy.net/artwork/alexei-shulgin-form-art)

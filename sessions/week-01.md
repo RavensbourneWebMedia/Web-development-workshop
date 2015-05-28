@@ -3,9 +3,11 @@
 ## Today, Monday 5th January 2015
 
 1. Unit intro: [plan](https://github.com/RavensbourneWebMedia/WEB14104#plan), key dates, [brief](https://github.com/RavensbourneWebMedia/WEB14104#brief) and [assessment criteria](https://github.com/RavensbourneWebMedia/WEB14104#assessment-criteria)
-* Draw *the Web*! 
-* How does the WWW work?
+* [Draw *the Web*!](#draw-the-web)
+* [How does the WWW work?](#how-does-it-wwwork)
 
+
+Your [homework](#homework): [blog](#blog)!
 
 # Draw *the Web*!	
 
@@ -55,9 +57,9 @@ To put this concept into practice, let's pretend that each one of us is a `node`
 * Open-source
  
 
-# Assignment for next week!
+# Homework!
 
-Remember to use the category **WEB14104** for all your blog posts for this unit!
+### Blog 
 
 1. Document your drawing of the Web on the blog. 
 

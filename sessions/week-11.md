@@ -10,7 +10,9 @@
 * [Loops](#loops)
 * [Templating](#templating)
 
-Your [homework](#assignment)!
+Your [homework](#homework)!
+
+
 
 # Building blocks
 
@@ -532,7 +534,7 @@ Intended audience: *cats*.
 [![](http://jsforcats.com/images/customers5.jpg)](http://jsforcats.com)
 
 
-# Assignment
+# Homework
 
 Start *translating* your `re-design a bad website` **wireframes** into HTML & CSS.
 

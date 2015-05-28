@@ -3,10 +3,11 @@
 ## Today, Monday 12th January 2015
 
 1. Review learning goals
-* Marking things up (a bit of semiotics theory)
-* Tools of the trade: MarkDown and Git
-* Research bad websites
+* [Marking things up](#marking-things-up) (a bit of semiotics theory)
+* Tools of the trade: [MarkDown](#markdown) and [Git](#github)
+* [Research bad websites](#research)
 
+Your [homework](#homework): [blog](#blog)!
 
 
 # Learning goals review
@@ -288,7 +289,9 @@ Write it in MarkDown, then push it to your fork of this project on GitHub.
 
 
 
-# Assignment for next week!
+# Homework
+
+### Blog
 
 Out of the 3 bad websites you chose (see above), pick one and review it in more depth. 
 
