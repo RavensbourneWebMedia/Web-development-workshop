@@ -1,9 +1,9 @@
-## Week 17
+# Week 17
 
-##### Thursday 4th June 2015
+### Today, Friday 5th June 2015
 
 Tutorials
 
-##### Assignment
+# Assignment
 
 [What have I learned?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-did-I-learn.md)
