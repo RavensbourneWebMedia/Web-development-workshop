@@ -2,10 +2,11 @@
 
 ### Today, Friday 29th May 2015
 
-* [How to put a website on the actual Web](#how-to-put-a-website-on-the-actual-web)
 * Wordpress clinic: working in pairs
-* Reality check
-* Tutorials?
+* [How to put a website on the actual Web](#how-to-put-a-website-on-the-actual-web)
+* [Reality check](#reality-check)
+
+<!--* Tutorials?-->
 
 Your [homework](#homework) and blog!
 
@@ -17,7 +18,7 @@ So far you've been working *locally*.
 
 This is great for development, but at some point you want to **put your website on the actual Web**, so that everyone else can use it.
 
-This process is called **migration**.
+This process is called **deployment**, or **migration**.
 
 If you google `how to migrate WP site` you'll find loads of tutorials explain you how to do it. If you google `how to migrate WP site to GoDaddy` for example you'll find specific instructions for that web-hosting provider.
 
@@ -27,16 +28,18 @@ I'll show you how to *migrate* your local WP to your **`raveweb.net`** space.
 
 * An [FTP](http://en.wikipedia.org/wiki/File_Transfer_Protocol) app, such as [FileZilla](https://filezilla-project.org/download.php). 
 
-	This will let you **transfer files** between your computer and the remote server.. similar to how you copy files between two folders on your computer, just one folder is on a server somewhere else on the globe.
+	This will let you **transfer files** between your computer and the remote server.. similar to how you copy files between two folders on your computer, just one folder is on a server somewhere else on this planet.
 	
 	<!-- If you use Brackets you can try [this extension](http://equals182.github.io/eqFTP/) at your own risk. -->
 
-* FTP access to the remote **server** where your website will be hosted
-	* *host*, eg: `ftp.yourdomain.com` or `ftp.YOURNAME.raveweb.net`
-	* *username*, eg `SOMETHING@YOURNAME.raveweb.net`
-	* *password* 
+* FTP details for the **remote server** where your website will be hosted
+	* **host** something like `ftp.YOURNAME.raveweb.net`
+	* **username** something like `SOMETHING@YOURNAME.raveweb.net`
+	* **password** 
 	
 	On your [raveweb.net control panel](https://control.gridhost.co.uk) you can find (or create) your FTP details by going to `Cloud Platform` > `Manage Website` > `FTP Accounts`
+	
+	Set up FileZilla to connect to your remote server:
 	
 	![](assets/filezilla-general.png "FileZilla")
 	
@@ -56,8 +59,12 @@ I'll show you how to *migrate* your local WP to your **`raveweb.net`** space.
 1. **Install WP remotely** 
 
 	On your [raveweb.net control panel](https://control.gridhost.co.uk) go to `Cloud Platform` > `Manage Website` > `Install Applications` and then choose WordPress (should be the first option).
+	
+	<!-- -->
 2. **Take control of your new remote WP**	
 	The application installer will give you a random username + password. Use them to log in to your remote WP dashboard.
+	
+	<!-- -->
 3. **Upload your theme**  
   
   	Set up your FTP connection to default both locally and remotely to the `themes` folder
@@ -86,9 +93,9 @@ I'll show you how to *migrate* your local WP to your **`raveweb.net`** space.
 	
 	**Back to your remote WP** go to `Tools` > `Migrate DB` > `Settings` and accept both *pull* (which means *download*) and *push* (which means *upload*) requests. 
 	
-	![](assets/wp-sync-db.png)
-	
 	Then copy <kbd>cmd + c</kbd> the `Connection Info`.
+	
+	![](assets/wp-sync-db.png)
 	
 	**In your local WP** go to `Tools` > `Migrate DB` > `Migrate` and click on `Push` (aka *upload*).
 	
@@ -121,11 +128,31 @@ Once you're happy with your experiments, you can upload them to the remote WP, s
 
 > I haven't yet found an easier / safer way to do this. If you do, [please let me know](https://twitter.com/@baddeo)!
 
-
-
 <!--Then create a **new user** with `administrator` privileges, and give it username + email + password of your choice.
 	
 	This way you will be able to recover your pw via email in case you forgot it. And that happens very often :)-->
+
+
+
+# Reality check 
+
+[Project](../README.md#project) **deadline is the 12th of June** (in two weeks!)
+
+When marking your projects, we'll use [these assessment criteria](../README.md#grades) and look for evidence of [these learning goals](../README.md#learning-goals).
+
+### Getting things done
+
+1. Sign up to [Trello](https://trello.com/) with your `@students.rave.ac.uk` email address
+* Join the [trello.com/ravewebmedia](https://trello.com/ravewebmedia) organisation 
+* Write down a list of everything that needs doing.
+* Good luck :)
+
+
+[Quick guide](https://trello.com/guide/board_basics.html) on  how to use Trello.
+
+[![](https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/f556940da98ac9e209bb9fb7d7150ca2/board.jpg)](https://trello.com/guide/board_basics.html)
+
+
 
 
 # Homework
