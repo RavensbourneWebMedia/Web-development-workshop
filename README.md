@@ -23,9 +23,9 @@ Using individual practical projects, you will research, conceptualise and protot
 
 # Plan
 
-Session	| Date			| In class				| Assignment(s)
--------	| -------------	| --------------------	| ------------------------------
-[1](sessions/week-01.md)		| Mon Jan 5th 	| Unit intro <br>How does the WWW work?  | [Draw the Web!](sessions/week-01.md#draw-the-web) <br>[Learning goals](sessions/week-01.md#assignment-for-next-week)
+Session	| Date | Topics | Assignment(s) | Blog 
+-------	| ---- | ------ | ------------- | ----
+[1](sessions/week-01.md)		| Mon Jan 5th 	| Unit intro <br>[How does the WWW work?](week-01.md#how-does-it-wwwork)  | [Draw the Web!](sessions/week-01.md#draw-the-web) | [Learning goals](sessions/week-01.md#assignment-for-next-week)
 [2](sessions/week-02.md)		| Mon Jan 12th	| MarkDown and Git | [*Bad* webdesign principles](sessions/week-02.md#assignment-for-next-week)
 [3](sessions/week-03.md)		| Mon Jan 19th	| HTML<br>	Project management | [Action plan](sessions/week-03.md#assignment)
 [4](sessions/week-04.md)		| Mon Jan 26th	| CSS 101 | [Moodboard](sessions/week-04.md#assignment)
@@ -40,8 +40,8 @@ Session	| Date			| In class				| Assignment(s)
 [13](sessions/week-13.md)		| Fri May 8th	| Programming on the server<br>Meet PHP | [Install WordPress](sessions/week-13.md#assignment)
 [14](sessions/week-14.md)		| Fri May 15th	| WordPress 1/3 (templates) | 
 [15](sessions/week-15.md)		| Fri May 22nd	| WordPress 2/3 (themes) | 
-[16](sessions/week-16.md)		| Fri May 29th	| WordPress 3/3 (plugins) | 
-[17](sessions/week-17.md)		| Fri Jun 5th	| Tutorials | Learning outcomes
+[16](sessions/week-16.md)		| Fri May 29th	| [How to put a website on the actual Web](week-16.md#how-to-put-a-website-on-the-actual-web) | Deploying your site to `raveweb.net` |  
+[17](sessions/week-17.md)		| Fri Jun 5th	| Tutorials | Prep your presentation | Learning outcomes
 [18](sessions/week-18.md)		| **Fri Jun 12th**	| Summative presentation and hand-in | Unit feedback form
 
 
