@@ -2,11 +2,13 @@
 
 ### Today, Friday 29th May 2015
 
-* Wordpress clinic: working in pairs
 * [How to put a website on the actual Web](#how-to-put-a-website-on-the-actual-web)
 * [Reality check](#reality-check)
 
-<!--* Tutorials?-->
+<!--
+* Wordpress clinic: working in pairs
+* Tutorials?
+-->
 
 Your [homework](#homework) and blog!
 
@@ -153,7 +155,8 @@ When marking your projects, we'll use [these assessment criteria](../README.md#g
 
 1. Sign up to [Trello](https://trello.com/) with your `@students.rave.ac.uk` email address
 * Join the [trello.com/ravewebmedia](https://trello.com/ravewebmedia) organisation 
-* Write down a list of everything that needs doing.
+* Create a *board* for your project
+* Write down a list of everything that needs doing
 * Good luck :)
 
 
