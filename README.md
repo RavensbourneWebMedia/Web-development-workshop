@@ -24,24 +24,24 @@ Using individual practical projects, you will research, conceptualise and protot
 
 When | Learn | Practice | Blog 
 ---- | ----- | -------- | ----
-[Mon<br>Jan 5th](sessions/week-01.md) | Unit intro <br>[How does the WWW work?](sessions/week-01.md#how-does-it-wwwork)  | [Draw the Web!](sessions/week-01.md#draw-the-web) | [Learning goals](sessions/week-01.md#blog)
-[Mon<br>Jan 12th](sessions/week-02.md) | [MarkDown](sessions/week-02.md#markup-vs-markdown) and [Git](sessions/week-02.md#github) | [*Bad* webdesign principles](sessions/week-02.md#research) | [Bad websites](sessions/week-02.md#blog)
-[Mon<br>Jan 19th](sessions/week-03.md) | HTML | [Writing a recipe in HTML](sessions/week-03.md#html-in-the-kitchen) | [Action plan](sessions/week-03.md#blog)
-[Mon<br>Jan 26th](sessions/week-04.md) | CSS 101 | [Moodboard](sessions/week-04.md#homework)
-[Mon<br>Feb 2nd](sessions/week-05.md) | CSS position, float and grids | [Paper wireframes](sessions/week-05.md#sketch-out-your-ideas-on-paper) | [Your recipe evolution](sessions/week-05.md#blog)
-[Mon<br>Feb 16th](sessions/week-06.md) | CSS responsive | [Digital wireframes](sessions/week-06.md#redraft-your-wireframes) | [The Internet's Own Boy](sessions/week-06.md#blog)
-[Mon<br>Feb 23rd](sessions/week-07.md) | CSS transitions and animations | [HTML+CSS wireframes](sessions/week-07.md#html--css-wireframes) | [Webdesign myths](sessions/week-07.md#blog)
-[Mon<br>Mar 2nd](sessions/week-08.md) | *Tutorials* | Prep your presentation
-[Mon<br>Mar 9th](sessions/week-09.md) | **Formative Assessment** |  | [Action plan (revised)](sessions/week-09.md#blog)
-[Fri<br>Apr 17th](sessions/week-10.md) | PoP (principles of programming)<br>Meet JavaScript (and  jQuery) | [jQuery challenge](sessions/week-10.md#challenge) | [Blog about the jQuery challenge](sessions/week-10.md#blog)
-[Fri<br>Apr 24th](sessions/week-11.md) | Building blocks of programming<br>APIs | [HTML+CSS wireframes](sessions/week-11.md#homework)
-[Fri<br>May 1st](sessions/week-12.md) | Google Maps API | Debugging challenge | [Blog about debugging](sessions/week-12.md#blog)
-[Fri<br>May 8th](sessions/week-13.md) | Programming on the server <br>Meet PHP | [Install WordPress](sessions/week-13.md#homework)
-[Fri<br>May 15th](sessions/week-14.md) | [Meet WordPress](sessions/week-14.md#meet-wordpress) <br>WP plugins | [WordPress templates](sessions/week-14.md#homework) 
-[Fri<br>May 22nd](sessions/week-15.md) | WordPress themes | Keep templating | [Destroy the Web](sessions/week-15.md#blog)
-[Fri<br>May 29th](sessions/week-16.md) | [How to put a website on the actual Web](week-16.md#how-to-put-a-website-on-the-actual-web) | Deploying your site to `raveweb.net` |  
-[Fri<br>Jun 5th](sessions/week-17.md) | *Tutorials* | Prep your presentation | Learning outcomes
-[Fri<br>Jun 12th](sessions/week-18.md) | **Summative presentation and hand-in** | Unit feedback form
+[Monday<br>05.01](sessions/week-01.md) | Unit intro <br>[How does the WWW work?](sessions/week-01.md#how-does-it-wwwork)  | [Draw the Web!](sessions/week-01.md#draw-the-web) | [Learning goals](sessions/week-01.md#blog)
+[Monday<br>12.01](sessions/week-02.md) | [MarkDown](sessions/week-02.md#markup-vs-markdown) and [Git](sessions/week-02.md#github) | [*Bad* webdesign principles](sessions/week-02.md#research) | [Bad websites](sessions/week-02.md#blog)
+[Monday<br>Jan 19th](sessions/week-03.md) | HTML | [Writing a recipe in HTML](sessions/week-03.md#html-in-the-kitchen) | [Action plan](sessions/week-03.md#blog)
+[Monday<br>Jan 26th](sessions/week-04.md) | CSS 101 | [Moodboard](sessions/week-04.md#homework)
+[Monday<br>Feb 2nd](sessions/week-05.md) | CSS position, float and grids | [Paper wireframes](sessions/week-05.md#sketch-out-your-ideas-on-paper) | [Your recipe evolution](sessions/week-05.md#blog)
+[Monday<br>Feb 16th](sessions/week-06.md) | CSS responsive | [Digital wireframes](sessions/week-06.md#redraft-your-wireframes) | [The Internet's Own Boy](sessions/week-06.md#blog)
+[Monday<br>Feb 23rd](sessions/week-07.md) | CSS transitions and animations | [HTML+CSS wireframes](sessions/week-07.md#html--css-wireframes) | [Webdesign myths](sessions/week-07.md#blog)
+[Monday<br>Mar 2nd](sessions/week-08.md) | *Tutorials* | Prep your presentation
+[Monday<br>Mar 9th](sessions/week-09.md) | **Formative Assessment** |  | [Action plan (revised)](sessions/week-09.md#blog)
+[Friday<br>Apr 17th](sessions/week-10.md) | PoP (principles of programming)<br>Meet JavaScript (and  jQuery) | [jQuery challenge](sessions/week-10.md#challenge) | [Blog about the jQuery challenge](sessions/week-10.md#blog)
+[Friday<br>Apr 24th](sessions/week-11.md) | Building blocks of programming<br>APIs | [HTML+CSS wireframes](sessions/week-11.md#homework)
+[Friday<br>May 1st](sessions/week-12.md) | Google Maps API | Debugging challenge | [Blog about debugging](sessions/week-12.md#blog)
+[Friday<br>May 8th](sessions/week-13.md) | Programming on the server <br>Meet PHP | [Install WordPress](sessions/week-13.md#homework)
+[Friday<br>May 15th](sessions/week-14.md) | [Meet WordPress](sessions/week-14.md#meet-wordpress) <br>WP plugins | [WordPress templates](sessions/week-14.md#homework) 
+[Friday<br>May 22nd](sessions/week-15.md) | WordPress themes | Keep templating | [Destroy the Web](sessions/week-15.md#blog)
+[Friday<br>May 29th](sessions/week-16.md) | [How to put a website on the actual Web](week-16.md#how-to-put-a-website-on-the-actual-web) | Deploying your site to `raveweb.net` |  
+[Friday<br>Jun 5th](sessions/week-17.md) | *Tutorials* | Prep your presentation | Learning outcomes
+[Friday<br>Jun 12th](sessions/week-18.md) | **Summative presentation and hand-in** | Unit feedback form
 
 
 
