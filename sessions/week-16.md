@@ -41,7 +41,11 @@ Your challenge for today is to *deploy* your local WP to your **`raveweb.net`** 
 	
 	On your [raveweb.net control panel](https://control.gridhost.co.uk) you can find (or create) your FTP details by going to `Cloud Platform` > `Manage Website` > `FTP Accounts`
 	
-	Set up FileZilla to connect to your remote server:
+	![](assets/gridhost-ftp-accounts.png)
+	
+	![](assets/gridhost-create-ftp-account.png)
+	
+	Set up **FileZilla** to connect to your remote server:
 	
 	![](assets/filezilla-general.png "FileZilla")
 	
@@ -64,12 +68,20 @@ Your challenge for today is to *deploy* your local WP to your **`raveweb.net`** 
 	
 	![](assets/wp-install-applications.png)
 	
+	Click `Install`
+	
+	Make sure that the **path** is set to `/public_html/some_name_of_your_choice` (all lowercase, no spaces) 
+	
 	![](assets/wp-install-path.png)
 	
-	Make sure that the path is set to `/public_html/SOME_NAME_OF_YOUR_CHOICE` (see image above)	
+	This is really important! 
+	
+	`/public_html/` is the folder from which all your reveweb.net is served to the public Web. So for example, if you install WP in `public_html/wordpress-test`	 then everyone will be able to access it at `http://YOURNAME.raveweb.net/wordpress-test`
 	<!-- -->
 2. **Take control of your new remote WP**	
 	The application installer will give you a random username + password. Use them to log in to your remote WP dashboard.
+	
+	![](assets/wp-installed-un-pw.png)
 	
 	<!-- -->
 3. **Upload your theme**  
