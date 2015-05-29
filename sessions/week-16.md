@@ -62,6 +62,11 @@ Your challenge for today is to *deploy* your local WP to your **`raveweb.net`** 
 
 	On your [raveweb.net control panel](https://control.gridhost.co.uk) go to `Cloud Platform` > `Manage Website` > `Install Applications` and then choose WordPress (should be the first option).
 	
+	![](assets/wp-install-applications.png)
+	
+	![](assets/wp-install-path.png)
+	
+	Make sure that the path is set to `/public_html/SOME_NAME_OF_YOUR_CHOICE` (see image above)	
 	<!-- -->
 2. **Take control of your new remote WP**	
 	The application installer will give you a random username + password. Use them to log in to your remote WP dashboard.
