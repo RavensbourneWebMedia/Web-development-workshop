@@ -19,9 +19,11 @@ Your [homework](#homework): [blog](#blog)!
 
 * You have ~30 minutes to **sketch your idea** out.
 
-* Then each *artist* will present their piece to the class, and together we discuss emerging **themes** <!--(globe/planet, connections, computers, brands)--> and **metaphors/symbols** <!--(clouds, trees, cats)-->
+* Then each *artist* will present their piece to the class, and together we discuss emerging **themes**  and **metaphors/symbols** 
 
+<!--(globe/planet, connections, computers, brands)-->
 
+<!--(clouds, trees, cats)-->
 	
 # How does it WWWork?
 
