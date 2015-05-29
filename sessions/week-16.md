@@ -90,7 +90,11 @@ Your challenge for today is to *deploy* your local WP to your **`raveweb.net`** 
   	
   	![](assets/filezilla-advanced.png "FileZilla")
   	
-  	Connect.
+  	Connect
+  	
+  	![](assets/filezilla-same-paths.png)
+  	
+  	Make sure that both your local site and remote site are on `wp-content/themes`
   	
   	![](assets/filezilla-upload.jpg)
   	
