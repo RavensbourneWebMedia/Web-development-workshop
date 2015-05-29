@@ -10,7 +10,7 @@
 * Tutorials?
 -->
 
-Your [homework](#homework) and blog!
+<!--Your [homework](#homework) and blog!-->
 
 <!--- [ ] LearnPress options-->
 
