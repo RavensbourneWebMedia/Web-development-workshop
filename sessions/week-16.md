@@ -126,7 +126,7 @@ Your challenge for today is to *deploy* your local WP to your **`raveweb.net`** 
 	
 	![](assets/wp-sync-db-warning.png)
 	
-	If you get the warning above: go to FileZilla, find `wp-config.php` and edit it.
+	If you get the warning above: go to FileZilla, find the remote `wp-config.php` and edit it.
 	
 	![](assets/wp-config-edit.png)
 	
