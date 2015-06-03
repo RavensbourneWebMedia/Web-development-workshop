@@ -9,14 +9,14 @@ Your [homework](#homework)!
 
 # Checklist for presentations
 
-1. [HTML + CSS recipe documentation](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md#1-document-your-recipes-evolution) 
+1. [HTML + CSS recipe documentation](week-05.md#1-document-your-recipes-evolution) 
 
 	* What have you learned? 
 	* What do you want to learn?
 
-2. The bad website you chose. [Why is it bad?](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md#assignment-for-next-week)
+2. The bad website you chose. [Why is it bad?](week-02.md#assignment-for-next-week)
 
-	Your analysis should refer to [these principles](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-02.md#what-makes-a-website-bad) (aka *heuristics*). 
+	Your analysis should refer to [these principles](week-02.md#what-makes-a-website-bad) (aka *heuristics*). 
 	
 	Let's not just talk about visual design (aesthetics), but **focus on functionality** first. 
 	
@@ -24,12 +24,12 @@ Your [homework](#homework)!
 	
 	> Why does this website not work?
 
-3. [Moodboard](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-04.md#assignment)
+3. [Moodboard](week-04.md#assignment)
 
 4. **Wireframes** at different stages: 
 
-	* [paper sketches](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-05.md#2-sketch-out-your-ideas-on-paper) for alternative solutions 
-	* [digital wireframes](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-06.md#1-redraft-your-wireframes)
+	* [paper sketches](week-05.md#2-sketch-out-your-ideas-on-paper) for alternative solutions 
+	* [digital wireframes](week-06.md#1-redraft-your-wireframes)
 	* BONUS: clickable wireframes (HTML + CSS or InVision)
 	
 5. How do you intend to take your project forward?	
