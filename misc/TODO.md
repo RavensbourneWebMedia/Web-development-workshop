@@ -180,14 +180,17 @@ This [public Trello board](https://trello.com/b/lMmuSlkP/public-design-sprint-te
 
 # The future
 
-### Gamifying the grading 
-
 * Everyone starts from an F and can walk their way up to A
-* Continuous micro-assessment, not just at the end of a unit
+* Continuous micro-assessment, not just at the end of a unit (more **tutorials**)
 * Rigorous assessment criteria, shared with everyone from the beginning
 * Shared leaderboard
-* Teacher as a coach (rather than a judge)
+* Teacher as a **coach** (rather than a judge)
 * Peer-assessment to offer different perspectives and opportunities to reflect
+* FTP can be learned earlier on (in the first term)
+* Installing WP could be done earlier on (in the first term)
+* More **challenges**, both at home and in class
+* Trello earlier on
+
 
 ### Our community
 
