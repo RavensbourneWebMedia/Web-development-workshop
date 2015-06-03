@@ -175,11 +175,15 @@ When marking your projects, we'll use [these assessment criteria](../README.md#g
 
 ### Getting things done
 
-1. Sign up to [Trello](https://trello.com/) with your `@students.rave.ac.uk` email address
-* Join the [trello.com/ravewebmedia](https://trello.com/ravewebmedia) organisation 
+1. Sign up to [Trello](https://trello.com/) with your `@students.rave.ac.uk` email address.
+	
+	<!---->
+* Join the [trello.com/ravewebmedia](https://trello.com/ravewebmedia) organisation. 
+
+	<!---->
 * Create a *board* for your project. 
 
-	Name it sensibly, eg: `Matteo M WebDev`: this will help us find it among everyone else's boards.
+	Name it sensibly, eg `Matteo M WebDev`. This will help you and me find it among everyone else's boards.
 * Write down everything that needs doing.  
   
 	The [*agile*](http://en.wikipedia.org/wiki/Agile_management) way of managing your project is to have **3 lists**
