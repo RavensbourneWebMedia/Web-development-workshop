@@ -2,7 +2,12 @@
 
 ### Today, Friday 5th June 2015
 
-Tutorials
+[Tutorials](#tutorials)
+
+Your [homework](#homework) and [blog](#blog)!
+
+
+
 
 # Tutorials
 
@@ -51,6 +56,10 @@ Your presentation doesn't have to strictly follow the same order in which things
 
 
 
-# Assignment
+# Homework
+
+Get your site ready for next week's presentations and hand-in.
+
+### Blog
 
 [What have I learned?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-did-I-learn.md)
