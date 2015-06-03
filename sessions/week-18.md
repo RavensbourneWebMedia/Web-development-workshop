@@ -2,13 +2,13 @@
 
 ### Today, Friday 12th June 2015
 
-Summative presentations and hand-in
+Summative [presentations](#presentations) and [hand-in](#hand-in-checklist)
 
 
 
-# Tips
+# Presentations
 
-### For the presenter
+### Tips for the presenter
 
 1. Don't start with an **apology**.   
   
@@ -42,7 +42,7 @@ Summative presentations and hand-in
 	Our ideas may be different and I respect that. Your job is to show the value of your work, not to flatter me. 
 -->
 
-### For everyone else
+### Tips for everyone else
 
 1. Be **kind**.   
   
@@ -68,6 +68,46 @@ Summative presentations and hand-in
 
 
 
-# Assignment
 
-Fill in the unit feedback form!
+# Hand-in checklist
+
+Your project [hand-in package](#hand-in-package) should include the following (from the [project components](../README.md#components) list):
+
+1. **Research** [*analysis*](week-02.md#blog) of bad websites and [*mood board*](week-04.md#homework)
+* **Interface design** experimentation and testing of ideas through *wireframes* at various stages, from [paper](week-05.md#sketch-out-your-ideas-on-paper) to [digital](week-06.md#redraft-your-wireframes)
+* **Front-end code** responsive, cohesive and appropriately structured [*HTML & CSS*](week-11.md#homework) (bonus: JavaScript); includes [recipe mini-project](week-05.md#blog)
+* **Back-end code** accessible and dynamic web-pages served via [*WordPress*](week-14.md#template) (bonus: plugins) 
+* **Workflow** all your project files on *GitHub* (bonus: action plan)
+
+
+### Presentations
+
+Include your formative and summative presentations in your hand-in package.
+
+### File size restrictions on GitHub
+
+GitHub doesn't allow you to store files larger than 50MB. 
+
+You can store those on Google Drive or Dropbox (or any other bulk-storage service). 
+
+Any large file that you consider important for us to review when marking your projects (for example, your user-testing videos) must be accessible on the Web. Include a link to it in your hand-in package.	
+
+### Hand-in package
+
+1. Make sure your files and folders are named sensibly. That is, no `Hand in` or `Archive` or `Project` or any other similarly anonymous and/or generic names. Good examples: `Competitor Analysis`, `Wireframes` and `home-logged-in.jpg`
+* *Push* your project work to GitHub. See file size restrictions [above](#file-size-restrictions-on-GitHub).
+* Create a new folder and name it like so: `COURSECODE-Name-Surname`, for example `WEB12345-Matteo-Menapace`.
+* In that folder, add a **`README.md`** file listing all the links to your project work
+	* GitHub repo
+	* Dropbox / Google Drive bulk files (for videos from user-testing, presentations..)
+	* website link(s) (your site on `raveweb.net` or elsewhere)
+	* ..any other links that you consider relevant and can improve your grade
+* Create a **zip archive** for that folder. It should keep the `COURSECODE-Name-Surname` naming convention, for example `WEB12345-Matteo-Menapace.zip`
+* Upload the zip archive to Moodle.
+
+
+
+
+<!--# Assignment
+
+Fill in the unit feedback form!-->
