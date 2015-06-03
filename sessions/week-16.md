@@ -32,7 +32,9 @@ Your challenge for today is to *deploy* your local WP to your **`raveweb.net`** 
 
 	This will let you **transfer files** between your computer and the remote server.. similar to how you copy files between two folders on your computer, just one folder is on a server somewhere else on this planet.
 	
-	<!-- If you use Brackets you can try [this extension](http://equals182.github.io/eqFTP/) at your own risk. -->
+	If you use **Brackets** you can install and use the  [SFtpUpload extension](https://github.com/bigeyex/brackets-sftp-upload) **instead** of FileZilla.
+	
+	![](assets/brackets-sftp-upload.png)
 
 * FTP details for the **remote server** where your website will be hosted
 	* **host** something like `ftp.YOURNAME.raveweb.net`
@@ -45,7 +47,7 @@ Your challenge for today is to *deploy* your local WP to your **`raveweb.net`** 
 	
 	![](assets/gridhost-create-ftp-account.png)
 	
-	Set up **FileZilla** to connect to your remote server:
+	Set up **FileZilla** (or *SFtpUpload* on Brackets) to connect to your remote server:
 	
 	![](assets/filezilla-general.png "FileZilla")
 	
@@ -68,7 +70,7 @@ Your challenge for today is to *deploy* your local WP to your **`raveweb.net`** 
 	
 	![](assets/wp-install-applications.png)
 	
-	Click `Install`
+	<!-- Click `Install`
 	
 	Make sure that the **path** is set to `/public_html/some_name_of_your_choice` (all lowercase, no spaces) 
 	
@@ -76,8 +78,7 @@ Your challenge for today is to *deploy* your local WP to your **`raveweb.net`** 
 	
 	This is really important! 
 	
-	`/public_html/` is the folder from which all your reveweb.net is served to the public Web. So for example, if you install WP in `public_html/wordpress-test`	 then everyone will be able to access it at `http://YOURNAME.raveweb.net/wordpress-test`
-	<!-- -->
+	`/public_html` is the folder from which all your reveweb.net is served to the public Web. So for example, if you install WP in `/public_html/wordpress-test`	 then everyone will be able to access it at `http://YOURNAME.raveweb.net/wordpress-test`-->
 2. **Take control of your new remote WP**	
 	The application installer will give you a random username + password. Use them to log in to your remote WP dashboard.
 	
