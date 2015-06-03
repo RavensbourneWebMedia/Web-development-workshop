@@ -75,10 +75,10 @@ Your final mark will be based on:
 
 ### Components
 
-1. **Research** *analysis* of bad websites and *mood board*
-* **Interface design** experimentation and testing of ideas through *wireframes* at various stages, from paper to digital
-* **Front-end code** responsive, cohesive and appropriately structured *HTML & CSS* (bonus: JavaScript); includes recipe mini-project
-* **Back-end code** accessible and dynamic web-pages served via *WordPress* (bonus: plugins) 
+1. **Research** [*analysis*](sessions/week-02.md#blog) of bad websites and [*mood board*](sessions/week-04.md#homework)
+* **Interface design** experimentation and testing of ideas through *wireframes* at various stages, from [paper](sessions/week-05.md#sketch-out-your-ideas-on-paper) to [digital](sessions/week-06.md#redraft-your-wireframes)
+* **Front-end code** responsive, cohesive and appropriately structured [*HTML & CSS*](sessions/week-11.md#homework) (bonus: JavaScript); includes [recipe mini-project](sessions/week-05.md#blog)
+* **Back-end code** accessible and dynamic web-pages served via [*WordPress*](sessions/week-14.md#template) (bonus: plugins) 
 * **Workflow** all your project files on *GitHub* (bonus: action plan)
 
 ### Grades
