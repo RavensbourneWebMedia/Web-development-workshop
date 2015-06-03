@@ -177,18 +177,30 @@ When marking your projects, we'll use [these assessment criteria](../README.md#g
 
 1. Sign up to [Trello](https://trello.com/) with your `@students.rave.ac.uk` email address
 * Join the [trello.com/ravewebmedia](https://trello.com/ravewebmedia) organisation 
-* Create a *board* for your project
-* Write down a list of everything that needs doing
-* Good luck :)
+* Create a *board* for your project. 
+
+	Name it sensibly, eg: `Matteo M WebDev`: this will help us find it among everyone else's boards.
+* Write down everything that needs doing.  
+  
+	The [*agile*](http://en.wikipedia.org/wiki/Agile_management) way of managing your project is to have **3 lists**
+	
+	* `TO DO` Start by adding *cards* to this list, eg one card for each page in your site
+	* `DOING` As you work on tasks, move them to this list
+	* `DONE` When you're done with a task, put it in this list
+
+![](assets/trello-lists.png)
+
+For each card you can add a checklist of all that needs to be done in that card, eg: all the changes you need to make to a page.
+
+![](assets/trello-card.png)
 
 
 [Quick guide](https://trello.com/guide/board_basics.html) on  how to use Trello.
 
-[![](https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/f556940da98ac9e209bb9fb7d7150ca2/board.jpg)](https://trello.com/guide/board_basics.html)
 
 
 
 
-# Homework
+<!--# Homework
 
-- [ ] TODO
+- [ ] TODO-->
