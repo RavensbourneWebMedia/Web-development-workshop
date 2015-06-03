@@ -39,8 +39,8 @@ When | Learn | Practice | Blog
 [Friday<br>08.05](sessions/week-13.md) | Programming on the server <br>Meet PHP | [Install WordPress](sessions/week-13.md#homework)
 [Friday<br>15.05](sessions/week-14.md) | [Meet WordPress](sessions/week-14.md#meet-wordpress) <br>WP plugins | [WordPress templates](sessions/week-14.md#homework) 
 [Friday<br>22.05](sessions/week-15.md) | WordPress themes | Keep templating | [Destroy the Web](sessions/week-15.md#blog)
-[Friday<br>29.05](sessions/week-16.md) | [How to put a website on the actual Web](sessions/week-16.md#how-to-put-a-website-on-the-actual-web) | Deploying your site to `raveweb.net` |  
-[Friday<br>05.06](sessions/week-17.md) | *Tutorials* | Prep your presentation | Learning outcomes
+[Friday<br>29.05](sessions/week-16.md) | [How to put a website on the actual Web](sessions/week-16.md#how-to-put-a-website-on-the-actual-web) | Deploy your site to `raveweb.net` |  
+[Friday<br>05.06](sessions/week-17.md) | [*Tutorials*](week-17.md#tutorials) | [Prep your presentation](week-17.md#presentation-checklist) | [Learning outcomes](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-did-I-learn.md)
 [Friday<br>12.06](sessions/week-18.md) | **Summative presentation and hand-in** | Unit feedback form
 
 
