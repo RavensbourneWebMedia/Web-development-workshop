@@ -21,6 +21,7 @@
 ## CSS
 
 - [x] [Understanding `position`](http://blog.froont.com/positioning-in-web-design)
+- [ ] [7 Habits of Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
 
 ## Wireframes
 
@@ -99,6 +100,13 @@
 - [ ] [Maths and Web design](http://www.smashingmagazine.com/2010/02/09/applying-mathematics-to-web-design)
 
 - [ ] https://sumall.com/thankyou neat one-page, would make a good tutorial 
+
+
+# To read and blog about
+
+- [ ] [You already code](https://medium.com/on-coding/you-can-already-code-you-just-dont-know-it-yet-862044601a5a)
+
+
 
 
 # Term 3
@@ -213,6 +221,16 @@ From [Bento](https://www.bento.io/tour)
 > It's important to pick a project
 Learning to code is like learning to ride a bike. You can read a lot of things about how to turn the pedals, watch videos on how to steer, and even have someone show you how to brake. But until you actually get on a bike and try riding, you'll never learn. Coding is the same thing: it's not enough to learn using tutorials, you have to pick a project and build something as you're learning.
 
+
+### Trello + Git workflow
+
+Project management and time planning should be integral part of the unit (weekly stand-ups and tutorials).
+
+Task management should also be integrated with the Git workflow: **complete a task > do a commit**.
+
+What about **big files**? Need to remind people that GitHub doesn't like files bigger than 50MB. For those, you should use a CDN really. But what if you committed them by mistake? SourceTree > reset file to commit.. ?
+
+- [ ] Check out **waffle.io**
 
 <!--  
 
