@@ -45,7 +45,7 @@ When | Learn | Practice | Blog
 
 ### Deadlines
 
-[Add these deadlines to your Calendar](webcal://www.google.com/calendar/ical/b745918aa5018sk6qrpnbeul5s%40group.calendar.google.com/public/basic.ics)!
+[Add these deadlines to your Calendar](https://www.google.com/calendar/ical/b745918aa5018sk6qrpnbeul5s%40group.calendar.google.com/public/basic.ics)!
 
 When | What
 ---- | ---- 
