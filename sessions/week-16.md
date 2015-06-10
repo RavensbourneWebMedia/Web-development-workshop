@@ -152,15 +152,6 @@ Once you're happy with your experiments, you can upload them to the remote WP, s
 
 > I haven't yet found an easier / safer way to do this. If you do, [please let me know](https://twitter.com/@baddeo)!
 
-<!-- 
-
-Check out 
-
-- http://timrourke.com/blog/tutorials/automated-wordpress-deployment-with-grunt/
-- http://mattbanks.me/grunt-wordpress-development-deployments/
-
--->
-
 <!--Then create a **new user** with `administrator` privileges, and give it username + email + password of your choice.
 	
 	This way you will be able to recover your pw via email in case you forgot it. And that happens very often :)-->
