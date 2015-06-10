@@ -45,7 +45,7 @@ When | Learn | Practice | Blog
 
 ### Deadlines
 
-<a href="webcal://www.google.com/calendar/ical/b745918aa5018sk6qrpnbeul5s%40group.calendar.google.com/public/basic.ics">Add these deadlines to your Calendar</a>!
+[Add these deadlines to your Calendar](webcal://www.google.com/calendar/ical/b745918aa5018sk6qrpnbeul5s%40group.calendar.google.com/public/basic.ics)!
 
 When | What
 ---- | ---- 
@@ -56,7 +56,7 @@ When | What
 
 1. What happens if I submit my work after a deadline? 
 
-	Your grade will be **capped at D-** 
+	> Your grade will be **capped at D-** 
 
 Learn more about assessment regulations [here](https://intranet.rave.ac.uk/download/attachments/198639713/FINAL_RAVE_UAL_+BA_BSc+assessment+regulations_2014_15-notc2.pdf).
 
