@@ -15,10 +15,10 @@ Your [homework](#homework) and [blog](#blog)!
 
 # Presentation checklist
 
-Next week you'll have **15 minutes** each to 
+Next week you'll have **10 minutes** each to 
 
-1. Present your project and process `~10 minutes`
-2. Q&A `~5 minutes`
+1. Present your project and process `~6 minutes`
+2. Q&A `~4 minutes`
 
 
 This is a list of topics that your presentation *should* touch upon. 
