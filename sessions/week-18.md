@@ -103,7 +103,7 @@ Any large file that you consider important for us to review when marking your pr
 	* website link(s) (your site on `raveweb.net` or elsewhere)
 	* ..any other links that you consider relevant and can improve your grade
 * Create a **zip archive** for that folder. It should keep the `COURSECODE-Name-Surname` naming convention, for example `WEB12345-Matteo-Menapace.zip`
-* Upload the zip archive to Moodle.
+* Upload the zip archive to Moodle by 23:59 on Friday 12th of June 2015.
 
 
 

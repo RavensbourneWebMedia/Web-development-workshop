@@ -43,7 +43,14 @@ When | Learn | Practice | Blog
 [Friday<br>05.06](sessions/week-17.md) | [*Tutorials*](week-17.md#tutorials) | [Prep your presentation](week-17.md#presentation-checklist) | [Learning outcomes](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-did-I-learn.md)
 [Friday<br>12.06](sessions/week-18.md) | **Summative presentation and hand-in** | Unit feedback form
 
+### Deadlines
 
+What | When | Add to calendar
+---- | ---- | ---------------
+Formative | 23:59 on Monday 9th of March 2015 | 
+Summative | 23:59 on Friday 12th of June 2015 | [Add this to your calendar](summative-deadline.ics)
+
+What happens if I submit after a deadline?
 
 
 # Brief
