@@ -45,12 +45,20 @@ When | Learn | Practice | Blog
 
 ### Deadlines
 
-What | When | Add to calendar
----- | ---- | ---------------
-Formative | 23:59 on Monday 9th of March 2015 | 
-Summative | 23:59 on Friday 12th of June 2015 | [Add this to your calendar](summative-deadline.ics)
+[Add these deadlines to your Calendar](https://www.google.com/calendar/ical/b745918aa5018sk6qrpnbeul5s%40group.calendar.google.com/public/basic.ics)!
 
-What happens if I submit after a deadline?
+When | What
+---- | ---- 
+23:59 Monday 09.03 | Formative 
+23:59 Friday 12.06 | Summative: [hand-in instructions](sessions/week-18.md#hand-in-checklist) 
+
+#### FAQs
+
+1. What happens if I submit my work after a deadline? 
+
+	Your grade will be **capped at D-** 
+
+Learn more about assessment regulations [here](https://intranet.rave.ac.uk/download/attachments/198639713/FINAL_RAVE_UAL_+BA_BSc+assessment+regulations_2014_15-notc2.pdf).
 
 
 # Brief
