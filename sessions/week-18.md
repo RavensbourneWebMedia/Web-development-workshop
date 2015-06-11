@@ -84,9 +84,13 @@ Your project [hand-in package](#hand-in-package) should include the following (f
 
 Include your formative and summative presentations in your hand-in package.
 
+Export them as `.pdf`. No `.ppt` or `.key` please.
+
+If you have made a *presentation video*, upload it to YouTube (or similar) and include the link in your hand-in package.
+
 ### File size restrictions on GitHub
 
-GitHub doesn't allow you to store files larger than 50MB. 
+GitHub doesn't allow you to store files larger than **50MB**. 
 
 You can store those on Google Drive or Dropbox (or any other bulk-storage service). 
 
