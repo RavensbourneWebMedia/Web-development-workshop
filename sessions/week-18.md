@@ -102,10 +102,14 @@ Any large file that you consider important for us to review when marking your pr
 * *Push* your project work to GitHub. See file size restrictions [above](#file-size-restrictions-on-GitHub).
 * Create a new folder and name it like so: `COURSECODE-Name-Surname`, for example `WEB12345-Matteo-Menapace`.
 * In that folder, add a **`README.md`** file listing all the links to your project work
-	* GitHub repo
-	* Dropbox / Google Drive bulk files (for videos from user-testing, presentations..)
-	* website link(s) (your site on `raveweb.net` or elsewhere)
-	* ..any other links that you consider relevant and can improve your grade
+	* links to your work on **your** GitHub repository
+	* links to Dropbox / Google Drive bulk files (for videos from user-testing, presentations..)
+	* website link(s) (eg, your site on `raveweb.net` or elsewhere)
+	* ..any other links that you consider relevant and can improve your grade  
+
+	> Don't add anything else to that folder, only your `README.md`  
+  
+	> See an example of a good `README.md` [here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/README.md)
 * Create a **zip archive** for that folder. It should keep the `COURSECODE-Name-Surname` naming convention, for example `WEB12345-Matteo-Menapace.zip`
 * Upload the zip archive to Moodle by 23:59 on Friday 12th of June 2015.
 
