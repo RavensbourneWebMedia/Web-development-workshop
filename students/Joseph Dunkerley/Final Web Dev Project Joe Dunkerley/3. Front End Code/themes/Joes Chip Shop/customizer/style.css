@@ -1,0 +1,11 @@
+.accordion-section-content .description {
+  margin: 1em 0 2.5em 0;
+}
+
+ul.accordion-sub-container li.customize-control {
+  margin-bottom: 2.2em;
+}
+
+#customize-control-custom_css_textarea textarea {
+	height: 125px;
+}

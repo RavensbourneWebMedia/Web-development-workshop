@@ -1,0 +1,64 @@
+#Content {
+  width:500px;
+  margin:0px auto;
+  text-align:left;
+  padding:15px;
+  border:1px
+  }
+
+  ul
+{
+list-style-type: none;
+}
+
+body {
+  font-size: 15px;
+  line-height: 15px;
+  max-width: 760px;
+  margin:50px 0px; padding:0px;
+  background-color: #FAEBD7;
+  margin-left: auto;
+    margin-right: auto;
+    text-align: center
+}
+h1 {
+  font-size: 61px;
+  line-height: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+   font-family: 'Rock Salt', cursive;
+}
+
+.container {
+font-family: 'Indie Flower', cursive;
+}
+
+.wobble {
+font-weight: 900;
+}
+
+p, ul, ol, pre, table, blockquote {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+/* Sanitation */
+hr {
+  border: 1px solid;
+  margin: -1px 0;
+}
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+b, strong, em, small, code {
+  line-height: 1;
+}
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub {
+  top: 0.4em;
+}
