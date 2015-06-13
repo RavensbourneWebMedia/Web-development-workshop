@@ -193,6 +193,19 @@ Create custom fields appropriate to your website
 Start moving your HTML wireframes into WP (give a couple of pointers, eg header/content/footer)
 
 
+# Session 18
+
+### Fonts? 
+
+Maybe we should have a session specifically on typography and get people to experiment with fonts
+ 
+### CTA (aka the thing)
+
+What's the call to action of every page?  
+  
+![](http://bradfrost.com/wp-content/uploads/2013/09/Keynote-11-700x523.png)
+
+
 
 
 
