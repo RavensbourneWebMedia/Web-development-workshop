@@ -17,6 +17,7 @@
 ## HTML
 
 - [ ] https://www.google.com/webmasters/markup-helper/?
+- [ ] install X-Ray Goggles
 
 ## CSS
 
