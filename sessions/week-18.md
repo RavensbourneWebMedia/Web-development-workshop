@@ -79,39 +79,61 @@ Your project [hand-in package](#hand-in-package) should include the following (f
 * **Back-end code** accessible and dynamic web-pages served via [*WordPress*](week-14.md#template) (bonus: plugins) 
 * **Workflow** all your project files on *GitHub* (bonus: action plan)
 
+### Project files on GitHub
 
-### Presentations
+Make sure your files and folders are named sensibly. 
 
-Include your formative and summative presentations in your hand-in package.
+That is, no `Hand in` or `Archive` or `Project` or any other similarly anonymous and/or generic names. Good examples: `Competitor Analysis`, `Wireframes` and `home-logged-in.jpg`
 
-Export them as `.pdf`. No `.ppt` or `.key` please.
+See file size restrictions [below](#file-size-restrictions-on-GitHub).
 
-If you have made a *presentation video*, upload it to YouTube (or similar) and include the link in your hand-in package.
+If you haven't done it yet (which is bad really, as you should have been using GitHub to back up your project work since the beginning of this unit).. [**fork** the official unit repository](https://github.com/RavensbourneWebMedia/Web-development-workshop#fork-destination-box).
 
-### File size restrictions on GitHub
+[![](assets/github-fork.png)](https://github.com/RavensbourneWebMedia/Web-development-workshop#fork-destination-box)
+
+Clone **your fork** into your computer. See a [how-to-git guide here](https://github.com/RavensbourneWebMedia/Guides/blob/master/how-to-git.md).
+
+![](assets/github-clone.png)
+
+*Push* your project work to GitHub in the `students/YOUR_NAME` folder of **your fork**. 
+
+#### File size restrictions on GitHub
 
 GitHub doesn't allow you to store files larger than **50MB**. 
 
 You can store those on Google Drive or Dropbox (or any other bulk-storage service). 
 
-Any large file that you consider important for us to review when marking your projects (for example, your user-testing videos) must be accessible on the Web. Include a link to it in your hand-in package.	
+Any large file that you consider important for us to review when marking your projects (for example, your user-testing videos) must be accessible on the Web. Include a link to it in your [hand-in package](#hand-in-package).
+
+### Presentations
+
+Include your formative and summative presentations in your [hand-in package](#hand-in-package).
+
+Export them as `.pdf`. No `.ppt` or `.key` please.
+
+If you have made a *presentation video*, upload it to YouTube (or similar) and include the link in your [hand-in package](#hand-in-package).
 
 ### Hand-in package
 
-1. Make sure your files and folders are named sensibly. That is, no `Hand in` or `Archive` or `Project` or any other similarly anonymous and/or generic names. Good examples: `Competitor Analysis`, `Wireframes` and `home-logged-in.jpg`
-* *Push* your project work to GitHub. See file size restrictions [above](#file-size-restrictions-on-GitHub).
-* Create a new folder and name it like so: `COURSECODE-Name-Surname`, for example `WEB12345-Matteo-Menapace`.
-* In that folder, add a **`README.md`** file listing all the links to your project work
-	* links to your work on **your** GitHub repository
+1. Create a new folder and name it like so: `COURSECODE-Name-Surname`, for example `WEB12345-Danny-Base`.  
+	
+	<!---->
+* In the `COURSECODE-Name-Surname` folder add a **`README.md`** file and list all the links to your project work
+	* links to your work on **your** GitHub repository :octocat:
 	* links to Dropbox / Google Drive bulk files (for videos from user-testing, presentations..)
 	* website link(s) (eg, your site on `raveweb.net` or elsewhere)
-	* ..any other links that you consider relevant and can improve your grade  
+	* links to your blog posts
+	* .. any other links that you consider relevant and can improve your grade :+1:
 
-	> Don't add anything else to that folder, only your `README.md`  
+	Don't add anything else to your `COURSECODE-Name-Surname` folder, only your `README.md`.  
   
-	> See an example of a good `README.md` [here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/README.md)
-* Create a **zip archive** for that folder. It should keep the `COURSECODE-Name-Surname` naming convention, for example `WEB12345-Matteo-Menapace.zip`
-* Upload the zip archive to Moodle by 23:59 on Friday 12th of June 2015.
+	See an example of a good `README.md` [here](https://github.com/TomSharmanWeb/HarrySeatonWebsite/blob/master/README.md).
+
+	<!---->
+* Create a **zip archive** for your `COURSECODE-Name-Surname` folder. It should keep the `COURSECODE-Name-Surname` naming convention, for example `WEB12345-Jess-Scripts.zip`	  
+
+	<!---->
+* Upload your `COURSECODE-Name-Surname.zip` to *Moodle* by 23:59 on Friday 12th of June 2015.
 
 
 
