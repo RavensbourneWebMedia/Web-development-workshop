@@ -7,18 +7,33 @@
 * **Research** on Google Doc worked well, need to force people to reference their sources.
 
 * Collaborative research and discussion on *How does it WWWork* went quite well.
-To make it more **playful** and keep people's *antennas* up, we could introduce a *ball* (or any other soft object that can be easily and safely thrown around.. idea from Angela Morelli, Science Museum 2011). Only who has the *ball* can speak, and whwnever s/he mentions a keyword that belongs to someone else, they need to pass it to them and let them talk a bit.
+To make it more **playful** and keep people's *antennas* up, we could introduce a *ball* (or any other soft object that can be easily and safely thrown around.. idea from Angela Morelli, Science Museum 2011). Only who has the *ball* can speak, and whenever s/he mentions a keyword that belongs to someone else, they need to pass it to them and let them talk a bit.
 
 * [ ] Discussion around key WWW concepts: could experiment with an object that needs to be passed/thrown to the person who's in charge of a concept you mentioned. 
  
 
-# Session 2
+# [Session 2](../sessions/week-02.md)
 
-* [ ] Learning goals review in small groups went well I think. Maybe experiment with jotting down common goals on a whiteboard?
+### Learning goals review
 
-* Semiotics leading into MD: students interested but could go a bit quicker. Ask more questions.
+Learning goals review in small groups went well I think. Maybe experiment with jotting down common goals on a whiteboard?
 
-- [ ] MD and GitHub: who else is using it? Make it **relevant**.
+### Semiotics
+
+Semiotics leading into MD: students interested but could go a bit quicker. Ask more questions.
+
+### GitHub and MD
+
+1. Introduce MD and GitHub: who else is using it? Make it **relevant**. Have a discussion around the benefits of a back-up + version-control system
+2. Sign up to GitHub
+3. Create your first repo
+4. Clone rep
+5. Draft a recipe in MD (without searching online, just a first draft)
+6. Commit and push recipe draft
+7. Demo how to do images and hyperlinks, as well as lists
+8. Redraft recipe, commit and push again
+9. README.md and link to recipe folder
+10. GH-pages?
 
 - [ ] MD: focus on writing rather than making it look good, or adding spaces between things?
 
@@ -28,7 +43,11 @@ To make it more **playful** and keep people's *antennas* up, we could introduce 
 
 * [ ] Git: need to explain the difference between clone, fork, push and pull. Maybe with a **Git quiz**?
 
-* **What makes a website bad?**: try it as a group exercise. Maybe assign each group a couple of principles to concentrate on? 
+### Analysis
+
+**What makes a website bad?**: try it as a group exercise. Maybe assign each group a couple of principles to concentrate on? 
+
+* Instead of subjective statements like "I highly dislike the aesthetics" ask questions such as "How is this feature serving (or not) the business and its customers?" and "Why was this designed and built the way it is?"
 
 
 # Session 3
@@ -51,8 +70,9 @@ To make it more **playful** and keep people's *antennas* up, we could introduce 
 
 * GTD video captured most people's attention. **Buzzwords bingo** not sure, need to experiment more with it, maybe base the discussion around the buzzwords. In general, need to get better at **moderating discussions**.  
 
-* [Action plan](https://github.com/RavensbourneWebMedia/WEB14104/blob/master/sessions/week-03.md#assignment): we're not following it. Try something practical like Trello?
+* [Action plan](../sessions/week-03.md#assignment): we're not following it. Try something practical like Trello?
 
+- [ ] **Keyboard tricks** eg <kbd>cmd</kbd> + <kbd>left</kbd> to select a whole line of text
 
 # Session 4
 
@@ -66,7 +86,7 @@ To make it more **playful** and keep people's *antennas* up, we could introduce 
 
 ### Moodboard
 
-Give it a chiecklist of components, eg:
+Give it a checklist of components, eg:
 
 * inspiring competitors (screenshots of entire pages)
 * inspiring details (screenshots)
@@ -76,11 +96,15 @@ Give it a chiecklist of components, eg:
 * current state of affairs
 * possible directions
 
+- [ ] Do it on Pinterest, but go outside of Pinterest to add your own screenshots and real-life examples. Don't just re-pin stuff!
 
 # Session 5
 
 * **Folder structure** and how to `<link` files. Don't take it for granted. Can be part of the quiz
-* [] Check [PhotoshopEitquette](http://photoshopetiquette.com/) out
+
+* [] Check [PhotoshopEtiquette](http://photoshopetiquette.com/) out
+
+* [] Check [Rana's recipe evolution](https://github.com/RanaKarim/WEB14104/blob/master/students/Rana/Blogging/Week%205%20(Evolution%20of%20recipe)/Markdown-evoloution%20of%20recipe.md) out
 
 ### Grids
 
@@ -197,7 +221,11 @@ Start moving your HTML wireframes into WP (give a couple of pointers, eg header/
 
 ### Fonts? 
 
-Maybe we should have a session specifically on typography and get people to experiment with fonts
+Maybe we should have a session specifically on typography and get people to experiment with fonts.
+
+- [ ] Typecast exercise (you'll be marked on that): make something look good (and informative) without using images
+
+- [ ] Is there a site that has some sort of **word-cloud** of associations with fonts, eg: `Comic Sans` > *unprofessional*, *childish* but perhaps also *fun*
  
 ### CTA (aka the thing)
 
