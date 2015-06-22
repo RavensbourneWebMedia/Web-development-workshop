@@ -52,6 +52,19 @@
 
 - [ ] [Free Web fonts](http://www.typewolf.com/free-fonts)
 - [x] [Typography games](http://type.method.ac)
+- [ ] [Contrast rebellion](http://contrastrebellion.com/)
+- [ ] [TypeTester](http://www.typetester.org/gallery/staff-picks/)
+
+## Trends
+
+- [ ] [HTTPster](http://httpster.net/)
+- [ ] [SiteInspire]()
+- [ ] [Everything Design](http://www.piccsy.com/everything-design/)
+
+## Accessibility
+
+- [ ] [We are color blind](http://wearecolorblind.com/)
+
 
 ## Grid systems
 
@@ -170,6 +183,7 @@ SPA (Single Page Application) vs page reload: Using the API has a performance be
 * http://www.sitepoint.com/wordpress-json-rest-api
 * https://github.com/matteomenapace/REST-API-Theme
 * http://studioraygun.co.uk/blog/angularjs-front-end-wordpress-back-end
+* http://www.michaelbromley.co.uk/blog/418/angular-wordpress-seed-a-complete-example-project-with-angularjs-and-the-wordpress-json-rest-api
 
 * http://thenuschool.com/create-a-wordpress-website-just-15-min-no-coding-needed
 
@@ -221,6 +235,20 @@ From [Bento](https://www.bento.io/tour)
 
 > It's important to pick a project
 Learning to code is like learning to ride a bike. You can read a lot of things about how to turn the pedals, watch videos on how to steer, and even have someone show you how to brake. But until you actually get on a bike and try riding, you'll never learn. Coding is the same thing: it's not enough to learn using tutorials, you have to pick a project and build something as you're learning.
+
+### Re-submission
+
+Design and build an online portfolio for a designer of your choice (could be yourself).
+
+* Read [this advice](https://medium.com/doing-the-work/it-s-portfolio-season-here-s-8-thing-i-wish-i-d-known-while-designing-mine-4869308540e7)
+* Competitor analysis (see [this](https://hackpad.com/collection/nJRpRd84OEL))
+* Content strategy: site map + language guidelines (see Granary Care)
+* Moodboard on Pinterest ([ ] link)
+* Evidence of paper sketches + wireframes with real content
+* Case studies
+* HTML + CSS static pages (at least 3)
+* Evidence of back-end (screenshots from WP / Squarespace?)
+* Website live
 
 
 ### Trello + Git workflow
