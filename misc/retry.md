@@ -150,7 +150,7 @@ Two options:
 
 	**or**
 
-2. To save yourself work in the long run, start translating your wireframes into **HTML + CSS** using a framework like [Skeleton](http://getskeleton.com), [Bootstrap](http://getbootstrap.com) or [Foundation](http://foundation.zurb.com/prototyping.html)
+2. To save yourself work in the long run, start translating your wireframes into **HTML + CSS** using a framework like [Skeleton](http://getskeleton.com)
 
 
 ## HTML and CSS wireframes
