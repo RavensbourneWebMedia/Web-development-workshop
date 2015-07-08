@@ -13,6 +13,15 @@ Your website must
 * have a style informed by (but not necessarily following) contemporary trends
 
 
+### Components
+
+1. **Research** [competitor analysis](#competitor-analysis), [target audience(s)](#target-audiences) and [mood board](#moodboard)
+* **Interface design** experimentation and testing of ideas through *wireframes* at various stages, from [paper](#sketch-out-your-ideas-on-paper) to [digital](#digital-wireframes)
+* **Front-end code** responsive, cohesive and appropriately structured [HTML & CSS](#html-and-css-wireframes) (bonus: JavaScript)
+* **Back-end code** accessible and dynamic web-pages served via [WordPress](../sessions/week-14.md) (bonus: plugins) 
+* **Workflow** all your project files on *GitHub* (bonus: action plan)
+
+
 ### Deadline
 
 **Friday, 28th of August 2015, 23:59**
@@ -22,13 +31,7 @@ You will hand-in a `WEB14105-Name-Surname.zip` folder via Moodle (we will send y
 For more details on how to hand-in your project [see here](../sessions/week-18.md#hand-in-package).
 
 
-### Components
 
-1. **Research** [competitor analysis](#competitor-analysis), [target audience(s)](#target-audiences) and [mood board](#moodboard)
-* **Interface design** experimentation and testing of ideas through *wireframes* at various stages, from [paper](#sketch-out-your-ideas-on-paper) to [digital](#digital-wireframes)
-* **Front-end code** responsive, cohesive and appropriately structured [HTML & CSS](#html-and-css-wireframes) (bonus: JavaScript)
-* **Back-end code** accessible and dynamic web-pages served via [WordPress](../sessions/week-14.md) (bonus: plugins) 
-* **Workflow** all your project files on *GitHub* (bonus: action plan)
 
 
 ## Target audiences
