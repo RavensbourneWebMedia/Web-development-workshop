@@ -38,7 +38,7 @@ Your [homework](#homework): [blog](#blog)!
 
 <!--To **make sense** of them.-->
 
-![Abbey Road: arguably the World's most famous zebra crossing](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/abbey-road-crossing.jpg)
+![Abbey Road: arguably the World's most famous zebra crossing](assets/abbey-road-crossing.jpg)
 
 What do white stripes across the road mean? Is that meaning universal? 
 
@@ -52,11 +52,11 @@ If you're interested in learning more about *semiotics* (the theory of signs) [T
 
 Compare this ..
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/brief-no-meta.png)
+![](assets/brief-no-meta.png)
 
 .. with this
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/brief-with-meta.png)
+![](assets/brief-with-meta.png)
 
 Same content, different *meta-content*.
 
@@ -73,7 +73,7 @@ How do we add meta-content to text and code?
 > From [Wikipedia](http://en.wikipedia.org/wiki/Markup_language)
 
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/printer-markup-signs.png)
+![](assets/printer-markup-signs.png)
 
 All your **digital texts** are marked up, whether you see the **markup** or not. That is, they contain both content and meta-content.
 
@@ -128,7 +128,7 @@ First, you edit your files on your computer (aka *Working Copy*).
 
 Any changes you make to the Working Copy will appear on Source Tree.
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/git-edit.png)
+![](assets/git-edit.png)
 
 * New files will appear with a question mark (?) next to them.
 * Changed files will appear with an ellipsis (...) next to them.
@@ -139,7 +139,7 @@ When you’re ready to save a copy of the current state of the project, you *sta
 
 Whenever you commit a bunch of changes to your files, you will need to add a **commit message**. It can be anything, however it helps if you write something meaningful and descriptive of the changes you've made.
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/git-commit.png)
+![](assets/git-commit.png)
 
 > It's good practice to **make lots of small commits** rather than one massive push at the end of the day.
 
@@ -149,7 +149,7 @@ After you're commited some changes, a number icon will pop up over the *Push but
 
 This means that your commits are ready to be uploaded to the mothership (aka *origin repository*).
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/git-push.png)
+![](assets/git-push.png)
 
 The name of our remote is *origin* and the default local branch name is *master*. 
 
@@ -163,7 +163,7 @@ If there are no conflicts between your files and those on the mothership, **you'
 
 If other people are working at the same project, before you can upload your changes to the mothership (aka *origin repository*), you may need to **pull** the latest version from the mothership into your working copy. 
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/git-pull.png)
+![](assets/git-pull.png)
 
 If there's a number over the *Pull button* you should pull those *remote* changes into your *Working Copy* (and possibly sort out conflicts before you can push your changes).
 
@@ -231,7 +231,7 @@ This list of principles (aka heuristics) is based on [good ol' Jakob Nielsen's 1
 	
 	> To find out what option #1 is, press 1. To find out what option #2 is, press 2. Makes sense.
 	
-	![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14104/master/sessions/assets/mystery-meat-navigation.png)	
+	![](assets/mystery-meat-navigation.png)	
 
 8. **Inflexibility and inefficiency of use**
 
