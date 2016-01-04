@@ -124,7 +124,7 @@ We are going to make a list of people (but they could be products, meals, whatev
 	```
 
 
-And [here's code for the finished thing](https://github.com/RavensbourneWebMedia/WEB14104/tree/master/sessions/html5-boilerplate-animation-transition).
+And [here's code for the finished thing](../resources/html5-boilerplate-animation-transition).
 
 
 ### Hungry for more CSS tutorials?
