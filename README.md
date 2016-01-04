@@ -61,12 +61,12 @@ Friday<br>10.06| **Summative presentations** |  **Summative hand-in** |
 
 -->
 
-### Deadlines
+<!--### Deadlines
 
 When | What
 ---- | ---- 
 23:59 Wednesday 09.03 | Formative 
-23:59 Friday 10.06 | Summative
+23:59 Friday 10.06 | Summative-->
 
 <!-- : [hand-in instructions](sessions/week-18.md#hand-in-checklist) -->
 
