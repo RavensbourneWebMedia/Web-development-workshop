@@ -1,21 +1,17 @@
-# Web Development Workshop
-
-This unit introduces you to the concepts, methods and tools used to produce Web sites that are technically sound, aesthetically cohesive and appropriately structured.
+### During this course you will learn how to produce Web sites that are technically sound, aesthetically cohesive and appropriately structured.
 
 This includes:
 
-* technical overview of the **WWW**
-* structuring content with **MarkDown** and **HTML**
-* organising projects with **Git**
-* styling pages with **CSS**
-* making pages dynamic with **PHP**
-* using **WordPress** to manage online content  
-* developing **WordPress templates and themes**
-* **hosting** a website
-* transferring files with **FTP**
-* **project management** basics: listing and prioritising tasks, tracking and evaluating progress, getting things done
-
-Using individual practical projects, you will research, conceptualise and prototype a Web site re-design. 
+* Technical overview of the **WWW**
+* Structuring content with **MarkDown** and **HTML**
+* Styling information and interfaces with **CSS**
+* Making pages dynamic with **PHP**
+* Using **WordPress** to manage online content  
+* Developing **WordPress templates and themes**
+* **Hosting** a website
+* Transferring files with **FTP**  
+* Organising projects with **Git**
+* **Project management** basics: listing and prioritising tasks, tracking and evaluating progress, getting things done
 
 
 # Plan
@@ -76,7 +72,7 @@ Your re-designed version must
 
 # Learning goals
 
-Upon completion of this unit you will (hopefully) be able to: 
+Upon completion of this course you will (hopefully) be able to: 
 
 * Understand conceptually how the **WWW** works (browsers, servers, HTTP, DNS, IP etc).
 
