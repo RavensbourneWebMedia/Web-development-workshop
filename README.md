@@ -98,8 +98,6 @@ Your re-designed version must
 
 # Learning goals
 
-Upon completion of this course you will (hopefully) be able to: 
-
 * Understand conceptually how the **WWW** works (browsers, servers, HTTP, DNS, IP etc).
 
 * Use **HTML** and MarkDown to structure Web content appropriately and accessibly.  
@@ -107,8 +105,6 @@ Upon completion of this course you will (hopefully) be able to:
 * Use **CSS** to style Web pages cohesively and coherently, being informed by contemporary trends. 
 
 * Upload your project files to a Web server using **FTP**.
-
-<!--* Be familiar with the process of buying a **domain name** and a **hosting** service.-->
 
 * Make Web pages dynamic using **PHP**.
 
