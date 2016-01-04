@@ -2,10 +2,10 @@
 
 This includes:
 
-* Technical overview of the **WWW**
+* Understanding the **WWW** technical components and how they work (browsers, servers, HTTP, DNS, IP etc)
 * Structuring content with **MarkDown** and **HTML**
 * Styling information and interfaces with **CSS**
-* Making pages dynamic with **PHP**
+* Serve content dynamically (on demand) with **PHP** and **JavaScript**
 * Using **WordPress** to manage online content  
 * Developing **WordPress templates and themes**
 * **Hosting** a website
@@ -98,7 +98,7 @@ Your re-designed version must
 
 # Learning goals
 
-* Understand conceptually how the **WWW** works (browsers, servers, HTTP, DNS, IP etc).
+* Understand how the **WWW** works (browsers, servers, HTTP, DNS, IP etc).
 
 * Use **HTML** and MarkDown to structure Web content appropriately and accessibly.  
 
