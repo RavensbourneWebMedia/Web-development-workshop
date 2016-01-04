@@ -16,8 +16,30 @@ This includes:
 
 # Plan
 
-When | Learn | Practice | Blog 
----- | ----- | -------- | ----
+When | In class | Homework | Blog 
+---- | -------- | -------- | ----
+Wednesday<br>06.01| TBA | TBA | TBA
+Wednesday<br>13.01| TBA | TBA | TBA
+Wednesday<br>20.01| TBA | TBA | TBA
+Wednesday<br>27.01| TBA | TBA | TBA
+Wednesday<br>03.02| TBA | TBA | TBA
+Week 6| | | 
+Wednesday<br>17.02| TBA | TBA | TBA 
+Wednesday<br>24.02| TBA | TBA | TBA
+Wednesday<br>02.03| TBA | TBA | TBA
+Wednesday<br>09.03| **Formative presentations** | TBA | 
+Easter break| | | 
+Friday<br>15.04| TBA | TBA | TBA
+Friday<br>22.04| TBA | TBA | TBA 
+Friday<br>29.04| TBA | TBA | TBA 
+Friday<br>06.05| TBA | TBA | TBA 
+Friday<br>13.05| TBA | TBA | TBA 
+Friday<br>20.05| TBA | TBA | TBA 
+Friday<br>27.05| TBA | TBA | TBA 
+Friday<br>03.06| TBA | TBA | TBA 
+Friday<br>10.06| **Summative presentations** |  **Summative hand-in** | 
+
+<!--
 [Monday<br>05.01](sessions/week-01.md) | Unit intro <br>[How does the WWW work?](sessions/week-01.md#how-does-it-wwwork)  | [Draw the Web!](sessions/week-01.md#draw-the-web) | [Learning goals](sessions/week-01.md#blog)
 [Monday<br>12.01](sessions/week-02.md) | [MarkDown](sessions/week-02.md#markup-vs-markdown) and [Git](sessions/week-02.md#github) | [*Bad* webdesign principles](sessions/week-02.md#research) | [Bad websites](sessions/week-02.md#blog)
 [Monday<br>19.01](sessions/week-03.md) | HTML | [Writing a recipe in HTML](sessions/week-03.md#html-in-the-kitchen) | [Action plan](sessions/week-03.md#blog)
@@ -37,15 +59,18 @@ When | Learn | Practice | Blog
 [Friday<br>05.06](sessions/week-17.md) | [*Tutorials*](week-17.md#tutorials) | [Prep your presentation](week-17.md#presentation-checklist) | [Learning outcomes](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-did-I-learn.md)
 [Friday<br>12.06](sessions/week-18.md) | **Summative presentation and hand-in** | Unit feedback form
 
-### Deadlines
+-->
 
-[Add these deadlines to your Calendar](https://www.google.com/calendar/ical/b745918aa5018sk6qrpnbeul5s%40group.calendar.google.com/public/basic.ics)!
+### Deadlines
 
 When | What
 ---- | ---- 
-23:59 Monday 09.03 | Formative 
-23:59 Friday 12.06 | Summative: [hand-in instructions](sessions/week-18.md#hand-in-checklist) 
+23:59 Wednesday 09.03 | Formative 
+23:59 Friday 10.06 | Summative
 
+<!-- : [hand-in instructions](sessions/week-18.md#hand-in-checklist) -->
+
+<!--
 #### FAQs
 
 1. What happens if I submit my work after a deadline? 
@@ -53,6 +78,7 @@ When | What
 	> Your grade will be **capped at D-** 
 
 Learn more about assessment regulations [here](https://intranet.rave.ac.uk/download/attachments/198639713/FINAL_RAVE_UAL_+BA_BSc+assessment+regulations_2014_15-notc2.pdf).
+-->
 
 
 # Brief
