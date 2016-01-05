@@ -1,0 +1,130 @@
+/* A BIT OF TYPOGRAPHY */
+
+body 
+{
+	font-family: 'Source Code Pro', Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	font-size: 1em;
+	line-height: 1.5;
+	color: #333333;
+}
+
+h1, h2, h3 
+{
+	font-weight: 700;
+	color: black;
+}
+
+b
+{
+	font-weight: 700;
+}
+
+p 
+{
+	margin: 2em 0 2em 0;
+}
+
+/* CENTRED CONTENT */
+
+.content 
+{
+	margin: 2em auto;
+	max-width: 40em;
+	padding: 0 1em;
+}
+
+/* LOGO */
+
+.logo 
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 320px;
+	height: 320px;
+	margin-left: -160px;
+	margin-top: -160px;
+}
+
+.logo img 
+{
+	width: 100%;
+}
+
+/* FULL-SIZE IMAGES */
+
+html, body 
+{
+	height: 100%;
+}
+
+.full 
+{
+	height: 100%;
+	background-color: yellow;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+}
+
+#one 
+{
+	background-image: url(../images/cards-promo.jpg);
+}
+
+#two 
+{
+	background-image: url(../images/arm.jpg);
+}
+
+#three 
+{
+	background-image: url(../images/hands.jpg);
+}
+
+#four 
+{
+	background-image: url(../images/grab.jpg);
+}
+
+#five 
+{
+	background-image: url(../images/suspense.jpg);
+}
+
+/* MAILCHIMP FORM */
+
+#mc_embed_signup 
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 30em;
+	height: 13em;
+	margin: -6.5em 0 0 -15em;
+
+	background: yellow;
+}
+
+input 
+{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+input[type="email"] 
+{
+	padding: .5em;
+}
+
+input[type="submit"]
+{
+	margin: 1em 0;
+	background-color: black;
+	color: yellow;
+	border-radius: .25em;
+	border: none;
+	padding: .5em;
+	/*font-size: 1.5em;*/
+}
