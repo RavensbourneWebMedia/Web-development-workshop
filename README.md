@@ -11,14 +11,15 @@ This includes:
 * **Hosting** a website
 * Transferring files with **FTP**  
 * Organising projects with **Git**
-* **Project management** basics: listing and prioritising tasks, tracking and evaluating progress, getting things done
+
+<!--* **Project management** basics: listing and prioritising tasks, tracking and evaluating progress, getting things done-->
 
 
 # Plan
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-Wednesday<br>06.01| TBA | TBA | TBA
+Wednesday<br>06.01| TBA | Video tutorials of your CSS tricks | Sharing is caring (2-3 ideas)
 Wednesday<br>13.01| TBA | TBA | TBA
 Wednesday<br>20.01| TBA | TBA | TBA
 Wednesday<br>27.01| TBA | TBA | TBA
@@ -39,61 +40,32 @@ Friday<br>27.05| TBA | TBA | TBA
 Friday<br>03.06| TBA | TBA | TBA 
 Friday<br>10.06| **Summative presentations** |  **Summative hand-in** | 
 
-<!--
-[Monday<br>05.01](sessions/week-01.md) | Unit intro <br>[How does the WWW work?](sessions/week-01.md#how-does-it-wwwork)  | [Draw the Web!](sessions/week-01.md#draw-the-web) | [Learning goals](sessions/week-01.md#blog)
-[Monday<br>12.01](sessions/week-02.md) | [MarkDown](sessions/week-02.md#markup-vs-markdown) and [Git](sessions/week-02.md#github) | [*Bad* webdesign principles](sessions/week-02.md#research) | [Bad websites](sessions/week-02.md#blog)
-[Monday<br>19.01](sessions/week-03.md) | HTML | [Writing a recipe in HTML](sessions/week-03.md#html-in-the-kitchen) | [Action plan](sessions/week-03.md#blog)
-[Monday<br>26.01](sessions/week-04.md) | CSS 101 | [Moodboard](sessions/week-04.md#homework)
-[Monday<br>02.02](sessions/week-05.md) | CSS position, float and grids | [Paper wireframes](sessions/week-05.md#sketch-out-your-ideas-on-paper) | [Your recipe evolution](sessions/week-05.md#blog)
-[Monday<br>16.02](sessions/week-06.md) | CSS responsive | [Digital wireframes](sessions/week-06.md#redraft-your-wireframes) | [The Internet's Own Boy](sessions/week-06.md#blog)
-[Monday<br>23.02](sessions/week-07.md) | CSS transitions and animations | [HTML+CSS wireframes](sessions/week-07.md#html--css-wireframes) | [Webdesign myths](sessions/week-07.md#blog)
-[Monday<br>02.03](sessions/week-08.md) | *Tutorials* | Prep your presentation
-[Monday<br>09.03](sessions/week-09.md) | **Formative Assessment** |  | [Action plan (revised)](sessions/week-09.md#blog)
-[Friday<br>17.04](sessions/week-10.md) | PoP (principles of programming)<br>Meet JavaScript (and  jQuery) | [jQuery challenge](sessions/week-10.md#challenge) | [Blog about the jQuery challenge](sessions/week-10.md#blog)
-[Friday<br>24.04](sessions/week-11.md) | Building blocks of programming<br>APIs | [HTML+CSS wireframes](sessions/week-11.md#homework)
-[Friday<br>01.05](sessions/week-12.md) | Google Maps API | Debugging challenge | [Blog about debugging](sessions/week-12.md#blog)
-[Friday<br>08.05](sessions/week-13.md) | Programming on the server <br>Meet PHP | [Install WordPress](sessions/week-13.md#homework)
-[Friday<br>15.05](sessions/week-14.md) | [Meet WordPress](sessions/week-14.md#meet-wordpress) <br>WP plugins | [WordPress templates](sessions/week-14.md#homework) 
-[Friday<br>22.05](sessions/week-15.md) | WordPress themes | Keep templating | [Destroy the Web](sessions/week-15.md#blog)
-[Friday<br>29.05](sessions/week-16.md) | [How to put a website on the actual Web](sessions/week-16.md#how-to-put-a-website-on-the-actual-web) | Deploy your site to `raveweb.net` |  
-[Friday<br>05.06](sessions/week-17.md) | [*Tutorials*](week-17.md#tutorials) | [Prep your presentation](week-17.md#presentation-checklist) | [Learning outcomes](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-did-I-learn.md)
-[Friday<br>12.06](sessions/week-18.md) | **Summative presentation and hand-in** | Unit feedback form
 
--->
+# Projects
 
-<!--### Deadlines
+## Spring term
 
-When | What
----- | ---- 
-23:59 Wednesday 09.03 | Formative 
-23:59 Friday 10.06 | Summative-->
+### Sharing is caring
 
-<!-- : [hand-in instructions](sessions/week-18.md#hand-in-checklist) -->
+This project is about using code (HTML, CSS and a dash of JavaScript) creatively to communicate and advocate a cause or issue you care about.
 
-<!--
-#### FAQs
+<!--All the project material is [here](projects/).-->
 
-1. What happens if I submit my work after a deadline? 
+### Content needs design
 
-	> Your grade will be **capped at D-** 
+On this **team project** you will learn how to design systems (*containers*) to store and display *content* that doesn't yet exist (or that someone else will produce).   
 
-Learn more about assessment regulations [here](https://intranet.rave.ac.uk/download/attachments/198639713/FINAL_RAVE_UAL_+BA_BSc+assessment+regulations_2014_15-notc2.pdf).
--->
+<!--All the project material is [here](projects/).-->
 
+## Summer term
 
-# Brief
+### Our space
 
-Pick one *bad* website and re-design it.
+On this **team project** you will design and build a website for our Ravensbourne Web Media course.
 
-Your re-designed version must 
+Starting from research (interviews with staff & students, competitor analysis) you will devise a content strategy and then build a technically sound, aesthetically cohesive and appropriately structured website.
 
-* be **online** (not just on your computer)
-* be **dynamic** (update-able via a CMS) 
-* be **responsive** (adapting to different screen sizes)
-* be **accessible** (for people with disabilities and limited devices)
-* be visually **cohesive** and coherent
-* have **appropriately structured** information
-* have a style informed by (but not necessarily following) contemporary trends
+<!--All the project material is [here](projects/).-->
 
 
 # Learning goals
