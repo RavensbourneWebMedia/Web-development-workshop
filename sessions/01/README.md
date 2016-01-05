@@ -216,7 +216,6 @@ Now the fun part: **CSS**.
 	Which one do we want? Obviously `fixed`.
 	
 	Add `background-attachment: fixed;` to `.full`
-
 * Good! The last bit is to give a bit of style to the Mailchimp **form**.
 
 	We are going to use the **negative margin trick** to centre the form.
@@ -239,8 +238,7 @@ Now the fun part: **CSS**.
 
 	It can be the direct parent. Or the parent of the parent. Or the parent of the parent of the parent. As long as it is not `static`.
 
-	At the moment, the `form` parent (or actually, grandparent if we consider `#mc_embed_signup`) is `.full`, which has the default `position: static` value. See that in the Developer Tools Inspector (Computed Style)
-	![](assets/static.png)
+	At the moment, the `form` parent (or actually, grandparent if we consider `#mc_embed_signup`) is `.full`, which has the default `position: static` value. 
 
 	So we'll go ahead and change that to `position: relative`. 
 	
@@ -255,6 +253,7 @@ Now the fun part: **CSS**.
 	}
 	```
 
+<!-- TODO gh-pages bit -->
 
 # Project
 
