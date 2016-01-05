@@ -19,16 +19,16 @@ This includes:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-Wednesday<br>06.01| TBA | Video tutorials of your CSS tricks | Sharing is caring (2-3 ideas)
-Wednesday<br>13.01| TBA | TBA | TBA
-Wednesday<br>20.01| TBA | TBA | TBA
-Wednesday<br>27.01| TBA | TBA | TBA
-Wednesday<br>03.02| TBA | TBA | TBA
+Wednesday<br>06.01| <ul><li>Welcome <li>Workshop: HTML, CSS & GitHub recap <li>Project: [**Sharing is caring**](#sharing-is-caring) | Video tutorials of your CSS trick | *Sharing is caring*
+Wednesday<br>13.01| <ul><li>Principles of programming <li>Workshop: scroll magic <li>Tutorials on *Sharing is caring* | Peer-learning research: How does the WWW work? | JavaScript for cats
+Wednesday<br>20.01| <ul><li>Peer-learning: How does the WWW work? <li>Workshop: CSS positions and floats <li>Tutorials on *Sharing is caring* | Work on *Sharing is caring* | *Sharing is caring*
+Wednesday<br>27.01| <ul><li>WWWTF quiz <li>Workshop: Responsive Web typography <li>Tutorials *on Sharing is caring* | Work on *Sharing is caring* | Web design myths
+Wednesday<br>03.02| <ul><li>**Formative presentations** <li>Workshop: Meet PHP <li>Team project: [**Content needs design**](#content-needs-design) | <ul><li>Install WP *locally* <li>Work on *Content needs design* | *Content needs design* 
 Week 6| | | 
-Wednesday<br>17.02| TBA | TBA | TBA 
-Wednesday<br>24.02| TBA | TBA | TBA
-Wednesday<br>02.03| TBA | TBA | TBA
-Wednesday<br>09.03| **Formative presentations** | TBA | 
+Wednesday<br>17.02| <ul><li>Meet WordPress (WP) <li>WP plugins <li>Workshop: data design with ACF | <ul><li>Install LearnPress <li>Work on *Content needs design* | *Content needs design*  
+Wednesday<br>24.02| <ul><li>Workshop: hacking WP templates <li>Tutorials on *Content needs design* | Work on *Content needs design* | *Content needs design* 
+Wednesday<br>02.03| <ul><li>Workshop: FTP and DB migration <li>Tutorials on *Content needs design* | Work on *Content needs design* | *Content needs design* 
+Wednesday<br>09.03| <ul><li>**Formative presentations** <li>Team project: [**Our space**](#our-space) | Competitor analysis | What have I learned?
 Easter break| | | 
 Friday<br>15.04| TBA | TBA | TBA
 Friday<br>22.04| TBA | TBA | TBA 
