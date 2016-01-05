@@ -260,12 +260,31 @@ Now the fun part: **CSS**.
 
 # Homework
 
-### Video tutorials of your CSS trick
+### CSS trick video tutorial 
 
+Make a screencast (video screen capture with audio narration) about the CSS trick you learned before Xmas.
 
+Start from blank HTML + CSS files and demonstrate all steps. 
+
+Post your video to **YouTube** and push the code for your tutorial to **GitHub**.
+
+##### Tricks 
+
+Who | Which trick
+--- | -----------
+Kaleshe<br>Malore<br>Tom | How to use `color` and `background-color` to enhance the behaviour of elements in different states: `hover`, `focus`, `active` and `visited`. 
+Will<br>Melissa<br>Joe | How to style elements to look and feel like *clickable things* (usually referred to as *buttons*), including but not limited to CSS properties like `border` and `border-radius`.
+Ikran<br>Shajee | How to use `position: fixed;` to make elements stick to the page (not scroll away). 
+Francisco<br>Akvile<br>Ajay | How to use `relative` and `absolute` `position`ing to control elements precisely (to the pixel).
+Dean<br>Rajeev<br>Jennifer | How to centre elements horizontally, including but not limited to CSS properties like `display` and `margin: auto`.
+Ben<br>Rosie<br> | How to use CSS `transition`s.
+Darren<br>Josh | How to use the CSS animation library  [Animate.css](https://daneden.github.io/animate.css).  
+Mark<br>Afsara | How to use vector icons from [Font Awesome](https://fortawesome.github.io/Font-Awesome). 
 
 ### Blog
 
-Sharing is caring: jot down 2-3 ideas.
+Jot down 2-3 ideas for *Sharing is caring*.
 
-Start researching your topic and write about how you could *angle* it.
+Start researching your topics and write about how you could *angle* them.
+
+Sketches and storyboards very welcome.
