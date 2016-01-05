@@ -3,7 +3,7 @@
 This includes:
 
 * Understanding the **WWW** technical components and how they work (browsers, servers, HTTP, DNS, IP etc)
-* Structuring content with **MarkDown** and **HTML**
+* Structuring content with **HTML**
 * Styling information and interfaces with **CSS**
 * Serve content dynamically (on demand) with **PHP** and **JavaScript**
 * Using **WordPress** to manage online content  
@@ -66,25 +66,19 @@ Starting from research (interviews with staff & students, competitor analysis) y
 
 # Learning goals
 
-* Understand how the **WWW** works (browsers, servers, HTTP, DNS, IP etc).
+By the end of this course, you will be able to:
 
-* Use **HTML** and MarkDown to structure Web content appropriately and accessibly.  
-
+1. Understand how the **WWW** works (browsers, servers, HTTP, DNS, IP etc).
+* Visualise your ideas and explore design solutions through paper and digital **wireframes**.
+* Use **HTML** to structure Web content appropriately and accessibly.  
 * Use **CSS** to style Web pages cohesively and coherently, being informed by contemporary trends. 
-
 * Upload your project files to a Web server using **FTP**.
-
 * Make Web pages dynamic using **PHP**.
-
 * Manage online content using **WordPress**.
-
 * Modify and maintain WordPress **templates and themes**.
-
 * **Document** your design and development process, from the exploration of ideas to their practical implementation. Including *successes* and *failures*.
-
 * **Communicate** your ideas both technically and in an engaging way.
-
-* **Back-up** your project files using the Git version-control system (through GitHub).
+* Use the Git version-control system (through GitHub) to **collaborate** with your team and **back-up** your project files.
 
 
 # Rules of the road
