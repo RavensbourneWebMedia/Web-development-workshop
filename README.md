@@ -43,8 +43,6 @@ Friday<br>10.06| **Summative presentations** |  **Summative hand-in** |
 
 # Projects
 
-## Spring term
-
 ### Sharing is caring
 
 This project is about using code (HTML, CSS and a dash of JavaScript) creatively to communicate and advocate a cause or issue you care about.
@@ -56,8 +54,6 @@ This project is about using code (HTML, CSS and a dash of JavaScript) creatively
 On this **team project** you will learn how to design systems (*containers*) to store and display *content* that doesn't yet exist (or that someone else will produce).   
 
 <!--All the project material is [here](projects/).-->
-
-## Summer term
 
 ### Our space
 
