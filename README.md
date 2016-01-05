@@ -19,7 +19,7 @@ This includes:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-Wednesday<br>06.01| <ul><li>Welcome <li>Workshop: HTML, CSS & GitHub recap <li>Project: [**Sharing is caring**](#sharing-is-caring) | Video tutorials of your CSS trick | *Sharing is caring*
+[Wednesday<br>06.01](sessions/01)| <ul><li>Welcome <li>Workshop: HTML, CSS & GitHub recap <li>Project: [**Sharing is caring**](#sharing-is-caring) | Video tutorials of your CSS trick | *Sharing is caring*
 Wednesday<br>13.01| <ul><li>Principles of programming <li>Workshop: scroll magic <li>Tutorials on *Sharing is caring* | Peer-learning research: How does the WWW work? | JavaScript for cats
 Wednesday<br>20.01| <ul><li>Peer-learning: How does the WWW work? <li>Workshop: CSS positions and floats <li>Tutorials on *Sharing is caring* | Work on *Sharing is caring* | *Sharing is caring*
 Wednesday<br>27.01| <ul><li>WWWTF quiz <li>Workshop: Responsive Web typography <li>Tutorials *on Sharing is caring* | Work on *Sharing is caring* | Web design myths
