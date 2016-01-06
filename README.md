@@ -45,9 +45,9 @@ Friday<br>10.06| **Summative presentations** |  **Summative hand-in** |
 
 ### Sharing is caring
 
-This project is about using code (HTML, CSS and a dash of JavaScript) creatively to communicate and advocate a cause or issue you care about.
+This project is about using code (HTML, CSS and a dash of JavaScript) creatively to communicate and advocate a cause you care about.
 
-<!--All the project material is [here](projects/).-->
+All the project material is [here](projects/sharing-is-caring).
 
 ### Content needs design
 

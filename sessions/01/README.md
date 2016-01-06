@@ -32,7 +32,6 @@
 	* complex ≠ complicated (which means it could be simplified, and has a negative connotation) 
 
 
-
 # Workshop
 
 We're going to refresh our working knowledge of HTML, CSS and GitHub, and learn a few new **CSS tricks** that can come useful for your [*Sharing is caring*](#project) brief.
@@ -257,6 +256,13 @@ Now the fun part: **CSS**.
 
 # Project
 
+### Sharing is caring
+
+This project is about using code (HTML, CSS and a dash of JavaScript) creatively to communicate and advocate a cause you care about.
+
+All the project material is [here](../../projects/sharing-is-caring).
+
+[![](../../projects/sharing-is-caring/assets/blood.png)](../../projects/sharing-is-caring)
 
 # Homework
 
@@ -283,8 +289,8 @@ Mark<br>Afsara | How to use vector icons from [Font Awesome](https://fortawesome
 
 ### Blog
 
-Jot down 2-3 ideas for *Sharing is caring*.
+Jot down 2-3 ideas for [*Sharing is caring*](#project).
 
-Start researching your topics and write about how you could *angle* them.
+Start researching your cause and write about how you could *angle* it.
 
 Sketches and storyboards very welcome.
