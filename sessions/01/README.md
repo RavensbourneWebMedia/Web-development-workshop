@@ -280,12 +280,13 @@ Who | Which trick
 --- | -----------
 Kaleshe<br>Malore<br>Tom | How to use `color` and `background-color` to enhance the behaviour of elements in different states: `hover`, `focus`, `active` and `visited`. 
 Will<br>Melissa<br>Joe | How to style elements to look and feel like *clickable things* (usually referred to as *buttons*), including but not limited to CSS properties like `border` and `border-radius`.
-Ikran<br>Shajee | How to use `position: fixed;` to make elements stick to the page (not scroll away). 
 Francisco<br>Akvile<br>Ajay | How to use `relative` and `absolute` `position`ing to control elements precisely (to the pixel).
 Dean<br>Rajeev<br>Jennifer | How to centre elements horizontally, including but not limited to CSS properties like `display` and `margin: auto`.
-Ben<br>Rosie<br> | How to use CSS `transition`s.
+Ben<br>Rosie<br>Shajee | How to use CSS `transition`s.
 Darren<br>Josh | How to use the CSS animation library  [Animate.css](https://daneden.github.io/animate.css).  
 Mark<br>Afsara | How to use vector icons from [Font Awesome](https://fortawesome.github.io/Font-Awesome). 
+
+<!-- Ikran<br>Shajee | How to use `position: fixed;` to make elements stick to the page (not scroll away). -->
 
 ### Blog
 
