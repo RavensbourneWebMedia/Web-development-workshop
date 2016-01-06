@@ -49,9 +49,12 @@ By no means the above is an exhaustive list of issues. You're welcome to choose 
 * [Tunnel rats](http://www.framescollection.com/tunnelrats.html) by Nathan Lampe et al
 * [Skip showers for beef](http://www.skipshowersforbeef.com/) by the Yes Men
 
+[![](http://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/rosecut.jpg)](http://visualisingadvocacy.org/)
+
 ### Resources
 
-* [Scrollmagic](http://scrollmagic.io)
+* [Visualising information for advocacy](http://visualisingadvocacy.org/) features tools and techniques that you can use to *make strong arguments and communicate them using strong evidence*.
+* [ScrollMagic](http://scrollmagic.io) is a JavaScript library for *magical scroll interactions*.
 * [Codrops tutorials](http://tympanus.net/codrops/category/tutorials/), eg: [Animated map path for interactive storytelling](http://tympanus.net/codrops/2015/12/16/animated-map-path-for-interactive-storytelling/)
 
 <!--
