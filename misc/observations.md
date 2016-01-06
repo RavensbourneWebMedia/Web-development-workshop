@@ -1,3 +1,14 @@
+# [Week 1](../sessions/01)
+
+Get "struggling people" close to the screen/facilitator, so they won't fall behind. Ask them to tell you if they are falling behind.
+
+Didn't get to finish the curtain-reveal workshop, missing:
+
+* position relative and absolute
+* form styling
+* gh-pages
+
+<!--
 # Session 1
 
 * Intro: would be good to base the conversation around the **assessment criteria**, and show concrete examples of students work with marks.
@@ -277,3 +288,4 @@ See [this essay](http://vcu.sagepub.com/content/13/3/314.full.pdf+html)
 
 ### Do cool stuff
 
+-->
