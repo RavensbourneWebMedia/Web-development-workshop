@@ -13,6 +13,13 @@ A cause is a *response to an issue* that affects or concerns many people. A caus
 * Use **CSS** (and possibly some JavaScript) to make your communication memorable. You may want to look for code libraries, tutorials or snippets to use in your project (see [resources](#resources) below).
 * **Publish** your sketches, written ideas, code experiments and the finished page to GitHub.
 
+#### Timeline
+
+* 6th of January: project start
+* January: weekly tutorials and project revisions
+* 3rd of February: formative presentations
+* 10th of June: final hand-in (together with other, bigger projects, so it's advised you get the bulk of this project done in January & February)
+
 [![Water, an interactive essay by Angela Morelli](assets/water.jpg)](http://www.angelamorelli.com/water/)
 
 ### Not sure which cause to pick?
