@@ -36,18 +36,48 @@ Here's [all the code for the finished thing](../../resources/css-curtain).
 
 [![](assets/sign-up-form.png)](../../resources/css-curtain)
 
-- [ ] demo how the signup form is centred 
-- [ ] check out the peer-learning video to explain position relative/absolute  
-- [ ]  flexbox? http://flexboxfroggy.com/
+This week we'll:
 
-This week we'll learn how to:
+- [ ] Demo how the signup form is centred 
+- [ ] Check out the peer-learning video to explain `position: relative` and `position: absolute` (also see [demos below](#position))  
+- [ ] Introduce `flexbox`, a new powerful **layout system for CSS**, which makes possible (and almost easy) some of the things that so far were hacky and complicated 
 
-* Use Git to publish your page on [GitHub Pages](https://pages.github.com), the free hosting service from GitHub.
+	* [Quick intro on LearnLayout](http://learnlayout.com/flexbox.html)
+	* [Guide on CSS tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
+	* [FlexboxFroggy](http://flexboxfroggy.com), a game to learn `flexbox`
+
+- [ ] Use Git to publish your page on [GitHub Pages](https://pages.github.com), the free hosting service from GitHub.
 
 ### Publishing on GitHub pages
 
-- [ ] use instructions from Dynamic Web
-- [ ] check out tutorial from Doug?
+<!-- Follow [the instructions](https://pages.github.com/) for `Project site` > `Start from scratch` -->
+
+1. Create a **new repository**.   
+  
+	Make sure you `Initialize this repository with a README`
+* In the new repository's main page, create a **new branch** and call it `gh-pages` (call it exactly like that: no uppercase and no spaces).	
+	![](https://pages.github.com/images/create-branch@2x.png)
+* Optional: make `gh-pages` the **default branch**.
+
+	![](https://pages.github.com/images/default-branch@2x.png)
+* Use [SourceTree](https://www.sourcetreeapp.com/) to **clone your repository** to your computer.  
+  
+	*Cloning* means downloading a working copy of the repository on your computer. You'll then be able to make changes to the repository and pushing those changes to GitHub.
+  
+  	On a Mac: <kbd>cmd</kbd> + <kbd>n</kbd>
+  
+  	On a PC: <kbd>ctrl</kbd> + <kbd>n</kbd>
+  
+	`Clone from URL` and paste in your repository's URL (eg: `https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY-NAME`) 	
+* **Move all the files** for your page (HTML, CSS, images... everything that makes up your page) into the repository's folder.
+* Using SourceTree, **commit and push** all those files.
+
+	Notice that as soon as you commit, a red `1` appears on top of the `Push` button. In order to upload those files to GitHub you need to *push* all your commits (push that button).
+* After you pushed to the `gh-pages` branch your page will be automatically updated by GitHub.   
+  
+	To **view your page**, go to `https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME` (notice it's github.**io** instead of .com).
+	
+	That's it, now your page is published, you can celebrate (and share the link on Slack)! :tada: 
 
 ### Making sense of CSS `position` and `float`
 
