@@ -2,13 +2,24 @@
 
 ### Today, Wednesday 13th January 2016
 
-1. Workshop: [HTML, CSS & GitHub recap](#workshop) 
+1. Video tutorials peer-review
+* Workshop: [HTML, CSS & GitHub recap](#workshop) 
 * Tutorials on [*Sharing is caring*](#project)
-* BONUS: Principles of programming
 
-<!--Workshop: scroll magic (NEXT WEEK)-->
+<!--
+
+* BONUS: Principles of programming
+* Workshop: scroll magic (NEXT WEEK) 
+ 
+-->
 
 ### Your [homework](#homework) and [blog](#blog)!
+
+
+# Peer-review
+
+1. Add your video's links to the Google doc (link on Slack).
+* Let's chat about how you made it and what you learned.  
 
 
 # Workshop
