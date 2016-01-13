@@ -3,7 +3,7 @@
 ### Today, Wednesday 6th January 2016
 
 1. [Welcome](#welcome) :)
-* Workshop: [HTML, CSS & GitHub recap](#workshop) 
+* Workshop: [HTML & CSS recap](#workshop) 
 * Project: [**Sharing is caring**](#project)
 
 ### Your [homework](#homework) and [blog](#blog)!
@@ -252,7 +252,6 @@ Now the fun part: **CSS**.
 	}
 	```
 
-<!-- TODO gh-pages bit -->
 
 # Project
 
