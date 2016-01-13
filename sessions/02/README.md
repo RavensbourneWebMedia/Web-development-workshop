@@ -167,20 +167,31 @@ Let's review your ideas and sketches in small groups.
 
 # Homework
 
-### Peer-learning research 
+### Peer-learning research: *how does it WWWork*? 
 
-How does the WWW work?
+We can think of the WWW as a **Web of interlinked knowledge** in constant evolution.
+
+To put this concept into practice, let's pretend that each one of us is a `node` in a `network` of knowledge. Each node will hold information about a certain concept related to the WWW. 
+
+In teams, **research one key Web concept** to explain to your classmates next week. 
+
+Keep in mind: next week we'll do this **without screen-based slides**, so don't prepare a presentation but rather be ready to discuss your topic with everyone else!
 
 Who | What
 --- | -----------
+Tom<br>Will | Tim Berners-Lee 
+Joe<br>Kaleshe | HyperText
+Akvile<br>Ben<br>Josh | HTTP
+Melissa<br>Dean | DNS
+Rosie<br>Shajee | IP address
+Francisco<br>Afsara | Browser
+Mark<br>Malore | Server
+Darren<br>Rajeev | Internet submarine cables  
+Jennifer<br>Ajay | Net neutrality
 
-<!--Kaleshe<br>Malore<br>Tom | How to use `color` and `background-color` to enhance the behaviour of elements in different states: `hover`, `focus`, `active` and `visited`. 
-Will<br>Melissa<br>Joe | How to style elements to look and feel like *clickable things* (usually referred to as *buttons*), including but not limited to CSS properties like `border` and `border-radius`.
-Francisco<br>Akvile<br>Ajay | How to use `relative` and `absolute` `position`ing to control elements precisely (to the pixel).
-Dean<br>Rajeev<br>Jennifer | How to centre elements horizontally, including but not limited to CSS properties like `display` and `margin: auto`.
-Ben<br>Rosie<br>Shajee | How to use CSS `transition`s.
-Darren<br>Josh | How to use the CSS animation library  [Animate.css](https://daneden.github.io/animate.css).  
-Mark<br>Afsara | How to use vector icons from [Font Awesome](https://fortawesome.github.io/Font-Awesome). -->
+Put your team's **research notes** in a Google document (next week you'll have to blog about it).
+ 	
+In your research notes, make sure you **reference your sources** of information. That is, don't just copy-paste from Wikipedia. Instead, include a link to the Wikipedia article where your text comes from.
 
 ### Blog 
 
