@@ -41,7 +41,7 @@ Specifically, we'll learn how to:
 * Get images to fill up the whole browser's window, without loosing their original aspect ratio (`background-size: cover`)
 * Position elements in the horizontal and vertical centre of the page (using the `position: absolute, top: 50%, left: 50% and negative margin` trick)
 * Create *curtain reveal* effect with CSS only (`background-attachment: fixed`)
-* Use Git to publish your page on [GitHub Pages](https://pages.github.com) (a free hosting service by GitHub)
+* Use Git to publish your page on [GitHub Pages](https://pages.github.com), the free hosting service from GitHub
 
 Here's [all the code for the finished thing](../../resources/css-curtain).
 
