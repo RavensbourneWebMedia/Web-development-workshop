@@ -54,6 +54,7 @@ By no means the above is an exhaustive list of issues. You're welcome to choose 
 ### Resources
 
 * [Visualising information for advocacy](http://visualisingadvocacy.org/) features tools and techniques that you can use to *make strong arguments and communicate them using strong evidence*.
+* [Information is beautiful](http://www.informationisbeautiful.net/) investigates how designed information can help us understand the world, cut through BS and reveal the hidden connections, patterns and stories underneath. 
 * [ScrollMagic](http://scrollmagic.io) is a JavaScript library for *magical scroll interactions*.
 * [Codrops tutorials](http://tympanus.net/codrops/category/tutorials/), eg: [Animated map path for interactive storytelling](http://tympanus.net/codrops/2015/12/16/animated-map-path-for-interactive-storytelling/)
 
