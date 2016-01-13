@@ -156,6 +156,13 @@ Learn more about `float` on [CSS Tricks](http://css-tricks.com/almanac/propertie
 
 # Project
 
+### Sharing is caring
+
+This project is about using code (HTML, CSS and a dash of JavaScript) creatively to communicate and advocate a cause you care about.
+
+All the project material is [here](../../projects/sharing-is-caring).
+
+Let's review your ideas and sketches in small groups. 
 
 
 # Homework
