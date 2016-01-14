@@ -45,6 +45,8 @@ This week we'll:
 	* [Quick intro on LearnLayout](http://learnlayout.com/flexbox.html)
 	* [Guide on CSS tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
 	* [FlexboxFroggy](http://flexboxfroggy.com), a game to learn `flexbox`
+	
+		[![](assets/flexbox-froggy.png)](http://flexboxfroggy.com)
 
 - [ ] Use Git to publish your page on [GitHub Pages](https://pages.github.com), the free hosting service from GitHub.
 
