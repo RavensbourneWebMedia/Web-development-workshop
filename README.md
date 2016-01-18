@@ -26,9 +26,9 @@ Wednesday<br>27.01| <ul><li>WWWTF quiz <li>Workshop: Responsive Web typography <
 Wednesday<br>03.02| <ul><li>**Formative presentations** <li>Workshop: Meet PHP <li>Team project: [**Content needs design**](#content-needs-design) | <ul><li>Install WP *locally* <li>Work on *Content needs design* | *Content needs design* 
 Week 6| | | 
 Wednesday<br>17.02| <ul><li>Meet WordPress (WP) <li>WP plugins <li>Workshop: data design with ACF | <ul><li>Install LearnPress <li>Work on *Content needs design* | *Content needs design*  
-Wednesday<br>24.02| <ul><li>Workshop: hacking WP templates <li>Tutorials on *Content needs design* | Work on *Content needs design* | *Content needs design* 
-Wednesday<br>02.03| <ul><li>Workshop: FTP and DB migration <li>Tutorials on *Content needs design* | Work on *Content needs design* | *Content needs design* 
-Wednesday<br>09.03| <ul><li>**Formative presentations** <li>Team project: [**Our space**](#our-space) | Competitor analysis | What have I learned?
+Friday<br>26.02| <ul><li>Workshop: hacking WP templates <li>Tutorials on *Content needs design* | Work on *Content needs design* | *Content needs design* 
+Friday<br>04.03| <ul><li>Workshop: FTP and DB migration <li>Tutorials on *Content needs design* | Work on *Content needs design* | *Content needs design* 
+Friday<br>11.03| <ul><li>**Formative presentations** <li>Team project: [**Our space**](#our-space) | Competitor analysis | What have I learned?
 Easter break| | | 
 Friday<br>15.04| TBA | TBA | TBA
 Friday<br>22.04| TBA | TBA | TBA 
