@@ -54,13 +54,13 @@ https://daneden.github.io/animate.css/
 
 We're going to use [Animate.css](https://daneden.github.io/animate.css/) and [ScrollMagic](http://scrollmagic.io) to add some *magical scroll interactions* to our [previous demo](../01#workshop).
 
-- [ ] Animated gif
+[![](assets/pinned-drone.gif)](../../resources/scroll-magic)
 
 Here's [all the code for the finished thing](../../resources/scroll-magic).
 
 ### Step by step
 
-1. [ ] [Download the zip]() containing all the files.
+1. [Download the zip](../../resources/week-3-package.zip) containing all the files.
 * Open `index.html`.   
   
 	Notice in the `head` we're loading a bunch of CSS files (eg: `<link href="css/style.css" rel="stylesheet">`) and JS files (eg: `<script src="js/lib/jquery.min.js"></script>`).  
@@ -68,7 +68,6 @@ Here's [all the code for the finished thing](../../resources/scroll-magic).
 	* **CSS** gives us the style.
 	
 	* **JS** gives us the fancy logic (eg: `when this scrolls past that, flip it`).  
-
 * Open `css/style.css` and find the following code:  
 	
 	```css
