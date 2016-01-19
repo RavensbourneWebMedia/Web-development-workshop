@@ -9,7 +9,6 @@
 		<link href="css/animate.css" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,300,700,900" rel="stylesheet" type="text/css">
 		<link href="css/style.css" rel="stylesheet">
-		<link href="css/scrollmagic.css" rel="stylesheet">
 
 		<script src="js/lib/jquery.min.js"></script>
 		<script src="js/lib/highlight.pack.js"></script>
@@ -22,7 +21,7 @@
 	<body>
 
 		<section id="one" class="full flex-h-centred flex-v-bottom">
-			<h1 class="animated pulse infinite">Beesness</h1>
+			<h1 class="animated buzz infinite">Beesness</h1>
 		</section>
 
 		<section class="content">
@@ -35,12 +34,10 @@
 		</section>
 		
 		<div id="triggerDrone1" class="trigger"></div>
-		<section id="two" class="full">
-			<div class="spacer one-of-three"></div>
-			<div class="drone one-of-three" id="drone1">
+		<section id="two" class="full flex-h-centred flex-v-centred">
+			<div id="drone1" class="drone">
 				<img src="images/drone.png" alt="Describe this image!">
 			</div>
-			<div class="spacer one-of-three"></div>
 		</section>
 
 		<section id="three" class="full">
@@ -101,8 +98,8 @@
 				sceneOptions.triggerHook = 0 // from 0 (top) to 1 (bottom), default to center (0.5)
 
 				var scene = new ScrollMagic.Scene(sceneOptions)
-				scene.setPin('#drone1' {pushFollowers: false })
-				// scene.addIndicators({name: 'drone1'}) // add indicators 
+				scene.setPin('#drone1')
+				scene.addIndicators({name: 'drone1'}) // add indicators 
 				scene.addTo(controller)
 			})
 

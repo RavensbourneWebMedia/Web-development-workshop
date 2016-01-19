@@ -1,127 +1,181 @@
 /* A BIT OF TYPOGRAPHY */
 
-body 
-{
-	font-family: 'Source Code Pro', Helvetica, Arial, sans-serif;
-	font-weight: 300;
-	font-size: 1em;
-	line-height: 1.5;
-	color: #333333;
-}
+	body 
+	{
+		font-family: 'Source Code Pro', Helvetica, Arial, sans-serif;
+		font-weight: 300;
+		font-size: 1em;
+		line-height: 1.5;
+		color: #333333;
+	}
 
-h1, h2, h3 
-{
-	font-weight: 700;
-	color: black;
-}
+	h1, h2, h3 
+	{
+		font-weight: 700;
+		color: black;
+	}
 
-b
-{
-	font-weight: 700;
-}
+	b
+	{
+		font-weight: 700;
+	}
 
-p 
-{
-	margin: 2em 0 2em 0;
-}
+	p 
+	{
+		margin: 2em 0 2em 0;
+	}
 
 /* CENTRED CONTENT */
 
-.content 
-{
-	margin: 2em auto;
-	max-width: 40em;
-	padding: 0 1em;
-}
+	.content 
+	{
+		margin: 2em auto;
+		max-width: 40em;
+		padding: 0 1em;
+	}
 
 /* FLEXBOX! */
 
-.flex-h-centred
-{
-	display: flex;
-	justify-content: center; 
-}
+	.flex-h-centred
+	{
+		display: flex;
+		justify-content: center; 
+	}
 
-.flex-v-centred
-{
-	display: flex;
-	align-items: center;
-}
+	.flex-v-centred
+	{
+		display: flex;
+		align-items: center;
+	}
 
-.flex-v-bottom
-{
-	display: flex;
-	align-items: flex-end;
-}
+	.flex-v-bottom
+	{
+		display: flex;
+		align-items: flex-end;
+	}
 
 /* FULL-SIZE IMAGES */
 
-html, body 
-{
-	height: 100%;
-}
+	html, body 
+	{
+		height: 100%;
+	}
 
-.full 
-{
-	height: 100%;
-	background-color: yellow;
-	background-size: cover;
-	background-attachment: fixed;
-	/*position: relative;*/
-}
+	.full 
+	{
+		height: 100%;
+		background-color: yellow;
+		background-size: cover;
+		background-attachment: fixed;
+		/*position: relative;*/
+	}
 
-#one 
-{
-	background-image: url(../images/cards-promo.jpg);
-}
+	#one 
+	{
+		background-image: url(../images/cards-promo.jpg);
+	}
 
-#two 
-{
-	background-image: url(../images/arm.jpg);
-}
+	#two 
+	{
+		background-image: url(../images/arm.jpg);
+	}
 
-#three 
-{
-	background-image: url(../images/hands.jpg);
-}
+	#three 
+	{
+		background-image: url(../images/hands.jpg);
+	}
 
-#four 
-{
-	background-image: url(../images/grab.jpg);
-}
+	#four 
+	{
+		background-image: url(../images/grab.jpg);
+	}
 
-#five 
-{
-	background-image: url(../images/suspense.jpg);
-}
+	#five 
+	{
+		background-image: url(../images/suspense.jpg);
+	}
 
 /* MAILCHIMP FORM */
 
-#mc_embed_signup 
-{	
-	width: 30em;
-	height: 13em;
-	background: yellow;
+	#mc_embed_signup 
+	{	
+		width: 30em;
+		height: 13em;
+		background: yellow;
+	}
+
+	input 
+	{
+		box-sizing: border-box;
+		width: 100%;
+	}
+
+	input[type="email"] 
+	{
+		padding: .5em;
+	}
+
+	input[type="submit"]
+	{
+		margin: 1em 0;
+		background-color: black;
+		color: yellow;
+		border-radius: .25em;
+		border: none;
+		padding: .5em;
+		/*font-size: 1.5em;*/
+	}
+
+/* BEES */
+
+	.drone 
+	{
+		width: 320px;
+		height: 320px;
+	}
+
+	.drone img 
+	{
+		width: 100%;
+	}
+
+/* SPACERS */
+
+	.spacer 
+	{
+		display: block;
+	}
+
+	.one-of-three
+	{
+		height: 33.333333%;
+	}
+
+	.one-of-two
+	{
+		height: 50%;
+	}
+
+/* ANIMATIONS */
+
+@keyframes buzz {
+	from, to {
+		-webkit-transform: translate3d(0, 0, 0);
+		transform: translate3d(0, 0, 0);
+	}
+
+	5%, 25%, 45%, 65%, 85% {
+		-webkit-transform: translate3d(-2px, 0, 0);
+		transform: translate3d(-2px, 0, 0);
+	}
+
+	15%, 35%, 55%, 75%, 95% {
+		-webkit-transform: translate3d(2px, 0, 0);
+		transform: translate3d(2px, 0, 0);
+	}
 }
 
-input 
-{
-	box-sizing: border-box;
-	width: 100%;
-}
-
-input[type="email"] 
-{
-	padding: .5em;
-}
-
-input[type="submit"]
-{
-	margin: 1em 0;
-	background-color: black;
-	color: yellow;
-	border-radius: .25em;
-	border: none;
-	padding: .5em;
-	/*font-size: 1.5em;*/
+.buzz {
+	-webkit-animation-name: buzz;
+	animation-name: buzz;
 }
