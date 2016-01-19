@@ -98,7 +98,7 @@
 				sceneOptions.triggerHook = 0 // from 0 (top) to 1 (bottom), default to center (0.5)
 
 				var scene = new ScrollMagic.Scene(sceneOptions)
-				scene.setPin('#drone1')
+				scene.setPin('#drone1', {pushFollowers: false })
 				scene.addIndicators({name: 'drone1'}) // add indicators 
 				scene.addTo(controller)
 			})
