@@ -1,0 +1,30 @@
+/* BEES */
+
+.drone 
+{
+	width: 320px;
+	height: 320px;
+	margin: auto;
+}
+
+.drone img 
+{
+	width: 100%;
+}
+
+/* SPACERS */
+
+.spacer 
+{
+	display: block;
+}
+
+.one-of-three
+{
+	height: 33.333333%;
+}
+
+.one-of-two
+{
+	height: 50%;
+}
