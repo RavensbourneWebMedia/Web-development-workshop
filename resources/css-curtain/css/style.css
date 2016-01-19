@@ -38,11 +38,13 @@ p
 
 .logo 
 {
+	width: 320px;
+	height: 320px;
+	
+	/* the negative margin trick */
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	width: 320px;
-	height: 320px;
 	margin-left: -160px;
 	margin-top: -160px;
 }
