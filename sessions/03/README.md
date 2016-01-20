@@ -228,3 +228,15 @@ In small groups, review your concepts and storyboards:
 	Make it short and sharp.
 
 ### Blog 
+
+Make a **drawing** to illustrate *how the Web works*, based on what you learned in today's [peer-learning](#peer-learning) discussion.
+
+* If you weren't in class, gather your classmates' research notes (they should all be on Google docs).
+
+* It can be anything from a technical diagram to a visual analogy (ie, *the Web looks like XYZ*). The more creative the better :art:
+
+* There is no such thing as a *bad drawing*.
+ 
+* You can use any medium and format. 
+
+Make sure you **take pictures** or **scan** your piece and post them to your blog.
