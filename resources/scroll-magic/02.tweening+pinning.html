@@ -19,6 +19,7 @@
 		
 		<!-- LOAD PLUGINS FOR SCROLL MAGIC -->
 		<script src="scrollmagic/uncompressed/plugins/debug.addIndicators.js"></script>
+		<script src="scrollmagic/uncompressed/plugins/animation.gsap.js"></script>
 	
 	</head>
 
@@ -113,6 +114,15 @@
 				pinOptions.pushFollowers = false
 				// ..and activate the pin
 				scene.setPin('#drone1', pinOptions)
+				
+				// use a Tween, see https://greensock.com/tweenmax
+				var tweenOptions = {}
+				tweenOptions.scale = 0.2 // 1 is the normal size
+				tweenOptions.rotation = -360
+				tweenOptions.x = '-200%'
+				tweenOptions.opacity = 0 // 0 = transparent, 1 = opaque
+				// ..and activate the tween
+				scene.setTween('#drone1', tweenOptions)
 			})
 
 		</script>

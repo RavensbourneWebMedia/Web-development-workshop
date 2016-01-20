@@ -127,9 +127,8 @@ Here's [all the code for the finished thing](../../resources/scroll-magic).
 	// start a new ScrollMagic controller
 	var controller = new ScrollMagic.Controller()
 
-	/* Let's pin the drone */
-	// 1. We define how we want to pin it..
-	// ...in the variable sceneOptions
+	/* Let's set the scene */
+	// 1. We define how in the variable sceneOptions
 	var sceneOptions = {}
 	
 	// '#triggerDrone1' will select the element with id="triggerDrone1"
@@ -138,29 +137,48 @@ Here's [all the code for the finished thing](../../resources/scroll-magic).
 	sceneOptions.duration = '100%' // will keep the element pinned for X% of the browser's height
 	// sceneOptions.duration = 0 // 0 will keep the element pinned indefinitely	
 	// sceneOptions.duration = 782 // will keep the element pinned for X pixels
-
-	// sceneOptions.offset = -782/2 // moves the element up (negative number) or down (positive). Pixels only, no percentages
 	
 	sceneOptions.triggerHook = 0 // from 0 (top) to 1 (bottom), default to center (0.5)
 	
 	// 2. We create a new "scene" with those options
 	var scene = new ScrollMagic.Scene(sceneOptions)
 	
-	// 3. We set the pin for the scene
-	// '#drone1' will select the element with id="drone1"
-	// pushFollowers: if true, ScrollMagic will create a gap equal to sceneOptions.duration after the pinned element 
-	scene.setPin('#drone1', {pushFollowers: false })
-	
-	// 4. We add indicators so that we know when the scroll magic starts and ends 
+	// 3. We add indicators so that we know when the scroll magic starts and ends 
 	scene.addIndicators({name: 'drone1'})
 	
-	// 5. We add this scene to the main controller
+	// 4. We add this scene to the main controller
 	scene.addTo(controller)
+	
+	// 5. Let's pin the drone (make it stick whilst the rest of the page scroll)
+	var pinOptions = {}
+	pinOptions.pushFollowers = false // pushFollowers: if true, ScrollMagic will create a gap equal to sceneOptions.duration after the pinned element 
+	// ..and activate the pin
+	scene.setPin('#drone1', pinOptions)
 	```	
 	
 	A pin of a scene that has a duration will be pinned for the respective amount of scrolled pixels and then released.
 
 	If no duration is defined, the pinned element will never be released unless scrolling back past the trigger position.  
+* We can use ScrollMagic to create more complex animation.
+	
+	In `head` we need to add a couple more scripts:
+	
+	```html
+	<script src="js/lib/greensock/TweenMax.min.js"></script>
+	<script src="scrollmagic/uncompressed/plugins/animation.gsap.js"></script>
+	```
+	
+	Then add this code inside after the pinning code
+	
+	```js
+	// 6. Let's use a Tween to define more complex animations
+	var tweenOptions = {}
+	tweenOptions.scale = 0.2 // 1 is the normal size
+	tweenOptions.rotation = -360 // a full rotation
+	tweenOptions.x = '-200%'
+	tweenOptions.opacity = 0 // 0 = transparent, 1 = opaque
+	scene.setTween('#drone1', tweenOptions)
+	```			 
 * Let's animate the `h1`. 
 	
 	We can use [Animate.css](https://daneden.github.io/animate.css/) for that. 
