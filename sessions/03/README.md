@@ -213,9 +213,18 @@ In small groups, review your concepts and storyboards:
 1. What is your ***call to action***?
 * What **story** does your page tell?  
 * How can you **visualise information** make a stronger argument? Refer to [Visualising information for advocacy](http://visualisingadvocacy.org/).
-* How can you **translate your idea into code**? Re-using code from our workshops and/or code you found online (for instance on [Codrops](http://tympanus.net/codrops/category/tutorials/) or [CodePen](http://codepen.io/)).  
+* How can you **translate your ideas into code**? Re-using code from our workshops and/or code you found online (for instance on [Codrops](http://tympanus.net/codrops/category/tutorials/) or [CodePen](http://codepen.io/)).  
 
 
 # Homework
+
+### Sharing is caring
+
+1. Start translating your **storyboard into code**.  
+  
+	Re-use code from our workshops and/or code you found online (for instance on [Codrops](http://tympanus.net/codrops/category/tutorials/) or [CodePen](http://codepen.io/)).
+* Work on your page **copy** (the written stuff that people read).   
+  
+	Make it short and sharp.
 
 ### Blog 
