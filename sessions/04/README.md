@@ -231,6 +231,9 @@ In a nutshell:
 
 Translate your wireframes into HTML & CSS 
 
-Bonus: sdd JS when you're done with the previous two.
+Bonus: add JS when you're done with the previous two.
 
+### Blog
+
+Read a section from Infoadvocacy and write about how you can you use that technique(s) in your project.
 
