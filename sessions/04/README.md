@@ -2,6 +2,7 @@
 
 - [ ] Print wireframing templates
 - [ ] which section from Infoadvocacy?
+- [ ] post-its 
 
 -->
 
@@ -166,5 +167,63 @@ Wireframe your one-pager idea for [Sharing is caring](../../projects/sharing-is-
 * This is to help **visualise** your ideas and **get feedback** from others. 
 
 * The quality of your drawings and handwriting doesn't matter. No need to use rulers either. *There is no such thing as a bad drawing*. 
+
+
+# Critique
+
+1. Hang your drafts on the wall
+* Grab a pen and some post-its 
+* Let's *critique* each other's drafts
+
+![](assets/wireframes-critique.jpg)
+
+### Critiquette
+
+All comments must be `KASH`:
+
+* **Kind** 
+	
+	Focus on the work. No sarcasm or personal comments. 
+	
+	Your comments can be challenging but the creator of the work should feel that your feedback is work-oriented and happy to receive it.
+	
+* **Actionable**	
+	
+	Your comments should include **suggestions** or **instructions**, which the creator of the work can simply take away and use.
+	
+* **Specific** 
+
+	Don't just state `It's (not) good` or `I (don't) like it`. Explain why.
+	
+	Comment on specific aspects or details of the work, eg: `Navigation labels are unconventional but I wonder if most people would get what they stand for..`
+	
+* **Helpful** 
+
+	If it doesn't benefit the work, its creator or the class, don't share it.
+
+In a nutshell:
+ 
+> Be hard on content and soft on people!
+
+<!-- From http://reflectionsofmyteaching.blogspot.co.uk/2013/04/creating-culture-of-critique.html?m=1-->
+
+### Banned words
+
+![](assets/thumbs-down.png)
+
+* *Like it* / *Don't like it*
+* Clean
+* Dynamic
+* Empty
+* Minimal(istic)
+* Modern
+* Poor
+* Professional
+* Simpl(istic)
+* Static
+* XYZ font
+* XYZ colour / background
+ 
+
 
 
