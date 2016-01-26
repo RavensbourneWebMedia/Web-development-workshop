@@ -121,3 +121,50 @@ Your [homework](#homework) and [blog](#blog)!
 	- [ ] false 
 
 	 
+# Workshop
+
+### Wireframes
+
+#### Is *this* a wireframe?
+
+![](assets/wireframe-bullshit.jpg)
+
+#### Is *this* a wireframe?
+
+![](assets/not-a-wireframe-example.jpg)
+
+#### Is *this* a wireframe?
+
+![](assets/wireframe-example.png)
+
+![](assets/wireframe-example2.png)
+
+Just like a map is an abstraction of a place that helps us describe its location and geography, **wireframes are abstractions** of the **structure** of an interactive system and the **relationships** between its components.
+
+#### Wireframes are about **communicating your ideas**.
+
+####  They are about **content**, **context** and **interaction**. 
+
+* Use **real content**, not *lorem ipsum*. 
+	
+* **Words** are key. [Interface design is copywriting](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php)
+	
+* Think about **button labels**, how do you label user actions: is it `Share` or `Post` or `Publish` or `Say it!` or `Broadcast` for instance?  
+
+#### They're **NOT about style**. 
+
+When wireframing, don't worry about *colours*, *graphics* and *typography*.
+
+### Your turn
+
+Wireframe your one-pager idea for [Sharing is caring](../../projects/sharing-is-caring) using these paper templates from [InterfaceSketch](http://www.interfacesketch.com).
+
+![](http://www.interfacesketch.com/previews/web-browser-template.png)
+
+* The goal is to get your idea down on paper, but not get too caught up in the details. 
+
+* This is to help **visualise** your ideas and **get feedback** from others. 
+
+* The quality of your drawings and handwriting doesn't matter. No need to use rulers either. *There is no such thing as a bad drawing*. 
+
+
