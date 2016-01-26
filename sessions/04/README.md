@@ -225,5 +225,12 @@ In a nutshell:
 * XYZ colour / background
  
 
+# Homework
+
+### Wireframes 
+
+Translate your wireframes into HTML & CSS 
+
+Bonus: sdd JS when you're done with the previous two.
 
 
