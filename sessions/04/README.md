@@ -126,6 +126,8 @@ Your [homework](#homework) and [blog](#blog)!
 
 ### Wireframes
 
+Before they write any code, Web designers and developers **visualise** their ideas through *wireframes*.
+
 #### Is *this* a wireframe?
 
 ![](assets/wireframe-bullshit.jpg)
@@ -136,23 +138,35 @@ Your [homework](#homework) and [blog](#blog)!
 
 #### Is *this* a wireframe?
 
+![](assets/wireframe-example2.png)
+
 ![](assets/wireframe-example.png)
 
-![](assets/wireframe-example2.png)
+#### Is *this* a wireframe?
+
+![](assets/wireframes-paper.jpg)
+
+#### Wireframes are like maps
 
 Just like a map is an abstraction of a place that helps us describe its location and geography, **wireframes are abstractions** of the **structure** of an interactive system and the **relationships** between its components.
 
-#### Wireframes are about **communicating your ideas**.
+#### Wireframes are tools to **communicate your ideas**.
 
-####  They are about **content**, **context** and **interaction**. 
+Depending on what stage your idea is at, your wireframes will be more or less detailed.
 
-* Use **real content**, not *lorem ipsum*. 
+In any case, wireframes shouldn't look *finished*.
+
+Paper wireframes get **more feedback** that digital ones, because people are less afraid to touch them, move them around, scribble notes on them. They don't look finished.
+
+####  Wireframes are about **content**, **context** and **interaction**. 
+
+* Use **real content**, never *lorem ipsum*. 
 	
 * **Words** are key. [Interface design is copywriting](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php)
 	
 * Think about **button labels**, how do you label user actions: is it `Share` or `Post` or `Publish` or `Say it!` or `Broadcast` for instance?  
 
-#### They're **NOT about style**. 
+#### Wireframes are **NOT about style**. 
 
 When wireframing, don't worry about *colours*, *graphics* and *typography*.
 
@@ -162,11 +176,13 @@ Wireframe your one-pager idea for [Sharing is caring](../../projects/sharing-is-
 
 ![](http://www.interfacesketch.com/previews/web-browser-template.png)
 
-* The goal is to get your idea down on paper, but not get too caught up in the details. 
+* The goal is to get your idea down on paper so that you can **present** it to everyone else later today. 
 
-* This is to help **visualise** your ideas and **get feedback** from others. 
+* Your wireframes will illustrate what your one-pager says (the **content**) and how people experience it (the **interactions**).
 
-* The quality of your drawings and handwriting doesn't matter. No need to use rulers either. *There is no such thing as a bad drawing*. 
+* This is to help others **visualise** your ideas and give you **feedback**. 
+
+* The quality of your drawings and handwriting doesn't matter. No need to use rulers either. Remember, *there is no such thing as a badly drawn wireframe*. 
 
 
 # Critique
@@ -195,7 +211,7 @@ All comments must be `KASH`:
 
 	Don't just state `It's (not) good` or `I (don't) like it`. Explain why.
 	
-	Comment on specific aspects or details of the work, eg: `Navigation labels are unconventional but I wonder if most people would get what they stand for..`
+	Comment on specific aspects or details of the work, eg: `Your button labels are unconventional but I wonder if most people would get what they stand for..`
 	
 * **Helpful** 
 
