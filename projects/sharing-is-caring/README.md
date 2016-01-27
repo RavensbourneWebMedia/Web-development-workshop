@@ -48,6 +48,7 @@ By no means the above is an exhaustive list of issues. You're welcome to choose 
 * [Blood](http://buntspenden.bleech.de/en/) by Bleech
 * [Tunnel rats](http://www.framescollection.com/tunnelrats.html) by Nathan Lampe et al
 * [Skip showers for beef](http://www.skipshowersforbeef.com/) by the Yes Men
+* [Slavery footprint](http://slaveryfootprint.org/)
 
 [![](http://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/rosecut.jpg)](http://visualisingadvocacy.org/)
 
@@ -57,6 +58,13 @@ By no means the above is an exhaustive list of issues. You're welcome to choose 
 * [Information is beautiful](http://www.informationisbeautiful.net/) investigates how designed information can help us understand the world, cut through BS and reveal the hidden connections, patterns and stories underneath. 
 * [ScrollMagic](http://scrollmagic.io) is a JavaScript library for *magical scroll interactions*.
 * [Codrops tutorials](http://tympanus.net/codrops/category/tutorials/), eg: [Animated map path for interactive storytelling](http://tympanus.net/codrops/2015/12/16/animated-map-path-for-interactive-storytelling/)
+* [One Page Love](https://onepagelove.com/) is the self-proclaimed *ultimate showcase of one-page websites*
+
+<!--
+
+http://www.creativebloq.com/web-design/parallax-scrolling-1131762
+
+-->
 
 <!--
 Today:
