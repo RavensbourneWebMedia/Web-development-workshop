@@ -50,7 +50,7 @@ By no means the above is an exhaustive list of issues. You're welcome to choose 
 * [Skip showers for beef](http://www.skipshowersforbeef.com/) by the Yes Men
 * [Slavery footprint](http://slaveryfootprint.org/)
 
-[![](http://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/rosecut.jpg)](http://visualisingadvocacy.org/)
+[![](assets/infoadvocacy-rosecut.jpg)](http://visualisingadvocacy.org/getbook)
 
 ### Resources
 
