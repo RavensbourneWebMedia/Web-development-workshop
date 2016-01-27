@@ -187,9 +187,9 @@ Wireframe your one-pager idea for [Sharing is caring](../../projects/sharing-is-
 
 # Critique
 
-1. Hang your drafts on the wall
-* Grab a pen and some post-its 
-* Let's *critique* each other's drafts
+1. Hang your wireframes on the wall
+* Grab a pencil and some post-its 
+* Let's *critique* each other's wireframes
 
 ![](assets/wireframes-critique.jpg)
 
