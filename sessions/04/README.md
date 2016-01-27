@@ -243,13 +243,34 @@ In a nutshell:
 
 # Homework
 
-### Wireframes 
+### Sharing is caring 
 
-Translate your wireframes into HTML & CSS 
+Translate your wireframes into **HTML & CSS**. 
 
-Bonus: add JS when you're done with the previous two.
+Next week we'll review them together. You don't have to present a finished page by then. Even though the final deadline for this is June the 10th, try and get as much done as possible this week, because we'll start another brief next week.
+
+Bonus: add **animations & JS** when you're done with HTML & CSS.
 
 ### Blog
 
-Read a section from Infoadvocacy and write about how you can you use that technique(s) in your project.
+Read the chapter **Get the Idea: capturing attention** (pages 46 - 70) from [Visualising Information for Advocacy](http://visualisingadvocacy.org/getbook) (free download), which explains these techniques:
+
+1. Juxtapose
+* Subvert
+* Invert
+* Materialise
+* Compare
+* Contrast
+* Illuminate
+* Provoke
+* Parody
+* Intrigue
+
+**Write about** how you could you use one or more of these techniques in your project.
+
+Here are some questions to ask when developing your concept:* What are the reasons people are not talking about or acting on your chosen issue?* What contexts, symbols or situations can be used to represent your issue visually?* What is the 1rst, key, singular reaction we want our audience to have? What is the second immediate reaction?* Where will the visual be presented – in real or virtual space – and who, apart from the target audience, will see the visual?* How can we change the context of the problem and attract new audiences?* How can our visual open up debate,controversy or curiosity rather than reinforcing a single answer or perspective?
+
+[![](../../projects/sharing-is-caring/assets/infoadvocacy-rosecut.jpg)](http://visualisingadvocacy.org/getbook)
+
+<!--Summary on page 70-->
 
