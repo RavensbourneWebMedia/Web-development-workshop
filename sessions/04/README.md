@@ -1,8 +1,8 @@
 <!--
 
-- [ ] Print wireframing templates
-- [ ] which section from Infoadvocacy?
-- [ ] post-its 
+- [x] Print wireframing templates
+- [x] which section from Infoadvocacy?
+- [x] post-its 
 
 -->
 
