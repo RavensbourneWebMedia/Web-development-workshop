@@ -27,7 +27,7 @@
 	* When you reference an external resource (something you've seen, read or learned about somewhere else on the Web) always link to it
 	* Write in an active voice, eg “*This project allowed me to pick a recipe of my choice and code it using HTML and CSS*” instead of “*I had to code a recipe*” or even worse “*The recipe was coded…*”
 	* Use a spell-checker.
-	* Read your writings out loud. It'll help you spot mistakes and make your written thoughts flow.
+	* Read your writing out loud. It'll help you spot mistakes and make your written thoughts flow.
 	* simple ≠ simplistic (which means oversimplified and has a negative connotation)
 	* complex ≠ complicated (which means it could be simplified, and has a negative connotation) 
 
