@@ -268,7 +268,7 @@ Read the chapter **Get the Idea: capturing attention** (pages 46 - 70) from [Vis
 
 **Write about** how you could you use one or more of these techniques in your project.
 
-Here are some questions to ask when developing your concept:* What are the reasons people are not talking about or acting on your chosen issue?* What contexts, symbols or situations can be used to represent your issue visually?* What is the 1rst, key, singular reaction we want our audience to have? What is the second immediate reaction?* Where will the visual be presented – in real or virtual space – and who, apart from the target audience, will see the visual?* How can we change the context of the problem and attract new audiences?* How can our visual open up debate,controversy or curiosity rather than reinforcing a single answer or perspective?
+Here are some questions to ask when developing your concept:* What are the reasons people are not talking about or acting on your chosen cause?* What contexts, symbols or situations can be used to represent your issue visually?* What is the first key reaction you want your audience to have? What is the second immediate reaction?* Where will your project be presented – in real or virtual space – and who, apart from the target audience, will see it?* How can you change the context of the problem and attract new audiences?* How can your project open up debate, controversy or curiosity rather than reinforcing a single answer or perspective?
 
 [![](../../projects/sharing-is-caring/assets/infoadvocacy-rosecut.jpg)](http://visualisingadvocacy.org/getbook)
 
