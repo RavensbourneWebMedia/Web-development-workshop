@@ -84,16 +84,34 @@ Many more [**tips here**](https://www.toastmasters.org/About/90th-Anniversary/90
 
 <!--
 # Workshop
+# Team project
+-->
 
 
 # Homework
 
+<!--
 ### Sharing is caring 
+-->
 
 ### Blog
 
-http://www.foodisforeating.org/
-https://medium.com/@angelamorelli
-http://www.angelamorelli.com/1/?projects=virtual-water-an-infographic-story
-https://www.youtube.com/watch?v=4NoQvPCSE7g
--->
+Compare these two *infographic stories* by Angela Morelli (who will be our Skype-guest later in this unit):
+
+1. [Food is for eating](http://www.foodisforeating.org)
+* [Virtual Water](http://www.angelamorelli.com/water)
+
+Consider them both from an **information design** and a **Web development** point of view and write about:
+
+* target audience(s)
+* aims (eg: is it to raise awareness or change behaviours?)
+* calls to action
+* storytelling: what are the ingredients of these stories (eg: time or place markers, more or less unexpected events, more or less direct references to your own daily experiences)?
+* data visualisation (what information should be remembered?)
+* technical issues (how would you improve them?)
+ 
+Learn more about these two projects and Angela's work:
+
+* [Angela on Medium](https://medium.com/@angelamorelli)
+* [*Virtual Water*, the making of](http://www.angelamorelli.com/1/?projects=virtual-water-an-infographic-story)
+* [Let me tell you a data story](https://www.youtube.com/watch?v=4NoQvPCSE7g) on YouTube
