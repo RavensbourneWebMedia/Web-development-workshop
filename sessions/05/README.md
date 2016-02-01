@@ -30,6 +30,10 @@ Your progress on *Sharing is caring* so far:
 * What **story** does your page tell?  
 * How are you **translating your ideas into code**?
 
+### How long should my presentation be?
+
+Ideally **5 minutes** (max 10 minutes) with another 5 for Q&A.
+
 ### Tips for the presenter
 
 1. Don't start with an **apology**.   
@@ -78,3 +82,18 @@ Many more [**tips here**](https://www.toastmasters.org/About/90th-Anniversary/90
 	Instead of a personal statement like `I hate the red button!` consider a user-focused question such as `Would users dislike the red button? It could be confused with an error message.`, which is much more effective, and also testable.
 
 
+<!--
+# Workshop
+
+
+# Homework
+
+### Sharing is caring 
+
+### Blog
+
+http://www.foodisforeating.org/
+https://medium.com/@angelamorelli
+http://www.angelamorelli.com/1/?projects=virtual-water-an-infographic-story
+https://www.youtube.com/watch?v=4NoQvPCSE7g
+-->
