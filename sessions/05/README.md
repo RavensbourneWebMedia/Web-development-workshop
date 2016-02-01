@@ -90,9 +90,9 @@ Many more [**tips here**](https://www.toastmasters.org/About/90th-Anniversary/90
 
 # Homework
 
-<!--
 ### Sharing is caring 
--->
+
+Review the feedback you received from us today and continue working on it. Remember, the final deadline for this (together with other, bigger projects) is the 10th of June but we'll check on your progress on this every month. 
 
 ### Blog
 
