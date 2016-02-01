@@ -98,7 +98,7 @@ Open `css/style.css` and find the following code:
 }  
 ```	
 
-*Flexbox* [remember](http://flexboxfroggy.com)?
+[Remember *Flexbox*](http://flexboxfroggy.com)?
 
 Can you find where the classes above are applied in `index.html`?
 
@@ -115,7 +115,7 @@ In `body` notice
 </section>
 ```	  
  
-Before `section` there's a `div` identified as `triggerDrone1`: we'll use that to trigger *scroll-magic* on the `drone` element to make it stick (and perhaps other fancy stuff) whilst we scroll.
+Before `section` there's a `div` identified as `triggerDrone1` which we'll use to trigger *scroll-magic* on the `drone` element to make it stick (and perhaps other fancy stuff) whilst we scroll.
 	
 ### Let the ScrollMagic begin	
 	
@@ -127,7 +127,7 @@ Scroll down to the bottom of the `body` and find
 
 	$(function() 
 	{
-		// WRITE YOUR CODE BETWEEN HERE
+		// WRITE ALL YOUR JS CODE BETWEEN HERE
 
 		// AND HERE
 	})
@@ -135,7 +135,7 @@ Scroll down to the bottom of the `body` and find
 </script>
 ```
 
-You'll write your code between those two lines that start with	 `//`.
+You'll write your JS code between those two lines that start with	 `//`.
 
 ```js
 // start a new ScrollMagic controller
@@ -180,7 +180,7 @@ scene.setTween('#drone1', tweenOptions)
 
 ### Pinning
 
-With ScrollMagic we can also pin elements (make them stick whilst the rest of the page scroll).
+With ScrollMagic we can also *pin* elements, ie: make them stick whilst the rest of the page scroll.
 
 ```js
 // 6. Let's pin the drone (make it stick whilst the rest of the page scroll)
@@ -190,15 +190,13 @@ pinOptions.pushFollowers = false // pushFollowers: if true, ScrollMagic will cre
 scene.setPin('#drone1', pinOptions)
 ```	
 
-A pin of a scene that has a duration will be pinned for the respective amount of scrolled pixels and then released.
+A pin of a scene that has a `duration` (see `sceneOptions.duration`) will be pinned for the respective amount of scrolled pixels and then released.
 
-If no duration is defined, the pinned element will never be released unless scrolling back past the trigger position. 
+If no `duration` is defined, the pinned element will never be released unless scrolling back past the trigger position. 
 
 ### Animating with CSS
 
-Let's animate the `h1`. 
-	
-We can use [Animate.css](https://daneden.github.io/animate.css/) for that. 
+Let's animate the `h1`. We can use [Animate.css](https://daneden.github.io/animate.css/) for that. 
 
 Just add the class names `animated` and `pulse` to it.
 
@@ -207,7 +205,7 @@ If you want to the animation to loop, add `infinite`.
 <h1 class="animated pulse infinite">Beesness</h1>
 ```
 
-See all the built-in animations on [daneden.github.io/animate.css](https://daneden.github.io/animate.css/).
+See all the built-in animations on [daneden.github.io/animate.css](https://daneden.github.io/animate.css/)
 
 Or hack your own animation, eg:
 
