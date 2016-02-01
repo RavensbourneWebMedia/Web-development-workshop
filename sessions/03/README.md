@@ -58,165 +58,183 @@ We're going to use [Animate.css](https://daneden.github.io/animate.css/) and [Sc
 
 Here's [all the code for the finished thing](../../resources/scroll-magic).
 
-### Step by step
+## Step by step
 
-1. [Download the zip](../../resources/week-3-package.zip) containing all the files.
-* Open `index.html`.   
+### Download the starter kit
+
+[Download the zip](../../resources/week-3-package.zip) containing all the files.
+
+### CSS and JS in `head`
+
+Open `index.html`.   
   
-	Notice in the `head` we're loading a bunch of CSS files (eg: `<link href="css/style.css" rel="stylesheet">`) and JS files (eg: `<script src="js/lib/jquery.min.js"></script>`).  
+Notice in the `head` we're loading a bunch of CSS files (eg: `<link href="css/style.css" rel="stylesheet">`) and JS files (eg: `<script src="js/lib/jquery.min.js"></script>`).  
+ 
+* **CSS** gives us the style.
+
+* **JS** gives us the fancy logic (eg: `when this scrolls past that, flip it`). 
+
+### Flexbox, remember? 
+
+Open `css/style.css` and find the following code:  
+	
+```css
+.flex-h-centred
+{
+	display: flex;
+	justify-content: center; 
+}
+
+.flex-v-centred
+{
+	display: flex;
+	align-items: center;
+}
+
+.flex-v-bottom
+{
+	display: flex;
+	align-items: flex-end;
+}  
+```	
+
+*Flexbox* [remember](http://flexboxfroggy.com)?
+
+Can you find where the classes above are applied in `index.html`?
+
+### Preparing our HTML for ScrollMagic
+
+In `body` notice
+	
+```html
+<div id="triggerDrone1" class="trigger"></div>
+<section id="two" class="full flex-h-centred flex-v-centred">
+	<div id="drone1" class="drone">
+		<img src="images/drone.png" alt="Describe this image!">
+	</div>
+</section>
+```	  
+ 
+Before `section` there's a `div` identified as `triggerDrone1`: we'll use that to trigger *scroll-magic* on the `drone` element to make it stick (and perhaps other fancy stuff) whilst we scroll.
+	
+### Let the ScrollMagic begin	
+	
+It's time to write some JavaScript!  
   
-	* **CSS** gives us the style.
-	
-	* **JS** gives us the fancy logic (eg: `when this scrolls past that, flip it`).  
-* Open `css/style.css` and find the following code:  
-	
-	```css
-	.flex-h-centred
+Scroll down to the bottom of the `body` and find
+```html
+<script>
+
+	$(function() 
 	{
-		display: flex;
-		justify-content: center; 
-	}
-	
-	.flex-v-centred
-	{
-		display: flex;
-		align-items: center;
-	}
-	
-	.flex-v-bottom
-	{
-		display: flex;
-		align-items: flex-end;
-	}  
-	```	
-	
-	*Flexbox* [remember](http://flexboxfroggy.com)?
-	
-	Can you find where the classes above are applied in `index.html`?
-* In `body` notice
-	
-	```html
-	<div id="triggerDrone1" class="trigger"></div>
-	<section id="two" class="full flex-h-centred flex-v-centred">
-		<div id="drone1" class="drone">
-			<img src="images/drone.png" alt="Describe this image!">
-		</div>
-	</section>
-	```	  
-  
-	Before `section` there's a `div` identified as `triggerDrone1`: we'll use that to trigger *scroll-magic* on the `drone` element to make it stick (and perhaps other fancy stuff) whilst we scroll.
-* It's time to write some JavaScript!  
-  
-	Scroll down to the bottom of the `body` and find
-	```html
-	<script>
-	
-		$(function() 
-		{
-			// WRITE YOUR CODE BETWEEN HERE
+		// WRITE YOUR CODE BETWEEN HERE
 
-			// AND HERE
-		})
+		// AND HERE
+	})
 
-	</script>
-	```
-	
-	You'll write your code between those two lines that start with	 `//`.
-	
-	```js
-	// start a new ScrollMagic controller
-	var controller = new ScrollMagic.Controller()
+</script>
+```
 
-	/* Let's set the scene */
-	// 1. We define how in the variable sceneOptions
-	var sceneOptions = {}
-	
-	// '#triggerDrone1' will select the element with id="triggerDrone1"
-	sceneOptions.triggerElement = '#triggerDrone1'
-	
-	sceneOptions.duration = '100%' // will keep the element pinned for X% of the browser's height
-	// sceneOptions.duration = 0 // 0 will keep the element pinned indefinitely	
-	// sceneOptions.duration = 782 // will keep the element pinned for X pixels
-	
-	sceneOptions.triggerHook = 0 // from 0 (top) to 1 (bottom), default to center (0.5)
-	
-	// 2. We create a new "scene" with those options
-	var scene = new ScrollMagic.Scene(sceneOptions)
-	
-	// 3. We add indicators so that we know when the scroll magic starts and ends 
-	scene.addIndicators({name: 'drone1'})
-	
-	// 4. We add this scene to the main controller
-	scene.addTo(controller)
-	
-	// 5. Let's pin the drone (make it stick whilst the rest of the page scroll)
-	var pinOptions = {}
-	pinOptions.pushFollowers = false // pushFollowers: if true, ScrollMagic will create a gap equal to sceneOptions.duration after the pinned element 
-	// ..and activate the pin
-	scene.setPin('#drone1', pinOptions)
-	```	
-	
-	A pin of a scene that has a duration will be pinned for the respective amount of scrolled pixels and then released.
+You'll write your code between those two lines that start with	 `//`.
 
-	If no duration is defined, the pinned element will never be released unless scrolling back past the trigger position.  
-* We can use ScrollMagic to create more complex animation.
+```js
+// start a new ScrollMagic controller
+var controller = new ScrollMagic.Controller()
+
+/* Let's set the scene */
+// 1. We define how in the variable sceneOptions
+var sceneOptions = {}
+
+// '#triggerDrone1' will select the element with id="triggerDrone1"
+sceneOptions.triggerElement = '#triggerDrone1'
+
+sceneOptions.duration = '100%' // will keep the element pinned for X% of the browser's height
+// sceneOptions.duration = 0 // 0 will keep the element pinned indefinitely	
+// sceneOptions.duration = 782 // will keep the element pinned for X pixels
+
+sceneOptions.triggerHook = 0 // from 0 (top) to 1 (bottom), default to center (0.5)
+
+// 2. We create a new "scene" with those options
+var scene = new ScrollMagic.Scene(sceneOptions)
+
+// 3. We add indicators so that we know when the scroll magic starts and ends 
+scene.addIndicators({name: 'drone1'})
+
+// 4. We add this scene to the main controller
+scene.addTo(controller)
+```
+
+### Tweening
+
+We'll use a [Tween](https://greensock.com/gsap) to animate `#drone1`.
+
+```js
+// 5. Let's use a Tween to animate #drone1
+var tweenOptions = {}
+tweenOptions.scale = 0.2 // 1 is the normal size
+tweenOptions.rotation = -360 // a full rotation
+tweenOptions.x = '-200%'
+tweenOptions.opacity = 0 // 0 = transparent, 1 = opaque
+scene.setTween('#drone1', tweenOptions)
+```		
+
+### Pinning
+
+With ScrollMagic we can also pin elements (make them stick whilst the rest of the page scroll).
+
+```js
+// 6. Let's pin the drone (make it stick whilst the rest of the page scroll)
+var pinOptions = {}
+pinOptions.pushFollowers = false // pushFollowers: if true, ScrollMagic will create a gap equal to sceneOptions.duration after the pinned element 
+// ..and activate the pin
+scene.setPin('#drone1', pinOptions)
+```	
+
+A pin of a scene that has a duration will be pinned for the respective amount of scrolled pixels and then released.
+
+If no duration is defined, the pinned element will never be released unless scrolling back past the trigger position. 
+
+### Animating with CSS
+
+Let's animate the `h1`. 
 	
-	In `head` we need to add a couple more scripts:
-	
-	```html
-	<script src="js/lib/greensock/TweenMax.min.js"></script>
-	<script src="scrollmagic/uncompressed/plugins/animation.gsap.js"></script>
-	```
-	
-	Then add this code inside after the pinning code
-	
-	```js
-	// 6. Let's use a Tween to define more complex animations
-	var tweenOptions = {}
-	tweenOptions.scale = 0.2 // 1 is the normal size
-	tweenOptions.rotation = -360 // a full rotation
-	tweenOptions.x = '-200%'
-	tweenOptions.opacity = 0 // 0 = transparent, 1 = opaque
-	scene.setTween('#drone1', tweenOptions)
-	```			 
-* Let's animate the `h1`. 
-	
-	We can use [Animate.css](https://daneden.github.io/animate.css/) for that. 
-	
-	Just add the class names `animated` and `pulse` to it.
-	
-	If you want to the animation to loop, add `infinite`.
-	```html
-	<h1 class="animated pulse infinite">Beesness</h1>
-	```
-	
-	See all the built-in animations on [daneden.github.io/animate.css](https://daneden.github.io/animate.css/).
-	
-	Or hack your own animation, eg:
-	
-	```css
-	@keyframes buzz {
-		from, to {
-			-webkit-transform: translate3d(0, 0, 0);
-			transform: translate3d(0, 0, 0);
-		}
-	
-		5%, 25%, 45%, 65%, 85% {
-			-webkit-transform: translate3d(-2px, 0, 0);
-			transform: translate3d(-2px, 0, 0);
-		}
-	
-		15%, 35%, 55%, 75%, 95% {
-			-webkit-transform: translate3d(2px, 0, 0);
-			transform: translate3d(2px, 0, 0);
-		}
+We can use [Animate.css](https://daneden.github.io/animate.css/) for that. 
+
+Just add the class names `animated` and `pulse` to it.
+
+If you want to the animation to loop, add `infinite`.
+```html
+<h1 class="animated pulse infinite">Beesness</h1>
+```
+
+See all the built-in animations on [daneden.github.io/animate.css](https://daneden.github.io/animate.css/).
+
+Or hack your own animation, eg:
+
+```css
+@keyframes buzz {
+	from, to {
+		-webkit-transform: translate3d(0, 0, 0);
+		transform: translate3d(0, 0, 0);
 	}
-	
-	.buzz {
-		-webkit-animation-name: buzz;
-		animation-name: buzz;
+
+	5%, 25%, 45%, 65%, 85% {
+		-webkit-transform: translate3d(-2px, 0, 0);
+		transform: translate3d(-2px, 0, 0);
 	}
-	```
+
+	15%, 35%, 55%, 75%, 95% {
+		-webkit-transform: translate3d(2px, 0, 0);
+		transform: translate3d(2px, 0, 0);
+	}
+}
+
+.buzz {
+	-webkit-animation-name: buzz;
+	animation-name: buzz;
+}
+```
+
 	
 # Project
 
