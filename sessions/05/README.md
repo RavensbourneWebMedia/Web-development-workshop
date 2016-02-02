@@ -10,8 +10,12 @@
 ### Today, Wednesday 3rd February 2016
 
 1. [Formative presentations](#formative-presentations)
+* [Tutorials](#project) on *Sharing is caring* 
+
+<!--
 * [Workshop](#workshop): Meet PHP
 * [Team project](#team-project): Content needs design
+-->
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -82,17 +86,20 @@ Many more [**tips here**](https://www.toastmasters.org/About/90th-Anniversary/90
 	Instead of a personal statement like `I hate the red button!` consider a user-focused question such as `Would users dislike the red button? It could be confused with an error message.`, which is much more effective, and also testable.
 
 
-<!--
-# Workshop
-# Team project
--->
-
 
 # Homework
 
 ### Sharing is caring 
 
 Review the feedback you received from us today and continue working on it. Remember, the final deadline for this (together with other, bigger projects) is the 10th of June but we'll check on your progress on this every month. 
+
+### Install MAMP
+
+Download and install [MAMP](https://www.mamp.info/en/downloads) (the free version, not the PRO).
+
+MAMP is an app that allows you to run a **Web server** on your computer, so that you can develop websites *locally*. 
+
+You'll need MAMP to develop and test WordPress websites on your computer.
 
 ### Install WordPress *locally*!
 

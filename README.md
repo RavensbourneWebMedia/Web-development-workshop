@@ -23,9 +23,9 @@ When | In class | Homework | Blog
 [Wednesday<br>13.01](sessions/02)| <ul><li>Workshop: GitHub recap <li>Tutorials on *Sharing is caring* <li>Flexbox! | Peer-learning research: How does the WWW work? | JavaScript for cats
 [Wednesday<br>20.01](sessions/03)| <ul><li>Peer-learning: How does the WWW work? <li>Workshop: *scroll-magic* <li>Tutorials on *Sharing is caring* | Work on *Sharing is caring* | How does the WWW work?
 [Wednesday<br>27.01](sessions/04)| <ul><li>WWWTF quiz <li>Workshop: wireframing <li>Wireframes critique | Work on *Sharing is caring* | Visualising information for advocacy
-[Wednesday<br>03.02](sessions/05)| <ul><li>**Formative presentations** <li>Workshop: Meet PHP <li>Team project: [**Content needs design**](#content-needs-design) | <ul><li>Install WP *locally* <li>Work on *Content needs design* | Infographic stories
+[Wednesday<br>03.02](sessions/05)| <ul><li>**Formative presentations** <li>Tutorials on *Sharing is caring* | <ul><li>Install MAMP <li>Install WP *locally* <li>Work on *Sharing is caring* | Infographic stories
 Week 6| | | 
-Wednesday<br>17.02| <ul><li>Meet WordPress (WP) <li>WP plugins <li>Workshop: data design with ACF | <ul><li>Install LearnPress <li>Work on *Content needs design* | *Content needs design*  
+Wednesday<br>17.02| <ul><li>Meet PHP and WordPress (WP)<li>Workshop: data design with ACF <li>Team project: [**Content needs design**](#content-needs-design) | <ul><li>Install LearnPress <li>Work on *Content needs design* | *Content needs design*  
 Friday<br>26.02| <ul><li>Workshop: hacking WP templates <li>Tutorials on *Content needs design* | Work on *Content needs design* | *Content needs design* 
 Friday<br>04.03| <ul><li>Workshop: FTP and DB migration <li>Tutorials on *Content needs design* | Work on *Content needs design* | *Content needs design* 
 Friday<br>11.03| <ul><li>**Formative presentations** <li>Team project: [**Our space**](#our-space) | Competitor analysis | What have I learned?
