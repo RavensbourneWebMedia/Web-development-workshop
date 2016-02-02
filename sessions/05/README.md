@@ -86,6 +86,20 @@ Many more [**tips here**](https://www.toastmasters.org/About/90th-Anniversary/90
 	Instead of a personal statement like `I hate the red button!` consider a user-focused question such as `Would users dislike the red button? It could be confused with an error message.`, which is much more effective, and also testable.
 
 
+# Project
+
+### Sharing is caring
+
+This project is about using code (HTML, CSS and a dash of JavaScript) creatively to communicate and advocate a cause you care about.
+
+All the project material is [here](../../projects/sharing-is-caring).
+
+In small groups:
+
+1. Review the **feedback** you received after the formative presentations.
+* Draft a **plan of action**: what needs doing (to finish this project) and when can you do that? I suggest using [Trello](https://trello.com) for this task.
+* List the **technical issues** you need help with: we'll start **troubleshooting** them today.
+
 
 # Homework
 
