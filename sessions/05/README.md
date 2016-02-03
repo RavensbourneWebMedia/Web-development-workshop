@@ -105,7 +105,28 @@ In small groups:
 
 ### Sharing is caring 
 
-Review the feedback you received from us today and continue working on it. Remember, the final deadline for this (together with other, bigger projects) is the 10th of June but we'll check on your progress on this every month. 
+Collect your **research** for this project into a Google document.
+
+You will have minimum **5 research sources**, including:
+
+* articles that **explain** your cause, or the issues around it
+* organisations that already **campaign** for your cause
+* websites that advocate a different cause but are **inspiring** either visually or for the communication strategies they use to draw attention to their cause
+
+For each source include:
+
+1. The link to the source online 
+* One or more quotes from the source
+* One or more screenshots 
+* A paragraph summarising **in your words** why this source is relevant to your project
+
+Share your research GDoc on the `#web-dev-workshop` on Slack for everyone to view.
+
+<!--
+Review the feedback you received from us today and continue working on it. 
+
+Remember, the final deadline for this (together with other, bigger projects) is the 10th of June but we'll check on your progress on this every month. 
+-->
 
 ### Install MAMP
 
