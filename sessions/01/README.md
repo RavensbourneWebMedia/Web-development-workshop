@@ -145,8 +145,19 @@ Now the fun part: **CSS**.
 	_Why?_ Because the parent of your `section` (`body`) has its height set by default to `auto`, which means it is sized according to its _content_. Then, you can try adding `height: 100%;` to the `body` element to see… it is still not enough.
 
 	_Why?_ Because the parent of `body` (`html`) has also its height set by default to `auto`. Now what if you try to add `height: 100%;` to the `html` element? It works!
- 
- 	We can check that it works by applying a `background-color: yellow;` (or whatever) to our first `.full`
+ 	```css
+	html, body 
+	{
+		height: 100%;
+	}
+
+	.full 
+	{
+		height: 100%;
+	}
+	```
+	
+ 	We can check that it works by applying a `background-color: yellow;` (or whatever) to our first `.full`.
 * Next we're styling the **logo**.
 
 	By default images will be added to the top-left corner of their *parent*.
@@ -203,8 +214,16 @@ Now the fun part: **CSS**.
 	* `cover` instead, will scale the image, this time to be as large as possible so that the background positioning area is completely **covered** by the background image.
 
 	We're going to add `background-size: cover;` to the `.full` rule (so that it will apply to all sections with the `full` class).
+	
+	```csss
+	.full 
+	{
+		height: 100%;
+		background-size: cover;
+	}
+	````	
  
- Let's add all the other images.
+ 	Let's add all the other images.
 * Now we want to get the **curtain reveal effect**, so that instead of scrolling with the rest of the page, the background-images will be revealed as we scroll up and down. That makes our page more interesting.
 
 	We can achieve this with another CSS property, `background-attachment`. With this property we have two options: 
@@ -214,7 +233,16 @@ Now the fun part: **CSS**.
 
 	Which one do we want? Obviously `fixed`.
 	
-	Add `background-attachment: fixed;` to `.full`
+	Add `background-attachment: fixed;` to `.full`.
+	
+	```csss
+	.full 
+	{
+		height: 100%;
+		background-size: cover;
+		background-attachment: fixed;
+	}
+	````
 * Good! The last bit is to give a bit of style to the Mailchimp **form**.
 
 	We are going to use the **negative margin trick** to centre the form.
@@ -245,7 +273,6 @@ Now the fun part: **CSS**.
 	.full 
 	{
 		height: 100%;
-		background-color: yellow;
 		background-size: cover;
 		background-attachment: fixed;
 		position: relative;
