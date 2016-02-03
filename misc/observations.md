@@ -8,6 +8,20 @@ Didn't get to finish the curtain-reveal workshop, missing:
 * form styling
 * gh-pages
 
+# [Week 3](../sessions/03)
+
+*WWWTF* peer-learning didn't work (not many connections, people relaying unimportant facts). Could become a quiz instead.
+
+Demonstrate **IP addresses** through browsersync, or something where people can "access" my computer?
+
+# [Week 5](../sessions/05)
+
+General lack of **research** and content strategy.
+
+- [ ] Peer learning on Visual Advocacy?
+- [ ] Get people to flesh out all their texts as a Google doc, and review that before we jump into coding. So GDoc > storyboard > build
+
+
 <!--
 # Session 1
 
