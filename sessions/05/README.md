@@ -22,7 +22,7 @@ Your [homework](#homework) and [blog](#blog)!
 
 # Formative presentations
 
-Here's the [collaborative feedback Google doc](https://docs.google.com/document/d/1uxj4AHNP5-PeccuBIsz9EtTgHjW5IzE0ESYqxXMWjws/edit?usp=sharing).
+Here's the [collaborative feedback Google doc](https://docs.google.com/document/d/1DuG4caw4v_jdpXiBDPDxJuAYLSyRGcgG7hqdgxNo2NY/edit?usp=sharing).
 
 ### WTF should I present?
 
