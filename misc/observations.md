@@ -8,6 +8,10 @@ Didn't get to finish the curtain-reveal workshop, missing:
 * form styling
 * gh-pages
 
+# [Week 2](../sessions/02)
+
+Not sure people actually did the *JS for cats* tutorial.
+
 # [Week 3](../sessions/03)
 
 *WWWTF* peer-learning didn't work (not many connections, people relaying unimportant facts). Could become a quiz instead.
