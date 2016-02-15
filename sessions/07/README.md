@@ -3,7 +3,7 @@ Let's take a few steps back.
 - [x] Let's talk about `Lorem ipsum` and stock images. We need a *content-first* approach.
 - [ ] General observations (integrate suggestions in the project brief, eg: focused causes, as close to home as possible)
 - [x] Keeping **text** short is good, however it needs to be also sharp. You can capture people with images but then you use text to communicate precisely what you want to get across and encourage them to take action.
-- [ ] Let's work on what your page will actually say, aka copywriting 
+- [x] Let's work on what your page will actually say, aka copywriting 
 - [ ] Let's make it work without JS first
 
  
@@ -51,6 +51,8 @@ As designers, we should adopt a **content-first** approach. Start with content, 
 
 It is meaningless and lacks context, revealing nothing about the relationship between your design and your content.
 
+By using `Lorem ipsum` you are running the risk of actual, final content breaking your carefully pixel-pushed layout. What if real title are a bit longer than the conveniently cut `Lorem ipsum` you filled your layout with? What if your client wants to have 3 paragraphs instead of 2?
+
 #### Using `Lorem ipsum` is a missed opportunity to do good design.
 
 In this course `Lorem ipsum` is banned. I warned you.
@@ -67,7 +69,7 @@ Bad images can be useful to trigger a conversation and call for good content. As
 
 ### A quick experiment
 
-1. Think about a website you visit regularly. 
+1. Think about a website you visit/use regularly. 
 2. Now imagine it **without text**. 
 3. What would be left?
 
@@ -92,12 +94,31 @@ You can capture people with (more or less moving) images but then you need text 
 
 # Workshop
 
-Let's work on what your page actually says, aka *copywriting*
+Let's work on what your page actually *says*, aka **copywriting**.
 
+### Copywriting is interface design
 
+As [they say](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php)
 
-General observations (integrate suggestions in the project brief, eg: focused causes, as close to home as possible)
+> Do you label a button *Submit* or *Save* or *Update* or *New* or *Create*? That's copywriting.
 
+> Icons with names, form fields with examples, buttons with labels, step by step instructions in a process, a clear explanation of your refund policy. These are all interface design.
+
+By the way, [*copywriting*](http://dictionary.reference.com/browse/copywriting) is not the same as [*copyright*](http://dictionary.reference.com/browse/copyright).
+
+<!--
+If you don't have suitable content to hand, simply write your own **proto-content** (not *Lorem Ipsum*). You're not aiming for perfection. You're aiming for **insights** that will inform your design.
+-->
+
+### Your turn
+
+1. Make a copy of [this GDoc](https://docs.google.com/document/d/1iS5VeEjtzpjkFraSJ0O80NnmLQaBZIo_FNztTVoONUM/edit?usp=sharing)
+* Write about your page **target audience(s)**, their motivations, pain points, goals and language. 
+* With your audience(s) in mind, flesh out all the content of your page.
+
+Here's an [example content strategy document](https://docs.google.com/document/d/1XyaSoEvu0MraH7cqeEKLMbTc1cAP-B184tB6Usx5UsM/edit?usp=sharing) I co-wrote *before* designing a [one-pager](https://codeyourapp.club) for a coding course I run. 
+
+- [ ] Explain why taking this approach was useful and how it lead to a successful recruitment drive
 
 
 
