@@ -25,6 +25,13 @@
 
 	<body>
 
+		<div id="triggerDrone2" class="trigger"></div>
+		<section class="full flex-h-centred flex-v-centred">
+			<div id="drone2" class="drone">
+				<img src="images/drone.png" alt="Describe this image!">
+			</div>
+		</section>
+
 		<section id="one" class="full flex-h-centred flex-v-bottom">
 			<h1 class="animated buzz infinite">Beesness</h1>
 		</section>
@@ -123,7 +130,37 @@
 				tweenOptions.opacity = 0 // 0 = transparent, 1 = opaque
 				// ..and activate the tween
 				scene.setTween('#drone1', tweenOptions)
+
+
+				// DRONE 2
+				var scene2Options = {}
+				scene2Options.triggerElement = '#triggerDrone2'
+				scene2Options.duration = '100%'
+				scene2Options.triggerHook = 0
+
+				var scene2 = new ScrollMagic.Scene(scene2Options)
+				scene2.addIndicators({name: 'drone2'}) // add indicators 
+				scene2.addTo(controller)
+
+				var pin2Options = {}
+				pin2Options.pushFollowers = false
+				// ..and activate the pin
+				scene2.setPin('#drone2', pin2Options)
+
+				/*var tween2 = TweenMax.from("#drone2", 1, {scale: 0, opacity:0});
+				scene2.addTween(tween2)*/
+				var tween2Options = {}
+				tween2Options.scale = 1 // 1 is the normal size
+				tween2Options.opacity = 1 // 0 = transparent, 1 = opaque
+				// ..and activate the tween
+				scene2.setTween('#drone2', tween2Options)
+
 			})
+
+			/*function makeTea(whichTea, howMuchSugar)
+			{
+
+			}*/
 
 		</script>
 
