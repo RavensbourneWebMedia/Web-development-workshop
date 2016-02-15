@@ -1,10 +1,3 @@
-<!--
-
-- [ ] Meet the Console
-
-
--->
-
 # Week 5
 
 ### Today, Wednesday 3rd February 2016
@@ -127,18 +120,6 @@ Review the feedback you received from us today and continue working on it.
 
 Remember, the final deadline for this (together with other, bigger projects) is the 10th of June but we'll check on your progress on this every month. 
 -->
-
-### Install MAMP
-
-Download and install [MAMP](https://www.mamp.info/en/downloads) (the free version, not the PRO).
-
-MAMP is an app that allows you to run a **Web server** on your computer, so that you can develop websites *locally*. 
-
-You'll need MAMP to develop and test WordPress websites on your computer.
-
-### Install WordPress *locally*!
-
-Google how to do it and then follow the instructions to install WordPress on your local Web server.
 
 ### Blog
 
