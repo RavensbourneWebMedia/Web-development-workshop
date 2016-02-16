@@ -1,7 +1,7 @@
 <!--
 Let's take a few steps back.
 
-- [x] Let's talk about `Lorem ipsum` and stock images. We need a *content-first* approach.
+- [x] Let's talk about `Lorem Ipsum` and stock images. We need a *content-first* approach.
 - [] General observations (integrate suggestions in the project brief, eg: focused causes, as close to home as possible)
 - [x] Keeping **text** short is good, however it needs to be also sharp. You can capture people with images but then you use text to communicate precisely what you want to get across and encourage them to take action.
 - [x] Let's work on what your page will actually say, aka copywriting 
@@ -44,19 +44,19 @@ This is not to say that we should bin all the subtle details that can make a sit
 
 ## What is content then?
 
-### Content is not `Lorem ipsum`
+### Content is not *Lorem Ipsum*
 
-`Lorem ipsum` is gibberish that conveniently fills the available space like an expanding gas. 
+`Lorem Ipsum` is gibberish that conveniently fills the available space like an expanding gas. 
 
-It is meaningless and lacks context, revealing nothing about the relationship between your design and your content.
+It is **meaningless** and **lacks context**, revealing nothing about the relationship between your design and your content.
 
-By using `Lorem ipsum` you are running the risk of actual, final content breaking your carefully pixel-pushed layout. What if real title are a bit longer than the conveniently cut `Lorem ipsum` you filled your layout with? What if your client wants to have 3 paragraphs instead of 2?
+By using `Lorem Ipsum` you are running the risk of actual, final content breaking your carefully pixel-pushed layout. What if real title are a bit longer than the conveniently cut `Lorem Ipsum` you filled your layout with? What if your client wants to have 3 paragraphs instead of 2?
 
-#### Using `Lorem ipsum` is a missed opportunity to do good design.
+#### Using *Lorem Ipsum* is a missed opportunity to do good design.
 
-In this course `Lorem ipsum` is banned. I warned you.
+In this course `Lorem Ipsum` is banned. I warned you.
 
-### Stock images are the visual equivalent of `Lorem ipsum`
+### Stock images are the visual equivalent of *Lorem Ipsum*
 
 ![](assets/stock.jpg)
 
