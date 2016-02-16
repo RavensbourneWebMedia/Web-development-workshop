@@ -12,7 +12,7 @@ Let's take a few steps back.
 ### Today, Wednesday 17th February 2016
 
 1. [Content first](lets-talk-about-content)
-* Workshop: copy-writing is interface design 
+* [Workshop](#workshop): copy-writing is interface design 
 
 Change of plan, we'll keep working on *Sharing is caring* until the Easter break.
 
