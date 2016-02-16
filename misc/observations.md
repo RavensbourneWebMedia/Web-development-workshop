@@ -22,8 +22,24 @@ Demonstrate **IP addresses** through browsersync, or something where people can 
 
 General lack of **research** and content strategy.
 
-- [ ] Peer learning on Visual Advocacy?
-- [ ] Get people to flesh out all their texts as a Google doc, and review that before we jump into coding. So GDoc > storyboard > build
+- [x] Peer learning on Visual Advocacy
+- [x] Get people to flesh out all their copy as a Google doc, and review that before we jump into coding. So GDoc > storyboard > build
+
+# Sharing is caring
+
+Extremely important to take a **content-first** approach. 
+
+People tend to jump into fancy-JS-parallax-scrolling-magic-wow-yet-complicated stuff, and forget about *What does this page actually say?* 
+
+1. Identify your core audience, their motivations, pain points and cultural references.
+* Work on the written parts of your page (aka the copy), make them interesting for your audience to read! 
+
+	> Copy-writing is interface design.
+
+	You can capture people with (more or less moving) images but then you need text (either written or spoken) to communicate precisely what you want to get across and encourage people to take action.
+* Read your copy out loud, tweak it and edit it. Then start integrating it in your page.
+* Make your page look interesting with HTML, CSS and images only. Forget JS at the  beginning.
+
 
 
 <!--
