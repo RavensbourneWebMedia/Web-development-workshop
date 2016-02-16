@@ -21,23 +21,23 @@ When | In class | Homework | Blog
 ---- | -------- | -------- | ----
 [Wednesday<br>06.01](sessions/01)| <ul><li>Welcome <li>Workshop: HTML & CSS recap <li>Project: [**Sharing is caring**](#sharing-is-caring) | Video tutorials of your CSS trick | *Sharing is caring*
 [Wednesday<br>13.01](sessions/02)| <ul><li>Workshop: GitHub recap <li>Tutorials on *Sharing is caring* <li>Flexbox! | Peer-learning research: How does the WWW work? | JavaScript for cats
-[Wednesday<br>20.01](sessions/03)| <ul><li>Peer-learning: How does the WWW work? <li>Workshop: *scroll-magic* <li>Tutorials on *Sharing is caring* | Work on *Sharing is caring* | How does the WWW work?
-[Wednesday<br>27.01](sessions/04)| <ul><li>WWWTF quiz <li>Workshop: wireframing <li>Wireframes critique | Work on *Sharing is caring* | Visualising information for advocacy
-[Wednesday<br>03.02](sessions/05)| <ul><li>**Formative presentations** <li>Tutorials on *Sharing is caring* | <ul><li>Install MAMP <li>Install WP *locally* <li>Work on *Sharing is caring* | Infographic stories
+[Wednesday<br>20.01](sessions/03)| <ul><li>Peer-learning: How does the WWW work? <li>Workshop: *scroll-magic* <li>Tutorials on *Sharing is caring* | *Sharing is caring*: storyboard and copy | How does the WWW work?
+[Wednesday<br>27.01](sessions/04)| <ul><li>WWWTF quiz <li>Workshop: wireframing <li>Wireframes critique | *Sharing is caring*: wireframes to HTML & CSS | Visualising information for advocacy
+[Wednesday<br>03.02](sessions/05)| <ul><li>**Formative presentations** <li>Tutorials on *Sharing is caring* | *Sharing is caring*: collect your research | Infographic stories
 Week 6| | | 
-Wednesday<br>17.02| <ul><li>Meet PHP and WordPress (WP)<li>Workshop: data design with ACF <li>Team project: [**Content needs design**](#content-needs-design) | <ul><li>Install LearnPress <li>Work on *Content needs design* | *Content needs design*  
-Friday<br>26.02| <ul><li>Workshop: hacking WP templates <li>Tutorials on *Content needs design* | Work on *Content needs design* | *Content needs design* 
-Friday<br>04.03| <ul><li>Workshop: FTP and DB migration <li>Tutorials on *Content needs design* | Work on *Content needs design* | *Content needs design* 
-Friday<br>11.03| <ul><li>**Formative presentations** <li>Team project: [**Our space**](#our-space) | Competitor analysis | What have I learned?
+Wednesday<br>17.02| Content strategy and copy-writing | <ul><li>*Sharing is caring*: copy-writing <li>Peer-learning research: Visualising information for advocacy | Copywriting is Interface Design
+Friday<br>26.02| <ul><li>Peer learning: Visualising information for advocacy<li>Tutorials on *Sharing is caring* | TBA | TBA  
+Friday<br>04.03| Tutorials on *Sharing is caring* | TBA | TBA
+Friday<br>11.03| Team project: [**Our space**](#our-space) | <ul><li>Install MAMP <li>Install WP *locally* | What have I learned?
 Easter break| | | 
-Friday<br>15.04| TBA | TBA | TBA
-Friday<br>22.04| TBA | TBA | TBA 
-Friday<br>29.04| TBA | TBA | TBA 
-Friday<br>06.05| TBA | TBA | TBA 
-Friday<br>13.05| TBA | TBA | TBA 
-Friday<br>20.05| TBA | TBA | TBA 
-Friday<br>27.05| TBA | TBA | TBA 
-Friday<br>03.06| TBA | TBA | TBA 
+Friday<br>15.04| <ul><li>Meet PHP and WordPress (WP)<li>Workshop: data design with ACF | *Our space*: competitor analysis | *Our space*
+Friday<br>22.04| <ul><li>Competitor analysis review<li>Good UI<li>Tutorials on *Our space* | Work on *Our space*  | Webdesign myths 
+Friday<br>29.04| <ul><li>Workshop: hacking WP templates  | <ul><li>Install LearnPress <li>Work on *Our space* | TBA 
+Friday<br>06.05| TBA | Work on *Our space* | TBA 
+Friday<br>13.05| <ul><li>Workshop: FTP and DB migration <li>Tutorials on *Our space* | Work on *Our space* | *Our space*  
+Friday<br>20.05| TBA | Work on *Our space* | TBA 
+Friday<br>27.05| TBA | Work on *Our space* | TBA 
+Friday<br>03.06| TBA | Work on *Our space* | TBA 
 Friday<br>10.06| **Summative presentations** |  **Summative hand-in** | 
 
 
@@ -49,15 +49,17 @@ This project is about using code (HTML, CSS and a dash of JavaScript) creatively
 
 All the project material is [here](projects/sharing-is-caring).
 
+<!--
 ### Content needs design
 
 On this **team project** you will learn how to design systems (*containers*) to store and display *content* that doesn't yet exist (or that someone else will produce).   
 
-<!--All the project material is [here](projects/).-->
+All the project material is [here](projects/).
+-->
 
 ### Our space
 
-On this **team project** you will design and build a website for our Ravensbourne Web Media course.
+On this **team project** you will design and build a website for our Ravensbourne Web Media degree course.
 
 Starting from research (interviews with staff & students, competitor analysis) you will devise a content strategy and then build a technically sound, aesthetically cohesive and appropriately structured website.
 
