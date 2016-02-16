@@ -157,3 +157,15 @@ Ajay & Mark | Parody
 Rosie & Kaleshe | Intrigue
 
 ### Blog
+
+1. Read [Copywriting is Interface Design](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php). 
+* Choose a webpage (it can be one you designed / built), pick at least **5 interface elements** from that page and **analyse their copy** answering questions such as: 
+	
+	* Who is this interface element for?
+	* When do they see this? What are they feeling at that point?
+	* What do users need to know (in the context of this interface element)?
+	* What must they do now, if anything? 
+	* Is this interface copy effective? Why? 
+	* Is it consistent with the rest of the page? Should it be? 
+	* How else could it be written?
+	
