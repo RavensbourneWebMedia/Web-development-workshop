@@ -1,7 +1,7 @@
 Let's take a few steps back.
 
 - [x] Let's talk about `Lorem ipsum` and stock images. We need a *content-first* approach.
-- [ ] General observations (integrate suggestions in the project brief, eg: focused causes, as close to home as possible)
+- [] General observations (integrate suggestions in the project brief, eg: focused causes, as close to home as possible)
 - [x] Keeping **text** short is good, however it needs to be also sharp. You can capture people with images but then you use text to communicate precisely what you want to get across and encourage them to take action.
 - [x] Let's work on what your page will actually say, aka copywriting 
 - [ ] Let's make it work without JS first
@@ -108,7 +108,7 @@ By the way, [*copywriting*](http://dictionary.reference.com/browse/copywriting) 
 
 ### Your turn
 
-1. Make a copy of [this GDoc](https://docs.google.com/document/d/1iS5VeEjtzpjkFraSJ0O80NnmLQaBZIo_FNztTVoONUM/edit?usp=sharing)
+1. `Make a copy` of [this GDoc](https://docs.google.com/document/d/1iS5VeEjtzpjkFraSJ0O80NnmLQaBZIo_FNztTVoONUM/edit?usp=sharing).
 * Write about your page **target audience(s)**, their motivations, pain points, goals and language. 
 * With your audience(s) in mind, **flesh out** all the copy of your page.
 * We'll **test** your first draft (read out loud) between us.
@@ -123,6 +123,29 @@ Taking a **content-first** approach for that project has been extremely useful, 
 
 # Homework
 
-Let's make it work without JS first
+<!-- Let's make it work without JS first -->
+
+### Peer-learning research 
+
+Read the chapter **Get the idea: capturing attention** (pages 46 - 70) from [Visualising Information for Advocacy](http://visualisingadvocacy.org/getbook) (free download), which explains several techniques to capture people's attention.
+
+Each team will **focus on one technique**. 
+
+1. Explain how that technique works and **why**. 
+* Show a few **examples** of that technique in action. Not limited to the examples from the book, you can find examples of your technique in adverts, TV, magazines, social media etc. 
+* Prepare a few **questions** for the rest of the class to make your mini-lesson interactive and memorable. For instance, you can ask people if they agree/disagree with a statement, or you could ask them to guess a fact/figure before you reveal the answer...
+
+Who | What
+--- | ----
+Ben & Melissa | Juxtapose
+Shajee & Will | Subvert
+Afsara & Malore | Invert
+Josh | Materialise
+Akvile & Dean | Compare
+Jennifer & Tom | Contrast
+Joe & Francisco | Illuminate
+Rajeev & Darren | Provoke
+Ajay & Mark | Parody
+Rosie & Kaleshe | Intrigue
 
 ### Blog
