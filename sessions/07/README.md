@@ -41,8 +41,6 @@ This is not to say that we should bin all the subtle details that can make a sit
 
 ![](assets/elephant.jpg)
 
-As designers, we should adopt a **content-first** approach. Start with content, and design our sites/apps/products etc around it.
-
 ## What is content then?
 
 ### Content is not `Lorem ipsum`
@@ -63,7 +61,7 @@ In this course `Lorem ipsum` is banned. I warned you.
 
 Using stock images is a missed opportunity to engage with **real content**.
 
-Rather than using a beautifully irrelevant stock image, use an ugly yet relevant one. Make it clear that it's a placeholder. 
+Instead of using a beautifully irrelevant stock image, use an ugly yet relevant one. Make it clear that it's a placeholder. 
 
 Bad images can be useful to trigger a conversation and call for good content. As the [McDonald's theory](https://medium.com/@ienjoy/mcdonalds-theory-9216e1c9da7d) states: *people are inspired to come up with good ideas to ward off bad ones*.
 
@@ -94,6 +92,8 @@ You can capture people with (more or less moving) images but then you need text 
 
 # Workshop
 
+If all we said so far holds true, then as Web designers we should adopt a **content-first** approach. Start with content, and design our sites/apps/products etc around it.
+
 Let's work on what your page actually *says*, aka **copywriting**.
 
 ### Copywriting is interface design
@@ -106,20 +106,19 @@ As [they say](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_De
 
 By the way, [*copywriting*](http://dictionary.reference.com/browse/copywriting) is not the same as [*copyright*](http://dictionary.reference.com/browse/copyright).
 
-<!--
-If you don't have suitable content to hand, simply write your own **proto-content** (not *Lorem Ipsum*). You're not aiming for perfection. You're aiming for **insights** that will inform your design.
--->
-
 ### Your turn
 
 1. Make a copy of [this GDoc](https://docs.google.com/document/d/1iS5VeEjtzpjkFraSJ0O80NnmLQaBZIo_FNztTVoONUM/edit?usp=sharing)
 * Write about your page **target audience(s)**, their motivations, pain points, goals and language. 
-* With your audience(s) in mind, flesh out all the content of your page.
+* With your audience(s) in mind, **flesh out** all the copy of your page.
+* We'll **test** your first draft (read out loud) between us.
+* **Edit** your draft: remove the bits that are not so important, and tweak the other bits to sound like what your audience(s) may want to read.
 
 Here's an [example content strategy document](https://docs.google.com/document/d/1XyaSoEvu0MraH7cqeEKLMbTc1cAP-B184tB6Usx5UsM/edit?usp=sharing) I co-wrote *before* designing a [one-pager](https://codeyourapp.club) for a coding course I run. 
 
-- [ ] Explain why taking this approach was useful and how it lead to a successful recruitment drive
+[![](assets/example.png)](https://codeyourapp.club)
 
+Taking a **content-first** approach for that project has been extremely useful, allowing us to clearly identify **who** we were writing for. With the **who** in mind, planning the content and designing the site became much easier. And it lead to a very successful recruitment drive: +285% booking!
 
 
 # Homework
