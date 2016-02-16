@@ -1,12 +1,13 @@
+<!--
 Let's take a few steps back.
 
 - [x] Let's talk about `Lorem ipsum` and stock images. We need a *content-first* approach.
 - [] General observations (integrate suggestions in the project brief, eg: focused causes, as close to home as possible)
 - [x] Keeping **text** short is good, however it needs to be also sharp. You can capture people with images but then you use text to communicate precisely what you want to get across and encourage them to take action.
 - [x] Let's work on what your page will actually say, aka copywriting 
-- [ ] Let's make it work without JS first
+- [x] Let's make it work without JS first
+--> 
 
- 
 # Week 7
 
 ### Today, Wednesday 17th February 2016
@@ -123,7 +124,14 @@ Taking a **content-first** approach for that project has been extremely useful, 
 
 # Homework
 
-<!-- Let's make it work without JS first -->
+### Sharing is caring
+
+Continuing with the **content-first** approach, let's make your page work without JS. 
+
+1. Keep tweaking your page **copy** on the GDoc. Read it out loud, re-write the bits that don't flow and repeat :repeat:
+* Start integrating the copy in your **HTML**.
+* Style your copy with **CSS**. You can use this [checklist](http://www.merttol.com/articles/web/checklist-for-better-web-typography.html) to make your copy more readable and visually appealing.
+* Add images that complement your copy. They can be *placeholders* for now. Remember, an ugly relevant image is better than a beautifully irrelevant stock picture.
 
 ### Peer-learning research 
 
