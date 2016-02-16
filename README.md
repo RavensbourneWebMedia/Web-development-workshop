@@ -25,7 +25,7 @@ When | In class | Homework | Blog
 [Wednesday<br>27.01](sessions/04)| <ul><li>WWWTF quiz <li>Workshop: wireframing <li>Wireframes critique | *Sharing is caring*: wireframes to HTML & CSS | Visualising information for advocacy
 [Wednesday<br>03.02](sessions/05)| <ul><li>**Formative presentations** <li>Tutorials on *Sharing is caring* | *Sharing is caring*: collect your research | Infographic stories
 Week 6| | | 
-Wednesday<br>17.02| Content strategy and copy-writing | <ul><li>*Sharing is caring*: copy-writing <li>Peer-learning research: Visualising information for advocacy | Copywriting is Interface Design
+[Wednesday<br>17.02](sessions/07)| Content strategy and copy-writing | <ul><li>*Sharing is caring*: copy-writing <li>Peer-learning research: Visualising information for advocacy | Copywriting is Interface Design
 Friday<br>26.02| <ul><li>Peer learning: Visualising information for advocacy<li>Tutorials on *Sharing is caring* | TBA | TBA  
 Friday<br>04.03| Tutorials on *Sharing is caring* | TBA | TBA
 Friday<br>11.03| Team project: [**Our space**](#our-space) | <ul><li>Install MAMP <li>Install WP *locally* | What have I learned?
