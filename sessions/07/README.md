@@ -109,7 +109,12 @@ By the way, [*copywriting*](http://dictionary.reference.com/browse/copywriting) 
 
 ### Your turn
 
-1. `Make a copy` of [this GDoc](https://docs.google.com/document/d/1iS5VeEjtzpjkFraSJ0O80NnmLQaBZIo_FNztTVoONUM/edit?usp=sharing).
+1. Open [this GDoc](https://docs.google.com/document/d/1iS5VeEjtzpjkFraSJ0O80NnmLQaBZIo_FNztTVoONUM/edit?usp=sharing) and `File` > `Make a copy...`
+* Rename your copy by adding your first name at the beginning, eg `Billie - Content strategy`.
+* Change the sharing settings for your document so that `Anyone with the link can comment`.
+
+	![](assets/gdoc-sharing.jpg)
+* Share the link to your document with us on Slack. 
 * Write about your page **target audience(s)**, their motivations, pain points, goals and language. 
 * With your audience(s) in mind, **flesh out** all the copy of your page.
 * We'll **test** your first draft (read out loud) between us.
