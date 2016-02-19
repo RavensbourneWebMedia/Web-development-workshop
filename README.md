@@ -34,7 +34,7 @@ Friday<br>15.04| <ul><li>Meet PHP and WordPress (WP)<li>Workshop: data design wi
 Friday<br>22.04| <ul><li>Competitor analysis review<li>Good UI<li>Tutorials on *Our space* | Work on *Our space*  | Webdesign myths 
 Friday<br>29.04| <ul><li>Workshop: hacking WP templates  | <ul><li>Install LearnPress <li>Work on *Our space* | TBA 
 Friday<br>06.05| TBA | Work on *Our space* | TBA 
-Friday<br>13.05| <ul><li>Workshop: FTP and DB migration <li>Tutorials on *Our space* | Work on *Our space* | *Our space*  
+**Tuesday<br>17.05**| <ul><li>Workshop: FTP and DB migration <li>Tutorials on *Our space* | Work on *Our space* | *Our space*  
 Friday<br>20.05| TBA | Work on *Our space* | TBA 
 Friday<br>27.05| TBA | Work on *Our space* | TBA 
 Friday<br>03.06| TBA | Work on *Our space* | TBA 
