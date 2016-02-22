@@ -19,22 +19,22 @@ This includes:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Wednesday<br>06.01](sessions/01)| <ul><li>Welcome <li>Workshop: HTML & CSS recap <li>Project: [**Sharing is caring**](#sharing-is-caring) | Video tutorials of your CSS trick | *Sharing is caring*
-[Wednesday<br>13.01](sessions/02)| <ul><li>Workshop: GitHub recap <li>Tutorials on *Sharing is caring* <li>Flexbox! | Peer-learning research: How does the WWW work? | JavaScript for cats
-[Wednesday<br>20.01](sessions/03)| <ul><li>Peer-learning: How does the WWW work? <li>Workshop: *scroll-magic* <li>Tutorials on *Sharing is caring* | *Sharing is caring*: storyboard and copy | How does the WWW work?
-[Wednesday<br>27.01](sessions/04)| <ul><li>WWWTF quiz <li>Workshop: wireframing <li>Wireframes critique | *Sharing is caring*: wireframes to HTML & CSS | Visualising information for advocacy
-[Wednesday<br>03.02](sessions/05)| <ul><li>**Formative presentations** <li>Tutorials on *Sharing is caring* | *Sharing is caring*: collect your research | Infographic stories
+[Wednesday<br>06.01](sessions/01)| Welcome <br>Workshop: *HTML & CSS recap* <br>Project: [**Sharing is caring**](#sharing-is-caring) | Video tutorials of your CSS trick | Sharing is caring
+[Wednesday<br>13.01](sessions/02)| Workshop: *GitHub recap* <br>Tutorials on *Sharing is caring* <br>Flexbox! | Peer-learning research: *How does the WWW work?* | JavaScript for cats
+[Wednesday<br>20.01](sessions/03)| Peer-learning: *How does the WWW work?* <br>Workshop: *scroll-magic* <br>Tutorials on *Sharing is caring* | *Sharing is caring:* storyboard and copy | How does the WWW work?
+[Wednesday<br>27.01](sessions/04)| WWWTF quiz <br>Workshop: *wireframing* <br>Wireframes critique | *Sharing is caring:* wireframes to HTML & CSS | Visualising information for advocacy
+[Wednesday<br>03.02](sessions/05)| **Formative presentations** <br>Tutorials on *Sharing is caring* | *Sharing is caring:* collect your research | Infographic stories
 Week 6| | | 
-[Wednesday<br>17.02](sessions/07)| Content strategy and copy-writing | <ul><li>*Sharing is caring*: copy-writing <li>Peer-learning research: Visualising information for advocacy | Copywriting is Interface Design
-Friday<br>26.02| <ul><li>Peer learning: Visualising information for advocacy<li>Tutorials on *Sharing is caring* | TBA | TBA  
+[Wednesday<br>17.02](sessions/07)| Content strategy <br>Copy-writing | *Sharing is caring:* copy-writing <br>Peer-learning research: *Visualising information for advocacy* | Copywriting is Interface Design
+Friday<br>26.02| Peer learning: *Visualising information for advocacy*<br>Tutorials on *Sharing is caring* | TBA | TBA  
 Friday<br>04.03| Tutorials on *Sharing is caring* | TBA | TBA
-Friday<br>11.03| Team project: [**Our space**](#our-space) | <ul><li>Install MAMP <li>Install WP *locally* | What have I learned?
+Friday<br>11.03| Team project: [**Our space**](#our-space) | Install MAMP <br>Install WP *locally* | What have I learned?
 Easter break| | | 
-Friday<br>15.04| <ul><li>Meet PHP and WordPress (WP)<li>Workshop: data design with ACF | *Our space*: competitor analysis | *Our space*
-Friday<br>22.04| <ul><li>Competitor analysis review<li>Good UI<li>Tutorials on *Our space* | Work on *Our space*  | Webdesign myths 
-Friday<br>29.04| <ul><li>Workshop: hacking WP templates  | <ul><li>Install LearnPress <li>Work on *Our space* | TBA 
+Friday<br>15.04| Meet PHP and WordPress (WP)<br>Workshop: data design with ACF | *Our space*: competitor analysis | Our space
+Friday<br>22.04| Competitor analysis review<br>Good UI<br>Tutorials on *Our space* | Work on *Our space*  | Webdesign myths 
+Friday<br>29.04| Workshop: hacking WP templates  | Install LearnPress <br>Work on *Our space* | TBA 
 Friday<br>06.05| TBA | Work on *Our space* | TBA 
-**Tuesday<br>17.05**| <ul><li>Workshop: FTP and DB migration <li>Tutorials on *Our space* | Work on *Our space* | *Our space*  
+**Tuesday<br>17.05**| Workshop: FTP and DB migration <br>Tutorials on *Our space* | Work on *Our space* | Our space  
 Friday<br>20.05| TBA | Work on *Our space* | TBA 
 Friday<br>27.05| TBA | Work on *Our space* | TBA 
 Friday<br>03.06| TBA | Work on *Our space* | TBA 
