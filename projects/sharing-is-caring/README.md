@@ -7,7 +7,9 @@ A cause is a *response to an issue* that affects or concerns many people. A caus
 1. **Pick a cause** you care about.
 * **Research the issue(s)** around it and the responses people are advocating.
 * Select the **key information** you want to communicate about your cause.
-* Decide what **action(s)** you want people to take on your cause (eg: sign a petition, join a group, share your campaign, donate, etc.)
+* Identify which **audience** you want to talk to, what are their motivations, pain points and language.
+* Taking a **content-first** approach, draft all the **copy** for your page: this will address your audience motivations and pain points using a language that resonates with them.
+* Decide what **action(s)** you want your audience to take on your cause (eg: sign a petition, join a group, share your campaign, donate, etc.)
 * **Storyboard** a few ideas of how you can advocate your cause through a one-page website. 
 * Structure your information and call(s) to action with **HTML**.
 * Use **CSS** (and possibly some JavaScript) to make your communication memorable. You may want to look for code libraries, tutorials or snippets to use in your project (see [resources](#resources) below).
@@ -16,7 +18,7 @@ A cause is a *response to an issue* that affects or concerns many people. A caus
 #### Timeline
 
 * 6th of January: project start
-* January: weekly tutorials and project revisions
+* January and February: weekly tutorials and project revisions
 * 3rd of February: formative presentations
 * 10th of June: final hand-in (together with other, bigger projects, so it's advised you get the bulk of this project done in January & February)
 
