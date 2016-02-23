@@ -14,9 +14,13 @@ Not sure people actually did the *JS for cats* tutorial.
 
 # [Week 3](../sessions/03)
 
-*WWWTF* peer-learning didn't work (not many connections, people relaying unimportant facts). Could become a quiz instead.
+*WWWTF* peer-learning didn't work (not many connections, people relaying unimportant facts). Could become a quiz instead. I think it's not that relevant at this point. We can move it to the second half of the unit, when people start to deal with Web servers, URL requests etc. 
 
 Demonstrate **IP addresses** through browsersync, or something where people can "access" my computer?
+
+# [Week 4](../sessions/04)
+
+Many people considered the paper wireframes as throw-aways. Make sure they keep them (easiest way is to tell them they're going to be marked on them).
 
 # [Week 5](../sessions/05)
 

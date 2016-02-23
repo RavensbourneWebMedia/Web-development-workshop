@@ -184,6 +184,8 @@ Wireframe your one-pager idea for [Sharing is caring](../../projects/sharing-is-
 
 * The quality of your drawings and handwriting doesn't matter. No need to use rulers either. Remember, *there is no such thing as a badly drawn wireframe*. 
 
+* Heads up: these are not throw-aways! Make sure you keep all your paper wireframes and scan / take pictures of them. These will document how your idea is evolving and **you will be marked on this**.
+
 
 # Critique
 
