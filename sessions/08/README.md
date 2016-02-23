@@ -88,4 +88,14 @@ Let's not worry about how feasible / hard to build your ideas are at this point.
 
 # Homework
 
+### Sharing is caring
+
+Pick one or two brain-catching ideas from today's [brainstorming session](#brainstorm) and mock them up. 
+
+You can do that in Photoshop/Illustrator and then HTML+CSS, or directly into HTML+CSS.
+
+Try and not get bogged down in coding issues. Instead, mock your idea up with static images and we'll help you code it next week.
+
+Next week we'll do extensive tutorials with a guest: together we'll review your content strategy first, and then your code.
+
 ### Blog
