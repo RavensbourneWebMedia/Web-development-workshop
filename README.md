@@ -26,7 +26,7 @@ When | In class | Homework | Blog
 [Wednesday<br>03.02](sessions/05)| **Formative presentations** <br>Tutorials on *Sharing is caring* | *Sharing is caring:* collect your research | Infographic stories
 Week 6| | | 
 [Wednesday<br>17.02](sessions/07)| Content strategy <br>Copy-writing | *Sharing is caring:* copy-writing <br>Peer-learning research: *Visualising information for advocacy* | Copywriting is Interface Design
-Friday<br>26.02| Peer learning: *Visualising information for advocacy*<br>Tutorials on *Sharing is caring* | TBA | TBA  
+[Friday<br>26.02](sessions/08)| Peer learning: *Visualising information for advocacy*<br>Tutorials on *Sharing is caring* | *Sharing is caring:* brain-catching mock ups | Infographics, good and bad  
 Friday<br>04.03| Tutorials on *Sharing is caring* | TBA | TBA
 Friday<br>11.03| Team project: [**Our space**](#our-space) | Install MAMP <br>Install WP *locally* | What have I learned?
 Easter break| | | 
