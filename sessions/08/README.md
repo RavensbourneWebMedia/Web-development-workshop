@@ -99,3 +99,15 @@ Try and not get bogged down in coding issues. Instead, mock your idea up with st
 Next week we'll do extensive tutorials with a guest: together we'll review your content strategy first, and then your code.
 
 ### Blog
+
+Once we captured people's attention, **what's next**?
+
+We can help them move from an abstract awareness to something they can grasp and relate to.
+
+**Maps and data visualisations** (aka *infographics*) are common tools for creating visual summaries of complex issues, yet they don't often convey **engaging stories**.
+
+[![](assets/infographic.png)](https://www.flickr.com/photos/philgyford/4505748943 "Infographic by Phil Gyford")
+
+From [Information is beautiful](http://www.informationisbeautiful.net/) and [Infosthetics](http://www.infosthetics.com/), pick a **good example** and a **bad example** of data visualisation and blog about how they manage or fail to communicate a clear **organising principle** for the data.
+
+You can find 8 organising principles on the chapter **Get the picture: crafting a narrative** (pages 75 - 92) from [Visualising Information for Advocacy](http://visualisingadvocacy.org/getbook). 
