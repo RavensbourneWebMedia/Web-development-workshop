@@ -18,6 +18,7 @@
 ### Today, Friday 26th February 2016
 
 1. [Peer-learning](#peer-learning): attention-grabbing techniques
+* [Tutorials](#tutorials) on *Sharing is caring*
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -76,10 +77,13 @@ How can you balance the need to be concise and *brain-catching* with the goal to
 In groups of 2-3, discuss which techniques you could use in your *Sharing is caring* projects, then brainstorm and jot down ideas in [this shared GDoc](https://docs.google.com/document/d/1iPmNnwnhaF7VxXvngHFdFizRyh0fycxVmXUprLZsXAY/edit?usp=sharing).
 
 
+# Tutorials
 
+Let's chat about your **brain-catching ideas** and **copy**.
 
+I don't want to hear about coding issues until we have worked out your *content strategy*.
 
-I don't want to hear about coding issues, until we have worked out your content strategy.
+Let's not worry about how feasible / hard to build your ideas are at this point. Everything is *figureoutable*.
 
 
 # Homework
