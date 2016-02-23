@@ -145,8 +145,18 @@ Read the chapter **Get the idea: capturing attention** (pages 46 - 70) from [Vis
 Each team will **focus on one technique**. 
 
 1. Explain how that technique works and **why**. 
-* Show a few **examples** of that technique in action. Not limited to the examples from the book, you can find examples of your technique in adverts, TV, magazines, social media etc. 
-* Prepare a few **questions** for the rest of the class to make your mini-lesson interactive and memorable. For instance, you can ask people if they agree/disagree with a statement, or you could ask them to guess a fact/figure before you reveal the answer...
+* Show a few **examples** of that technique in action. 
+
+	Not just the examples from the book. You can find examples of your technique in adverts, TV, magazines, social media etc.   
+	
+	Good places to find examples are [The Inspiration Room](http://theinspirationroom.com/daily/explore-by-brand/), [Backspace](http://backspace.com/notes/) and [Osocio](http://osocio.org/).
+  
+	Best if you show *both good and bad examples* of your technique in action.   
+* To make your mini-lesson interactive and memorable, ask **questions** to the rest of the class. For instance, you can ask people:
+	* if they agree/disagree with a statement
+	* guess a fact/figure before you reveal the answer
+ 	* how they feel about an example you are showing them
+ 	* whether they think the example is effective / provocative / controversial / clichéd / insulting ... 
 
 Who | What
 --- | ----
