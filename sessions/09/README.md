@@ -23,13 +23,13 @@ Your [homework](#homework) and [blog](#blog)!
 * Upload your video-presentation to YouTube or Vimeo.
 * Create a `Name-Surname-WEB14105.md` MarkDown document (where `Name` is your own name and `Surname` is your own surname, like `Matteo-Menapace-WEB14105.md`).
 
-	In that document, add the following links:
+	In that document, add the following:
 	
-	* **Video-presentation** (YouTube or Vimeo, make sure I don't need permissions to view it)
-	* **Content strategy** GDoc (see week 7, make sure I don't need permissions to comment on it)
-	* **Research** links (see homework from week XYZ, make sure I don't need permissions to comment on it)  
+	* **Video-presentation** link, YouTube or Vimeo, make sure I don't need permissions to view it
+	* **Content strategy** GDoc, see [week 7](../07#your-turn) and make sure I don't need permissions to comment on it
+	* **Research** GDoc, see [homework from week 5](../05#sharing-is-caring-1) and make sure I don't need permissions to comment on it
 	* Link to your project **code on GitHub**
-	* BONUS: link to your project published on **GitHub pages** (remember `gh-pages` from Week 2?)
+	* BONUS: link to your project published on **GitHub Pages**, remember `gh-pages` from [week 2](../02#publishing-on-github-pages)?
 
 
 ### Blog
