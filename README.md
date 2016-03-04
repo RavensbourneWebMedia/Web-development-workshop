@@ -63,7 +63,7 @@ On this **team project** you will design and build a website for our Ravensbourn
 
 Starting from research (interviews with staff & students, competitor analysis) you will devise a content strategy and then build a technically sound, aesthetically cohesive and appropriately structured website.
 
-<!--All the project material is [here](projects/).-->
+<!--All the project material is [here](projects/our-space).-->
 
 
 # Learning goals
