@@ -54,24 +54,30 @@ This week we'll:
 
 <!-- Follow [the instructions](https://pages.github.com/) for `Project site` > `Start from scratch` -->
 
-1. Create a **new repository**.   
+1. If you already have a **repository** for your project, skip to the next step. 
+
+	Otherwise... create a **new repository**.   
   
-	Make sure you `Initialize this repository with a README`
-* In the new repository's main page, create a **new branch** and call it `gh-pages` (call it exactly like that: no uppercase and no spaces).	
+	Make sure you `Initialize this repository with a README`.
+* In your repository's main page, create a **new branch** and call it `gh-pages` (call it exactly like that: no uppercase and no spaces).	
 	![](https://pages.github.com/images/create-branch@2x.png)
-* Optional: make `gh-pages` the **default branch**.
+* Make `gh-pages` the **default branch**.
 
 	![](https://pages.github.com/images/default-branch@2x.png)
 * Use [SourceTree](https://www.sourcetreeapp.com/) to **clone your repository** to your computer.  
   
-	*Cloning* means downloading a working copy of the repository on your computer. You'll then be able to make changes to the repository and pushing those changes to GitHub.
+	*Cloning* means downloading a working copy of the repository on your computer. You'll then be able to make work on the repository on your computer and *push* your work to GitHub.
   
   	On a Mac: <kbd>cmd</kbd> + <kbd>n</kbd>
   
   	On a PC: <kbd>ctrl</kbd> + <kbd>n</kbd>
   
 	`Clone from URL` and paste in your repository's URL (eg: `https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPOSITORY-NAME`) 	
-* **Move all the files** for your page (HTML, CSS, images... everything that makes up your page) into the repository's folder.
+* Make sure that your *working copy* (the version of your repository on your computer) is on the `gh-pages` branch.	
+	In the image below, notice that the local branch is `master` (in bold under `BRANCHES`). If that's the case for your repository, then right-click on `gh-pages` under `REMOTES` and then choose `Checkout...`. This will switch your working copy to the `gh-pages` branch.
+	
+	![](assets/checkout-gh-pages.png)
+* If you haven't already, **move all the files** for your page (HTML, CSS, images... everything that makes up your page) into the repository's folder.
 * Using SourceTree, **commit and push** all those files.
 
 	Notice that as soon as you commit, a red `1` appears on top of the `Push` button. In order to upload those files to GitHub you need to *push* all your commits (push that button).
