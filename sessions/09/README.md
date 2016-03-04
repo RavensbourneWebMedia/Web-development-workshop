@@ -8,6 +8,15 @@
 Your [homework](#homework) and [blog](#blog)!
 
 
+# Tutorials
+
+Let's chat about your **brain-catching ideas** and **content strategy**.
+
+We don't want to hear about coding issues until we have worked out your *content strategy*.
+
+Let's not worry about how feasible / hard to build your ideas are at this point. Everything is *figureoutable*.
+
+
 # Homework
 
 ### *Sharing is caring* formative
@@ -30,6 +39,6 @@ Your [homework](#homework) and [blog](#blog)!
 	* **Research** GDoc, see [homework from week 5](../05#sharing-is-caring-1) and make sure I don't need permissions to comment on it
 	* Link to your project **code on GitHub**
 	* BONUS: link to your project published on **GitHub Pages**, remember `gh-pages` from [week 2](../02#publishing-on-github-pages)?
-
+* Upload your `Name-Surname-WEB14105.md` to Moodle.
 
 ### Blog
