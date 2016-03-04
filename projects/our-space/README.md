@@ -25,7 +25,7 @@ Your website must
 * be **online** (not just on your computer), *obviously* :)
 
 
-
+<!--
 ### Competitors
 
 https://www.plymouth.ac.uk/courses/undergraduate/ba-internet-design
@@ -35,3 +35,4 @@ http://www.uclan.ac.uk/courses/bsc_web_design_development.php
 http://www.whatuni.com/degree-courses/search?subject=website-development
 
 https://www.lsbu.ac.uk/courses/course-finder/digital-design-ba-hons 
+-->
