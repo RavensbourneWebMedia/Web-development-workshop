@@ -3,7 +3,7 @@
 ### Today, Friday 4th March 2016
 
 1. [Tutorials](#tutorials) on *Sharing is caring*, with Tor Njamo (Web Media graduate and president of RaveSU)
-* [Collective brainstorm](#our-space) on the next project: *Our space* 
+* [Collective brainstorm](#our-space) on your next project: *Our space* 
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -42,3 +42,14 @@ Let's not worry about how feasible / hard to build your ideas are at this point.
 * Upload your `Name-Surname-WEB14105.md` to Moodle.
 
 ### Blog
+
+Read and blog about this article: [Interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40). 
+
+Have you interviewed anyone before?   
+  
+If **yes**: 
+
+* What worked? 
+* What could have been better?
+* Anything that surprised you?
+* What did you do with the data collected during your interview(s)?
