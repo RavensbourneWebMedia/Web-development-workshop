@@ -17,6 +17,62 @@ We don't want to hear about coding issues until we have worked out your *content
 Let's not worry about how feasible / hard to build your ideas are at this point. Everything is *figureoutable*.
 
 
+# Our space
+
+On this **team project** you will design and build a website for our Ravensbourne Web Media degree.
+
+You will start from **research**: user interviews and competitor analysis. You will then define a **content strategy** and iterate your design ideas through **wireframes**. Finally, you will implement your designs into a **WordPress**-based website.
+
+At the beginning of June, Web Media students and staff will **vote one of your sites** as the *official* site to represent our degree for the next year!
+
+### Research
+
+#### Do we need research?
+
+Think of a project you worked on. What role did research play in it? Was it good research?
+
+#### What does research mean to you?
+
+Research boils down to spending (a lot of) time observing people and talking to them, to find out:
+
+* **What** are they currently doing?
+* **How** are they doing something?
+* What **problems** and **challenges** do they face?
+* What do they **want**?
+* What do they **think** they want?
+* What do **we** think they want?
+
+We use user research **insight** to inform design and improve development.
+
+#### Two types of research
+
+![](assets/qualitative-quantitative.png)
+
+##### Qualitative research
+
+Qualitative research is useful to answer **why** type of questions.
+
+> Questions, answers, insights and explanations are limited by a researcher’s understanding of users’ behaviours. The only way to increase that understanding is by actually interacting with and investigating behaviours, beliefs, and assumptions outside of our own behaviours, beliefs, and assumptions. 
+
+*From [Bill Selman, User Research Lead at Mozilla](http://blog.mozilla.org/ux/2014/10/why-do-we-conduct-qualitative-user-research/)*
+
+##### Quantitative research
+
+Useful to answer **what** and **how** (how much, how often..) types of questions.
+
+Observe and **measure**.
+
+**Surveys** and **analytics** are (mostly) quantitative methods.
+
+#### Your turn
+
+Together we will create a survey using [Typeform](https://www.typeform.com), which you can start using from today!
+
+* What questions can we ask people?
+* Which questions are more important than others (we can't ask people to give us more than 5 minutes of their time)?
+* How can we make our questions not leading? 
+
+
 # Homework
 
 ### *Sharing is caring* formative
