@@ -27,8 +27,8 @@ When | In class | Homework | Blog
 Week 6| | | 
 [Wednesday<br>17.02](sessions/07)| Content strategy <br>Copy-writing | *Sharing is caring:* copy-writing <br>Peer-learning research: *Visualising information for advocacy* | Copywriting is Interface Design
 [Friday<br>26.02](sessions/08)| Peer learning: *Visualising information for advocacy*<br>Tutorials on *Sharing is caring* | *Sharing is caring:* brain-catching mock ups | Infographics, good and bad  
-Friday<br>04.03| Tutorials on *Sharing is caring* with Tor | TBA | TBA
-Friday<br>11.03| Team project: [**Our space**](#our-space) | Install MAMP <br>Install WP *locally* | What have I learned?
+[Friday<br>04.03](sessions/09)| Tutorials on *Sharing is caring* with Tor <br>Team project: [**Our space**](#our-space) | Prep formative | Interviewing humans
+Friday<br>11.03| **Formative** video-presentations | Form teams fpr *Our space* <br>Interview people <br>Install MAMP <br>Install WP *locally* | What have I learned?
 Easter break| | | 
 Friday<br>15.04| Meet PHP and WordPress (WP)<br>Workshop: data design with ACF | *Our space*: competitor analysis | Our space
 Friday<br>22.04| Competitor analysis review<br>Good UI<br>Tutorials on *Our space* | Work on *Our space*  | Webdesign myths 
