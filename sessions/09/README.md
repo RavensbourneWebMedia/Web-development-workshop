@@ -90,9 +90,9 @@ Together we will create a survey using [Typeform](https://www.typeform.com), whi
 
 	In that document, add the following:
 	
-	* **Video-presentation** link, YouTube or Vimeo, make sure I don't need permissions to view it
-	* **Content strategy** GDoc, see [week 7](../07#your-turn) and make sure I don't need permissions to comment on it
-	* **Research** GDoc, see [homework from week 5](../05#sharing-is-caring-1) and make sure I don't need permissions to comment on it
+	* **Video-presentation** link, YouTube or Vimeo, make sure I have permissions to view it
+	* **Content strategy** GDoc, see [week 7](../07#your-turn) and make sure I have permissions to comment on it
+	* **Research** GDoc, see [homework from week 5](../05#sharing-is-caring-1) and make sure I have permissions to comment on it
 	* Link to your project **code on GitHub**
 	* BONUS: link to your project published on **GitHub Pages**, remember `gh-pages` from [week 2](../02#publishing-on-github-pages)?
 * Upload your `Name-Surname-WEB14105.md` to Moodle.
