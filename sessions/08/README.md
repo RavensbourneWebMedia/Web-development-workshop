@@ -108,6 +108,20 @@ We can help them move from an abstract awareness to something they can grasp and
 
 [![](assets/infographic.png)](https://www.flickr.com/photos/philgyford/4505748943 "Infographic by Phil Gyford")
 
-From [Information is beautiful](http://www.informationisbeautiful.net/) and [Infosthetics](http://www.infosthetics.com/), pick a **good example** and a **bad example** of data visualisation and blog about how they manage or fail to communicate a clear **organising principle** for the data.
+From [Information is beautiful](http://www.informationisbeautiful.net/) and [Infosthetics](http://www.infosthetics.com/), pick a **good example** and a **bad example** of data visualisation and blog about how they succeed or fail to engage you with a compelling and evidence-based **narrative**.
+
+Some questions (in no particular order) that may help you flesh out your thoughts:
+
+* How is the data visualisation helping you (or failing to help you) **understand** the issue it presents?
+* What **arguments** are your examples trying to communicate through the data?
+* What **story** (if any) are your examples telling through the data?
+* What **goal(s)** are your examples trying to achieve (in your opinion)?
+* What data visualisation **tool** are they using (eg: map, bar chart, pie chart etc.)? Why do you think they chose that? Would you choose another tool?
+* **Who** are your examples trying to **influence** (in your opinion)?
+* Are the examples dumbing down the issue(s)?
+
+<!--
+communicate a clear **organising principle** for the data.
 
 You can find 8 organising principles on the chapter **Get the picture: crafting a narrative** (pages 75 - 92) from [Visualising Information for Advocacy](http://visualisingadvocacy.org/getbook). 
+-->
