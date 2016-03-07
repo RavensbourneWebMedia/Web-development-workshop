@@ -41,6 +41,52 @@ In that document, add the following:
 
 # Homework
 
+### Our space
+
+On this **team project** you will design and build a WordPress-based website for our Ravensbourne Web Media degree.
+
+You can team up with whoever you want. Teams must be up to 4 people.
+
+Over the Easter break:
+
+1. Form your dream team for this project.
+* Interview at least 3 current or potential Web Media students (see [guidelines below](#interview-guidelines)) and [blog](#blog) about your findings.
+
+#### Interview guidelines
+
+You can start from [this GDoc](https://docs.google.com/document/d/1FP5CgvRyOCmCam_WfOAabZz4VP9BMOy0nw6-GXZwopM/edit?usp=sharing), where we jotted down some initial thoughts and possible questions to ask in face2face interviews or via online forms.
+
+1. **Plan**: prepare a discussion guide, know what information you want to get our of the interview.
+* Prepare a **guide, not a script**: let the conversation flow, and steer it gently.
+* **Test** your interview (with family and friends).
+* Go to **their place**, in a space where they're comfortable, best if the space where they use the product(s) you want to test / talk about. Let them show you around.
+* Easier if you interview **pairs** of users: they'll be less anxious.
+* **Listen**. Don't talk about yourself.
+* Be comfortable with **silence**: give people time and space to answer your question.
+* Be ready to **be challenged** and improvise.
+* Ask the **how** (they do stuff) and **why** (they do stuff) questions.
+
+	**Use examples** to help people understand the type of answer you are after.
+	
+	**Help participants tell their stories**, what happened before and after. And what would have happened if...
+
+* Avoid **leading questions**. Try not to bias your interviewees.
+
+	bad > `How much do you love using XYZ?`
+	
+	good > `Tell me about your most recent XYZ experience` (more concrete & memorable)
+* Avoid **closed questions**.
+
+	bad > `Do you order A, B or C?`
+	
+	good > `How do you choose food when going out?`
+* Try **casual requests** instead of questions. For instance, instead of asking `How do you store your photos?` consider asking them to show you how they store photos.	
+* You're interested in them as people, not just as users
+* Be respectful
+* Smile :smile:
+
+You can conduct the interview via Skype/Facetime.
+
 ### Install MAMP
 
 Download and install [MAMP](https://www.mamp.info/en/downloads) (the free version, not the PRO).
@@ -55,4 +101,6 @@ Google how to do it and then follow the instructions to install WordPress on you
 
 ### Blog
 
-- [ ] What have I learned?
+Individually, jot down the **5 key points** for each interview as early as possible, whilst they're all still fresh in your memory. 
+
+Then write a **summary** of your interviews, in which you highlight **emerging patterns** (eg, more than one interviewee pointing out the same issue).
