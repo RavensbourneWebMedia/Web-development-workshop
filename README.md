@@ -30,15 +30,15 @@ Week 6| | |
 [Friday<br>04.03](sessions/09)| Tutorials on *Sharing is caring* with Tor <br>Team project: [**Our space**](#our-space) | Prep formative | Interviewing humans
 [Friday<br>11.03](sessions/10)| **Formative** video-presentations | Form teams for *Our space* <br>Install MAMP <br>Install WP *locally* | Interviewing your target audience
 Easter break| | | 
-Friday<br>15.04| Meet PHP and WordPress (WP)<br>Workshop: data design with ACF | *Our space*: competitor analysis | Our space
-Friday<br>22.04| Competitor analysis review<br>Good UI<br>Tutorials on *Our space* | Work on *Our space*  | Webdesign myths 
-Friday<br>29.04| Workshop: hacking WP templates  | Install LearnPress <br>Work on *Our space* | TBA 
-Friday<br>06.05| TBA | Work on *Our space* | TBA 
-**Tuesday<br>17.05**| Workshop: FTP and DB migration <br>Tutorials on *Our space* | Work on *Our space* | Our space  
-Friday<br>20.05| TBA | Work on *Our space* | TBA 
-Friday<br>27.05| TBA | Work on *Our space* | TBA 
-Friday<br>03.06| TBA | Work on *Our space* | TBA 
-Friday<br>10.06| **Summative presentations** |  **Summative hand-in** | 
+Friday<br>15.04| Recap<br>Competitor analysis <br>User interviews planning | Qualitative research: *interviews* <br>Quantitative research: *questionnaire* | *Our space* interviews insights
+Friday<br>22.04| Personas<br> Content strategy | Peer learning research: *GoodUI* | *Our space* persona(s)  
+Friday<br>29.04| Peer learning on *GoodUI* <br>Workshop: *wireframing* <br>Wireframes critique | Moodbard: collect inspirations | Webdesign trends
+Friday<br>06.05| Front-end frameworks <br>Prototyping with HTML&CSS <br>Tutorials on *Our space* | Keep prototyping <br>Prep formative | TBA
+**Tuesday<br>17.05**| **Formative** presentations <br>Workshop: Meet PHP, *variables* and *functions* | Keep prototyping <br>Install MAMP <br>Install WP *locally* |  
+Friday<br>20.05| Debugging PHP <br>Workshop: hacking WP themes | *Our space* branding guidelines | Destroy the Web 
+Friday<br>27.05| WP *plugins* <br>Workshop: using Advanced Custom Fields <br>WP *migration*: how to put your site on the actual Web <br>Tutorials on *Our space* | Work on *Our space* | Debugging 
+Friday<br>03.06| User-testing: 5 seconds and A/B tests <br>Tutorials on *Our space*: debugging clinic | Work on *Our space* <br>Prep summative |  
+Friday<br>10.06| **Summative presentations** |  **Summative hand-in** | What have I learned?
 
 
 # Projects
