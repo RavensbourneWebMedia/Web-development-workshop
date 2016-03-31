@@ -101,6 +101,6 @@ Google how to do it and then follow the instructions to install WordPress on you
 
 ### Blog
 
-Individually, jot down the **5 key points** for each interview as early as possible, whilst they're all still fresh in your memory. 
+*Individually*: jot down the **5 key points** for each interview as early as possible, whilst they're all still fresh in your memory. 
 
-Then write a **summary** of your interviews, in which you highlight **emerging patterns** (e.g., more than one interviewee pointing out the same issue).
+Then *with your team*: write a **summary** of your interviews, in which you highlight **emerging patterns** (e.g. more than one interviewee pointing out the same issue).
