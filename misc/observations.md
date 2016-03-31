@@ -29,6 +29,10 @@ General lack of **research** and content strategy.
 - [x] Peer learning on Visual Advocacy
 - [x] Get people to flesh out all their copy as a Google doc, and review that before we jump into coding. So GDoc > storyboard > build
 
+# [Week 10](../sessions/10)
+
+Should have included blogs in the formative hand-in checklist.
+
 # Sharing is caring
 
 Extremely important to take a **content-first** approach. 
@@ -43,6 +47,14 @@ People tend to jump into fancy-JS-parallax-scrolling-magic-wow-yet-complicated s
 	You can capture people with (more or less moving) images but then you need text (either written or spoken) to communicate precisely what you want to get across and encourage people to take action.
 * Read your copy out loud, tweak it and edit it. Then start integrating it in your page.
 * Make your page look interesting with HTML, CSS and images only. Forget JS at the  beginning.
+
+# General
+
+### Blogging
+
+Blogging regularly: maybe pick one blog a week from a random student, to keep them on their toe.
+
+Get all students to share their blog URL on Slack. Can't be Google Docs or anything else private.
 
 
 
