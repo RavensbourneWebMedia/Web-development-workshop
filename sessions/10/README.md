@@ -50,7 +50,7 @@ You can team up with whoever you want. Teams must be up to 4 people.
 Over the Easter break:
 
 1. Form your dream team for this project.
-* Interview at least 3 current or potential Web Media students (see [guidelines below](#interview-guidelines)) and [blog](#blog) about your findings.
+* Interview at least 3 current or potential Web Media students (see [guidelines below](#interview-guidelines)), then [blog](#blog) about what you found out.
 
 #### Interview guidelines
 
@@ -85,7 +85,7 @@ You can start from [this GDoc](https://docs.google.com/document/d/1FP5CgvRyOCmCa
 * Be respectful
 * Smile :smile:
 
-You can conduct the interview via Skype/Facetime.
+You can conduct the interview via Skype/FaceTime.
 
 ### Install MAMP
 
@@ -103,4 +103,4 @@ Google how to do it and then follow the instructions to install WordPress on you
 
 Individually, jot down the **5 key points** for each interview as early as possible, whilst they're all still fresh in your memory. 
 
-Then write a **summary** of your interviews, in which you highlight **emerging patterns** (eg, more than one interviewee pointing out the same issue).
+Then write a **summary** of your interviews, in which you highlight **emerging patterns** (e.g., more than one interviewee pointing out the same issue).
