@@ -29,6 +29,10 @@ General lack of **research** and content strategy.
 - [x] Peer learning on Visual Advocacy
 - [x] Get people to flesh out all their copy as a Google doc, and review that before we jump into coding. So GDoc > storyboard > build
 
+# [Week 7](../sessions/07)
+
+As a word, `goal` is more understandable than `motivation`.
+
 # [Week 10](../sessions/10)
 
 Should have included blogs in the formative hand-in checklist.
