@@ -18,7 +18,29 @@ Understanding audiences is key
 
 Content-first approach (learning from mistakes, when you dive into code and then realise that your content sucks...)
 
-Review your formative hand-ins, emerging themes
+### Regarding your formative hand-ins...
+
+Emerging themes and a few pointers:
+
+* `Untitled.md` is not a sensible file name. A `.pdf` is not a `.md` document.
+
+	Bear in mind that in some jobs / competitions your application would be automatically disqualified if you don't follow the *rules*. 
+	
+	You may complain that certain rules are arbitrary, and that stressing over them is pedantic or a waste of time, however it's important you get used to it now, rather than learning the hard way later.
+	
+	Also, noticing these small details and *conventions* will hugely help you become a **better coder**.
+
+* Linking to stuff that is only on your computer won't work, e.g. `file:///Users/Afsara/Downloads/week-3-package/index.html`
+
+	You need to **put your work online**. Best way is GitHub. [Remember GitHub and SourceTree](https://github.com/RavensbourneWebMedia/Web-Design-principles/tree/2015/sessions/01#everybody)?
+
+* When you write about something, *anything*, always think about your **readers**. 
+
+	Are they aware of what you're writing about? Do they know enough about your topic to understand what you are writing about? How do you know? Are you assuming they know? 
+
+	The best way to find out is **asking someone to read what you wrote**. If anything is not clear to them, there's a good chance many more people will find that unclear. 
+	
+	With practice, you'll become better at *spotting your own assumptions* and make your writing clearer. However, having someone else proof-read your work is always a winner (every writer does it, no matter how experienced they are).
 
 ### Rules of the road
 
