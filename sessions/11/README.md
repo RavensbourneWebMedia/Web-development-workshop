@@ -12,15 +12,31 @@ Your [homework](#homework) and [blog](#blog)!
 
 # In the previous episodes
 
-Content is king (and queen, and drag queen), 
+### Content is king (and queen, and drag queen)
 
-Understanding audiences is key
+People (the vast majority of people) come to our websites **hungry for content**.
 
-Content-first approach (learning from mistakes, when you dive into code and then realise that your content sucks...)
+They don't care about our *parallax scrolling*, *animated SVG*, *jQuery plugins* or whatever is trendy among us. 
 
-### Regarding your formative hand-ins...
+They want to **find** information and **do** something with it. 
 
-Emerging themes and a few pointers:
+### Understanding your audience(s) is key
+
+If you know who you are talking to, your communication will be much more effective.
+
+* **Goals** What do they want?
+
+* **Pain points** What are they afraid of?
+
+* **Language** How do they express themselves? What words do they use? What references do they make?
+
+### Content-first... 
+
+...code later.
+
+Learning from mistakes, when you dive into code and then realise that your content sucks.
+
+### A few pointers on your formative hand-ins
 
 * `Untitled.md` is not a sensible file name. A `.pdf` is not a `.md` document.
 
@@ -42,6 +58,7 @@ Emerging themes and a few pointers:
 	
 	With practice, you'll become better at *spotting your own assumptions* and make your writing clearer. However, having someone else proof-read your work is always a winner (every writer does it, no matter how experienced they are).
 
+<!--
 ### Rules of the road
 
 * Blogging regularly
@@ -49,15 +66,39 @@ Emerging themes and a few pointers:
 * perusing the library
 * GitHub (bounties?)
 * if you can't present during assessment you'll make YouTube videos
+-->
 
 ### Let's talk about being professional
 
-**Attendance** https://docs.google.com/spreadsheets/d/1BIMOmdpj4offNHLLiqnw9HNl3MA0IG_HKjJ1I9aCYQs/edit#gid=375850119
+#### 1. Take **ownership** of your learning journey 
+
+Don't wait for me to tell you what to do. 
+
+Experiment.
+
+Ask.
+	
+#### 2. Try and attend **every class** 
+
+Because learning **together** is more fun. 
+
+#### 3. Be a good team player
+
+If you can't attend, or are going to be late, you must **let me know**.
+
+Remember the *tardiness tax*? Every time you're late or absent and haven't emailed me about it, I'll take 2% off your final mark.
+
+What does this teach you?
+
+A quick review of your [attendance](https://docs.google.com/spreadsheets/d/1BIMOmdpj4offNHLLiqnw9HNl3MA0IG_HKjJ1I9aCYQs/edit#gid=375850119)
 
 ### Announcements
 
-* talkwebdesign.co.uk on 26.05
-* change of dates 13 > 17 May
+* Free conference for Web design students: [Talk Web Design](http://talkwebdesign.co.uk) at Greenwich University on Thursday the 26th of May. 
+
+	I know you have no lectures that day ;)
+
+* Change of dates: Friday 13th > Tuesday 17th of May
 
 
 # Team project
@@ -117,6 +158,17 @@ You can conduct the interview via Skype/FaceTime.
 ### Quantitative research
 
 Prepare a [Typeform](https://www.typeform.com) questionnaire and start collecting results.
+
+Great tips on [InfoActive Data Design](https://infoactive.co/data-design/ch04.html)
+
+<!--
+
+http://www.mymarketresearchmethods.com/survey-design-best-practices/
+
+http://www.nedarc.org/media/pdf/survey_survey_design.pdf
+
+-->
+
 
 ### Qualitative research
 
