@@ -92,7 +92,7 @@ Remember the *tardiness tax*? Every time you're late or absent and haven't email
 
 What does this teach you?
 
-A quick review of your [attendance](https://docs.google.com/spreadsheets/d/1BIMOmdpj4offNHLLiqnw9HNl3MA0IG_HKjJ1I9aCYQs/edit#gid=375850119)
+A quick review of your [attendance](https://docs.google.com/spreadsheets/d/1BIMOmdpj4offNHLLiqnw9HNl3MA0IG_HKjJ1I9aCYQs/edit?usp=sharing)
 
 ### Announcements
 
@@ -127,7 +127,7 @@ It's about being **aware** of what's out there, getting **inspired**, asking a l
 ### Competitor analysis
 
 1. Open [this GDoc](https://docs.google.com/document/d/1Op6mJGxcM18Oa14tEdSDEwa0supEjEdX7x8GbAWhBsM/edit?usp=sharing) and `File` > `Make a copy...`
-* Rename your copy by adding your first name at the beginning, eg `Billie - Content strategy`.
+* Rename your copy by adding your first name at the beginning, eg `Billie - Competitor analysis`.
 * Change the sharing settings for your document so that `Anyone with the link can comment`.
 
 	![](assets/gdoc-sharing.jpg)
