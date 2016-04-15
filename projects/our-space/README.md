@@ -59,7 +59,7 @@ When | What
  | Turn your HTML & CSS prototypes into a WP theme
 3rd of June | User-testing + debugging
 10th of June | **Summative** presentations and hand-in
- | Winning site goes live by he ned of June
+ | Winning site goes live by the end of June
 
 <!--
 ### Competitors
