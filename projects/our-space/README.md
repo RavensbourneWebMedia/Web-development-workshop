@@ -24,6 +24,42 @@ Your website must
 * be **accessible** for people with disabilities and limited devices
 * be **online** (not just on your computer), *obviously* :)
 
+### Learning goals
+
+#### Technical
+
+* Continue tinkering with **HTML** and **CSS**
+* Make Web pages dynamic using **PHP**.
+* Manage online content using **WordPress**.
+* Modify and maintain WordPress **templates and themes**.
+* Upload your project files to a Web server using **FTP**.
+
+#### Design
+
+* **Research** and understand your **audience(s)**.
+* Produce **content** that effectively addresses your audience needs, and possibly delights them.
+* Become aware of Web design **trends**.
+* Learn **good practices** in Web design, by exploring Web typography, layout, content strategy etc.
+* Start defining your *style*
+
+### Timeline
+
+When | What
+---- | ----
+15th of April | Project start 
+ | **Research**: competitor analysis, interviews and surveys
+22nd of April | User **personas** 
+ | **Content strategy**
+29th of April | Interface design: **wireframes**
+ | Collect inspirations in a **moodboard**
+6th of May | **Prototyping** with HTML&CSS 
+ | Keep prototyping
+17th of May | **Formative** presentations
+20th of May | Meet PHP and Wordpress
+ | Turn your HTML & CSS prototypes into a WP theme
+3rd of June | User-testing + debugging
+10th of June | **Summative** presentations and hand-in
+ | Winning site goes live by he ned of June
 
 <!--
 ### Competitors

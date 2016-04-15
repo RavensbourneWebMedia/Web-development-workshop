@@ -103,9 +103,15 @@ A quick review of your [attendance](https://docs.google.com/spreadsheets/d/1BIMO
 
 # Team project
 
-Key learning goals, dates, tools & methods
- 
- 
+### Our space
+
+#### On this **team project** you will *design* and *build* a website for our Ravensbourne Web Media degree
+
+You will start from **research**: user interviews and competitor analysis. You will then define a **content strategy** and iterate your design ideas through **wireframes**. Finally, you will implement your designs into a **WordPress**-based website.
+
+All the project material is [here](../../projects/our-space). 
+
+
 # Workshop
 
 Competitor analysis: define criteria, analyse, present and review
