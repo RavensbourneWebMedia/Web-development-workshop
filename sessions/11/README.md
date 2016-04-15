@@ -12,6 +12,8 @@ Your [homework](#homework) and [blog](#blog)!
 
 # In the previous episodes
 
+![](assets/twitter-no-text.gif)
+
 ### Content is king (and queen, and drag queen)
 
 People (the vast majority of people) come to our websites **hungry for content**.
@@ -114,9 +116,24 @@ All the project material is [here](../../projects/our-space).
 
 # Workshop
 
-Competitor analysis: define criteria, analyse, present and review
+Every project starts from **research**.
 
-Xtensio
+When building a site (or any *product* or *service*) you should begin by checking out how your **competitors**  are addressing similar (or the same) problems to those you are tackling with your design.
+
+Analysing your competitors is not *cheating* or *stealing their ideas* (believe it or not, many students have this misconception).
+
+It's about being **aware** of what's out there, getting **inspired**, asking a lot of *why* **questions**, and *would this work for my audience?* and *how could I improve that?*
+
+### Competitor analysis
+
+1. Open [this GDoc](https://docs.google.com/document/d/1Op6mJGxcM18Oa14tEdSDEwa0supEjEdX7x8GbAWhBsM/edit?usp=sharing) and `File` > `Make a copy...`
+* Rename your copy by adding your first name at the beginning, eg `Billie - Content strategy`.
+* Change the sharing settings for your document so that `Anyone with the link can comment`.
+
+	![](assets/gdoc-sharing.jpg)
+* Share the link to your document with us on Slack. 
+* Identify the **websites of 2 competitor courses** to our Web Media BA degree. These could be degree courses that you have previously applied to, or considered applying to. 
+* For each competitor, analyse their website **features**, **language** and target **audience(s)**
 
 
 # Interviewing humans
