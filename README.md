@@ -17,6 +17,8 @@ This includes:
 
 # Plan
 
+### Term 2
+
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
 [Wednesday<br>06.01](sessions/01)| Welcome <br>Workshop: *HTML & CSS recap* <br>Project: [**Sharing is caring**](#sharing-is-caring) | Video tutorials of your CSS trick | Sharing is caring
@@ -29,7 +31,11 @@ Week 6| | |
 [Friday<br>26.02](sessions/08)| Peer learning: *Visualising information for advocacy*<br>Tutorials on *Sharing is caring* | *Sharing is caring:* brain-catching mock ups | Infographics, good and bad  
 [Friday<br>04.03](sessions/09)| Tutorials on *Sharing is caring* with Tor <br>Team project: [**Our space**](#our-space) | Prep formative | Interviewing humans
 [Friday<br>11.03](sessions/10)| **Formative** video-presentations | Form teams for *Our space* <br>Install MAMP <br>Install WP *locally* | Interviewing your target audience
-Easter break| | | 
+
+### Term 3
+
+When | In class | Homework | Blog 
+---- | -------- | -------- | ----
 [Friday<br>15.04](sessions/11)| Recap<br>Competitor analysis <br>User interviews planning | Qualitative research: *interviews* <br>Quantitative research: *questionnaire* | *Our space* interviews insights
 Friday<br>22.04| Personas<br> Content strategy | Peer learning research: *GoodUI* | *Our space* persona(s)  
 Friday<br>29.04| Peer learning on *GoodUI* <br>Workshop: *wireframing* <br>Wireframes critique | Moodbard: collect inspirations | Webdesign trends
