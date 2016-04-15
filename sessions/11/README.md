@@ -131,23 +131,42 @@ It's about being **aware** of what's out there, getting **inspired**, asking a l
 * Change the sharing settings for your document so that `Anyone with the link can comment`.
 
 	![](assets/gdoc-sharing.jpg)
-* Share the link to your document with us on Slack. 
+* Share the link to your document with us on the Slack `#web-dev-workshop` channel. 
 * Identify the **websites of 2 competitor courses** to our Web Media BA degree. These could be degree courses that you have previously applied to, or considered applying to. 
 * For each competitor, analyse their website **features**, **language** and target **audience(s)**
+
+* `60 minutes` to **analyse** your competitors
+* `60 minutes` to **present** your work-in-progress to everyone else
+* `30 minutes` to **tweak** it (you'll be inspired after hearing what other people have analysed)
 
 
 # Interviewing humans
 
-In teams, discuss and prepare an interview script for your core audience.
+Over the next week, you'll conduct some **qualitative** and **quantitative** research.
+
+![](assets/qualitative-quantitative.png)
+
+#### Quantitative research
+
+Observe and **measure**.
+
+Useful to answer **what** and **how** (how much, how often..) types of questions.
+
+**Surveys** and **analytics** are (mostly) quantitative methods.
+
+#### Qualitative research
+
+Qualitative research is useful to answer **why** type of questions.
+
+**Interviews** are (mostly) qualitative methods.
 
 #### Interview guidelines
 
-You can start from [this GDoc](https://docs.google.com/document/d/1FP5CgvRyOCmCam_WfOAabZz4VP9BMOy0nw6-GXZwopM/edit?usp=sharing), where we jotted down some initial thoughts and possible questions to ask in face2face interviews or via online forms.
-
 1. **Plan**: prepare a discussion guide, know what information you want to get our of the interview.
-* Prepare a **guide, not a script**: let the conversation flow, and steer it gently.
-* **Test** your interview (with family and friends).
-* Go to **their place**, in a space where they're comfortable, best if the space where they use the product(s) you want to test / talk about. Let them show you around.
+	
+	Prepare a **guide, not a script**: let the conversation flow, and steer it gently.
+* **Test** your interview (with team mates, family or friends).
+* If possible go to **your interviewee's place**, in a space where they're comfortable, best if the space where they use the product(s) you want to test / talk about. Let them show you around.
 * Easier if you interview **pairs** of users: they'll be less anxious.
 * **Listen**. Don't talk about yourself.
 * Be comfortable with **silence**: give people time and space to answer your question.
@@ -157,7 +176,6 @@ You can start from [this GDoc](https://docs.google.com/document/d/1FP5CgvRyOCmCa
 	**Use examples** to help people understand the type of answer you are after.
 	
 	**Help participants tell their stories**, what happened before and after. And what would have happened if...
-
 * Avoid **leading questions**. Try not to bias your interviewees.
 
 	bad > `How much do you love using XYZ?`
@@ -173,16 +191,28 @@ You can start from [this GDoc](https://docs.google.com/document/d/1FP5CgvRyOCmCa
 * Be respectful
 * Smile :smile:
 
-You can conduct the interview via Skype/FaceTime.
+### Your turn
+
+In teams, discuss and prepare an **interview guide** for your core audience.
+
+* `15 minutes` to **prepare the guide** (write it on GDoc and share the link with everyone on the Slack `#web-dev-workshop` channel)
+* `30 minutes` to **test** it with other teams and **tweak** it
+
+You can start from [this GDoc](https://docs.google.com/document/d/1FP5CgvRyOCmCam_WfOAabZz4VP9BMOy0nw6-GXZwopM/edit?usp=sharing), where we jotted down some initial thoughts and questions you could ask.
 
 
 # Homework
 
 ### Quantitative research
 
-Prepare a [Typeform](https://www.typeform.com) questionnaire and start collecting results.
+With your team:
 
-Great tips on [InfoActive Data Design](https://infoactive.co/data-design/ch04.html)
+1. Prepare an **online survey** for your target audience using [Typeform](https://www.typeform.com) (free tool).  
+	
+	You can find great tips on how to design surveys on [InfoActive Data Design](https://infoactive.co/data-design/ch04.html).
+	
+	Here's an [example of a Typeform](https://ravewebmedia.typeform.com/to/VNY71E) which I'm going to test at the [London UCAS convention](https://www.ucasevents.com/ucas/frontend/reg/tOtherPage.csp?pageID=733913&eventID=1525&mainFramePageID=733913&redirecting=1&eventID=1525) on Monday 18th and Tuesday 19th (next week). Feel free to take inspiration from it :)
+* Share the survey on your social networks (for instance the Web Media FB groups) and start collecting results.
 
 <!--
 
@@ -192,13 +222,16 @@ http://www.nedarc.org/media/pdf/survey_survey_design.pdf
 
 -->
 
-
 ### Qualitative research
 
-Interview at least 5 people who you identified as part of your core audience (see [guidelines above](#interview-guidelines)), then [blog](#blog) about what you found out.
+**Interview** people who you identified as part of your website audience (see [guidelines above](#interview-guidelines)), then [blog](#blog) about what you found out.
+
+You can conduct your interviews over the phone, or via Skype/FaceTime.
+
+Between now and next Friday, your team should have interviewed **at least 5 people** (1-2 interviews per team member). The more the better!
 
 ### Blog
 
-*Individually*: jot down the **5 key points** for each interview as early as possible, whilst they're all still fresh in your memory. 
+*Individually*: jot down the **5 key points** for each interview as early as possible (ideally right after your interview is over) whilst they're all still fresh in your memory. 
 
 Then *with your team*: write a **summary** of your interviews, in which you highlight **emerging patterns** (e.g. more than one interviewee pointing out the same issue).
