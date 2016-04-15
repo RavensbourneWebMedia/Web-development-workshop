@@ -200,6 +200,19 @@ In teams, discuss and prepare an **interview guide** for your core audience.
 
 You can start from [this GDoc](https://docs.google.com/document/d/1FP5CgvRyOCmCam_WfOAabZz4VP9BMOy0nw6-GXZwopM/edit?usp=sharing), where we jotted down some initial thoughts and questions you could ask.
 
+#### Test
+
+Interview each others, in pairs.
+
+One person conducts the interview, the other takes notes. Swap roles as you please.
+
+After the interviews, consider:
+
+* What were the most successful questions? Why did they work?
+* How could you rephrase the less successful ones to get better answers?
+* Have you thought of follow-up questions?
+
+
 
 # Homework
 
