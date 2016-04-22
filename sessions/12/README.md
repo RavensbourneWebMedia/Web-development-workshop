@@ -65,7 +65,7 @@ You'll see how team discussions will be much more focused when you use personas,
 
 In order to be a **useful** design tool personas should **challenge** your design decisions, not simply validate them.
 
-#### What dimensions are used to cluster users into a persona? 
+#### What dimensions are used to group users into a persona? 
 
 1. **Behaviours**, what users do
 * **Attitudes**, what users expect 
@@ -74,7 +74,7 @@ In order to be a **useful** design tool personas should **challenge** your desig
 
 Choosing relevant dimensions is the trickiest part of creating useful personas (more on this in the example below). 
 
-#### What dimensions should NOT be used to cluster users into a persona? 
+#### What dimensions should NOT be used to group users into a persona? 
 
 1. Age
 * Gender
@@ -88,6 +88,18 @@ In order to answer the above questions usefully and help you make effective desi
 #### Real data <sup>DO
 
 `+` Do base your personas on **real data**: people that you know or have interviewed / surveyed.
+
+#### Extreme <sup>DO
+
+`+` Do rather go for the **extreme cases**, and the middle will take care of itself. For example: design for children that can't read well yet, or for children that are not familiar with the internet, etc.
+
+#### Needs and goals <sup>DO
+ 
+`+` Do base your personas on **needs**, **goals**, and dimensions that have a direct impact on their interaction with the product you're designing.
+
+#### Casuality <sup>DO
+
+`+` Do focus on **causality**: what are the **reasons** your personas behave in a certain way? What **drives** them in their choices?
 
 #### Fiction <sup>DON'T 
 
@@ -107,21 +119,9 @@ Personas should challenge your design decisions, not simply mirror them.
 
 `-` Don't **oversimplify** your personas: real people are complex, not shallow and generic.
 
-#### Extreme <sup>DO
-
-`+` Do rather go for the **extreme cases**, and the middle will take care of itself. For example: design for children that can't read well yet, or for children that are not familiar with the internet, etc.
-
-#### Needs and goals <sup>DO
- 
-`+` Do base your personas on **needs**, **goals**, and dimensions that have a direct impact on their interaction with the product you're designing.
-
 #### Demographics <sup>DON'T
  
 `-` Don't worry about demographic detail: just enough to help us get to know this persona. For example *Ben, 46, father of a girl and a primary school teacher*
-
-#### Casuality <sup>DO
-
-`+` Do focus on **causality**: what are the reasons your personas behave in a certain way? What drives them in their choices?
 
 ## Your turn
 
