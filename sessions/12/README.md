@@ -218,15 +218,25 @@ Each team will **research one pattern**.
 
 Who | What
 --- | ----
-Darren & Malore | TBA
-Shajee & Afsara  | TBA
-Dean & Melissa | TBA
-Josh & Mark | TBA
-Akvile & Ben | TBA
-Jennifer & Joe | TBA
-Tom & Francisco | TBA
-Rajeev & Kaleshe & Rosie | TBA
-Ajay & Will | TBA
+Rosie & Afsara  | [Social proof](http://goodui.org/#4)
+Tom & Francisco | [Telling who it's for](http://goodui.org/#9)
+Rajeev & Kaleshe | [Selling benefits](http://goodui.org/#24)
+Ajay & Will | [Loss aversion](http://goodui.org/#30)
+Josh & Mark | [Icon labels](http://goodui.org/#47) 
+Darren & Malore | [Natural language](http://goodui.org/#48)
+Akvile & Ben | [Authenticity](http://goodui.org/#65) 
+Dean & Melissa | [Putting others first](http://goodui.org/#67)
+Jennifer & Joe & Shajee | [Concise copy](http://goodui.org/#69)
+
+<!--
+[Benefit buttons](http://goodui.org/#18)
+[Fewer borders](http://goodui.org/#23)
+[Anchoring](http://goodui.org/#41)
+[Friendly comparisons](http://goodui.org/#48)
+[Personality](http://goodui.org/#12) 
+[Urgency](http://goodui.org/#35) 
+[Recommending](http://goodui.org/#7)
+-->
 
 ### Blog
 
