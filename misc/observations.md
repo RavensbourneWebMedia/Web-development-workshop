@@ -52,6 +52,18 @@ People tend to jump into fancy-JS-parallax-scrolling-magic-wow-yet-complicated s
 * Read your copy out loud, tweak it and edit it. Then start integrating it in your page.
 * Make your page look interesting with HTML, CSS and images only. Forget JS at the  beginning.
 
+
+# [Week 12](../sessions/12)
+
+Xtensio is a really useful tool to create **personas**. Need to question people's choices in relation to the default template. 
+
+People got slightly confused by the personas *dimensions* (behaviours, limitations etc not demographics). A good example could be: 
+
+> We are planning to create two personas: one representing current students and one representing parents. 
+
+> Ali is in his 40s, has 2 children, and is a current student at Ravensbourne. For the sake of our personas we won't consider Ali's age and parental status. What really matters to us is that Ali is a student, so we'll put Ali  *with* the students.
+
+
 # General
 
 ### Blogging
