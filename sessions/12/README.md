@@ -199,6 +199,10 @@ Next week we'll **test** your first draft (read out loud) between us.
 
 # Homework
 
+### Copy-writing
+
+Keep working on your website's [**copy**](#copy) with your team. Next week we'll **test** your first draft (read out loud) between us.
+
 ### Peer-learning research
 
 Design **patterns** are a way to describe *solutions* to common *challenges*. 
