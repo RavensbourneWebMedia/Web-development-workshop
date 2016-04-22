@@ -3,8 +3,8 @@
 ### Today, Friday 22nd April 2016
 
 1. [Personas](#personas): putting a face on your research data
-* [Content strategy](#content-strategy): what *information* are your personas looking for?
-* [Workshop](#workshop): make a *content-map* and draft the **copy** of your site
+* [Content strategy](#content-strategy): what **information** are your personas looking for?
+* [Workshop](#workshop): make a **content map** and draft the **copy** of your site
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -156,8 +156,46 @@ Make sure you pick meaningful *dimensions* (not just the standard Xtensio templa
 
 # Workshop
 
-- [ ] 60 make a *content-map* 
-- [ ] 60 draft the **copy** of your site
+By now you should have an idea of **who** your target users are and **what** they want from the website you're designing.
+
+The next steps in the process are:
+
+- map your **content** 
+- draft the **copy** of your site
+
+We'll start both these steps today, but by no means they will be *finished* after the first attempt.
+
+A solid design process is based on **iterations**: 
+
+1. You come up with an **idea** (for content, for a layout, for a campaign etc.)
+2. **Prototype** it 
+3. **Test** it with a bunch of people
+4. With the results from your test, go back to the *drawing board* and refine (or scrap) your idea. And **repeat**!
+
+![](assets/iterative-process.png)
+
+### Content map
+
+`60 minutes`
+
+Start mapping out your content on **post-its** and arrange them on a large sheet of **paper**.
+
+Don't worry about *interfaces* and *layout* for now. 
+
+As you map your content, you can think of clustering sets of post-its into *pages*.
+
+### Copy
+
+`60 minutes`
+
+Create a GDoc (name it as `YOUR_TEAM - content strategy` where `YOUR_TEAM` is the name of your team) and share it with *everyone* on Slack (make sure `Anyone with the link` can at least `comment`).
+
+With your [*personas*](#personas) and [*content map*](#content-map) in mind, **draft** the copy of your site.
+
+Next week we'll **test** your first draft (read out loud) between us.
+
+<!--**Edit** your draft: remove the bits that are not so important, and tweak the other bits to sound like what your audience(s) may want to read.-->
+
 
 # Homework
 
