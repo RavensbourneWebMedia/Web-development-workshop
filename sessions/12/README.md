@@ -11,17 +11,25 @@ Your [homework](#homework) and [blog](#blog)!
 
 # Research review
 
+<!-- 15 -->
+
 What is **emerging** from your research (competitor analysis, interviews and questionnaires) so far?
 
 **Discuss** your key insights with your team for 5 minutes, then **tell** everyone else (1 minute per team).
 
 # Personas
 
+<!-- 15 -->
+
+![](https://xtensio.com/wp-content/uploads/2015/07/personahowto.png)
+
 ### What are user personas?
 
 Personas are **fictional** characters based on **real data** from user research.
 
 They allow you to visualise **users with common behavioural patterns** in their purchasing decisions, use of technology or products, customer service preferences, lifestyle choices, etc. 
+
+By building personas you can better understand and talk about your **types** of users.
 
 <!--
 
@@ -117,19 +125,34 @@ Personas should challenge your design decisions, not simply mirror them.
 
 ## Your turn
 
-Create **two personas** that represent your target audience, using [Xtensio](https://xtensio.com/user-persona/).
+<!-- 60 make, 30 discuss -->
 
-Make sure we pick meaningful dimensions (not just the standard template)
+With your team: create **three personas** that represent your target audience, using [Xtensio](https://xtensio.com/user-persona/).
+
+Make sure you pick meaningful *dimensions* (not just the standard Xtensio template).
+
+* `60 minutes` to **make** your personas
+* `30 minutes` to **present** your work-in-progress to everyone else
 
 
 # Content strategy
 
-60 Group discussion with GDoc / mindmap / post-its?
+`30 minutes`
 
-- [ ] Questions: 
-	- How do your personas represent your **target audience(s)**? Just to make sure we haven't missed out the obvious bit.
-	- What ***information*** are your personas looking for? Let's make an `ol` of information your research indicates people are looking for (in order of perceived importance)
-	- What **language** do they respond to? In other words, how can you *dress* that information so that it's appealing to your audience? Let's write down some recommendations
+**Discuss** with your team the questions below and **write down** your notes in a GDoc (**share** it with everyone in Slack). 
+
+- How do your personas represent your **target audience(s)**?   
+
+	Just to make sure we haven't missed out the obvious bit.
+	
+- What **information** are your personas looking for? 
+
+	Make a **list** of information people are looking for, in order of perceived importance (based on your research, ie interviews and surveys, and on your own experience).
+
+- What **language** do your personas respond to?   
+
+	In other words, how can you *dress* that information so that it's appealing to your audience? Write down some ideas or examples.
+
 
 # Workshop
 
