@@ -13,7 +13,7 @@ Your [homework](#homework) and [blog](#blog)!
 
 <!-- 15 -->
 
-What is **emerging** from your research (competitor analysis, interviews and questionnaires) so far?
+What is **emerging** from your research (competitor analysis, interviews and online surveys) so far?
 
 **Discuss** your key insights with your team for 5 minutes, then **tell** everyone else (1 minute per team).
 
@@ -201,11 +201,36 @@ Next week we'll **test** your first draft (read out loud) between us.
 
 ### Peer-learning research
 
-- [ ] [Good UI](https://github.com/RavensbourneWebMedia/UX-design/blob/2015/sessions/session-05.md)
+Design **patterns** are a way to describe *solutions* to common *challenges*. 
+
+<!--They explain *interaction models* and *layout structures* that make it easier for users to understand an interface and accomplish their goals.-->
+
+[GoodUI](http://goodui.org) is an excellent resource for UI (**U**ser **I**nterface) patterns.
+
+Each team will **research one pattern**. 
+
+1. Explain **how** that pattern works and **why**. 
+* Show a few **examples** of the pattern in action. Both *good and bad examples*.   
+* To make your mini-lesson interactive and memorable, ask **questions** to the rest of the class. For instance, you can ask people:
+	* if they agree/disagree with a statement
+	* guess a fact/figure before you reveal the answer
+ 	* how they feel about an example you are showing them
+
+Who | What
+--- | ----
+Darren & Malore | TBA
+Shajee & Afsara  | TBA
+Dean & Melissa | TBA
+Josh & Mark | TBA
+Akvile & Ben | TBA
+Jennifer & Joe | TBA
+Tom & Francisco | TBA
+Rajeev & Kaleshe & Rosie | TBA
+Ajay & Will | TBA
 
 ### Blog
 
-Blog about how your persona(s) reflect(s) what you learned in your interviews 
+Blog about how your **personas** reflect what you learned from your research (interviews and online survey). 
 
 
 
