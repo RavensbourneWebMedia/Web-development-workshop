@@ -9,11 +9,17 @@
 Your [homework](#homework) and [blog](#blog)!
 
 
+# Research review
+
+What is emerging from your research (competitor analysis, interviews and questionnaires) so far?
+
+Discuss your key insights with your team for 5 minutes, then tell everyone else (1 minute per team).
+
 # Personas
 
 <!-- 120 --> 
 
-- [ ] Check people's interviews and questionnaires
+- [ ] 
 - [ ] intro https://github.com/RavensbourneWebMedia/UX-design/tree/2016/sessions/05
 - [ ] ws using [Xtensio](https://xtensio.com/user-persona/), make sure we pick meaningful dimensions (not just the standard template)
 
