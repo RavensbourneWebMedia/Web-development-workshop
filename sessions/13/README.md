@@ -82,6 +82,14 @@ Here are two excellent resources on *how to write* good Web content. Get inspire
 * [Writing style guide from GOV.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
 * [Voice & tone by Mailchimp](http://styleguide.mailchimp.com/voice-and-tone)
 
+Here's an example of how we collectively edited a sentence:
+
+1. Ravensbourne offers a 3 year programme that <del>opens doors to</del> unrivalled industry links and excellent graduate employment rates
+* <del>Ravensbourne offers</del> a 3 year programme **with** unrivalled industry links and excellent graduate employment rates 
+* <del>**Become part of**</del> a 3 year programme with unrivalled industry links and excellent graduate employment rates
+* **Join** a <del>3 year</del> programme with unrivalled industry links and excellent graduate employment rates 
+* Join a programme with unrivalled industry links and excellent employment rates 
+
 
 # Typesetting
 
