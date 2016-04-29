@@ -15,7 +15,7 @@ Design **patterns** are a way to describe *solutions* to common *challenges*.
 
 [GoodUI](http://goodui.org) is an excellent resource for UI (**U**ser **I**nterface) patterns.
 
-Each team will **research one pattern**. 
+Each team will **present one pattern**. 
 
 * Explain **how** that pattern works and **why**. 
 * Show a few **examples** of the pattern in action. Both *good and bad examples*.   
@@ -46,7 +46,9 @@ Jennifer & Joe & Shajee | [Concise copy](http://goodui.org/#69)
 
 Today we'll **test and edit** your first draft.
 
-### Your turn
+## Your turn
+
+### Test!
 
 You'll be working with another team. 
 
@@ -67,4 +69,15 @@ Before you start, switch on the `Suggesting mode` in your GDoc.
 * Swap roles. Team B read their chosen part to Team A, who listen and comment on it.
 * Repeat this test for *at least three parts* of your copy.
 
-Now **edit your draft**: remove the bits that are not so important, integrate those which are missing, and tweak the other bits to sound like what your audience(s) may want to read.
+### Edit!
+
+Now **edit your draft**: 
+
+* Remove the bits that are not so important
+* Integrate those which are missing
+* Tweak the other bits to sound like what your audience(s) may want to read.
+
+Here are two excellent resources on *how to write* good Web content. Get inspired!
+
+* [Writing style guide from GOV.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
+* [Voice & tone by Mailchimp](http://styleguide.mailchimp.com/voice-and-tone)
