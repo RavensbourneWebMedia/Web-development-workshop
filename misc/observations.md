@@ -63,6 +63,11 @@ People got slightly confused by the personas *dimensions* (behaviours, limitatio
 
 > Ali is in his 40s, has 2 children, and is a current student at Ravensbourne. For the sake of our personas we won't consider Ali's age and parental status. What really matters to us is that Ali is a student, so we'll put Ali  *with* the students.
 
+# [Week 13](../sessions/13)
+
+Typecast kind of sucks.
+
+It would be nice to use GridLover, but it doesn't allow you to save your projects (it seems to cache the HTML locally, but CSS edits get lost). 
 
 # General
 
