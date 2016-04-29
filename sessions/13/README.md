@@ -4,7 +4,7 @@
 
 1. [Peer-learning presentations](#peer-learning) 
 * [Content strategy](#content-strategy): read out loud and edit!
-* Workshop: typesetting
+* Workshop: [typesetting](#typesetting)
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -81,3 +81,41 @@ Here are two excellent resources on *how to write* good Web content. Get inspire
 
 * [Writing style guide from GOV.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
 * [Voice & tone by Mailchimp](http://styleguide.mailchimp.com/voice-and-tone)
+
+
+# Typesetting
+
+### Content is mostly **text**
+
+[![](assets/95-percent-typography.png)](https://ia.net/know-how/the-web-is-all-about-typography-period)
+
+**Text** carries [95%](https://ia.net/know-how/the-web-is-all-about-typography-period) of your page's **meaning**, and gives **context** to your media (images, videos etc.)
+
+You can capture people with (more or less moving) images but then you need text to:
+
+* **communicate** precisely the message(s) you want to get across 
+* **persuade** people to take action
+
+> Just choosing a font is not typography.
+
+> It is your job as a web designer to make sure that text is **easy and nice to read** on all browsers and platforms. 
+
+> Correct leading (line height), word and letter spacing, active white space, and dosed use of colour help **readability**.
+
+> In summary, treat **text as a User Interface**.
+
+### Your turn
+
+Let's start designing how your text looks. In other words: **typesetting**.
+
+1. *With your team*: read and discuss [10 common typography mistakes](http://www.thedesigncubicle.com/2008/12/10-common-typography-mistakes/)
+* *Individually*: go to [typecast.com](https://typecast.com) and sign up. 
+
+	[![](assets/typecast.png)](https://typecast.com)
+
+	Choose one part of your website's copy and paste it into Typecast. 
+
+	Start playing around with fonts, proportions, line-heights, white space and colours. If you like structure, you can try [GridLover](http://www.gridlover.net/try).
+	
+	**Take screenshots** of each variations you produce (you'll have to submit those at the end of this project).
+
