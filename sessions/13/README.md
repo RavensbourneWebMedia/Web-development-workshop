@@ -150,4 +150,17 @@ Heads up: these are not throw-aways! Make sure you take screenshots of your wire
 
 ### Moodboard
 
+*As a team*: create a **moodboard** for your website design.
+
+* Use [Pinterest](https://www.pinterest.com) to assemble all your inspirations and ideas
+* Include at least 3 websites that you consider *worth copying* (and explain in the comments what you're going to *steal* from them and why)
+* Post screenshots of both macro-views (entire pages) as well as micro-views (details)
+* You can also post your own sketches, photos or any other material that can help you and us understand and talk about which direction your design is moving towards
+
+There are tons of [moodboards on Pinterests tagges as *webdesign*](https://www.pinterest.com/search/boards/?q=webdesign).
+
+Also, check out [SiteInspire](http://www.siteinspire.com) and [Panda](https://usepanda.com)!
+
+![](assets/site-inspire.png)
+
 ### Blog
