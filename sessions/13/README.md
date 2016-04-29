@@ -127,3 +127,27 @@ Let's start designing how your text looks. In other words: **typesetting**.
 	
 	**Take screenshots** of each variations you produce (you'll have to submit those at the end of this project).
 
+
+# Homework
+
+### Wireframes
+
+Wireframes are about **content**, **context** and **interaction**. 
+
+* Use **real content**, never *lorem ipsum*. 
+	
+* **Words** are key. [Interface design is copywriting](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php)
+	
+* Think about **button labels**, how do you label user actions: is it `Share` or `Post` or `Publish` or `Say it!` or `Broadcast` for instance?  
+
+*Individually*: **wireframe two pages** for the Rave Web Media website using [Moqups](https://moqups.com/).
+
+[![](assets/moqups.png)](https://moqups.com/)
+
+The goal is to get your idea down on paper so that you can **present** it to everyone else later. This is to help others **visualise** your ideas and give you **feedback**. 
+
+Heads up: these are not throw-aways! Make sure you take screenshots of your wireframes. These will document how your idea is evolving and **you will be marked on this**.
+
+### Moodboard
+
+### Blog
