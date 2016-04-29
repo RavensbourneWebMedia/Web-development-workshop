@@ -38,7 +38,7 @@ When | In class | Homework | Blog
 ---- | -------- | -------- | ----
 [Friday<br>15.04](sessions/11)| Recap<br>Competitor analysis <br>User interviews planning | Qualitative research: *interviews* <br>Quantitative research: *questionnaire* | *Our space* interviews insights
 [Friday<br>22.04](sessions/12)| Personas<br> Content strategy | Peer learning research: *GoodUI* | *Our space* personas  
-Friday<br>29.04| Peer learning on *GoodUI* <br>Workshop: *wireframing* <br>Wireframes critique | Moodbard: collect inspirations | Webdesign trends
+[Friday<br>29.04](sessions/13)| Peer learning on *GoodUI* <br>Workshop: *typesetting* | Moodbard: collect inspirations <br>Wireframes | Webdesign trends
 Friday<br>06.05| Front-end frameworks <br>Prototyping with HTML&CSS <br>Tutorials on *Our space* | Keep prototyping <br>Prep formative | TBA
 **Tuesday<br>17.05**| **Formative** presentations <br>Workshop: Meet PHP, *variables* and *functions* | Keep prototyping <br>Install MAMP <br>Install WP *locally* |  
 Friday<br>20.05| Debugging PHP <br>Workshop: hacking WP themes | *Our space* branding guidelines | Destroy the Web 
