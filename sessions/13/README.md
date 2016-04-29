@@ -164,3 +164,11 @@ Also, check out [SiteInspire](http://www.siteinspire.com) and [Panda](https://us
 ![](assets/site-inspire.png)
 
 ### Blog
+
+Read and blog about [10 common typography mistakes](http://www.thedesigncubicle.com/2008/12/10-common-typography-mistakes/)
+
+You can use the following questions as a guide for your blogging:
+
+* Have you made any of these mistakes? (It's ok, we all have) 
+* Can you show a few examples of websites that feature one (or more) of these mistakes?
+* How can you avoid making any of these mistakes in the Rave Web Media website you're designing?
