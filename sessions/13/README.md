@@ -2,9 +2,9 @@
 
 ### Today, Friday 29th April 2016
 
-1. Peer-learning presentations 
-* Copywriting: read out-lout and editing
-* Workshop: wireframing
+1. [Peer-learning presentations](#peer-learning) 
+* [Content strategy](#content-strategy): read out loud and edit!
+* Workshop: typesetting
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -40,3 +40,31 @@ Jennifer & Joe & Shajee | [Concise copy](http://goodui.org/#69)
 ### Paste your links (slides, research, inspirations) on [this GDoc.](https://docs.google.com/document/d/1HIpwLhBqKPyxLBTkOX0eIQckrT1QEJfbqi4eUmICmZ4/edit?usp=sharing)
 
 
+# Content strategy
+
+[Last week](../12) you started working on your website's [**copy**](../12#copy). 
+
+Today we'll **test and edit** your first draft.
+
+### Your turn
+
+You'll be working with another team. 
+
+Before you start, switch on the `Suggesting mode` in your GDoc.
+
+![](assets/suggesting.png)
+
+1. Team A: choose one part (a couple of paragraphs) of your website *copy* and **read it out loud** to Team B.
+* Team B: listen and answer these questions about what you just heard 
+
+	* Who is this copy for?
+	* When do users read this? What may they **feel** at that point?
+	* What do users **need to know** (in the context of this element)? Is there any information missing? Is there too much information?
+	* What must they do now, if anything? Is there a **call to action**? 
+	* Are there any bits that **sound clunky** or don't flow?
+	* **How else** could this copy be written?
+* Team A: take notes about what may need tweaking, jot down comments and ideas.
+* Swap roles. Team B read their chosen part to Team A, who listen and comment on it.
+* Repeat this test for *at least three parts* of your copy.
+
+Now **edit your draft**: remove the bits that are not so important, integrate those which are missing, and tweak the other bits to sound like what your audience(s) may want to read.
