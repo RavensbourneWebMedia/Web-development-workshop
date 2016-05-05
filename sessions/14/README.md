@@ -89,15 +89,60 @@ In essence HTML + CSS prototypes can **save you time** and money.
 **Your product will be viewed in a browser** so it makes sense to use the browser (and its *native* languages) early on in the creative process, doesn't it?
 	
 	
+## How to prototype with code?
 
 
 
+- [ ] [The ultimate guide to designing in the browser](http://usersnap.com/blog/guide-designing-in-the-browser/)
+- [ ] [Tips for designing in the browser](http://webdesign.tutsplus.com/articles/tips-for-designing-in-the-browser--webdesign-10340)
+- [ ] [How I rapidly prototype websites](http://blog.teamtreehouse.com/rapidly-prototype-websites)
+- [ ] Use Chrome Web-tools inspector
+
+
+
+
+Start *translating* your **wireframes** into HTML & CSS.
+
+* Make **up to 3 HTML pages**, eg: *checkout*, *about* and *home*. If your project has less than 3 pages, show different *states* for a page, eg: before and after submitting a form
+
+* You can **initialise** this task using [Bootstrap](http://getbootstrap.com/) or [Skeleton](http://getskeleton.com/) to lay the foundations of your pages
+
+* First, **structure the content** of your chosen pages with HTML. Decide what tags are appropriate for your content: consider [**semantic** tags](http://www.w3schools.com/html/html5_semantic_elements.asp) like `<header>`, `<footer>`, `<section>` and `<nav>`. Use `<div>` elements as your *last resort*
+
+* Then, apply **design and style** with CSS. If you're using a  boilerplate or framework, don't tamper with their CSS files. Instead, create your own separate `style.css` (or whatever you decide to call it). Even better, create many CSS files, eg: `general-rules.css`, `typography.css`, `colours.css`, `slider.css`, `home.css`...
+
+
+### HTML & CSS prototypes
+
+Remember prototypes are not about the final look and feel. 
+
+Keep them *unfinished* and focus on real content and navigation, flesh out as many pages as possible.
+
+You can use a framework like [Skeleton](http://getskeleton.com) or [Bootstrap](http://getbootstrap.com).
+
+Skeleton is easier to learn, Bootstrap is more complex but also very popular and has lots more hackable themes and tools (see below)
+
+
+<!--
+### Hungry for more CSS tutorials?
+
+You can find loads of animation [tutorials on Codrops](http://tympanus.net/codrops/category/tutorials), using a mix of CSS and SVG (scalable vector graphics).
+-->
 
 
 
 
 # Front-end frameworks
 
+
+### Tools
+
+Bootstrap builders
+
+- [ ] http://blocsapp.com
+- [ ] http://brix.io
+- [ ] http://www.bootply.com
+- [ ] http://pingendo.com (FREE!)
 
 
 
