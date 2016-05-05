@@ -4,7 +4,7 @@
 
 1. Front-end frameworks 
 * Prototyping with HTML&CSS 
-* Tutorials on *Our space* 
+* [Tutorials](#tutorials) on *Our space* 
 
 <!---->
 - [ ] HEADS UP! Next session will be **Tuesday** 17th 
@@ -12,6 +12,19 @@
 Your [homework](#homework) and [blog](#blog)!
 
 
+
+
+
+# Tutorials
+
+### Content + wireframes
+
+* Is anything important missing from this page?
+* Is the most important content the first thing you notice?
+* Is there anything on this page that shouldn't be there?
+* Do you know what all of the elements on this page are?
+* Can you get to all of the major sections of the site from here? Should you be able to?
+* Do all of the labels make sense?
 
 
 # Homework
