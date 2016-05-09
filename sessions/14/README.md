@@ -212,23 +212,10 @@ Keep the [Bootstrap *manual*](http://getbootstrap.com/css) open and look up how 
 
 * Then, apply **design and style** with CSS. If you're using a  boilerplate or framework, don't tamper with their CSS files. Instead, create your own separate `style.css` (or whatever you decide to call it). Even better, create many CSS files, eg: `general-rules.css`, `typography.css`, `colours.css`, `slider.css`, `home.css`...
 
--->
-
-
-
-
-<!--
 ### Hungry for more CSS tutorials?
 
 You can find loads of animation [tutorials on Codrops](http://tympanus.net/codrops/category/tutorials), using a mix of CSS and SVG (scalable vector graphics).
 -->
-
-
-
-
-
-
-
 
 
 # Tutorials
@@ -247,11 +234,11 @@ You can find loads of animation [tutorials on Codrops](http://tympanus.net/codro
 
 ### Keep prototyping 
 
-Prototype **up to 3 HTML pages**. If your project has less than 3 pages, show different *states* for a page, eg: before and after submitting a form
+Prototype **up to 3 HTML pages**. If your project has less than 3 pages, show different *states* for a page, eg: before and after submitting a form.
 
 ### Prep formative
 
-- [ ] This is a checklist of what we want you to present during your formative assessment
+[Here is a checklist](../15#formative-presentations) of what we want you to present during your formative on **Tuesday the 17th**.
 
 ### Blog
 
