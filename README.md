@@ -40,7 +40,7 @@ When | In class | Homework | Blog
 [Friday<br>22.04](sessions/12)| Personas<br> Content strategy | Peer learning research: *GoodUI* | *Our space* personas  
 [Friday<br>29.04](sessions/13)| Peer learning on *GoodUI* <br>Workshop: *typesetting* | Moodbard: collect inspirations <br>Wireframes | 10 common typography mistakes
 [Friday<br>06.05](sessions/14)| Front-end frameworks <br>Prototyping with HTML&CSS <br>Tutorials on *Our space* | Keep prototyping <br>Prep formative | Web design myths
-**Tuesday<br>17.05**| **Formative** presentations <br>Workshop: Meet PHP, *variables* and *functions* | Keep prototyping <br>Install MAMP <br>Install WP *locally* |  
+[**Tuesday<br>17.05**](sessions/15)| **Formative** presentations <br>Workshop: Meet PHP, *variables* and *functions* | Keep prototyping <br>Install MAMP <br>Install WP *locally* |  
 Friday<br>20.05| Debugging PHP <br>Workshop: hacking WP themes | *Our space* branding guidelines | Destroy the Web 
 Friday<br>27.05| WP *plugins* <br>Workshop: using Advanced Custom Fields <br>WP *migration*: how to put your site on the actual Web <br>Tutorials on *Our space* | Work on *Our space* | Debugging 
 Friday<br>03.06| User-testing: 5 seconds and A/B tests <br>Tutorials on *Our space*: debugging clinic | Work on *Our space* <br>Prep summative |  
