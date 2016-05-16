@@ -3,6 +3,7 @@
 ### Today, Tuesday 17th May 2016
 
 1. **Formative** presentations 
+* **Workshop**: hacking a Bootstrap template and publishing your work to GitHub Pages
 
 <!-- Workshop: Meet PHP, *variables* and *functions* -->
 
@@ -50,9 +51,82 @@ Let's give each other feedback in this [collaborative Google doc](https://docs.g
 * Simpl(istic)
 * Static
 -->
+
+# Workshop
+
+Together, we'll learn how to use [Bootstrap](http://getbootstrap.com/) to quickly prototype a Web page and then publish it live on [GitHub Pages](https://pages.github.com/).
+
 <!--
-Here's the collaborative feedback Google doc.
+Don't fancy reading the tutorial, want to **download and play with the code** instead? Here it is.
+-->
 
-# [Feedback matrix](http://bit.ly/WEB14104formative)
+### Tools you'll need
 
-This is the spreadsheet where we all give each other feedback.-->
+* A browser: Chrome or Firefox (**not** Safari or IE)
+* A code editor: [Brackets](http://brackets.io/) or [Atom](https://atom.io/)
+* [SourceTree](https://www.sourcetreeapp.com/), a free app to manage Git-based projects. 
+* A [GitHub (free) account](https://github.com/join).
+
+
+
+<!--
+* A Bootstrap builder: there are several, we're going to use [Pingendo](http://pingendo.com)
+-->
+
+### Step 0. Set up GitHub Pages
+
+Go to [github.com](https://github.com) and *log in*.
+
+#### One person per team, let's call her person `A`
+
+1. [Create a new *organisation*](https://github.com/organizations/new) for your project team.
+* Choose the *Open Source* (free) plan.
+* Invite all your teammates to the new organisation.
+* Get all your teammates to visit the organisation page (it will be something like `github.com/ORGANISATION_NAME`) click on the `View invitation` button on the top-right and **join** the organisation.
+* Once a teammate joined, you can go to the `People` tab of your organisation and make them an **owner**. 
+
+	This will grant them the same privileges as you, because we like everyone to be *equal*.
+
+#### Another person in the team, let's call her person `B`
+
+1. Make sure you have joined the team organisation and person `A` made you an owner of the organisation.
+* **Create a new repository** for the *Our space* team project.
+* Make sure you `Initialize this repository with a README`.
+* Once GitHub has created your new repository, click the branch drop-down on the left-hand side, type in `gh-pages` and press Enter. This will make a new branch, where your project will be published.
+
+	![](assets/create-branch.png)
+* Go to the repository settings. In the Branches section, change the default branch to the newly created `gh-pages` branch.	
+
+	![](assets/default-branch.png)
+	
+#### Everybody
+
+1. Open [SourceTree](https://www.sourcetreeapp.com/).
+* **Clone** the *Our space* team repository on your computer.
+
+	`File` > `New / Clone`
+	
+	The *Source URL* will be your repository URL, something like `https://github.com/YOUR_ORGANISATION/OurSpace`
+
+	![](assets/git-clone.gif)	
+* Once the repository is cloned, open it with Finder / Windows and **make a new folder inside it**. 
+
+	Call it with your name, e.g. `matteo`
+	
+	You'll save all your work for today in that folder.
+	
+### Step 1. Bootstrapping your page 
+	
+HTML first, style later.
+
+### Step x. Publish your work
+
+1. In SourceTree **Commit** 
+
+	write a commit message, and commit the new file.
+	
+	Notice that as soon as you commit, a red `1` appears on top of the `Push` button. In order to upload your images to GitHub you need to *push* all your commits.
+* and **push** to GitHub. 	
+* …and you're done!
+	Open your browser and point it to `http://YOUR_ORGANISATION_NAME.github.io/YOUR_REPOSITORY_NAME/YOUR_NAME.`
+
