@@ -6,6 +6,8 @@
 
 <!-- Workshop: Meet PHP, *variables* and *functions* -->
 
+- [ ] HEADS UP! **FREE** [talkwebdesign.co.uk](http://talkwebdesign.co.uk/) 26th of May @ Greenwich University: get your ticket if you haven't already!
+
 Your [homework](#homework) and [blog](#blog)!
 
 
@@ -29,6 +31,10 @@ The points above are the bare minimum of what your presentation should include. 
 ### How long should our presentation be?
 
 Roughly **15 minutes** per team, plus 5 minutes for feedback and questions.
+
+
+
+
 	
 <!--
 ### Banned words
