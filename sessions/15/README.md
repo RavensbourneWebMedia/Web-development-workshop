@@ -68,7 +68,7 @@ Don't fancy reading the tutorial, want to **download and play with the code** in
 * A [GitHub (free) account](https://github.com/join).
 * The [Bootstrap docs](http://getbootstrap.com/css), aka the *instructions manual*.
 
-### Step 0. Set up GitHub Pages
+### Step 0. Setting up GitHub Pages
 
 Go to [github.com](https://github.com) and *log in*.
 
@@ -118,9 +118,22 @@ Go to [github.com](https://github.com) and *log in*.
 * Make an `index.html` file and **copy-paste** in the [basic Bootstrap HTML template](http://getbootstrap.com/getting-started/#template).
 * **Save** `index.html` and open it in your browser. You should see a blank page saying `Hello, world!`
 
-### Step 2. Publish your work
+### Step 2. Publishing your work
 
 1. In SourceTree, **stage** all the files, then write a commit message (could be `Bootstrapping` for example) and then **commit**.
 * Notice that as soon as you commit, a red `1` appears on top of the `Push` button. In order to upload your folder to GitHub you need to **push** it.
 * …and it's up! Open your browser and point it to `http://YOUR_ORGANISATION_NAME.github.io/YOUR_REPOSITORY_NAME/YOUR_NAME`, e.g. `http://thedestroyers.github.io/ourspace/matteo`
+
+### Step 3. Adding your style
+
+It's good practice not to mess around with the Bootstrap source (or any framework's source) but rather keep your changes in separate files. 
+
+1. **Create a new CSS file** to store your own styles. Save  it as `YOUR_NAME.css`, e.g. `matteo.css` inside the `css` folder.
+* Make sure you include the new CSS file in the `head` of your `index.html` like so
+
+	```html
+	... existing head code
+	<link href="css/matteo.css" rel="stylesheet">
+</head>
+```	
 
