@@ -66,12 +66,7 @@ Don't fancy reading the tutorial, want to **download and play with the code** in
 * A code editor: [Brackets](http://brackets.io/) or [Atom](https://atom.io/)
 * [SourceTree](https://www.sourcetreeapp.com/), a free app to manage Git-based projects. 
 * A [GitHub (free) account](https://github.com/join).
-
-
-
-<!--
-* A Bootstrap builder: there are several, we're going to use [Pingendo](http://pingendo.com)
--->
+* The [Bootstrap docs](http://getbootstrap.com/css), aka the *instructions manual*.
 
 ### Step 0. Set up GitHub Pages
 
@@ -102,31 +97,30 @@ Go to [github.com](https://github.com) and *log in*.
 #### Everybody
 
 1. Open [SourceTree](https://www.sourcetreeapp.com/).
-* **Clone** the *Our space* team repository on your computer.
+* **Clone** the *Our space* repository on your computer.
 
 	`File` > `New / Clone`
 	
 	The *Source URL* will be your repository URL, something like `https://github.com/YOUR_ORGANISATION/OurSpace`
 
 	![](assets/git-clone.gif)	
-* Once the repository is cloned, open it with Finder / Windows and **make a new folder inside it**. 
-
-	Call it with your name, e.g. `matteo`
-	
-	You'll save all your work for today in that folder.
 	
 ### Step 1. Bootstrapping your page 
 	
-HTML first, style later.
+<!--HTML first, CSS later.-->
 
-### Step x. Publish your work
-
-1. In SourceTree **Commit** 
-
-	write a commit message, and commit the new file.
+1. [Download Bootstrap](http://getbootstrap.com/getting-started/#download).
+* **Move** the Bootstrap folder inside your repository folder.
+* **Rename** the Bootstrap folder with your name, e.g. `matteo`.
 	
-	Notice that as soon as you commit, a red `1` appears on top of the `Push` button. In order to upload your images to GitHub you need to *push* all your commits.
-* and **push** to GitHub. 	
-* …and you're done!
-	Open your browser and point it to `http://YOUR_ORGANISATION_NAME.github.io/YOUR_REPOSITORY_NAME/YOUR_NAME.`
+	You'll save all your work for today in that folder.
+* **Open** the folder with Brackets / Atom.
+* Make an `index.html` file and **copy-paste** in the [basic Bootstrap HTML template](http://getbootstrap.com/getting-started/#template).
+* **Save** `index.html` and open it in your browser. You should see a blank page saying `Hello, world!`
+
+### Step 2. Publish your work
+
+1. In SourceTree, **stage** all the files, then write a commit message (could be `Bootstrapping` for example) and then **commit**.
+* Notice that as soon as you commit, a red `1` appears on top of the `Push` button. In order to upload your folder to GitHub you need to **push** it.
+* …and it's up! Open your browser and point it to `http://YOUR_ORGANISATION_NAME.github.io/YOUR_REPOSITORY_NAME/YOUR_NAME`, e.g. `http://thedestroyers.github.io/ourspace/matteo`
 
