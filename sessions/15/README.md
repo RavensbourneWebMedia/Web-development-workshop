@@ -32,9 +32,9 @@ The points above are the bare minimum of what your presentation should include. 
 
 Roughly **15 minutes** per team, plus 5 minutes for feedback and questions.
 
+### Collaborative feedback
 
-
-
+Let's give each other feedback in this [collaborative Google doc](https://docs.google.com/a/rave.ac.uk/document/d/1QDETyR6BwffMhoyTvSvtJ5Hhzj3K6zzd38py_EymAOw/edit?usp=sharing)!
 	
 <!--
 ### Banned words
