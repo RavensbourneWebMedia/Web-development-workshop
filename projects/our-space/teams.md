@@ -5,10 +5,10 @@ Read the whole brief [here](README.md).
 Teams:
 
 1. [The Destroyers](#the-destroyers)
-* [Jen, Mark and Melissa](#team-JM2)
-* [Akvile, Ben, Dean and Josh](#team-) 
-* [Joe, Francisco and Rajeev](#team-)
-* [Ajay, Afsara and Malore](#team-)
+* [Jen, Mark and Melissa](#team-jm2)
+* [Akvile, Ben, Dean and Josh](#team-jabd) 
+* [Joe, Francisco and Rajeev](#team-frj)
+* [Ajay, Afsara and Malore](#team-ama)
 ## The Destroyers* Rosie
 * Tom
 * Darren
