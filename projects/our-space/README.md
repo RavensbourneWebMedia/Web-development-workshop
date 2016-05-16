@@ -1,6 +1,6 @@
 # Our space
 
-On this **team project** you will design and build a website for our Ravensbourne Web Media degree.
+On this **team project** you will design and build a website for our Ravensbourne Web Media degree course.
 
 You will start from **research**: user interviews and competitor analysis. You will then define a **content strategy** and iterate your design ideas through **wireframes**. Finally, you will implement your designs into a **WordPress**-based website.
 
