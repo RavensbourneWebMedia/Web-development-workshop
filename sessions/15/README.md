@@ -9,7 +9,7 @@
 
 - [ ] HEADS UP! **FREE** [talkwebdesign.co.uk](http://talkwebdesign.co.uk/) 26th of May @ Greenwich University: get your ticket if you haven't already!
 
-Your [homework](#homework) and [blog](#blog)!
+<!-- Your [homework](#homework) and [blog](#blog)! -->
 
 
 # Formative presentations
@@ -136,4 +136,6 @@ It's good practice not to mess around with the Bootstrap source (or any framewor
 	<link href="css/matteo.css" rel="stylesheet">
 </head>
 ```	
-
+<!--
+### Step 4. Get inspired
+-->
