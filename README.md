@@ -2,17 +2,22 @@
 
 This includes:
 
+* Conducting **research** (interviews, surveys and competitor analysis) to devise a **content strategy**
+* Using code (HTML, CSS and a dash of JavaScript) creatively to **communicate** and **advocate**
+* **Building** technically sound, aesthetically cohesive and appropriately structured websites
 * Understanding the **WWW** technical components and how they work (browsers, servers, HTTP, DNS, IP etc)
 * Structuring content with **HTML**
 * Styling information and interfaces with **CSS**
+* **Hosting** a website on GitHub Pages
+* Organising projects with **Git**
+* **Project management** basics: listing and prioritising tasks, tracking and evaluating progress, getting things done
+
+<!--
 * Serve content dynamically (on demand) with **PHP** and **JavaScript**
 * Using **WordPress** to manage online content  
 * Developing **WordPress templates and themes**
-* **Hosting** a website
 * Transferring files with **FTP**  
-* Organising projects with **Git**
-
-<!--* **Project management** basics: listing and prioritising tasks, tracking and evaluating progress, getting things done-->
+-->
 
 
 # Plan
@@ -40,9 +45,9 @@ When | In class | Homework | Blog
 [Friday<br>22.04](sessions/12)| Personas<br> Content strategy | Peer learning research: *GoodUI* | *Our space* personas  
 [Friday<br>29.04](sessions/13)| Peer learning on *GoodUI* <br>Workshop: *typesetting* | Moodbard: collect inspirations <br>Wireframes | 10 common typography mistakes
 [Friday<br>06.05](sessions/14)| Front-end frameworks <br>Prototyping with HTML&CSS <br>Tutorials on *Our space* | Keep prototyping <br>Prep formative | Web design myths
-[**Tuesday<br>17.05**](sessions/15)| **Formative** presentations <br>Workshop: Meet PHP, *variables* and *functions* | Keep prototyping <br>Install MAMP <br>Install WP *locally* |  
-Friday<br>20.05| Debugging PHP <br>Workshop: hacking WP themes | *Our space* branding guidelines | Destroy the Web 
-Friday<br>27.05| WP *plugins* <br>Workshop: using Advanced Custom Fields <br>WP *migration*: how to put your site on the actual Web <br>Tutorials on *Our space* | Work on *Our space* | Debugging 
+[**Tuesday<br>17.05**](sessions/15)| **Formative** presentations <br>Workshop: hacking a Bootstrap template and publishing your work to GitHub Pages | Keep prototyping |  
+[Friday<br>20.05](sessions/16)| Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | *Our space* branding guidelines | Destroy the Web 
+Friday<br>27.05| From idea to production <br>Project management <br>Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | Work on *Our space* | TBA 
 Friday<br>03.06| User-testing: 5 seconds and A/B tests <br>Tutorials on *Our space*: debugging clinic | Work on *Our space* <br>Prep summative |  
 Friday<br>10.06| **Summative presentations** |  **Summative hand-in** | What have I learned?
 
@@ -76,18 +81,23 @@ All the project material is [here](projects/our-space).
 
 By the end of this course, you will be able to:
 
-1. Understand how the **WWW** works (browsers, servers, HTTP, DNS, IP etc).
+1. Conduct **research** (interviews, surveys and competitor analysis) to devise a **content strategy**
+* Use code (HTML, CSS and a dash of JavaScript) creatively to **communicate** and **advocate**
+* **Build** technically sound, aesthetically cohesive and appropriately structured websites
+* Understand how the **WWW** works (browsers, servers, HTTP, DNS, IP etc).
 * Visualise your ideas and explore design solutions through paper and digital **wireframes**.
 * Use **HTML** to structure Web content appropriately and accessibly.  
 * Use **CSS** to style Web pages cohesively and coherently, being informed by contemporary trends. 
-* Upload your project files to a Web server using **FTP**.
-* Make Web pages dynamic using **PHP**.
-* Manage online content using **WordPress**.
-* Modify and maintain WordPress **templates and themes**.
 * **Document** your design and development process, from the exploration of ideas to their practical implementation. Including *successes* and *failures*.
 * **Communicate** your ideas both technically and in an engaging way.
 * Use the Git version-control system (through GitHub) to **collaborate** with your team and **back-up** your project files.
 
+<!--
+* Make Web pages dynamic using **PHP**.
+* Manage online content using **WordPress**.
+* Modify and maintain WordPress **templates and themes**.
+* Upload your project files to a Web server using **FTP**.
+-->
 
 # Rules of the road
 
