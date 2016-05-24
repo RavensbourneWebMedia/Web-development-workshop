@@ -43,10 +43,9 @@ In that MarkDown document, add the following:
 * Interviews and survey insights
 * Personas
 * Content map
+- [ ] what else?
 
-<!--
-**Upload** and submit your `WEB14105-Name-Surname.md` through Moodle at this link: [learn.rave.ac.uk/moodle/mod/assign/view.php?id=81714](http://learn.rave.ac.uk/moodle/mod/assign/view.php?id=81714).
+**Upload** and submit your `WEB14105-Name-Surname.md` through Moodle at this link: [learn.rave.ac.uk/moodle/mod/assign/view.php?id=81716](http://learn.rave.ac.uk/moodle/mod/assign/view.php?id=81716).
 
 **Deadline** is Friday 10th of June 2016, **23:59**! :high_heel:
--->
 
