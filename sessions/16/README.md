@@ -19,12 +19,14 @@ Let's flesh out an **action plan** starting from last week's [formative feedback
 
 Each team has a **project manager** (PM) for this week.
 
+
 Team | PM
----- | --
+---- | ---
 Junglist Massive | Joe
 TheDestroyers | (Against his) Will
 JaBeans | Josh
 AMA | Afsara
+
 
 You have a **to-do list** which we agreed on today.
 
