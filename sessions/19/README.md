@@ -1,3 +1,27 @@
+# Week 19
+
+### Today, Friday 10th June 2016
+
+Summative [presentations](#presentations) and [hand-in](#hand-in-checklist)
+
+<!-- Your [homework](#homework) and [blog](#blog)! -->
+
+
+# Presentations
+
+## Sharing is caring
+
+5 minutes each (roughly 1.5 hours in total)
+
+- [ ] WTF should I present?
+
+## Our space
+
+15 minutes per team
+
+- [ ] WTF should we present?
+
+
 # Hand-in checklist
 
 Create a `WEB14105-Name-Surname.md` MarkDown document (where `Name` is your own name and `Surname` is your own surname, like `WEB14105-Matteo-Menapace.md`).
@@ -23,5 +47,6 @@ In that MarkDown document, add the following:
 <!--
 **Upload** and submit your `WEB14105-Name-Surname.md` through Moodle at this link: [learn.rave.ac.uk/moodle/mod/assign/view.php?id=81714](http://learn.rave.ac.uk/moodle/mod/assign/view.php?id=81714).
 
-**Deadline** is Friday 11th of March 2016, **23:59**! :high_heel:
+**Deadline** is Friday 10th of June 2016, **23:59**! :high_heel:
 -->
+
