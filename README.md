@@ -47,8 +47,8 @@ When | In class | Homework | Blog
 [Friday<br>06.05](sessions/14)| Front-end frameworks <br>Prototyping with HTML&CSS <br>Tutorials on *Our space* | Keep prototyping <br>Prep formative | Web design myths
 [**Tuesday<br>17.05**](sessions/15)| **Formative** presentations <br>Workshop: hacking a Bootstrap template and publishing your work to GitHub Pages | Keep prototyping |  
 [Friday<br>20.05](sessions/16)| Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | *Our space* branding guidelines | Destroy the Web 
-Friday<br>27.05| From idea to production <br>Project management <br>Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | Work on *Our space* | TBA 
-Friday<br>03.06| User-testing: 5 seconds and A/B tests <br>Tutorials on *Our space*: debugging clinic | Work on *Our space* <br>Prep summative |  
+Friday<br>27.05| User-testing: 5 seconds and A/B tests <br>Project management <br>Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | Work on *Our space* | TBA 
+Friday<br>03.06| Tutorials on *Our space* and *Sharing is caring*: debugging clinic | Work on *Our space* <br>Prep summative |  
 Friday<br>10.06| **Summative presentations** |  **Summative hand-in** | What have I learned?
 
 
