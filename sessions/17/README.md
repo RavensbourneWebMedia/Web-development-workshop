@@ -53,7 +53,7 @@ A/B testing is a **randomised experiment with two variants**: A and B.
 
 Versions A and B are **identical except for one variation** that might affect users' behaviours. Don't make A and B too different, otherwise you won't be able to tell which variation is actually affecting how users interact with your prototype.
 
-You can A/B test both digital and physical prototypes.
+<!--You can A/B test both digital and physical prototypes.-->
 
 <!-- Click the image for a slide show on how Google tested millions of shades of blue to optimise their traffic and click through rate -->
 
@@ -93,14 +93,19 @@ You can use this type of test also for A/B testing.
 
 Let's start with some quick *remote* (online) user-testing.
 
-1. Sign up for a free account on [UsabilityHub](https://usabilityhub.com/?r=30141), take a few tests to see what it's like and get inspired about what you can test. 
-2. Create one test (or more if you feel like). You can choose between 3 types of test:
+1. Sign up for a free account on [UsabilityHub](https://usabilityhub.com/users/sign_up).
+2. Do a few random tests to see what it's like, and collect *credits* for your own tests.
+
+	![](assets/usabilityhub-random-test.png)
+3. Create one test (or more if you feel like). You can choose between 3 types of test:
 
 	* **Five Second** to capture your users' first impressions
 	* **Click Test** to understand what your users click
 	* **Nav Flow** to see if your users can successfully get from A to B
-3. Make the test public (private tests are not free, anyway) and then share the URL with your friends on Facebook, with your followers on Twitter etc. 
-4. Your mission is to get at least 20 tests by next Friday!
+4. Share the test URL with your friends on Facebook, with your followers on Twitter etc. 
+	
+	![](assets/usabilit-hub-recruit.png) 
+5. Your mission is to get at least 20 tests by next Friday!
 
 
 <!--
