@@ -64,7 +64,6 @@ In that MarkDown document, add the following:
 * [Copywriting is Interface Design](../07#blog)
 * [Infographics, good and bad](../08#blog)
 * [Interviewing humans](../09#blog)
-* [Interviewing your target audience](../10#blog)
 * [Our space interviews insights](../11#blog)
 * [Our space personas](../12#blog)
 * [10 common typography mistakes](../13#blog)
