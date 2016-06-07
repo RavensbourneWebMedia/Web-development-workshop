@@ -73,7 +73,7 @@ In that MarkDown document, add the following:
 * [Wireframes](../04#your-turn)
 * [Research](../05#sharing-is-caring-1) GDoc including target audiences, content structure & copy, and make sure I have permissions to comment on it
 * [Content strategy](../07#sharing-is-caring) GDoc, make sure I have permissions to comment on it
-* [Formative video-presentation](10#make-a-video) link, YouTube or Vimeo, make sure I have permissions to view it
+* [Formative video-presentation](../10#make-a-video) link, YouTube or Vimeo, make sure I have permissions to view it
 * Link to your project **code on GitHub**
 * Link to your project published on **GitHub Pages**, remember `gh-pages` from [week 2](../02#publishing-on-github-pages)?
 
@@ -88,6 +88,7 @@ In that MarkDown document, add the following:
 * [Wireframes](../13#wireframes)
 * [Moodboard](../13#moodboard)
 * [Formative presentation](../15#formative-presentations)
+* [Summative presentation](#presentations), either as slides or a link to YouTube (in case you couldn't present in class)
 * Link to your project **code on GitHub**
 * Link to your project published on **GitHub Pages**, remember `gh-pages` from [week 15](../15#workshop)?
 
@@ -101,7 +102,7 @@ In that MarkDown document, add the following:
 * [Copywriting is Interface Design](../07#blog)
 * [Infographics, good and bad](../08#blog)
 * [Interviewing humans](../09#blog)
-* [Our space interviews insights](../11#blog)
+* [Our space interviews](../11#blog)
 * [Our space personas](../12#blog)
 * [10 common typography mistakes](../13#blog)
 * [Web design myths](../14#blog)
