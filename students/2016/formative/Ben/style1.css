@@ -1,0 +1,306 @@
+body {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: white;
+    background-color: red;
+}
+
+
+
+
+#pic1 {
+    background-image: url(Images/pic1.png)
+}
+
+#pic2 {
+    background-image: url(Images/pic2.jpg);
+}
+
+
+#pic3 {
+    background-image: url(Images/pic3.jpg);
+}
+
+#pic5 { 
+    background-image: url(Images/pic5.jpg)
+    
+}
+
+#pic4 {
+    background-image: url(Images/pic4.gif);
+}
+
+
+
+#pic6 {
+    background-image: url(Images/pic6.jpg);
+}
+
+
+.hit-the-floor {
+color: #fff;
+font-size: 16em;
+font-weight: bold;
+text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+}
+
+.hit-the-floor {
+  text-align: center;
+}
+
+
+#subscribe {
+    position:absolute;
+    left: 50%;
+    top: 575%;
+    margin-left: -350px;
+    height: 130px;
+    padding: 10px;
+    border: 5px solid black;
+    left:50%;
+    background-color: white;
+    color: red;
+    
+}
+
+.drone 
+{
+	width: 200px;
+	height: 200px;
+}
+
+.drone img 
+{
+	width: 100%;
+}
+
+.flex-h-centred
+{
+	display: flex;
+	justify-content: center; 
+}
+
+.flex-v-centred
+{
+	display: flex;
+	align-items: center;
+}
+
+.flex-v-bottom
+{
+	display: flex;
+	align-items: flex-end;
+}
+
+/* DRONE */
+
+.button {
+    background-color: white;
+    color: red;
+}
+
+.content {
+    margin: auto; /* this will center horizontally */
+    max-width: 40em; /* 640px */ 
+    padding: 0 1em; /* no padding top and bottom, 1em left and right */
+    
+}
+   
+html, body {
+    height: 100%;
+}
+
+#rcorners1 {
+    border-radius: 25px;
+    border: 5px solid black;
+    padding: 20px; 
+    height: 150px;
+    top: 255%;
+    left: 30%;
+    margin-left: -150px;
+    margin-top: -100px;
+    position: absolute;
+    width: 100px;
+    background-color: red;
+    text-align: center;
+    font-size: 2em;
+    
+}
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 5px solid black;
+    padding: 20px; 
+    height: 150px;
+    top: 255%;
+    left: 55%;
+    margin-left: -150px;
+    margin-top: -100px;
+    position: absolute;
+    width:100px;
+    background-color: red;
+    text-align: center;
+    font-size: 2em;
+
+}
+
+#rcorners3 {
+    border-radius: 25px;
+    border: 5px solid black;
+    padding: 20px; 
+    height: 150px;
+    top: 255%;
+    left: 80%;
+    margin-left: -150px;
+    margin-top: -100px;
+    position: absolute;
+    width:100px;
+    background-color: red;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+
+#rcorners4 {
+    border-radius: 50px;
+    border: 7px solid black;
+    padding: 20px; 
+    height: 150px;
+    top: 360%;
+    left: 50%;
+    margin-left: -150px;
+    margin-top: -100px;
+    position: absolute;
+    width:100px;
+    color: white;
+    text-align: center;
+    background-color: red;
+}
+
+
+#rcorners5 {
+    border-radius: 50px;
+    border: 7px solid black;
+    padding: 20px; 
+    height: 50px;
+    top:375%;
+    left: 70%;
+    margin-left: -150px;
+    margin-top: -100px;
+    position: absolute;
+    width:30px;
+    color: white;
+    text-align: center;
+    background-color: red;
+}
+
+
+
+
+
+#rcorners6 {
+    border-radius: 20px;
+    border: 7px solid black;
+    padding: 20px; 
+    height: 150px;
+    top: 490%;
+    left: 30%;
+    margin-left: -150px;
+    margin-top: -100px;
+    position: absolute;
+    width:100px;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+
+#rcorners7 {
+    border-radius: 20px;
+    border: 7px solid black;
+    padding: 20px; 
+    height: 30px;
+    top: 509%;
+    left: 45%;
+    margin-left: -150px;
+    margin-top: -100px;
+    position: absolute;
+    width:30px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+
+#rcorners8 {
+    border-radius: 20px;
+    border: 7px solid black;
+    padding: 20px; 
+    height: 90px;
+    top: 500%;
+    left: 75%;
+    margin-left: -150px;
+    margin-top: -100px;
+    position: absolute;
+    width:50px;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+#rcorners9 {
+    border-radius: 20px;
+    border: 7px solid black;
+    padding: 20px; 
+    height: 30px;
+    top: 509%;
+    left: 85%;
+    margin-left: -150px;
+    margin-top: -100px;
+    position: absolute;
+    width:30px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+
+#arrow {
+    position: absolute;
+    margin-left: -150px;
+    margin-top: -100px;
+    height: 100px;
+    top: 376%;
+    left: 62%;
+    width: 100px;
+}
+
+
+
+
+h6 {
+  position: absolute;
+  left: 0%;
+  top: 450%;  
+  margin-top: -4vmin;
+  width: 100%;
+  text-align: center;
+  font-size: 8vmin;
+  padding: 2vmin 0;
+  color: white;
+  font-size: 8em;
+    
+}
+
+
+
+.full {
+    height: 100%;
+    background-size: cover;
+    /* background size: contain */
+    background-position: center;
+    background-attachment: fixed;
+    /* All these rules need to be inside .full */
+    
