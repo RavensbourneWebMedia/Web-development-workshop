@@ -1,0 +1,15 @@
+# Infographic stories reviews
+
+* [Afsara](https://medium.com/web-dev-workshop/infographic-stories-4acdafdc4d23#.2wdfzh5jm)
+* [Malore](https://medium.com/web-development-workshop-jdhkjfshksh/week-5-angela-morelli-6145ec9456d8#.6h7hjgabj)
+* [Akvile](https://medium.com/@aihara.chan/web-development-workshop-blog-5-b8e778fa9466#.1lekpehhe)
+* [Ben](https://medium.com/@blouka/infographic-stories-52304445e1f#.ylkz1ug7w)
+* [Dean](http://deanwebmedia.tumblr.com/post/140028512991/matteo-blog-5)
+* [Josh](https://medium.com/@j.niekerk/week-5-infographic-stories-257ed48b39c6#.fno5u6u7q)
+* [Will](https://medium.com/@w.tonks/blog-05-infographic-stories-8b45a0b09495#.391s14j34)
+* [Rosie](https://medium.com/@wwwtf/infographic-stories-4b43a3bb9fb8#.u0zb2f13a)
+* [Darren](http://darrenoutram1027.wix.com/webmedia#!matteo-sharing-is-caring/fpe2n)
+* [Tom](http://thomasmurphy.work/blog/web14103/comparing-infographic-stories)
+* [Francisco](https://medium.com/@itsfranhere/infographic-stories-37cf8ea4d130#.49wr5575t)
+* [Joe](https://medium.com/@Joe_Reilly/infographic-stories-c212826ef1b9#.x8o7funtl)
+* [Rajeev](http://rajeevxgill.co.nf/2016/02/08/infographic-stories/)
