@@ -1,0 +1,13 @@
+.button-huge
+{
+    font-size: 200%;
+    background: red;
+    color: white;
+    transition: background 0.3s ease 0s;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
+    color: red;
+    background-color: white;
+    border-color: #adadad;
+}
