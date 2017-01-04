@@ -1,6 +1,6 @@
 # Week 1
 
-### Today, Wednesday 6th January 2016
+### Today, Wednesday 9th January 2017
 
 1. [Welcome](#welcome) :)
 * Workshop: [HTML & CSS recap](#workshop) 
