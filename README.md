@@ -26,30 +26,30 @@ This includes:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Wednesday<br>06.01](sessions/01)| Welcome <br>Workshop: *HTML & CSS recap* <br>Project: [**Sharing is caring**](#sharing-is-caring) | Video tutorials of your CSS trick | Sharing is caring
-[Wednesday<br>13.01](sessions/02)| Workshop: *GitHub recap* <br>Tutorials on *Sharing is caring* <br>Flexbox! | Peer-learning research: *How does the WWW work?* | JavaScript for cats
-[Wednesday<br>20.01](sessions/03)| Peer-learning: *How does the WWW work?* <br>Workshop: *scroll-magic* <br>Tutorials on *Sharing is caring* | *Sharing is caring:* storyboard and copy | How does the WWW work?
-[Wednesday<br>27.01](sessions/04)| WWWTF quiz <br>Workshop: *wireframing* <br>Wireframes critique | *Sharing is caring:* wireframes to HTML & CSS | Visualising information for advocacy
-[Wednesday<br>03.02](sessions/05)| **Formative presentations** <br>Tutorials on *Sharing is caring* | *Sharing is caring:* collect your research | Infographic stories
+[Monday<br>09.01](sessions/01)| Welcome <br>Workshop: *HTML & CSS recap* <br>Project: [**Sharing is caring**](#sharing-is-caring) | Video tutorials of your CSS trick | Sharing is caring
+[Monday<br>16.01](sessions/02)| Workshop: *GitHub recap* <br>Tutorials on *Sharing is caring* <br>Flexbox! | Peer-learning research: *How does the WWW work?* | JavaScript for cats
+[Monday<br>23.01](sessions/03)| Peer-learning: *How does the WWW work?* <br>Workshop: *scroll-magic* <br>Tutorials on *Sharing is caring* | *Sharing is caring:* storyboard and copy | How does the WWW work?
+[Monday<br>30.01](sessions/04)| WWWTF quiz <br>Workshop: *wireframing* <br>Wireframes critique | *Sharing is caring:* wireframes to HTML & CSS | Visualising information for advocacy
+[Monday<br>06.02](sessions/05)| **Formative presentations** <br>Tutorials on *Sharing is caring* | *Sharing is caring:* collect your research | Infographic stories
 Week 6| | | 
-[Wednesday<br>17.02](sessions/07)| Content strategy <br>Copy-writing | *Sharing is caring:* copy-writing <br>Peer-learning research: *Visualising information for advocacy* | Copywriting is Interface Design
-[Friday<br>26.02](sessions/08)| Peer learning: *Visualising information for advocacy*<br>Tutorials on *Sharing is caring* | *Sharing is caring:* brain-catching mock ups | Infographics, good and bad  
-[Friday<br>04.03](sessions/09)| Tutorials on *Sharing is caring* with Tor <br>Team project: [**Our space**](#our-space) | Prep formative | Interviewing humans
-[Friday<br>11.03](sessions/10)| **Formative** video-presentations | Form teams for *Our space* <br>Install MAMP <br>Install WP *locally* | Interviewing your target audience
+[Monday<br>20.02](sessions/07)| Content strategy <br>Copy-writing | *Sharing is caring:* copy-writing <br>Peer-learning research: *Visualising information for advocacy* | Copywriting is Interface Design
+[Monday<br>27.02](sessions/08)| Peer learning: *Visualising information for advocacy*<br>Tutorials on *Sharing is caring* | *Sharing is caring:* brain-catching mock ups | Infographics, good and bad  
+[Monday<br>06.03](sessions/09)| Tutorials on *Sharing is caring* with Tor <br>Team project: [**Our space**](#our-space) | Prep formative | Interviewing humans
+[Monday<br>13.03](sessions/10)| **Formative** video-presentations | Form teams for *Our space* <br>Install MAMP <br>Install WP *locally* | Interviewing your target audience
 
 ### Term 3
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Friday<br>15.04](sessions/11)| Recap<br>Competitor analysis <br>User interviews planning | Qualitative research: *interviews* <br>Quantitative research: *questionnaire* | *Our space* interviews insights
-[Friday<br>22.04](sessions/12)| Personas<br> Content strategy | Peer learning research: *GoodUI* | *Our space* personas  
-[Friday<br>29.04](sessions/13)| Peer learning on *GoodUI* <br>Workshop: *typesetting* | Moodbard: collect inspirations <br>Wireframes | 10 common typography mistakes
-[Friday<br>06.05](sessions/14)| Front-end frameworks <br>Prototyping with HTML&CSS <br>Tutorials on *Our space* | Keep prototyping <br>Prep formative | Web design myths
-[**Tuesday<br>17.05**](sessions/15)| **Formative** presentations <br>Workshop: hacking a Bootstrap template and publishing your work to GitHub Pages | Keep prototyping |  
-[Friday<br>20.05](sessions/16)| Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | *Our space* branding guidelines | Destroy the Web 
-[Friday<br>27.05](sessions/17)| User-testing <br>Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | Face2face user-testing <br>Work on *Our space* |  
-[Friday<br>03.06](sessions/18)| Tutorials on *Our space* and *Sharing is caring*: debugging clinic | Work on *Our space* <br>Prep summative |  
-[Friday<br>10.06](sessions/19)| **Summative presentations** |  **Summative hand-in** | What have I learned?
+[Monday<br>15.04](sessions/11)| Recap<br>Competitor analysis <br>User interviews planning | Qualitative research: *interviews* <br>Quantitative research: *questionnaire* | *Our space* interviews insights
+[Monday<br>22.04](sessions/12)| Personas<br> Content strategy | Peer learning research: *GoodUI* | *Our space* personas  
+[Monday<br>29.04](sessions/13)| Peer learning on *GoodUI* <br>Workshop: *typesetting* | Moodbard: collect inspirations <br>Wireframes | 10 common typography mistakes
+[Monday<br>06.05](sessions/14)| Front-end frameworks <br>Prototyping with HTML&CSS <br>Tutorials on *Our space* | Keep prototyping <br>Prep formative | Web design myths
+[Monday<br>17.05](sessions/15)| **Formative** presentations <br>Workshop: hacking a Bootstrap template and publishing your work to GitHub Pages | Keep prototyping |  
+[Monday<br>20.05](sessions/16)| Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | *Our space* branding guidelines | Destroy the Web 
+[Monday<br>27.05](sessions/17)| User-testing <br>Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | Face2face user-testing <br>Work on *Our space* |  
+[Monday<br>03.06](sessions/18)| Tutorials on *Our space* and *Sharing is caring*: debugging clinic | Work on *Our space* <br>Prep summative |  
+[Monday<br>10.06](sessions/19)| **Summative presentations** |  **Summative hand-in** | What have I learned?
 
 
 # Projects
