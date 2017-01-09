@@ -304,9 +304,11 @@ Post your video to **YouTube** and push the code for your tutorial to **GitHub**
 
 Who | Which trick
 --- | -----------
-Ricardo | How to use CSS `transition`s.
-Kevin | How to use the CSS animation library  [Animate.css](https://daneden.github.io/animate.css).  
-Peyman | How to use vector icons from [Font Awesome](https://fortawesome.github.io/Font-Awesome). 
+
+
+Ricardo | How to use `relative` and `absolute` `position`ing to control elements precisely (to the pixel).
+Kevin | How to centre elements horizontally, including but not limited to CSS properties like `display` and `margin: auto`.
+Peyman | How to use CSS `transition`s.
 
 <!-- Ikran<br>Shajee | How to use `position: fixed;` to make elements stick to the page (not scroll away). -->
 
