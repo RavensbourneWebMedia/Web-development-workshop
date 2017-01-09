@@ -304,8 +304,6 @@ Post your video to **YouTube** and push the code for your tutorial to **GitHub**
 
 Who | Which trick
 --- | -----------
-
-
 Ricardo | How to use `relative` and `absolute` `position`ing to control elements precisely (to the pixel).
 Kevin | How to centre elements horizontally, including but not limited to CSS properties like `display` and `margin: auto`.
 Peyman | How to use CSS `transition`s.
