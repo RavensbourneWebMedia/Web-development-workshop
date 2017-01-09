@@ -17,9 +17,9 @@ A cause is a *response to an issue* that affects or concerns many people. A caus
 
 #### Timeline
 
-* 6th of January: project start
+* 9th of January: project start
 * January and February: weekly tutorials and project revisions
-* 3rd of February: formative presentations
+* 6th of February: formative presentations
 * 10th of June: final hand-in (together with other, bigger projects, so it's advised you get the bulk of this project done in January & February)
 
 [![Water, an interactive essay by Angela Morelli](assets/water.jpg)](http://www.angelamorelli.com/water/)
