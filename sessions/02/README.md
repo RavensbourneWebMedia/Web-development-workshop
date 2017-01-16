@@ -187,13 +187,13 @@ Keep in mind: next week we'll do this **without screen-based slides**, so don't 
 
 Who | What
 --- | -----------
-Jacob<br> | Tim Berners-Lee 
+Jacob<br>Kevin | Tim Berners-Lee 
 Callum<br> | HyperText
 Dom<br> | HTTP
-Clarenze<br> | DNS
+Clarenz<br> | DNS
 Emma<br> | IP address
-Richardo<br>Afsara | Browser
-Muyar<br>Malore | Server
+Richardo<br> | Browser
+Mayur<br> | Server
 Peyman<br> | Internet submarine cables  
 Muhammed<br> | Net neutrality
 
