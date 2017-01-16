@@ -187,15 +187,15 @@ Keep in mind: next week we'll do this **without screen-based slides**, so don't 
 
 Who | What
 --- | -----------
-Tom<br>Will | Tim Berners-Lee 
-Joe<br>Kaleshe | HyperText
-Akvile<br>Ben<br>Josh | HTTP
-Melissa<br>Dean | DNS
-Rosie<br>Shajee | IP address
-Francisco<br>Afsara | Browser
-Mark<br>Malore | Server
-Darren<br>Rajeev | Internet submarine cables  
-Jennifer<br>Ajay | Net neutrality
+Jacob<br> | Tim Berners-Lee 
+Callum<br> | HyperText
+Dom<br> | HTTP
+Clarenze<br> | DNS
+Emma<br> | IP address
+Richardo<br>Afsara | Browser
+Muyar<br>Malore | Server
+Peyman<br> | Internet submarine cables  
+Muhammed<br> | Net neutrality
 
 Put your team's **research notes** in a Google document (next week you'll have to blog about it).
  	
