@@ -192,7 +192,7 @@ Callum<br> | HyperText
 Dom<br> | HTTP
 Clarenz<br> | DNS
 Emma<br> | IP address
-Richardo<br> | Browser
+Ricardo<br> | Browser
 Mayur<br> | Server
 Peyman<br> | Internet submarine cables  
 Muhammed<br> | Net neutrality
