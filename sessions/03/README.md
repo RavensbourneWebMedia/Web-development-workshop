@@ -25,15 +25,15 @@ To put this concept into practice, let's pretend that each one of us is a `node`
 
 Who | What
 --- | -----------
-Tom<br>Will | Tim Berners-Lee 
-Joe<br>Kaleshe | HyperText
-Akvile<br>Ben<br>Josh | HTTP
-Melissa<br>Dean | DNS
-Rosie<br>Shajee | IP address
-Francisco<br>Afsara | Browser
-Mark<br>Malore | Server
-Darren<br>Rajeev | Internet submarine cables  
-Jennifer<br>Ajay | Net neutrality
+Jacob<br>Kevin | Tim Berners-Lee 
+Callum<br> | HyperText
+Dom<br> | HTTP
+Clarenz<br> | DNS
+Emma<br> | IP address
+Ricardo<br> | Browser
+Mayur<br> | Server
+Peyman<br> | Internet submarine cables  
+Muhammed<br> | Net neutrality
 
 
 # Workshop
