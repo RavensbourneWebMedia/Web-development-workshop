@@ -8,7 +8,7 @@
 
 # Week 4
 
-### Today, Wednesday 27th January 2016
+### Today, Monday 30th of January 2017
 
 1. [*How does it WWWork* quiz](#quiz-time)
 * [Workshop](#workshop): wireframe your one-pager
