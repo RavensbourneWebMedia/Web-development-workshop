@@ -20,6 +20,7 @@ Your progress on *Sharing is caring* so far:
 1. What is the **cause** your are working on? What are some reasons people are not talking about or acting on your chosen cause?* Who is your **target audience**?  
 * What is the first key **reaction** you want your audience to have? 
 * What is your ***call to action***? In other words, what do you want people to *do* once they have experienced your page? * What contexts, **symbols** or situations can be used to represent your issue **visually**?* How can your page open up **debate, controversy or curiosity** rather than reinforcing a single answer or perspective?
+* What content have you aggreated so far?
 * What **story** does your page tell?  
 * Show your wireframes and storyboard
 * Show your moodboards and other design references 
