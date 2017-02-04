@@ -1,21 +1,17 @@
 # Week 5
 
-### Today, Wednesday 3rd February 2016
+### Today, Monday 6th Of February
 
 1. [Formative presentations](#formative-presentations)
 * [Tutorials](#project) on *Sharing is caring* 
 
-<!--
-* [Workshop](#workshop): Meet PHP
-* [Team project](#team-project): Content needs design
--->
 
 Your [homework](#homework) and [blog](#blog)!
 
 
 # Formative presentations
 
-Here's the [collaborative feedback Google doc](https://docs.google.com/document/d/1DuG4caw4v_jdpXiBDPDxJuAYLSyRGcgG7hqdgxNo2NY/edit?usp=sharing).
+Here's the [collaborative feedback Google doc](https://docs.google.com/document/d/1LSvc7LrHdbLGBTK8-zyamA00Kt4w6juwouVKYe1UVzY).
 
 ### WTF should I present?
 
