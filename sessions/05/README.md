@@ -113,7 +113,9 @@ For each source include:
 * One or more screenshots 
 * A paragraph summarising **in your words** why this source is relevant to your project
 
+<!---
 Share your research GDoc on the `#web-dev-workshop` on Slack for everyone to view.
+-->
 
 <!--
 Review the feedback you received from us today and continue working on it. 
