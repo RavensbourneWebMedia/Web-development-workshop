@@ -1,21 +1,10 @@
-<!--
-Let's take a few steps back.
-
-- [x] Let's talk about `Lorem Ipsum` and stock images. We need a *content-first* approach.
-- [] General observations (integrate suggestions in the project brief, eg: focused causes, as close to home as possible)
-- [x] Keeping **text** short is good, however it needs to be also sharp. You can capture people with images but then you use text to communicate precisely what you want to get across and encourage them to take action.
-- [x] Let's work on what your page will actually say, aka copywriting 
-- [x] Let's make it work without JS first
---> 
-
 # Week 7
 
-### Today, Wednesday 17th February 2016
+### Today, Wednesday 23rd February 2017
 
 1. [Content first](lets-talk-about-content)
 * [Workshop](#workshop): copy-writing is interface design 
 
-Change of plan, we'll keep working on *Sharing is caring* until the Easter break.
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -160,16 +149,16 @@ Each team will **focus on one technique**.
 
 Who | What
 --- | ----
-Ben & Melissa | Juxtapose
-Shajee & Will | Subvert
-Afsara & Malore | Invert
-Josh | Materialise
-Akvile & Dean | Compare
-Jennifer & Tom | Contrast
-Joe & Francisco | Illuminate
-Rajeev & Darren | Provoke
-Ajay & Mark | Parody
-Rosie & Kaleshe | Intrigue
+Callum | Juxtapose
+Paymen | Subvert
+Mayur | Invert
+Emma | Materialise
+Jacob | Compare
+Richardo | Contrast
+Mohammed | Illuminate
+Claranz | Provoke
+Kevin | Parody
+Dominic | Intrigue
 
 ### Blog
 
