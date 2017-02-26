@@ -41,7 +41,7 @@ Think about it: if your page doesn't make your audience curious, if it doesn't p
 
 You have read the chapter **Get the idea: capturing attention** (pages 46 - 70) from [Visualising Information for Advocacy](http://visualisingadvocacy.org/getbook).
 
-Each team will **focus on one technique**. 
+Each person will **focus on one technique**. 
 
 1. Explain how that technique works and **why**. 
 * Show a few **examples** of that technique in action. Not just the examples from the book. You can find examples of your technique in adverts, TV, magazines, social media etc.   
@@ -60,7 +60,7 @@ Who | What
 Callum | **Juxtapose** <br>[def *to place side by side, especially for comparison or contrast* ] <br>Putting two or more objects/facts/events next to each other, to highlight their similarities and differences and challenge your audience perceptions.
 Jacob | **Compare** <br>Similar to juxtapose but with a focus on quantifiable data. Using *size* to *measure* and *estimate* the similarities and differences between quantities. It can give a higher sense of objectivity (juxtapose can be more subjective instead).
 Payman | **Subvert** the expected meaning <br> Showing something people recognise and flipping their expectations; using symbols in an unexpected context.
-Afsara & Malore | **Invert** <br>Removing the subject of your communication, talking about the contrary (unexpected absence). *Whispering instead of screaming* to get someone's attention.
+Mayur | **Invert** <br>Removing the subject of your communication, talking about the contrary (unexpected absence). *Whispering instead of screaming* to get someone's attention.
 Emma | **Materialise** <br>Making visible what is otherwise invisible or abstract, and therefore hard to imagine and talk about.
 Ricardo | **Contrast** <br>Presenting the same data in ways that make your point sharper, highlighting the *differences*.
 Muhammed | **Illuminate** <br>Abstracting a complex set of data into a digestible format (eg: a transport map). Also using mundane data to hihglight a problem.
