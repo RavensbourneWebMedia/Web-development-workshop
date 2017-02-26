@@ -15,7 +15,7 @@
 
 # Week 8
 
-### Today, Friday 26th February 2016
+### Today, Monday 27th February 2017
 
 1. [Peer-learning](#peer-learning): attention-grabbing techniques
 * [Tutorials](#tutorials) on *Sharing is caring*
@@ -57,16 +57,16 @@ Each team will **focus on one technique**.
 
 Who | What
 --- | ----
-Ben & Melissa | **Juxtapose** <br>[def *to place side by side, especially for comparison or contrast* ] <br>Putting two or more objects/facts/events next to each other, to highlight their similarities and differences and challenge your audience perceptions.
-Akvile & Dean | **Compare** <br>Similar to juxtapose but with a focus on quantifiable data. Using *size* to *measure* and *estimate* the similarities and differences between quantities. It can give a higher sense of objectivity (juxtapose can be more subjective instead).
-Shajee & Will | **Subvert** the expected meaning <br> Showing something people recognise and flipping their expectations; using symbols in an unexpected context.
+Callum | **Juxtapose** <br>[def *to place side by side, especially for comparison or contrast* ] <br>Putting two or more objects/facts/events next to each other, to highlight their similarities and differences and challenge your audience perceptions.
+Jacob | **Compare** <br>Similar to juxtapose but with a focus on quantifiable data. Using *size* to *measure* and *estimate* the similarities and differences between quantities. It can give a higher sense of objectivity (juxtapose can be more subjective instead).
+Payman | **Subvert** the expected meaning <br> Showing something people recognise and flipping their expectations; using symbols in an unexpected context.
 Afsara & Malore | **Invert** <br>Removing the subject of your communication, talking about the contrary (unexpected absence). *Whispering instead of screaming* to get someone's attention.
-Josh | **Materialise** <br>Making visible what is otherwise invisible or abstract, and therefore hard to imagine and talk about.
-Jennifer & Tom | **Contrast** <br>Presenting the same data in ways that make your point sharper, highlighting the *differences*.
-Joe & Francisco | **Illuminate** <br>Abstracting a complex set of data into a digestible format (eg: a transport map). Also using mundane data to hihglight a problem.
-Rajeev & Darren | **Provoke** <br>Asking a controversial (possibly humorous) question or making a controversial statement, in order to provoke an immediate reaction. 
-Ajay & Mark | **Parody** <br>Playing with stereotypes, conventions and genres. Making people smile/laugh to make them think about something serious.
-Rosie & Kaleshe | **Intrigue** <br>Using jarring, arresting or shocking content to introduce people to a more complex issue.
+Emma | **Materialise** <br>Making visible what is otherwise invisible or abstract, and therefore hard to imagine and talk about.
+Ricardo | **Contrast** <br>Presenting the same data in ways that make your point sharper, highlighting the *differences*.
+Muhammed | **Illuminate** <br>Abstracting a complex set of data into a digestible format (eg: a transport map). Also using mundane data to hihglight a problem.
+Claranz | **Provoke** <br>Asking a controversial (possibly humorous) question or making a controversial statement, in order to provoke an immediate reaction. 
+Kevin | **Parody** <br>Playing with stereotypes, conventions and genres. Making people smile/laugh to make them think about something serious.
+Dominic | **Intrigue** <br>Using jarring, arresting or shocking content to introduce people to a more complex issue.
 
 ### Brainstorm!
 
