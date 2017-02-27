@@ -1,8 +1,8 @@
 # Week 9
 
-### Today, Friday 4th March 2016
+### Today, Monday 6th March 2017
 
-1. [Tutorials](#tutorials) on *Sharing is caring*, with Tor Njamo (Web Media graduate and president of RaveSU)
+1. [Tutorials](#tutorials) on *Sharing is caring*, with Amy.
 * [Collective brainstorm](#our-space) on your next project: *Our space* 
 
 Your [homework](#homework) and [blog](#blog)!
