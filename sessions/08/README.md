@@ -74,7 +74,7 @@ What visual / textual **hooks** can you use to lead your audience into the compl
 
 How can you balance the need to be concise and *brain-catching* with the goal to help your audience go deeper?
 
-In groups of 2-3, discuss which techniques you could use in your *Sharing is caring* projects, then brainstorm and jot down ideas in [this shared GDoc](https://docs.google.com/document/d/1iPmNnwnhaF7VxXvngHFdFizRyh0fycxVmXUprLZsXAY/edit?usp=sharing).
+In groups of 2-3, discuss which techniques you could use in your *Sharing is caring* projects, then brainstorm and jot down ideas in [this shared GDoc](https://docs.google.com/document/d/1GpFgIoDeavy182GqhN_TdVrsVGL2ZmmT2-WOt1Xxyxw).
 
 
 # Tutorials
