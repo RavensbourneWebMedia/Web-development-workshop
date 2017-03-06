@@ -1,6 +1,6 @@
 # Week 10
 
-### Today, Friday 11th March 2016
+### Today, Monday 13th March 2017
 
 **Formative hand-in** via Moodle, see [checklist below](#checklist).
 
@@ -47,11 +47,11 @@ In that MarkDown document, add the following:
 
 On this **team project** you will design and build a WordPress-based website for our Ravensbourne Web Media degree.
 
-You can team up with whoever you want. Teams must be up to 4 people.
+**Create teams here**
 
 Over the Easter break:
 
-1. Form your dream team for this project.
+1. Meet with your groups 
 * Interview at least 3 current or potential Web Media students (see [guidelines below](#interview-guidelines)), then [blog](#blog) about what you found out.
 
 #### Interview guidelines
