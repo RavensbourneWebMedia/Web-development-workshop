@@ -56,7 +56,7 @@ Over the Easter break:
 
 #### Interview guidelines
 
-You can start from [this GDoc](https://docs.google.com/document/d/1FP5CgvRyOCmCam_WfOAabZz4VP9BMOy0nw6-GXZwopM/edit?usp=sharing), where we jotted down some initial thoughts and possible questions to ask in face2face interviews or via online forms.
+You can start from [this GDoc](https://docs.google.com/document/d/1R8A0TZbtmoiquCYKq_8AYsi-tlJmlJLCnCW0GreNShU), where we jotted down some initial thoughts and possible questions to ask in face2face interviews or via online forms.
 
 1. **Plan**: prepare a discussion guide, know what information you want to get our of the interview.
 * Prepare a **guide, not a script**: let the conversation flow, and steer it gently.
