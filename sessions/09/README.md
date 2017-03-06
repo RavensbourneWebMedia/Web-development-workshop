@@ -2,7 +2,7 @@
 
 ### Today, Monday 6th March 2017
 
-1. [Tutorials](#tutorials) on *Sharing is caring*, with Amy.
+1. [Tutorials](#tutorials) on *Sharing is caring*. 
 * [Collective brainstorm](#our-space) on your next project: *Our space* 
 
 Your [homework](#homework) and [blog](#blog)!
