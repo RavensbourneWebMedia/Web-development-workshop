@@ -51,7 +51,15 @@ On this **team project** you will design and build a WordPress-based website for
 
 | Group 1       | Group 2       | 
 | ------------- |---------------| 
-| Mayur Emma Kevin Claranz Jacob | Callum Muhammad Dominic Peyman Ricardo |
+| Mayur 
+Emma 
+Kevin 
+Claranz 
+Jacob | Callum 
+Muhammad 
+Dominic 
+Peyman 
+Ricardo |
 
 Over the Easter break:
 
