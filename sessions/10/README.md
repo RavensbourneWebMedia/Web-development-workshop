@@ -36,7 +36,7 @@ In that MarkDown document, add the following:
 * Link to your project work-in-progress **code on GitHub**
 * BONUS: link to your work-in-progress published on **GitHub Pages**, remember `gh-pages` from [week 2](../02#publishing-on-github-pages)?
 
-**Upload** and submit your `WEB14105-Name-Surname.md` through Moodle at this link: [learn.rave.ac.uk/moodle/mod/assign/view.php?id=81714](http://learn.rave.ac.uk/moodle/mod/assign/view.php?id=81714).
+**Upload** and submit your `WEB14105-Name-Surname.md` through Moodle at this link: [https://moodle.rave.ac.uk/mod/assign/view.php?id=96149](https://moodle.rave.ac.uk/mod/assign/view.php?id=96149).
 
 **Deadline** is Friday 11th of March 2016, **23:59**! :high_heel:
 
