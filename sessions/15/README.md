@@ -1,6 +1,6 @@
 # Week 15
 
-### Today, Tuesday 17th May 2016
+### Today, Monday 8th May 2017
 
 1. **Formative** presentations 
 * **Workshop**: hacking a Bootstrap template and publishing your work to GitHub Pages

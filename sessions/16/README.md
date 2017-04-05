@@ -1,6 +1,6 @@
 # Week 16
 
-### Today, Friday 20th May 2016
+### Today, Monday 15th May 2017
 
 1. Group tutorials on *Our space* 
 * Individual tutorials on *Sharing is caring*

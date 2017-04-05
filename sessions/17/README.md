@@ -1,6 +1,6 @@
 # Week 17
 
-### Today, Friday 27th May 2016
+### Today, Monday 22nd May 2016
 
 1. [User-testing](#user-testing): why, when and how
 * Group tutorials on *Our space* 

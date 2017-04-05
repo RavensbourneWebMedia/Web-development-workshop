@@ -1,6 +1,6 @@
 # Week 11
 
-### Today, Friday 15th April 2016
+### Today, Friday 10th April 2017
 
 1. [Recap](#in-the-previous-episodes): what have we done so far?
 * New team project: [Our space](#team-project)

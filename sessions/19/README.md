@@ -1,6 +1,6 @@
 # Week 19
 
-### Today, Friday 10th June 2016
+### Today, Monday 5th June 2017
 
 Summative [presentations](#presentations) and [hand-in](#hand-in-checklist)
 

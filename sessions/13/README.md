@@ -1,6 +1,6 @@
 # Week 13
 
-### Today, Friday 29th April 2016
+### Today, Monday 24th April 2017
 
 1. [Peer-learning presentations](#peer-learning) 
 * [Content strategy](#content-strategy): read out loud and edit!

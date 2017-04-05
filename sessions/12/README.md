@@ -1,6 +1,6 @@
 # Week 12
 
-### Today, Friday 22nd April 2016
+### Today, Friday 21nd April 2017
 
 1. [Personas](#personas): putting a face on your research data
 * [Content strategy](#content-strategy): what **information** are your personas looking for?
