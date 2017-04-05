@@ -41,15 +41,15 @@ Week 6| | |
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Monday<br>15.04](sessions/11)| Recap<br>Competitor analysis <br>User interviews planning | Qualitative research: *interviews* <br>Quantitative research: *questionnaire* | *Our space* interviews insights
-[Monday<br>22.04](sessions/12)| Personas<br> Content strategy | Peer learning research: *GoodUI* | *Our space* personas  
-[Monday<br>29.04](sessions/13)| Peer learning on *GoodUI* <br>Workshop: *typesetting* | Moodbard: collect inspirations <br>Wireframes | 10 common typography mistakes
-[Monday<br>06.05](sessions/14)| Front-end frameworks <br>Prototyping with HTML&CSS <br>Tutorials on *Our space* | Keep prototyping <br>Prep formative | Web design myths
-[Monday<br>17.05](sessions/15)| **Formative** presentations <br>Workshop: hacking a Bootstrap template and publishing your work to GitHub Pages | Keep prototyping |  
-[Monday<br>20.05](sessions/16)| Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | *Our space* branding guidelines | Destroy the Web 
-[Monday<br>27.05](sessions/17)| User-testing <br>Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | Face2face user-testing <br>Work on *Our space* |  
-[Monday<br>03.06](sessions/18)| Tutorials on *Our space* and *Sharing is caring*: debugging clinic | Work on *Our space* <br>Prep summative |  
-[Monday<br>10.06](sessions/19)| **Summative presentations** |  **Summative hand-in** | What have I learned?
+[Monday<br>10.04](sessions/11)| Recap<br>Competitor analysis <br>User interviews planning | Qualitative research: *interviews* <br>Quantitative research: *questionnaire* | *Our space* interviews insights
+[Friday<br>21.04](sessions/12)| Personas<br> Content strategy | Peer learning research: *GoodUI* | *Our space* personas  
+[Monday<br>24.04](sessions/13)| Peer learning on *GoodUI* <br>Workshop: *typesetting* | Moodbard: collect inspirations <br>Wireframes | 10 common typography mistakes
+[Friday<br>05.05](sessions/14)| Front-end frameworks <br>Prototyping with HTML&CSS <br>Tutorials on *Our space* | Keep prototyping <br>Prep formative | Web design myths
+[Monday<br>08.05](sessions/15)| **Formative** presentations <br>Workshop: hacking a Bootstrap template and publishing your work to GitHub Pages | Keep prototyping |  
+[Monday<br>15.05](sessions/16)| Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | *Our space* branding guidelines | Destroy the Web 
+[Monday<br>22.05](sessions/17)| User-testing <br>Group tutorials on *Our space* <br>Individual tutorials on *Sharing is caring* | Face2face user-testing <br>Work on *Our space* |  
+[Friday<br>02.06](sessions/18)| Tutorials on *Our space* and *Sharing is caring*: debugging clinic | Work on *Our space* <br>Prep summative |  
+[Monday<br>05.06](sessions/19)| **Summative presentations** |  **Summative hand-in** | What have I learned?
 
 
 # Projects
