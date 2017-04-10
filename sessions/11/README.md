@@ -140,8 +140,9 @@ It's about being **aware** of what's out there, getting **inspired**, asking a l
 * `60 minutes` to **present** your work-in-progress to everyone else
 * `30 minutes` to **tweak** it (you'll be inspired after hearing what other people have analysed)
 
+<!--
 [Here is a spreadsheet](https://docs.google.com/spreadsheets/d/1sr-XV7vphxKkKcpctZxmFvrkvAVsk1QlMDN8OfFhr48/edit?usp=sharing) with all the competitors you analysed.
-
+-->
 
 # Interviewing humans
 
