@@ -88,6 +88,7 @@ Because learning **together** is more fun.
 
 If you can't attend, or are going to be late, you must **let me know**.
 
+<!--
 Remember the *tardiness tax*? Every time you're late or absent and haven't emailed me about it, I'll take 2% off your final mark.
 
 What does this teach you?
@@ -101,7 +102,7 @@ A quick review of your [attendance](https://docs.google.com/spreadsheets/d/1BIMO
 	I know you have no lectures that day ;)
 
 * Change of dates: Friday 13th > Tuesday 17th of May
-
+-->
 
 # Team project
 
