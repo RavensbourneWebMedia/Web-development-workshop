@@ -222,15 +222,15 @@ Each team will **research one pattern**.
 
 Who | What
 --- | ----
-Rosie & Afsara  | [Social proof](http://goodui.org/#4)
-Tom & Francisco | [Telling who it's for](http://goodui.org/#9)
-Rajeev & Kaleshe | [Selling benefits](http://goodui.org/#24)
-Ajay & Will | [Loss aversion](http://goodui.org/#30)
-Josh & Mark | [Icon labels](http://goodui.org/#47) 
-Darren & Malore | [Natural language](http://goodui.org/#48)
-Akvile & Ben | [Authenticity](http://goodui.org/#65) 
-Dean & Melissa | [Putting others first](http://goodui.org/#67)
-Jennifer & Joe & Shajee | [Concise copy](http://goodui.org/#69)
+Dom  | [Social proof](http://goodui.org/#4)
+Jacob | [Telling who it's for](http://goodui.org/#9)
+Callum | [Selling benefits](http://goodui.org/#24)
+Mayur | [Loss aversion](http://goodui.org/#30)
+Ricardo | [Icon labels](http://goodui.org/#47) 
+Emma & Muhammad | [Natural language](http://goodui.org/#48)
+Kevin | [Authenticity](http://goodui.org/#65) 
+Peyman | [Putting others first](http://goodui.org/#67)
+Claranz | [Concise copy](http://goodui.org/#69)
 
 <!--
 [Benefit buttons](http://goodui.org/#18)
