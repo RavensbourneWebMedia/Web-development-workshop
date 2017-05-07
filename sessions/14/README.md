@@ -1,13 +1,11 @@
 # Week 14
 
-### Today, Friday 5th May 2017
+### Today, Monday 8th May 2017
 
 1. [Prototyping with HTML&CSS](#browser-prototyping)
 * [Front-end frameworks](#how-to-prototype-with-code)   
 * [Tutorials](#tutorials) on *Our space* 
 
-<!---->
-- [ ] HEADS UP! Next session will be **Tuesday** 17th 
 
 Your [homework](#homework) and [blog](#blog)!
 
