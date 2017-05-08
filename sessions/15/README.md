@@ -7,8 +7,6 @@
 
 <!-- Workshop: Meet PHP, *variables* and *functions* -->
 
-- [ ] HEADS UP! **FREE** [talkwebdesign.co.uk](http://talkwebdesign.co.uk/) 26th of May @ Greenwich University: get your ticket if you haven't already!
-
 <!-- Your [homework](#homework) and [blog](#blog)! -->
 
 
