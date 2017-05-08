@@ -29,7 +29,7 @@ This **iterative** process helps me **refining ideas** and **focusing** on one t
 
 ### Here's an example 
 
-From [BlankBox](https://blankboxcoffee.com), a coffee subscription project I worked on a couple of years ago (sadly not operating anymore):
+From [BlankBox](https://blankboxcoffee.com), a coffee subscription project Matteo worked on a couple of years ago (sadly not operating anymore):
 
 1. **Design** (a bit of) content strategy + **wireframes** on paper 
 
