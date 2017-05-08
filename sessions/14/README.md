@@ -236,7 +236,7 @@ Prototype **up to 3 HTML pages**. If your project has less than 3 pages, show di
 
 ### Prep formative
 
-[Here is a checklist](../15#formative-presentations) of what we want you to present during your formative on **Tuesday the 17th**.
+[Here is a checklist](../15#formative-presentations) of what we want you to present during your formative on **Monday the 15th**.
 
 ### Blog
 
