@@ -12,7 +12,7 @@
 
 # Formative presentations
 
-You'll present your work-in-progress on [**Our space**](../../projects/our-space) to me and a couple of guests (no worries, they're friendly people and you may have seen them around Ravensbourne before ;)
+You'll present your work-in-progress on [**Our space**](../../projects/our-space) to me.
 
 ### WTF should we present?
 
