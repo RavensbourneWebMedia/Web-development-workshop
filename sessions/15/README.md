@@ -33,7 +33,7 @@ Roughly **15 minutes** per team, plus 5 minutes for feedback and questions.
 
 ### Collaborative feedback
 
-Let's give each other feedback in this [collaborative Google doc](https://docs.google.com/a/rave.ac.uk/document/d/1QDETyR6BwffMhoyTvSvtJ5Hhzj3K6zzd38py_EymAOw/edit?usp=sharing)!
+Let's give each other feedback in this [collaborative Google doc](https://docs.google.com/document/d/1sEocjyyqGUMdO3sBVbwLm990cJscq52YHqGrYEgFHFY)!
 	
 <!--
 ### Banned words
