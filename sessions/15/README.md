@@ -141,6 +141,8 @@ It's good practice not to mess around with the Bootstrap source (or any framewor
 
 
 
-# Homework: Peer-to-peer lesson
+# Homework
+
+**Peer-to-peer mini-lesson**
 
 Research and find the most usefull wordpress plug in, present it and tell us why. 
