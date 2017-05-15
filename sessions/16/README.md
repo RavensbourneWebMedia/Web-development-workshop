@@ -20,10 +20,8 @@ Each team has a **project manager** (PM) for this week.
 
 Team | PM
 ---- | ---
-Junglist Massive | Joe
-TheDestroyers | (Against his) Will
-JaBeans | Josh
-AMA | Afsara
+Hermanos | Mayur
+Undefined | Callum
 
 You have a **to-do list** (either on [Todoist](https://en.todoist.com/) or [Trello](https://trello.com/)) which we agreed on today.
 
