@@ -5,7 +5,6 @@
 1. Group tutorials on *Our space* 
 * Individual tutorials on *Sharing is caring*
 
-- [ ] HEADS UP! **FREE** [talkwebdesign.co.uk](http://talkwebdesign.co.uk/) 26th of May @ Greenwich University: get your ticket if you haven't already!
 
 Your [homework](#homework) and [blog](#blog)!
 
