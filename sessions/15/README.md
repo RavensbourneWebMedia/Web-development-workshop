@@ -137,3 +137,10 @@ It's good practice not to mess around with the Bootstrap source (or any framewor
 <!--
 ### Step 4. Get inspired
 -->
+
+
+
+
+# Homework: Peer-to-peer lesson
+
+Research and find the most usefull wordpress plug in, present it and tell us why. 
