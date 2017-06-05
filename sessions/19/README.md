@@ -113,9 +113,9 @@ In that MarkDown document, add the following:
 
 > Make sure all the folders, pages, documents & presentations you linked in your `WEB14105-Name-Surname.md` are publicly accessible (not just private to you). I don't want to be asking *permissions to view this file* while you're off :)
 
-**Upload** and submit your `WEB14105-Name-Surname.md` through Moodle here [learn.rave.ac.uk/moodle/mod/assign/view.php?id=81716](http://learn.rave.ac.uk/moodle/mod/assign/view.php?id=81716)
+**Upload** and submit your `WEB14105-Name-Surname.md` through Moodle here [learn.rave.ac.uk/moodle/mod/assign/view.php?id=81716](https://moodle.rave.ac.uk/mod/assign/view.php?id=96150)
 
 ### Deadline
 
-**Deadline** is Friday 10th of June 2016, **23:59**! :high_heel:
+**Deadline** is Monday 5th of June 2017, **23:59**! :high_heel:
 
